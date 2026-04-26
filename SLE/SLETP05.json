@@ -1,0 +1,671 @@
+{
+  "chapter_id": "SLETP05",
+  "questions": [
+    {
+      "id": "SLETP0501",
+      "question": "What do we gather everyday as described in the poem ‘All Things Bright and Beautiful’?",
+      "options": {
+        "A": "Ripe fruits",
+        "B": "Rushes",
+        "C": "Flowers",
+        "D": "All things"
+      },
+      "answer": "C",
+      "explanation": "The poem mentions that we gather flowers everyday.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0502",
+      "question": "How does the sky look at sunset?",
+      "options": {
+        "A": "Bright",
+        "B": "Bluish red",
+        "C": "Saffron",
+        "D": "Dark"
+      },
+      "answer": "C",
+      "explanation": "At sunset, the sky appears saffron in color.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0503",
+      "question": "What belief makes Lencho say his family ‘not to be so upset’?",
+      "options": {
+        "A": "No one dies of hunger",
+        "B": "God will help him",
+        "C": "God can see conscience",
+        "D": "God will send him 100 pesos"
+      },
+      "answer": "B",
+      "explanation": "Lencho had strong faith that God would help him.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0504",
+      "question": "Why is the Solitary Reaper’s song not comprehensible to the poet?",
+      "options": {
+        "A": "Her own dialect",
+        "B": "Inaudible",
+        "C": "Voice unclear",
+        "D": "Too soft"
+      },
+      "answer": "A",
+      "explanation": "The poet could not understand her dialect.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0505",
+      "question": "Gandhi matriculated in which year?",
+      "options": {
+        "A": "1887",
+        "B": "1886",
+        "C": "1882",
+        "D": "1889"
+      },
+      "answer": "A",
+      "explanation": "Gandhi passed matriculation in 1887.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "SLETP0506",
+      "question": "Name Gandhi’s autobiography.",
+      "options": {
+        "A": "Hind Swaraj",
+        "B": "My Experiments With Truth",
+        "C": "Word of Gandhi",
+        "D": "All Men are Brothers"
+      },
+      "answer": "B",
+      "explanation": "His autobiography is 'My Experiments With Truth'.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "SLETP0507",
+      "question": "Which remark was NOT passed by the keeper?",
+      "options": {
+        "A": "I remember your tiger",
+        "B": "He died two months ago",
+        "C": "It is not your tiger",
+        "D": "I know your tiger"
+      },
+      "answer": "C",
+      "explanation": "This remark was not made by the keeper.",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "SLETP0508",
+      "question": "Timothy would make himself comfortable where?",
+      "options": {
+        "A": "Drawing room",
+        "B": "With author",
+        "C": "On long sofa",
+        "D": "With grandfather"
+      },
+      "answer": "C",
+      "explanation": "Timothy liked lying on the sofa.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "SLETP0509",
+      "question": "Gandhi wept due to punishment in which class?",
+      "options": {
+        "A": "Seven",
+        "B": "Six",
+        "C": "Fifth/Fourth",
+        "D": "First/Second"
+      },
+      "answer": "C",
+      "explanation": "He cried during corporal punishment in lower class.",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "SLETP0510",
+      "question": "The postmaster needed more than ink and paper. What?",
+      "options": {
+        "A": "Goodwill",
+        "B": "Good wishes",
+        "C": "Help",
+        "D": "Consolation"
+      },
+      "answer": "A",
+      "explanation": "He needed goodwill to help Lencho.",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "SLETP0511",
+      "question": "Village Song appeared in which book?",
+      "options": {
+        "A": "Silver Threshold",
+        "B": "Golden Threshold",
+        "C": "Broken Wing",
+        "D": "Palanquin Bearers"
+      },
+      "answer": "B",
+      "explanation": "It was in 'The Golden Threshold'.",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "SLETP0512",
+      "question": "Village Song is an example of which poetry?",
+      "options": {
+        "A": "Folk poetry",
+        "B": "Narrative",
+        "C": "Dramatic",
+        "D": "Modern"
+      },
+      "answer": "A",
+      "explanation": "It reflects folk style.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "SLETP0513",
+      "question": "‘Honey Child’ shows what?",
+      "options": {
+        "A": "Order",
+        "B": "Whisper",
+        "C": "Anger",
+        "D": "Affection"
+      },
+      "answer": "D",
+      "explanation": "It expresses affection.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "SLETP0514",
+      "question": "Who is ‘I’ in the line about flowers going to school?",
+      "options": {
+        "A": "Cloud",
+        "B": "Master",
+        "C": "Mother",
+        "D": "Poet"
+      },
+      "answer": "D",
+      "explanation": "The poet imagines this.",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "SLETP0515",
+      "question": "Flower children rush out when?",
+      "options": {
+        "A": "Wind blows",
+        "B": "Rain comes",
+        "C": "Master allows",
+        "D": "Homework done"
+      },
+      "answer": "B",
+      "explanation": "They come out when it rains.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "SLETP0516",
+      "question": "Galo tribe worship which goddess?",
+      "options": {
+        "A": "Kamakhya",
+        "B": "Mopin",
+        "C": "Khechaikhati",
+        "D": "Ranachandi"
+      },
+      "answer": "B",
+      "explanation": "Mopin is worshipped for prosperity.",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "SLETP0517",
+      "question": "Meaning of picturesque?",
+      "options": {
+        "A": "Energetic",
+        "B": "Adventurous",
+        "C": "Peaceful",
+        "D": "Charming"
+      },
+      "answer": "D",
+      "explanation": "Picturesque means visually attractive.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "SLETP0518",
+      "question": "Festival feature of Tripura?",
+      "options": {
+        "A": "All join",
+        "B": "Few join",
+        "C": "Only youth",
+        "D": "Only elders"
+      },
+      "answer": "A",
+      "explanation": "All people participate.",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "SLETP0519",
+      "question": "Sergie met Lushkoff after two years where?",
+      "options": {
+        "A": "Parking",
+        "B": "Ticket window",
+        "C": "Notary office",
+        "D": "Market"
+      },
+      "answer": "B",
+      "explanation": "They met at ticket window.",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "SLETP0520",
+      "question": "Vodka is what?",
+      "options": {
+        "A": "Alcoholic drink",
+        "B": "Cold drink",
+        "C": "Smoking",
+        "D": "Juice"
+      },
+      "answer": "A",
+      "explanation": "Vodka is a strong alcoholic drink.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0521",
+      "question": "Who are meteorologists?",
+      "options": {
+        "A": "Persons checking air pollution",
+        "B": "Persons studying weather",
+        "C": "Persons cleaning dust",
+        "D": "Persons studying galaxies"
+      },
+      "answer": "B",
+      "explanation": "Meteorologists study weather and atmospheric conditions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0522",
+      "question": "Which shows Vicky was good at studies?",
+      "options": {
+        "A": "Smart boy",
+        "B": "Full of vigour",
+        "C": "Computer and Maths were his domain",
+        "D": "No pain no gain"
+      },
+      "answer": "C",
+      "explanation": "His strength in subjects shows academic excellence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0523",
+      "question": "Which statement is NOT true?",
+      "options": {
+        "A": "Automobile exhausts are more dangerous",
+        "B": "Pollution causes respiratory issues",
+        "C": "Crops suffer from exhaust gases",
+        "D": "CFCs used as refrigerant and cleaner"
+      },
+      "answer": "A",
+      "explanation": "Industrial smoke is generally more dangerous.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0524",
+      "question": "Which prevents success in life?",
+      "options": {
+        "A": "Good health",
+        "B": "Smoking, idling, gambling",
+        "C": "Good conduct",
+        "D": "Good habits"
+      },
+      "answer": "B",
+      "explanation": "Bad habits hinder success.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0525",
+      "question": "Correct advice to avoid road injuries?",
+      "options": {
+        "A": "I, II, III",
+        "B": "I, II, IV",
+        "C": "Only III",
+        "D": "I and II"
+      },
+      "answer": "B",
+      "explanation": "Avoid alcohol, mobile use and high speed.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0526",
+      "question": "Full price of bullock?",
+      "options": {
+        "A": "140",
+        "B": "100",
+        "C": "180",
+        "D": "150"
+      },
+      "answer": "A",
+      "explanation": "Full price was 140 rupees.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0527",
+      "question": "Which does NOT support bullock condition?",
+      "options": {
+        "A": "Proper fodder",
+        "B": "Multiple trips",
+        "C": "Overworked",
+        "D": "Double load"
+      },
+      "answer": "A",
+      "explanation": "It was not properly fed.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0528",
+      "question": "Who matches old, bent, pale, toothless?",
+      "options": {
+        "A": "Old man",
+        "B": "Father",
+        "C": "Grandfather",
+        "D": "Wise man"
+      },
+      "answer": "A",
+      "explanation": "These describe the old man.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0529",
+      "question": "Corn used to grow?",
+      "options": {
+        "A": "Anywhere",
+        "B": "Nowhere",
+        "C": "Everywhere",
+        "D": "Somewhere"
+      },
+      "answer": "C",
+      "explanation": "Earlier it grew everywhere.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0530",
+      "question": "Incorrect pair?",
+      "options": {
+        "A": "Recreation—amusement",
+        "B": "Stunt—stop growth",
+        "C": "Untarnish—impure",
+        "D": "Beware—careful"
+      },
+      "answer": "C",
+      "explanation": "Untarnish means pure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0531",
+      "question": "An army of soldiers ____.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "Collective noun takes singular verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0532",
+      "question": "You had better ____.",
+      "options": {
+        "A": "left",
+        "B": "leaving",
+        "C": "leave",
+        "D": "to leave"
+      },
+      "answer": "C",
+      "explanation": "Base verb used after 'had better'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0533",
+      "question": "It has been raining ____ 5 o’clock.",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "for",
+        "D": "since"
+      },
+      "answer": "D",
+      "explanation": "Since used for specific time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0534",
+      "question": "Agree ____ the proposal.",
+      "options": {
+        "A": "on",
+        "B": "with",
+        "C": "to",
+        "D": "in"
+      },
+      "answer": "C",
+      "explanation": "Agree to a proposal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0535",
+      "question": "Furniture ____ new.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "has",
+        "D": "have"
+      },
+      "answer": "B",
+      "explanation": "Furniture is uncountable.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0536",
+      "question": "Went to London ____ aeroplane.",
+      "options": {
+        "A": "by",
+        "B": "on",
+        "C": "in",
+        "D": "with"
+      },
+      "answer": "A",
+      "explanation": "Travel by aeroplane.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0537",
+      "question": "Village in ____ I lived.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "that",
+        "D": "when"
+      },
+      "answer": "B",
+      "explanation": "Correct relative pronoun usage.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0538",
+      "question": "Do you object to ____?",
+      "options": {
+        "A": "what he says",
+        "B": "what does he say",
+        "C": "what did he say",
+        "D": "what had he said"
+      },
+      "answer": "A",
+      "explanation": "Correct statement form used.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0539",
+      "question": "Enjoy T20 can be replaced by?",
+      "options": {
+        "A": "go in for",
+        "B": "go back on",
+        "C": "get on with",
+        "D": "get away with"
+      },
+      "answer": "A",
+      "explanation": "Go in for means enjoy.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0540",
+      "question": "If men were fishes, they ____.",
+      "options": {
+        "A": "will live",
+        "B": "would live",
+        "C": "would have lived",
+        "D": "lived"
+      },
+      "answer": "B",
+      "explanation": "Second conditional.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0541",
+      "question": "Passive of 'I knew her'.",
+      "options": {
+        "A": "She was known by me",
+        "B": "She is known by me",
+        "C": "She was known to me",
+        "D": "Her was known"
+      },
+      "answer": "C",
+      "explanation": "Correct passive structure.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLETP0542",
+      "question": "Indirect of 'liar!'",
+      "options": {
+        "A": "He said me liar",
+        "B": "He called me liar",
+        "C": "He called me a liar",
+        "D": "He told me a liar"
+      },
+      "answer": "C",
+      "explanation": "Correct reported speech.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0543",
+      "question": "Replace 'with enthusiasm'.",
+      "options": {
+        "A": "enthusiast",
+        "B": "enthusiastic",
+        "C": "enthusiastically",
+        "D": "enthusiastly"
+      },
+      "answer": "C",
+      "explanation": "Adverb required.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0544",
+      "question": "While ____.",
+      "options": {
+        "A": "she cooked",
+        "B": "she was cooking",
+        "C": "she had cooked",
+        "D": "she had been cooked"
+      },
+      "answer": "B",
+      "explanation": "Past continuous used.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0545",
+      "question": "Merited means?",
+      "options": {
+        "A": "Accepted",
+        "B": "Deserved",
+        "C": "Resisted",
+        "D": "Disliked"
+      },
+      "answer": "B",
+      "explanation": "Merited = deserved.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0546",
+      "question": "Indirect object?",
+      "options": {
+        "A": "Twenty rupees",
+        "B": "Me",
+        "C": "Mother",
+        "D": "Grandmother"
+      },
+      "answer": "B",
+      "explanation": "Indirect object is receiver.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0547",
+      "question": "Correct indirect speech?",
+      "options": {
+        "A": "went to for walk",
+        "B": "goes to for walk",
+        "C": "would go for walk",
+        "D": "will go for walk"
+      },
+      "answer": "C",
+      "explanation": "Future in past form.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0548",
+      "question": "He did not die. He ____.",
+      "options": {
+        "A": "is murdered",
+        "B": "was murdered",
+        "C": "is not murdered",
+        "D": "was not murdered"
+      },
+      "answer": "B",
+      "explanation": "Past passive form.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLETP0549",
+      "question": "Go fast ____ you miss train.",
+      "options": {
+        "A": "so",
+        "B": "for",
+        "C": "or else",
+        "D": "but"
+      },
+      "answer": "C",
+      "explanation": "Shows consequence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLETP0550",
+      "question": "Sonu as well as friends ____.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "was",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "Subject is singular.",
+      "difficulty": "easy"
+    }
+  ]
+}
+

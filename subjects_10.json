@@ -1,0 +1,78 @@
+{
+  "class": "10",
+  "total_marks": 600,
+  "subjects": [
+    {
+      "id": 1,
+      "name": "First Language Odia",
+      "subject_code": "FLO",
+      "type": "mandatory",
+      "marks": 100,
+      "pass_marks": 33
+    },
+    {
+      "id": 2,
+      "name": "Second Language English",
+      "subject_code": "SLE",
+      "type": "mandatory",
+      "marks": 100,
+      "pass_marks": 33
+    },
+    {
+      "id": 3,
+      "name": "Third Language Hindi",
+      "subject_code": "TLH",
+      "type": "optional",
+      "marks": 100,
+      "pass_marks": 33
+    },
+    {
+      "id": 4,
+      "name": "Third Language Sanskrit",
+      "subject_code": "TLS",
+      "type": "optional",
+      "marks": 100,
+      "pass_marks": 33
+    },
+    {
+      "id": 5,
+      "name": "Mathematics",
+      "subject_code": "MTH",
+      "type": "mandatory",
+      "marks": 100,
+      "pass_marks": 33
+    },
+    {
+      "id": 6,
+      "name": "Physical Science",
+      "subject_code": "SCP",
+      "type": "mandatory",
+      "marks": 50,
+      "pass_marks": 17
+    },
+    {
+      "id": 7,
+      "name": "Life Science",
+      "subject_code": "SCL",
+      "type": "mandatory",
+      "marks": 50,
+      "pass_marks": 17
+    },
+    {
+      "id": 8,
+      "name": "Social Science-History",
+      "subject_code": "SSH",
+      "type": "mandatory",
+      "marks": 50,
+      "pass_marks": 17
+    },
+    {
+      "id": 9,
+      "name": "Social Science-Geography",
+      "subject_code": "SSG",
+      "type": "mandatory",
+      "marks": 50,
+      "pass_marks": 17
+    }
+  ]
+}

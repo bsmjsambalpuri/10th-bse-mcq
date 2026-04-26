@@ -1,0 +1,277 @@
+{
+  "questions": [
+    {
+      "id": "SLE0101",
+      "question": "According to the poet E.V. Ramaswamy, beautiful things have been made by whom?",
+      "options": {
+        "A": "Heaven",
+        "B": "Nature",
+        "C": "God",
+        "D": "Man"
+      },
+      "answer": "D",
+      "explanation": "The poet emphasizes human creativity and contribution in making beautiful things.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0102",
+      "question": "The poet says, all things are bright and beautiful, all things ______.",
+      "options": {
+        "A": "pretty and useful",
+        "B": "nice and wonderful",
+        "C": "wise and wonderful",
+        "D": "bright and wonderful"
+      },
+      "answer": "C",
+      "explanation": "The correct phrase from the poem is 'all things wise and wonderful'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0103",
+      "question": "What is God given to the little birds?",
+      "options": {
+        "A": "Tiny wings",
+        "B": "Glowing colours",
+        "C": "Beautiful beaks",
+        "D": "Small legs"
+      },
+      "answer": "A",
+      "explanation": "The poem mentions that birds are gifted with tiny wings by God.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0104",
+      "question": "The flowers are ______.",
+      "options": {
+        "A": "tiny",
+        "B": "bright",
+        "C": "delicious",
+        "D": "glowing"
+      },
+      "answer": "B",
+      "explanation": "Flowers are described as bright, adding beauty to nature.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0105",
+      "question": "The rivers are ______ by flowing.",
+      "options": {
+        "A": "beautiful",
+        "B": "gorgeous",
+        "C": "dark",
+        "D": "bright"
+      },
+      "answer": "A",
+      "explanation": "Flowing rivers enhance natural beauty, making them appear beautiful.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0106",
+      "question": "The mountain, in the poem 'All Things are Bright and Beautiful' is described as ______.",
+      "options": {
+        "A": "blue coloured",
+        "B": "black headed",
+        "C": "purple headed",
+        "D": "dark headed"
+      },
+      "answer": "C",
+      "explanation": "The poem describes mountains as 'purple headed mountains'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0107",
+      "question": "God has given ______ wings to birds.",
+      "options": {
+        "A": "tiny",
+        "B": "bright",
+        "C": "strong",
+        "D": "none of these"
+      },
+      "answer": "A",
+      "explanation": "Birds are described as having tiny wings in the poem.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0108",
+      "question": "The flowers by the ______.",
+      "options": {
+        "A": "tree",
+        "B": "road",
+        "C": "field",
+        "D": "mountain"
+      },
+      "answer": "C",
+      "explanation": "Flowers are commonly described as growing in fields in the poem.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0109",
+      "question": "What brightens up the sky?",
+      "options": {
+        "A": "The morning",
+        "B": "The sunset",
+        "C": "The moon",
+        "D": "The evening and the sunset"
+      },
+      "answer": "D",
+      "explanation": "Both evening and sunset are described as making the sky bright and beautiful.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0110",
+      "question": "The wind is ______ in winter.",
+      "options": {
+        "A": "cold",
+        "B": "cool",
+        "C": "pleasant",
+        "D": "painful"
+      },
+      "answer": "A",
+      "explanation": "Winter winds are typically cold, as described in the poem.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0111",
+      "question": "The poet describes that the fruits in the garden are ______.",
+      "options": {
+        "A": "ripe",
+        "B": "red",
+        "C": "sweet",
+        "D": "big"
+      },
+      "answer": "A",
+      "explanation": "Fruits are described as ripe, indicating readiness to eat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0112",
+      "question": "Where can we find all these as described in 'All Things Bright and Beautiful'?",
+      "options": {
+        "A": "In the green wood",
+        "B": "In the village",
+        "C": "In the field",
+        "D": "In the city"
+      },
+      "answer": "A",
+      "explanation": "The poem highlights natural surroundings like green woods.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0113",
+      "question": "The summer is pleasant to the poet because ______.",
+      "options": {
+        "A": "he is ill",
+        "B": "he belongs to a cold country",
+        "C": "the summer lasts for a short period",
+        "D": "he likes summer"
+      },
+      "answer": "B",
+      "explanation": "People from colder regions often find summer pleasant.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0114",
+      "question": "Alexander’s ______.",
+      "options": {
+        "A": "in the meadow",
+        "B": "in the garden",
+        "C": "in the forest",
+        "D": "in the house"
+      },
+      "answer": "A",
+      "explanation": "The correct contextual phrase relates to a meadow setting.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0115",
+      "question": "Where do small birds build their nests?",
+      "options": {
+        "A": "In the garden",
+        "B": "By the roadside",
+        "C": "In the field",
+        "D": "By the water"
+      },
+      "answer": "D",
+      "explanation": "Birds are often described building nests near water sources.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0116",
+      "question": "What do we gather every day ______?",
+      "options": {
+        "A": "Flowers",
+        "B": "Sweet flowers",
+        "C": "Fruits",
+        "D": "Flowers"
+      },
+      "answer": "A",
+      "explanation": "The poem mentions gathering flowers regularly.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0117",
+      "question": "Why has God given us eyes according to the poet?",
+      "options": {
+        "A": "To see beautiful creation",
+        "B": "To read books",
+        "C": "To look at the sky",
+        "D": "To see the ugly"
+      },
+      "answer": "A",
+      "explanation": "Eyes are meant to appreciate the beauty of nature created by God.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0118",
+      "question": "In line 'All things bright and beautiful', the word 'bright' means ______.",
+      "options": {
+        "A": "Shining",
+        "B": "Clean",
+        "C": "Dull",
+        "D": "Dim"
+      },
+      "answer": "A",
+      "explanation": "‘Bright’ refers to something shining or full of light.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0119",
+      "question": "What is the poet’s intention?",
+      "options": {
+        "A": "To describe nature",
+        "B": "To talk with others",
+        "C": "To tell a story",
+        "D": "To write a speech"
+      },
+      "answer": "A",
+      "explanation": "The poem mainly focuses on describing the beauty of nature.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0120",
+      "question": "Who has made all things?",
+      "options": {
+        "A": "God",
+        "B": "Man",
+        "C": "Nature",
+        "D": "All"
+      },
+      "answer": "A",
+      "explanation": "The poem attributes creation of all things to God.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0121",
+      "question": "When does the sky look bright?",
+      "options": {
+        "A": "In the morning",
+        "B": "In the evening",
+        "C": "Both morning and evening",
+        "D": "At night"
+      },
+      "answer": "C",
+      "explanation": "The sky appears bright during both morning and evening times.",
+      "difficulty": "easy"
+    }
+  ]
+}

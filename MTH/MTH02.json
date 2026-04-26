@@ -1,0 +1,414 @@
+{
+  "questions": [
+    {
+      "id": "MAT0201",
+      "question": "Polynomial କ’ଣ?",
+      "options": {
+        "A": "Variable ଓ constant ର ସଂଯୋଗ",
+        "B": "କେବଳ number",
+        "C": "କେବଳ variable",
+        "D": "Fraction"
+      },
+      "answer": "A",
+      "explanation": "Polynomial ହେଉଛି variable ଓ constant ର ସଂଯୋଗ ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0202",
+      "question": "x² + 2x + 1 ର degree କେତେ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "answer": "B",
+      "explanation": "Highest power = 2, ତେଣୁ degree = 2 ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0203",
+      "question": "Constant polynomial ର degree କେତେ?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "-1"
+      },
+      "answer": "A",
+      "explanation": "Constant polynomial ର degree = 0 ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0204",
+      "question": "Zero polynomial ର degree କ’ଣ?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "2"
+      },
+      "answer": "C",
+      "explanation": "Zero polynomial ର degree defined ନୁହେଁ ।",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MAT0205",
+      "question": "Linear polynomial ର degree କେତେ?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "answer": "B",
+      "explanation": "Linear polynomial ର degree = 1 ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0206",
+      "question": "Quadratic polynomial ର degree କେତେ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "B",
+      "explanation": "Quadratic polynomial ର degree = 2 ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0207",
+      "question": "Cubic polynomial ର degree କେତେ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "C",
+      "explanation": "Cubic polynomial ର degree = 3 ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0208",
+      "question": "x³ + 2x² + x + 5 ର degree କେତେ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "5"
+      },
+      "answer": "C",
+      "explanation": "Highest power = 3 ।",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MAT0209",
+      "question": "Polynomial ର root କ’ଣ?",
+      "options": {
+        "A": "Value making polynomial zero",
+        "B": "Highest power",
+        "C": "Constant term",
+        "D": "Coefficient"
+      },
+      "answer": "A",
+      "explanation": "Polynomial = 0 କରୁଥିବା x ର value root ।",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MAT0210",
+      "question": "x² − 1 = 0 ର root କ’ଣ?",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "±1",
+        "D": "0"
+      },
+      "answer": "C",
+      "explanation": "x² − 1 = (x−1)(x+1) ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0211",
+      "question": "Factor theorem କ’ଣ କୁହେ?",
+      "options": {
+        "A": "f(a)=0 ⇒ (x−a) factor",
+        "B": "f(a)=1",
+        "C": "f(a)=2",
+        "D": "None"
+      },
+      "answer": "A",
+      "explanation": "Factor theorem ଅନୁସାରେ f(a)=0 ହେଲେ (x−a) factor ।",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": "MAT0212",
+      "question": "Remainder theorem କ’ଣ କୁହେ?",
+      "options": {
+        "A": "f(a)=remainder",
+        "B": "f(a)=factor",
+        "C": "f(a)=root",
+        "D": "None"
+      },
+      "answer": "A",
+      "explanation": "x−a ଦ୍ୱାରା division ର remainder = f(a) ।",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": "MAT0213",
+      "question": "x−2 ଦ୍ୱାରା divide କଲେ remainder କ’ଣ?",
+      "options": {
+        "A": "f(2)",
+        "B": "f(−2)",
+        "C": "f(1)",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "Remainder theorem ଅନୁସାରେ remainder = f(2) ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0214",
+      "question": "Graph ର x-intercept କ’ଣ?",
+      "options": {
+        "A": "Root",
+        "B": "Coefficient",
+        "C": "Degree",
+        "D": "Constant"
+      },
+      "answer": "A",
+      "explanation": "x-intercept = root ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0215",
+      "question": "Polynomial ର maximum roots କେତେ?",
+      "options": {
+        "A": "Degree",
+        "B": "Degree+1",
+        "C": "Degree−1",
+        "D": "Infinite"
+      },
+      "answer": "A",
+      "explanation": "Maximum roots = degree ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0216",
+      "question": "Quadratic polynomial ର maximum roots କେତେ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "B",
+      "explanation": "Quadratic → degree 2 ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0217",
+      "question": "Linear polynomial ର maximum roots କେତେ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "Degree 1 ⇒ 1 root ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0218",
+      "question": "Constant polynomial ର root କେତେ?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "answer": "B",
+      "explanation": "Constant polynomial ର root ନଥାଏ ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0219",
+      "question": "Coefficient କ’ଣ?",
+      "options": {
+        "A": "Variable ର multiplier",
+        "B": "Constant",
+        "C": "Degree",
+        "D": "Root"
+      },
+      "answer": "A",
+      "explanation": "Coefficient = variable ର multiplier ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0220",
+      "question": "x³ polynomial ର coefficient କ’ଣ?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "3",
+        "D": "x"
+      },
+      "answer": "A",
+      "explanation": "x³ = 1×x³ ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0221",
+      "question": "2x² + 3x + 1 ର constant term କ’ଣ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "C",
+      "explanation": "Constant term = 1 ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0222",
+      "question": "Degree(x⁵) କେତେ?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "Highest power = 5 ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0223",
+      "question": "x²−4 କ’ଣ factorize ହୁଏ?",
+      "options": {
+        "A": "(x−2)(x+2)",
+        "B": "(x−4)(x+1)",
+        "C": "(x−1)(x+4)",
+        "D": "(x−3)(x+1)"
+      },
+      "answer": "A",
+      "explanation": "Difference of squares formula ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0224",
+      "question": "Identity କ’ଣ?",
+      "options": {
+        "A": "Always true equation",
+        "B": "Sometimes true",
+        "C": "Never true",
+        "D": "None"
+      },
+      "answer": "A",
+      "explanation": "Identity ସବୁବେଳେ true ଥାଏ ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0225",
+      "question": "(a+b)² କ’ଣ?",
+      "options": {
+        "A": "a²+b²",
+        "B": "a²+2ab+b²",
+        "C": "a²−2ab+b²",
+        "D": "2ab"
+      },
+      "answer": "B",
+      "explanation": "Standard identity ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0226",
+      "question": "(a−b)² କ’ଣ?",
+      "options": {
+        "A": "a²+2ab+b²",
+        "B": "a²−2ab+b²",
+        "C": "a²−b²",
+        "D": "2ab"
+      },
+      "answer": "B",
+      "explanation": "Standard identity ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0227",
+      "question": "a²−b² କ’ଣ?",
+      "options": {
+        "A": "(a−b)²",
+        "B": "(a+b)(a−b)",
+        "C": "(a+b)²",
+        "D": "2ab"
+      },
+      "answer": "B",
+      "explanation": "Difference of squares identity ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0228",
+      "question": "x²+5x+6 factorize କର",
+      "options": {
+        "A": "(x+2)(x+3)",
+        "B": "(x+1)(x+6)",
+        "C": "(x+4)(x+2)",
+        "D": "(x+5)(x+1)"
+      },
+      "answer": "A",
+      "explanation": "Factorization result ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0229",
+      "question": "x²−5x+6 factorize କର",
+      "options": {
+        "A": "(x−2)(x−3)",
+        "B": "(x+2)(x+3)",
+        "C": "(x−1)(x−6)",
+        "D": "(x−4)(x−2)"
+      },
+      "answer": "A",
+      "explanation": "Factorization result ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0230",
+      "question": "Polynomial ର roots graph ର କେଉଁଠି ଥାଏ?",
+      "options": {
+        "A": "x-axis intersection",
+        "B": "y-axis intersection",
+        "C": "Origin",
+        "D": "None"
+      },
+      "answer": "A",
+      "explanation": "Roots = x-axis intercept ।",
+      "difficulty": "medium"
+    }
+  ]
+}

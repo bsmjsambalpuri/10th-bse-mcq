@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "id": "MAT0101",
+      "question": "Euclid's Division Lemma କ’ଣ କୁହେ?",
+      "options": {
+        "A": "a = bq + r",
+        "B": "a = b + r",
+        "C": "a = bq",
+        "D": "a = r"
+      },
+      "answer": "A",
+      "explanation": "Euclid's Division Lemma ଅନୁସାରେ a = bq + r ଯେଉଁଠାରେ 0 ≤ r < b ।",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MAT0102",
+      "question": "HCF ର ପୂର୍ଣ୍ଣ ନାମ କ’ଣ?",
+      "options": {
+        "A": "Highest Common Factor",
+        "B": "Higher Common Factor",
+        "C": "High Common Fraction",
+        "D": "Highest Common Fraction"
+      },
+      "answer": "A",
+      "explanation": "HCF ର ପୂର୍ଣ୍ଣ ନାମ Highest Common Factor ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0103",
+      "question": "36 ଓ 48 ର HCF କେତେ?",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "answer": "B",
+      "explanation": "36 ଓ 48 ର HCF = 12 ।",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MAT0104",
+      "question": "Prime Number କ’ଣ?",
+      "options": {
+        "A": "ଦୁଇଟି ଗୁଣନୀ ଥିବା ସଂଖ୍ୟା",
+        "B": "ତିନୋଟି ଗୁଣନୀ ଥିବା ସଂଖ୍ୟା",
+        "C": "ଅନନ୍ତ ଗୁଣନୀ ଥିବା ସଂଖ୍ୟା",
+        "D": "ଶୂନ୍ୟ ଗୁଣନୀ ଥିବା ସଂଖ୍ୟା"
+      },
+      "answer": "A",
+      "explanation": "Prime number ର କେବଳ ଦୁଇଟି ଗୁଣନୀ ଥାଏ ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0105",
+      "question": "1 କି prime number କି?",
+      "options": {
+        "A": "ହଁ",
+        "B": "ନା",
+        "C": "କେବେ କେବେ",
+        "D": "ନିର୍ଣ୍ଣୟ ହୋଇନି"
+      },
+      "answer": "B",
+      "explanation": "1 prime number ନୁହେଁ ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0106",
+      "question": "LCM ର ପୂର୍ଣ୍ଣ ନାମ କ’ଣ?",
+      "options": {
+        "A": "Lowest Common Multiple",
+        "B": "Least Common Multiple",
+        "C": "Largest Common Multiple",
+        "D": "Low Common Multiple"
+      },
+      "answer": "B",
+      "explanation": "LCM = Least Common Multiple ।",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MAT0107",
+      "question": "HCF(8,12) କେତେ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "answer": "C",
+      "explanation": "8 ଓ 12 ର HCF = 4 ।",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MAT0108",
+      "question": "LCM(8,12) କେତେ?",
+      "options": {
+        "A": "12",
+        "B": "16",
+        "C": "24",
+        "D": "48"
+      },
+      "answer": "C",
+      "explanation": "8 ଓ 12 ର LCM = 24 ।",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MAT0109",
+      "question": "Co-prime ସଂଖ୍ୟା କ’ଣ?",
+      "options": {
+        "A": "HCF = 1",
+        "B": "LCM = 1",
+        "C": "HCF = 2",
+        "D": "LCM = 2"
+      },
+      "answer": "A",
+      "explanation": "Co-prime ସଂଖ୍ୟାର HCF = 1 ।",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MAT0110",
+      "question": "2 ଓ 3 co-prime କି?",
+      "options": {
+        "A": "ହଁ",
+        "B": "ନା",
+        "C": "ଅଜ୍ଞାତ",
+        "D": "ଉପରୋକ୍ତ କେହିନୁହେଁ"
+      },
+      "answer": "A",
+      "explanation": "2 ଓ 3 ର HCF = 1 ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0111",
+      "question": "Prime factorization କ’ଣ?",
+      "options": {
+        "A": "Prime ସଂଖ୍ୟାରେ ଭାଙ୍ଗିବା",
+        "B": "Composite ସଂଖ୍ୟାରେ ଭାଙ୍ଗିବା",
+        "C": "Even ସଂଖ୍ୟାରେ ଭାଙ୍ଗିବା",
+        "D": "Odd ସଂଖ୍ୟାରେ ଭାଙ୍ଗିବା"
+      },
+      "answer": "A",
+      "explanation": "Prime factorization ମାନେ prime ଗୁଣନୀରେ ଭାଙ୍ଗିବା ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0112",
+      "question": "24 ର prime factorization କ’ଣ?",
+      "options": {
+        "A": "2³ × 3",
+        "B": "2² × 6",
+        "C": "3 × 8",
+        "D": "4 × 6"
+      },
+      "answer": "A",
+      "explanation": "24 = 2³ × 3 ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0113",
+      "question": "0 କି natural number?",
+      "options": {
+        "A": "ହଁ",
+        "B": "ନା",
+        "C": "କେବେ କେବେ",
+        "D": "ଉପରୋକ୍ତ କେହିନୁହେଁ"
+      },
+      "answer": "B",
+      "explanation": "0 natural number ନୁହେଁ ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0114",
+      "question": "Integer କ’ଣ?",
+      "options": {
+        "A": "ଧନାତ୍ମକ ସଂଖ୍ୟା",
+        "B": "ରିଣାତ୍ମକ ସଂଖ୍ୟା",
+        "C": "ଶୂନ୍ୟ ସହିତ ସମସ୍ତ ପୂର୍ଣ୍ଣ ସଂଖ୍ୟା",
+        "D": "ଭାଗାଙ୍କ"
+      },
+      "answer": "C",
+      "explanation": "Integer ରେ ଧନାତ୍ମକ, ରିଣାତ୍ମକ ଓ 0 ରହେ ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0115",
+      "question": "Rational number କ’ଣ?",
+      "options": {
+        "A": "p/q ଆକାରରେ",
+        "B": "କେବଳ integer",
+        "C": "କେବଳ natural",
+        "D": "କେବଳ irrational"
+      },
+      "answer": "A",
+      "explanation": "p/q ଆକାରରେ ଥିବା ସଂଖ୍ୟା rational ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0116",
+      "question": "√2 କ’ଣ ପ୍ରକାର ସଂଖ୍ୟା?",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Integer",
+        "D": "Whole"
+      },
+      "answer": "B",
+      "explanation": "√2 irrational number ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0117",
+      "question": "π କ’ଣ ପ୍ରକାର ସଂଖ୍ୟା?",
+      "options": {
+        "A": "Integer",
+        "B": "Rational",
+        "C": "Irrational",
+        "D": "Whole"
+      },
+      "answer": "C",
+      "explanation": "π irrational number ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0118",
+      "question": "Whole number ରେ କେଉଁଟି ରହେ?",
+      "options": {
+        "A": "0 ସହିତ natural numbers",
+        "B": "Negative numbers",
+        "C": "Fractions",
+        "D": "Decimals"
+      },
+      "answer": "A",
+      "explanation": "Whole numbers = 0 + natural numbers ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0119",
+      "question": "Even number କ’ଣ?",
+      "options": {
+        "A": "2 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ",
+        "B": "3 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ",
+        "C": "5 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ",
+        "D": "7 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ"
+      },
+      "answer": "A",
+      "explanation": "2 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ ସଂଖ୍ୟା even number ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0120",
+      "question": "Odd number କ’ଣ?",
+      "options": {
+        "A": "2 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ",
+        "B": "2 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ ନୁହେଁ",
+        "C": "5 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ",
+        "D": "10 ଦ୍ୱାରା ଭାଗଯୋଗ୍ୟ"
+      },
+      "answer": "B",
+      "explanation": "2 ଦ୍ୱାରା ଭାଗ ନହେଲେ odd number ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0121",
+      "question": "HCF(a,b) × LCM(a,b) = ?",
+      "options": {
+        "A": "a+b",
+        "B": "a×b",
+        "C": "a-b",
+        "D": "a/b"
+      },
+      "answer": "B",
+      "explanation": "HCF × LCM = product of numbers ।",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": "MAT0122",
+      "question": "Prime number ମଧ୍ୟରୁ ସବୁଠାରୁ ଛୋଟ କେଉଁଟି?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "2 ସବୁଠାରୁ ଛୋଟ prime number ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0123",
+      "question": "Composite number କ’ଣ?",
+      "options": {
+        "A": "2 ରୁ ଅଧିକ ଗୁଣନୀ",
+        "B": "କେବଳ 2 ଗୁଣନୀ",
+        "C": "କେବଳ 1 ଗୁଣନୀ",
+        "D": "ଶୂନ୍ୟ ଗୁଣନୀ"
+      },
+      "answer": "A",
+      "explanation": "Composite number ର 2 ରୁ ଅଧିକ ଗୁଣନୀ ଥାଏ ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0124",
+      "question": "15 ଓ 20 ର HCF କେତେ?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "10",
+        "D": "15"
+      },
+      "answer": "B",
+      "explanation": "15 ଓ 20 ର HCF = 5 ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0125",
+      "question": "15 ଓ 20 ର LCM କେତେ?",
+      "options": {
+        "A": "40",
+        "B": "50",
+        "C": "60",
+        "D": "80"
+      },
+      "answer": "C",
+      "explanation": "15 ଓ 20 ର LCM = 60 ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0126",
+      "question": "√5 କ’ଣ ପ୍ରକାର ସଂଖ୍ୟା?",
+      "options": {
+        "A": "Integer",
+        "B": "Rational",
+        "C": "Irrational",
+        "D": "Whole"
+      },
+      "answer": "C",
+      "explanation": "√5 irrational number ।",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": "MAT0127",
+      "question": "Natural numbers କେଉଁଠାରୁ ଆରମ୍ଭ?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      },
+      "answer": "B",
+      "explanation": "Natural numbers 1 ରୁ ଆରମ୍ଭ ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0128",
+      "question": "Integer set ରେ କେଉଁଟି ରହେ?",
+      "options": {
+        "A": "Negative numbers",
+        "B": "Positive numbers",
+        "C": "Zero",
+        "D": "ସମସ୍ତ"
+      },
+      "answer": "D",
+      "explanation": "Integer = negative + zero + positive ।",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": "MAT0129",
+      "question": "Prime factorization method କାହା ପାଇଁ ବ୍ୟବହୃତ?",
+      "options": {
+        "A": "HCF",
+        "B": "LCM",
+        "C": "ଦୁହିଁ",
+        "D": "କେହିନୁହେଁ"
+      }

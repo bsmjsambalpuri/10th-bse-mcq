@@ -1,0 +1,223 @@
+{
+  "subjects": [
+    {
+      "subject_code": "FLO",
+      "chapters": [
+        { "chapter_id": "FLO01", "chapter_name": "ମାନଗୋବିନ୍ଦଙ୍କ ମହାନତା", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO02", "chapter_name": "ରାଘବଙ୍କ ଲଙ୍କା ଯାତ୍ରାନୁକୂଳ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO03", "chapter_name": "ଚିଲିକାରେ ସାୟନ୍ତନ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO04", "chapter_name": "ମଙ୍ଗଳେ ଅଇଲା ଉଷା", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "no" },
+        { "chapter_id": "FLO05", "chapter_name": "ଜାଗ ବନ୍ଧନହରା", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO06", "chapter_name": "ସର୍ବଂସହା ମାଟି", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO07", "chapter_name": "ଜନ୍ମଭୂମି", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO08", "chapter_name": "ସଭ୍ୟତା ଓ ବିଜ୍ଞାନ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO09", "chapter_name": "ମାତୃଭାଷା ଓ ଲୋକଶିକ୍ଷା", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO10", "chapter_name": "ନରେନ୍ରୁ ବିବେକାନନ୍ଦ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO11", "chapter_name": "ଓଡ଼ିଆ ସାହିତ୍ୟ କଥା", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO12", "chapter_name": "କଳିଯୁଗର ସମାପ୍ତି ଏବଂ ମିଶ୍ରବାବୁ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO13", "chapter_name": "କାଳର କପୋଳ ତଳେ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO14", "chapter_name": "ବଲ, ଅଶ୍ଵତ୍ଥ ଓ ବଟବୃକ୍ଷ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO15", "chapter_name": "ସୁର ସୁନ୍ଦରୀ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "FLO16", "chapter_name": "କୋଣାର୍କ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+
+        { "chapter_id": "FLO17", "chapter_name": "ବାକ୍ୟ ବିଚାର", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+        { "chapter_id": "FLO18", "chapter_name": "‘ଣ’ତ୍ଵ ବିଧି, ‘ଷ’ତ୍ଵ ବିଧି ଓ ସାଧାରଣ ଅଶୁଦ୍ଧି", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+        { "chapter_id": "FLO19", "chapter_name": "ରୂଢ଼ି ଓ ଲୋକବାଣୀ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+        { "chapter_id": "FLO20", "chapter_name": "ଅନୁବାଦ ପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+        { "chapter_id": "FLO21", "chapter_name": "ଛନ୍ଦ ଓ ଅଳଙ୍କାର", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+        { "chapter_id": "FLO22", "chapter_name": "ତଥ୍ୟଭିତ୍ତିକ ବିବରଣୀ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+        { "chapter_id": "FLO23", "chapter_name": "ଟିପ୍ପଣୀ ଓ ଚିଠା ପ୍ରସ୍ତୁତି", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" }
+      ]
+    },
+	{
+      "subject_code": "SCL",
+      "chapters": [
+        { "chapter_id": "SCL01", "chapter_name": "ପୋଷଣ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL02", "chapter_name": "ଶ୍ଵସନ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL03", "chapter_name": "ପରିବହନ ଓ ସଞ୍ଚାଳନ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL04", "chapter_name": "ରେଚନ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL05", "chapter_name": "ନିୟନ୍ତ୍ରଣ ଓ ସମନ୍ଵୟ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL06", "chapter_name": "ଜନନ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL07", "chapter_name": "ବଂଶାନୁକ୍ରମ ଓ ବିବର୍ତ୍ତନ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL08", "chapter_name": "ଶକ୍ତିର ଉତ୍ସ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL09", "chapter_name": "ଆମ ପରିବେଶ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCL10", "chapter_name": "ପ୍ରାକୃତିକ ସଂପଦର ସଂରକ୍ଷଣ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" }
+      ]
+    },
+	{
+      "subject_code": "SCP",
+      "chapters": [
+        { "chapter_id": "SCP01", "chapter_name": "ରାସାୟନିକ ପ୍ରତିକ୍ରିୟା ଓ ରାସାୟନିକ ସମୀକରଣ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCP02", "chapter_name": "ଅମ୍ଳ, କ୍ଷାରକ ଓ ଲବଣ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCP03", "chapter_name": "ଧାତୁ ଓ ଅଧାତୁ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCP04", "chapter_name": "କାର୍ବନ ଓ ଏହାର ଯୌଗିକ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCP05", "chapter_name": "ମୌଳିକଗୁଡ଼ିକର ପର୍ଯ୍ୟାୟୀ ଶ୍ରେଣୀକରଣ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCP06", "chapter_name": "ଆଲୋକ- ପ୍ରତିଫଳନ ଓ ପ୍ରତିସରଣ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCP07", "chapter_name": "ମାନବ ଚକ୍ଷୁ ଓ ବର୍ଣ୍ଣଜଗତ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCP08", "chapter_name": "ବିଦ୍ୟୁତ୍", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" },
+        { "chapter_id": "SCP09", "chapter_name": "ବିଦ୍ୟୁତ୍ ସ୍ରୋତର ଚୁମ୍ବକୀୟ ପ୍ରଭାବ", "chapter_group": "ପାଠ୍ୟ ପୁସ୍ତକ", "active": "yes" }
+      ]
+    },
+	  {
+      "subject_code": "TLS",
+      "chapters": [
+
+        { "chapter_id": "TLS01", "chapter_name": "उपदेशामृतम्", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS02", "chapter_name": "सुशिष्यः उपमन्युः", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS03", "chapter_name": "वराहोपाख्यानम्", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS04", "chapter_name": "सिंहशृगालशिशुकथा", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS05", "chapter_name": "बककुलीरककथा", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS06", "chapter_name": "जन्मवर्वरकथा", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS07", "chapter_name": "बलीयसी केवलमीश्वरेच्छा", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS08", "chapter_name": "स्वामी विवेकानन्दः", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS09", "chapter_name": "वैज्ञानिकः डक्टर अब्दुलकलामः", "chapter_group": "गद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS10", "chapter_name": "भौतिकं पर्यावरणम्", "chapter_group": "गद्यभाग", "active": "yes" },
+
+        { "chapter_id": "TLS11", "chapter_name": "शिशुवात्सल्यम्", "chapter_group": "एकाङ्किकाभाग", "active": "yes" },
+        { "chapter_id": "TLS12", "chapter_name": "देहि पदपल्लवमुदारम्", "chapter_group": "एकाङ्किकाभाग", "active": "yes" },
+
+        { "chapter_id": "TLS13", "chapter_name": "सीतायाः वनगमनम्", "chapter_group": "पद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS14", "chapter_name": "युधिष्ठिर-यक्षसंवादः", "chapter_group": "पद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS15", "chapter_name": "मोहमुद्गरः", "chapter_group": "पद्यभाग", "active": "yes" },
+        { "chapter_id": "TLS16", "chapter_name": "जननी गरीयसी", "chapter_group": "पद्यभाग", "active": "yes" },
+
+        { "chapter_id": "TLS17", "chapter_name": "असाध्यसाधनम्", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS18", "chapter_name": "सन्निमित्ते वरं त्यागः", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS19", "chapter_name": "बुद्धिर्यस्य बलं तस्य", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS20", "chapter_name": "यशोदेहेन जीवति", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS21", "chapter_name": "हीराकुदबन्धः", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS22", "chapter_name": "परबुद्धिर्भयङ्करी", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS23", "chapter_name": "सर्वसहा", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS24", "chapter_name": "किं फलमस्ति दानस्य", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS25", "chapter_name": "अहिंसाचरणम्", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+        { "chapter_id": "TLS26", "chapter_name": "अस्माकं राष्ट्रियध्वजः", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
+		
+		{ "chapter_id": "TLS27", "chapter_name": "ସ୍ତ୍ରୀପ୍ରତ୍ୟୟ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS28", "chapter_name": "ସମାସ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS29", "chapter_name": "ତଦ୍ଧିତ ପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS30", "chapter_name": "କୃଦନ୍ତ ପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS31", "chapter_name": "ଣିଜନ୍ତ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS32", "chapter_name": "ସନନ୍ତ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS33", "chapter_name": "ଯଙନ୍ତ ଧାତୁ ପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS34", "chapter_name": "ନାମଧାତୁ ପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS35", "chapter_name": "ପରସ୍ମୈପଦ ବିଧାନ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS36", "chapter_name": "ଆତ୍ମନେପଦ ବିଧାନ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS37", "chapter_name": "ବାଚ୍ୟପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS38", "chapter_name": "ଅନୁବାଦନିୟମାବଳୀ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS39", "chapter_name": "ଭ୍ରମସଂଶୋଧନ-ଅଭ୍ୟାସ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+		{ "chapter_id": "TLS40", "chapter_name": "ବ୍ୟାବହାରିକସଂସ୍କୃତଶବ୍ଦାବଳୀ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" }
+      ]
+    },
+	 {
+      "subject_code": "MTH",
+      "chapters": [
+        { "chapter_id": "MTH01", "chapter_name": "ସରଳ ସହସମୀକରଣ", "chapter_group": "ବୀଜଗଣିତ", "active": "yes" },
+        { "chapter_id": "MTH02", "chapter_name": "ଦ୍ଵିଘାତ ସମୀକରଣ", "chapter_group": "ବୀଜଗଣିତ", "active": "yes" },
+        { "chapter_id": "MTH03", "chapter_name": "ସମାନ୍ତର ପ୍ରଗତି", "chapter_group": "ବୀଜଗଣିତ", "active": "yes" },
+        { "chapter_id": "MTH04", "chapter_name": "ସମ୍ଭାବ୍ୟତା", "chapter_group": "ବୀଜଗଣିତ", "active": "yes" },
+        { "chapter_id": "MTH05", "chapter_name": "ପରିସଂଖ୍ୟାନ", "chapter_group": "ବୀଜଗଣିତ", "active": "yes" },
+        { "chapter_id": "MTH06", "chapter_name": "ସ୍ଥାନାଙ୍କ ଜ୍ୟାମିତି", "chapter_group": "ବୀଜଗଣିତ", "active": "yes" },
+        { "chapter_id": "MTH07", "chapter_name": "ଜ୍ୟାମିତିରେ ସାଦୃଶ୍ୟ", "chapter_group": "ଜ୍ୟାମିତି", "active": "yes" },
+        { "chapter_id": "MTH08", "chapter_name": "ବୃତ୍ତ", "chapter_group": "ଜ୍ୟାମିତି", "active": "yes" },
+        { "chapter_id": "MTH09", "chapter_name": "ବୃତ୍ତର ସ୍ପର୍ଶକ", "chapter_group": "ଜ୍ୟାମିତି", "active": "yes" },
+        { "chapter_id": "MTH10", "chapter_name": "ତ୍ରିକୋଣମିତି", "chapter_group": "ଜ୍ୟାମିତି", "active": "yes" },
+        { "chapter_id": "MTH11", "chapter_name": "ପରିମିତି", "chapter_group": "ଜ୍ୟାମିତି", "active": "yes" },
+        { "chapter_id": "MTH12", "chapter_name": "ଅଙ୍କନ", "chapter_group": "ଜ୍ୟାମିତି", "active": "yes" }
+      ]
+    },
+	{
+      "subject_code": "SSH",
+      "chapters": [
+        { "chapter_id": "SSH01", "chapter_name": "ଭାରତୀୟ ଜାତୀୟ ଆନ୍ଦୋଳନ - ଗାନ୍ଧୀଯୁଗ", "chapter_group": "ଇତିହାସ", "active": "yes" },
+        { "chapter_id": "SSH02", "chapter_name": "ସ୍ବତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ", "chapter_group": "ଇତିହାସ", "active": "yes" },
+        { "chapter_id": "SSH03", "chapter_name": "୨୦୦୦ ଖ୍ରୀଷ୍ଟାବ୍ଦ ପର୍ଯ୍ୟନ୍ତ ସ୍ବାଧୀନତା ପରବର୍ତ୍ତୀ ଭାରତ", "chapter_group": "ଇତିହାସ", "active": "yes" },
+        { "chapter_id": "SSH04", "chapter_name": "ସ୍ଵାଧୀନୋତ୍ତର ଓଡ଼ିଶାର ବିକାଶ", "chapter_group": "ଇତିହାସ", "active": "yes" },
+        { "chapter_id": "SSH05", "chapter_name": "ଭାରତରେ ସ୍ବାଧୀନତା ପରବର୍ତ୍ତୀ ରାଜ୍ୟ ପୁନର୍ଗଠନ", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" },
+        { "chapter_id": "SSH06", "chapter_name": "ଭାରତରେ ଗଣତନ୍ତ୍ର", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" },
+        { "chapter_id": "SSH07", "chapter_name": "ଭାରତର ବୈଦେଶିକ ନୀତି", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" }
+      ]
+    },
+	 {
+      "subject_code": "SSG",
+      "chapters": [
+        { "chapter_id": "SSG01", "chapter_name": "ସମ୍ବଳ", "chapter_group": "ଭୂଗୋଳ", "active": "yes" },
+        { "chapter_id": "SSG02", "chapter_name": "ଜୈବ ସମ୍ବଳ", "chapter_group": "ଭୂଗୋଳ", "active": "yes" },
+        { "chapter_id": "SSG03", "chapter_name": "ଜଳ ସମ୍ବଳ", "chapter_group": "ଭୂଗୋଳ", "active": "yes" },
+        { "chapter_id": "SSG04", "chapter_name": "ଖଣିଜ ସମ୍ବଳ", "chapter_group": "ଭୂଗୋଳ", "active": "yes" },
+        { "chapter_id": "SSG05", "chapter_name": "ଶକ୍ତି ସମ୍ବଳ", "chapter_group": "ଭୂଗୋଳ", "active": "yes" },
+        { "chapter_id": "SSG06", "chapter_name": "କୃଷି", "chapter_group": "ଭୂଗୋଳ", "active": "yes" },
+        { "chapter_id": "SSG07", "chapter_name": "ବିନିର୍ମାଣ ଉଦ୍ୟୋଗ", "chapter_group": "ଭୂଗୋଳ", "active": "yes" },
+        { "chapter_id": "SSG08", "chapter_name": "ଆର୍ଥନୀତିକ ବିକାଶ", "chapter_group": "ଅର୍ଥନୀତି", "active": "yes" },
+        { "chapter_id": "SSG09", "chapter_name": "ଅର୍ଥନୈତିକ ବ୍ୟବସ୍ଥା", "chapter_group": "ଅର୍ଥନୀତି", "active": "yes" },
+		
+		 { "chapter_id": "SSGTP01", "chapter_name": "ପରିକ୍ଷା ଦର୍ପଣ 2025", "chapter_group": "ନମୁନା ପ୍ରଶ୍ନପତ୍ର", "active": "yes" }
+      ]
+    },
+	    {
+      "subject_code": "TLH",
+      "chapters": [
+        { "chapter_id": "TLH01", "chapter_name": "अनमोल वाणी", "chapter_group": "पद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH02", "chapter_name": "मनुष्यता", "chapter_group": "पद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH03", "chapter_name": "एक ति", "chapter_group": "पद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH04", "chapter_name": "चाँद का झिंगोला", "chapter_group": "पद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH05", "chapter_name": "नीड़ का निर्माण फिर फिर", "chapter_group": "पद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH06", "chapter_name": "काँटे कम-से-कम मत बोओ", "chapter_group": "पद्य विभाग", "active": "yes" },
+		
+        { "chapter_id": "TLH07", "chapter_name": "मधुर भाषण", "chapter_group": "गद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH08", "chapter_name": "बोध", "chapter_group": "गद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH09", "chapter_name": "देशप्रेमी संन्यासी", "chapter_group": "गद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH10", "chapter_name": "गिल्लू", "chapter_group": "गद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH11", "chapter_name": "जननी जन्मभूमि", "chapter_group": "गद्य विभाग", "active": "yes" },
+		
+		{ "chapter_id": "TLH12", "chapter_name": "व्याकरण अवश्य पढ़ें", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH13", "chapter_name": "हिन्दी ध्वनियाँ और वर्णमाला", "chapter_group": "व्याकरण", "active": "yes" },
+		
+		{ "chapter_id": "TLH14", "chapter_name": "लेखन (वर्तनी)", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH15", "chapter_name": "शब्द-विचार", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH16", "chapter_name": "शब्द-रचना", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH17", "chapter_name": "रूप-विचार", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH18", "chapter_name": "वाक्य-विचार", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH19", "chapter_name": "विराम चिह्न", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH20", "chapter_name": "अनुवाद", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH21", "chapter_name": "निबंध-लेखन", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH22", "chapter_name": "अपठित पाठ", "chapter_group": "व्याकरण", "active": "yes" },
+		{ "chapter_id": "TLH23", "chapter_name": "मुहावरे और कहावतें", "chapter_group": "व्याकरण", "active": "yes" }
+      ]
+    },
+	{
+  "subject_code": "SLE",
+  "chapters": [
+
+    { "chapter_id": "SLE01", "chapter_name": "All Things Bright and Beautiful", "chapter_group": "Poems", "active": "yes" },
+    { "chapter_id": "SLE02", "chapter_name": "We are Seven", "chapter_group": "Poems", "active": "yes" },
+    { "chapter_id": "SLE03", "chapter_name": "Village Song", "chapter_group": "Poems", "active": "yes" },
+    { "chapter_id": "SLE04", "chapter_name": "The Brook", "chapter_group": "Poems", "active": "yes" },
+    { "chapter_id": "SLE05", "chapter_name": "Virtue", "chapter_group": "Poems", "active": "yes" },
+
+    { "chapter_id": "SLE06", "chapter_name": "A Letter to God", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE07", "chapter_name": "Tryst with Destiny", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE08", "chapter_name": "Kapil Dev", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE09", "chapter_name": "Air Pollution – A Hidden Menace", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE10", "chapter_name": "School’s Goodbye", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE11", "chapter_name": "A TIGER IN THE HOUSE", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE12", "chapter_name": "THE BEGGAR", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE13", "chapter_name": "THE VILLAGE JUDGE", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE14", "chapter_name": "A GRAIN AS BIG AS A HEN’S EGG", "chapter_group": "Text", "active": "yes" },
+    { "chapter_id": "SLE15", "chapter_name": "A GREAT SON OF INDIA", "chapter_group": "Text", "active": "no" },
+
+    { "chapter_id": "SLE16", "chapter_name": "Tense Revisited", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE17", "chapter_name": "Types of Sentences", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE18", "chapter_name": "Subject Verb Agreement", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE19", "chapter_name": "Non-finite Verb Forms", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE20", "chapter_name": "Prepositions", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE21", "chapter_name": "Phrasal Verbs", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE22", "chapter_name": "Noun Clauses and Relative Clauses", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE23", "chapter_name": "Adverb Clauses", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE24", "chapter_name": "The Passive", "chapter_group": "Grammar", "active": "yes" },
+    { "chapter_id": "SLE25", "chapter_name": "Direct and Indirect Speech", "chapter_group": "Grammar", "active": "yes" },
+
+ { "chapter_id": "SLETP05", "chapter_name": "Sample Paper 05 (2025-Pariksha Darpan)", "chapter_group": "Sample Paper", "active": "yes" }
+  ]
+}
+  ]
+}
