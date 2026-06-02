@@ -1,0 +1,330 @@
+{
+  "questions":
+[
+  {
+    "id": "FLO2001",
+    "question": "‘ଅନୁବାଦ’ ଶବ୍ଦର ଆକ୍ଷରିକ ଅର୍ଥ କ’ଣ?",
+    "options": {
+      "A": "ପୂର୍ବରୁ କହିବା",
+      "B": "ପରେ କହିବା",
+      "C": "ସାଙ୍ଗରେ କହିବା",
+      "D": "ଅଳ୍ପ କହିବା"
+    },
+    "answer": "B",
+    "explanation": "ଅନୁବାଦର ଆକ୍ଷରିକ ଅର୍ଥ ହେଉଛି ପରେ କହିବା (ଅନୁ – ବଦ୍ + ଅ) ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "FLO2002",
+    "question": "ଗୋଟିଏ ଭାଷାର ମୌଳିକ ରଚନାକୁ ଅନ୍ୟ ଏକ ଭାଷାରେ ପ୍ରକାଶ କରିବାକୁ କ’ଣ କୁହନ୍ତି?",
+    "options": {
+      "A": "ପ୍ରବନ୍ଧ",
+      "B": "ଟିପ୍ପଣୀ",
+      "C": "ଅନୁବାଦ",
+      "D": "ଭାଷଣ"
+    },
+    "answer": "C",
+    "explanation": "ମୌଳିକ ରଚନାକୁ ଅନ୍ୟ ଭାଷାରେ ପ୍ରକାଶ କରିବା ପ୍ରକ୍ରିୟାକୁ ଅନୁବାଦ କୁହାଯାଏ ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "FLO2003",
+    "question": "କେଉଁ ଅନୁବାଦରେ ଭାବର ମହତ୍ତ୍ୱ ସୁରକ୍ଷିତ ରହେ?",
+    "options": {
+      "A": "ଆକ୍ଷରିକ ଅନୁବାଦ",
+      "B": "ମର୍ମାନୁବାଦ",
+      "C": "ଭାବାନୁବାଦ",
+      "D": "ଶବ୍ଦାନୁବାଦ"
+    },
+    "answer": "C",
+    "explanation": "ଭାବାନୁବାଦରେ ମୂଳ ବିଷୟର ଭାବକୁ ଅଧିକ ଗୁରୁତ୍ୱ ଦିଆଯାଇଥାଏ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2004",
+    "question": "ମୂଳ ରଚନାର ‘ଆତ୍ମା’କୁ ଗୁରୁତ୍ୱ ଦେଉଥିବା ଅନୁବାଦକୁ କ’ଣ କୁହାଯାଏ?",
+    "options": {
+      "A": "ଆକ୍ଷରିକ ଅନୁବାଦ",
+      "B": "ମର୍ମାନୁବାଦ",
+      "C": "ଭାବାନୁବାଦ",
+      "D": "ପଦାନୁବାଦ"
+    },
+    "answer": "B",
+    "explanation": "ମର୍ମାନୁବାଦରେ ମୂଳ ରଚନାର ମର୍ମ ବା ଆତ୍ମାକୁ ମୁଖ୍ୟ ଗୁରୁତ୍ୱ ପ୍ରଦାନ କରାଯାଏ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2005",
+    "question": "ପ୍ରତିପଦର ଅର୍ଥକୁ ଉପଯୁକ୍ତ ଧ୍ୟାନ ଦେଉଥିବା ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "ଆକ୍ଷରିକ ଅନୁବାଦ",
+      "B": "ମର୍ମାନୁବାଦ",
+      "C": "ଭାବାନୁବାଦ",
+      "D": "ମୁକ୍ତ ଅନୁବାଦ"
+    },
+    "answer": "A",
+    "explanation": "ଆକ୍ଷରିକ ଅନୁବାଦରେ ପ୍ରତିଟି ଶବ୍ଦ ବା ପଦର ଅର୍ଥକୁ ପ୍ରାଧାନ୍ୟ ଦିଆଯାଏ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2006",
+    "question": "ସଫଳ ଅନୁବାଦକ ହେବା ପାଇଁ କ’ଣ ଆବଶ୍ୟକ?",
+    "options": {
+      "A": "କେବଳ ମୂଳ ଭାଷାରେ ଦକ୍ଷତା",
+      "B": "କେବଳ ଅନୁବାଦ ଭାଷାରେ ଦକ୍ଷତା",
+      "C": "ଉଭୟ ଭାଷାରେ ଉପଯୁକ୍ତ ଦକ୍ଷତା",
+      "D": "ଉଚ୍ଚ ଶିକ୍ଷାଗତ ଯୋଗ୍ୟତା"
+    },
+    "answer": "C",
+    "explanation": "ଅନୁବାଦକଙ୍କର ଉଭୟ ମୂଳ ରଚନାର ଭାଷା ଓ ଅନୁବାଦ ଭାଷା ଉପରେ ଦକ୍ଷତା ଥିବା ବାଞ୍ଛନୀୟ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2007",
+    "question": "ଅନୁବାଦ କେଉଁ ପ୍ରକାରର କଳା?",
+    "options": {
+      "A": "ସାଧାରଣ କଳା",
+      "B": "ସ୍ୱତନ୍ତ୍ର କଳା",
+      "C": "ବ୍ୟବସାୟିକ କଳା",
+      "D": "ଯାନ୍ତ୍ରିକ କଳା"
+    },
+    "answer": "B",
+    "explanation": "ଅନୁବାଦ ଏକ ସ୍ୱତନ୍ତ୍ର କଳା ଅଟେ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2008",
+    "question": "ଜଣେ ସଫଳ ଅନୁବାଦକ ପାଇଁ କାହାର ଆବଶ୍ୟକତା ରହିଛି?",
+    "options": {
+      "A": "ଧନ",
+      "B": "ଉଭୟ ଭାଷାରେ ପ୍ରବେଶ",
+      "C": "ବିଦେଶ ଭ୍ରମଣ",
+      "D": "ସାମାଜିକ ପ୍ରତିଷ୍ଠା"
+    },
+    "answer": "B",
+    "explanation": "ଉଭୟ ଭାଷା ସାହିତ୍ୟ ବିଷୟରେ ଆଶାନୁରୂପ ପ୍ରବେଶ ଥିବା ବାଞ୍ଛନୀୟ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2009",
+    "question": "‘Time waits for none’ - ଏହାର ଓଡ଼ିଆ ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "ସମୟ ସବୁବେଳେ ଚାଲେ",
+      "B": "ସମୟ କାହାକୁ ଅପେକ୍ଷା କରେ ନାହିଁ",
+      "C": "ସମୟ ବହୁତ ମୂଲ୍ୟବାନ",
+      "D": "ସମୟ ଆସିବ"
+    },
+    "answer": "B",
+    "explanation": "Time waits for none ର ଅର୍ଥ ହେଉଛି ସମୟ କାହାକୁ ଅପେକ୍ଷା କରେ ନାହିଁ ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "FLO2010",
+    "question": "ଅନୁବାଦର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ କ’ଣ?",
+    "options": {
+      "A": "ଭାଷାକୁ ଜଟିଳ କରିବା",
+      "B": "ଭାବ ଓ ଚିନ୍ତନର ଆହରଣ କରିବା",
+      "C": "ବ୍ୟବସାୟ ବୃଦ୍ଧି କରିବା",
+      "D": "ଶବ୍ଦ ସଂଖ୍ୟା କମାଇବା"
+    },
+    "answer": "B",
+    "explanation": "ବିଭିନ୍ନ ଭାଷାର ସାହିତ୍ୟ କୃତିର ଚିନ୍ତନକୁ ଆହରଣ କରିବା ଅନୁବାଦର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2011",
+    "question": "‘He was very intelligent and never forgot what he once learnt.’ - ଏହାର ସଠିକ୍ ଓଡ଼ିଆ ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "ସେ ଜଣେ ବୁଦ୍ଧିମାନ ଛାତ୍ର ଥିଲେ ।",
+      "B": "ସେ ଅତ୍ୟନ୍ତ ବୁଦ୍ଧିମାନ ଥିଲେ ଏବଂ ଯାହା ଥରେ ପଢୁଥିଲେ, କେବେହେଲେ ଭୁଲୁ ନ ଥିଲେ ।",
+      "C": "ସେ ଅତ୍ୟନ୍ତ ଜ୍ଞାନୀ ଥିଲେ ଏବଂ ସବୁ ମନେ ରଖୁଥିଲେ ।",
+      "D": "ସେ କେବେହେଲେ କିଛି ଭୁଲୁ ନ ଥିଲେ ।"
+    },
+    "answer": "B",
+    "explanation": "ଉତ୍ସ ଅନୁସାରେ ଈଶ୍ଵରଚନ୍ଦ୍ର ବିଦ୍ୟାସାଗରଙ୍କ ସମ୍ପର୍କରେ ଏହି ଅନୁବାଦ ଦିଆଯାଇଛି ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2012",
+    "question": "‘ସତ୍ୟ ଓ ଅହିଂସା ତାଙ୍କ ଜୀବନର ଆଦର୍ଶ ଥିଲା ।’ - ଏହାର ସଠିକ୍ ଇଂରାଜୀ ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "Truth and non-violence were the ideals of his life.",
+      "B": "Truth and peace are the ideals of life.",
+      "C": "Honesty and peace were the ideals of his life.",
+      "D": "Truth and non-violence are his life."
+    },
+    "answer": "A",
+    "explanation": "ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କ ସମ୍ପର୍କିତ ଅନୁଚ୍ଛେଦରେ ଏହି ଇଂରାଜୀ ବାକ୍ୟ ରହିଛି ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "FLO2013",
+    "question": "‘The saffron colour represents sacrifice.’ - ଏହାର ଓଡ଼ିଆ ଅର୍ଥ କ’ଣ?",
+    "options": {
+      "A": "ଧଳା ରଙ୍ଗ ତ୍ୟାଗର ପ୍ରତୀକ ।",
+      "B": "କୁଙ୍କୁମ ରଙ୍ଗ ତ୍ୟାଗର ପ୍ରତିନିଧିତ୍ଵ କରେ ।",
+      "C": "ସବୁଜ ରଙ୍ଗ ତ୍ୟାଗର ସୂଚନା ଦିଏ ।",
+      "D": "କୁଙ୍କୁମ ରଙ୍ଗ ବୀରତ୍ଵର ପ୍ରତୀକ ।"
+    },
+    "answer": "B",
+    "explanation": "ଜାତୀୟ ପତାକାର ରଙ୍ଗ ସମ୍ବନ୍ଧୀୟ ଅନୁବାଦ ଅନୁସାରେ ଏହା ସଠିକ୍ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2014",
+    "question": "‘ସମୟ କାହାକୁ ଅପେକ୍ଷା କରେ ନାହିଁ ।’ - ଏହାର ସଠିକ୍ ଇଂରାଜୀ ଅନୁବାଦ ବାଛ ।",
+    "options": {
+      "A": "Time is very important.",
+      "B": "Time waits for nobody.",
+      "C": "Time waits for none.",
+      "D": "Time is money."
+    },
+    "answer": "C",
+    "explanation": "ଉତ୍ସରେ ‘Time waits for none’ ବାକ୍ୟଟି ପ୍ରଦାନ କରାଯାଇଛି ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "FLO2015",
+    "question": "‘Idleness is a great foe of human life.’ - ଏହାର ସଠିକ୍ ଓଡ଼ିଆ ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "ଅଳସୁଆ ଲୋକ ଉନ୍ନତି କରେ ନାହିଁ ।",
+      "B": "ଆଳସ୍ୟ ମନୁଷ୍ୟ ଜୀବନର ଏକ ବଡ଼ ଶତ୍ରୁ ।",
+      "C": "ସମୟ ନଷ୍ଟ କରିବା ଖରାପ ଅଭ୍ୟାସ ।",
+      "D": "ଆଳସ୍ୟ ହେଉଛି ପାପ ।"
+    },
+    "answer": "B",
+    "explanation": "ଏଠାରେ 'foe' ଶବ୍ଦର ଅର୍ଥ ଶତ୍ରୁ ଭାବେ ବ୍ୟବହୃତ ହୋଇଛି ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2016",
+    "question": "‘ଭାରତରେ ବିଭିନ୍ନ ଧର୍ମର ଲୋକେ ବାସ କରନ୍ତି ।’ - ଏହାର ଇଂରାଜୀ ରୂପ କ’ଣ ହେବ?",
+    "options": {
+      "A": "Many people live in India.",
+      "B": "People of different religions live in India.",
+      "C": "India is a religious country.",
+      "D": "Different people are living in India."
+    },
+    "answer": "B",
+    "explanation": "ଧର୍ମନିରପେକ୍ଷତା ସମ୍ବନ୍ଧୀୟ ଅନୁଚ୍ଛେଦରେ ଏହି ବାକ୍ୟ ରହିଛି ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "FLO2017",
+    "question": "‘He fought for the rights of Indians in South Africa.’ - ଏହାର ଓଡ଼ିଆ ଅନୁବାଦ କ’ଣ?",
+    "options": {
+      "A": "ସେ ଦକ୍ଷିଣ ଆଫ୍ରିକାରେ ଭାରତୀୟମାନଙ୍କ ପାଇଁ ରହୁଥିଲେ ।",
+      "B": "ସେ ଦକ୍ଷିଣ ଆଫ୍ରିକାରେ ଭାରତୀୟମାନଙ୍କର ଅଧିକାର ପାଇଁ ଲଢ଼ିଥିଲେ ।",
+      "C": "ସେ ଦକ୍ଷିଣ ଆଫ୍ରିକାରେ ଭାରତୀୟମାନଙ୍କୁ ସାହାଯ୍ୟ କରିଥିଲେ ।",
+      "D": "ଭାରତୀୟମାନେ ଦକ୍ଷିଣ ଆଫ୍ରିକାରେ ଲଢୁଥିଲେ ।"
+    },
+    "answer": "B",
+    "explanation": "ଗାନ୍ଧୀଜୀଙ୍କ ସମ୍ପର୍କିତ ବାକ୍ୟର ଏହା ସଠିକ୍ ଓଡ଼ିଆ ରୂପ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2018",
+    "question": "‘Lal Bahadur Shastri belonged to a very poor family.’ - ଏହାର ଓଡ଼ିଆ ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "ଲାଲ ବାହାଦୁର ଶାସ୍ତ୍ରୀ ଜଣେ ଗରିବ ଲୋକ ଥିଲେ ।",
+      "B": "ଲାଲ ବାହାଦୁର ଶାସ୍ତ୍ରୀ ଏକ ଅତି ଦରିଦ୍ର ପରିବାରରୁ ଆସିଥିଲେ ।",
+      "C": "ଶାସ୍ତ୍ରୀଜୀଙ୍କ ପରିବାର ବହୁତ ବଡ଼ ଥିଲା ।",
+      "D": "ଲାଲ ବାହାଦୁର ଶାସ୍ତ୍ରୀ ଜଣେ ମହାନ୍ ବ୍ୟକ୍ତି ଥିଲେ ।"
+    },
+    "answer": "B",
+    "explanation": "ପ୍ରଶ୍ନାବଳୀରେ ଥିବା ଇଂରାଜୀ ଅନୁଚ୍ଛେଦରୁ ଏହି ବାକ୍ୟଟି ନିଆଯାଇଛି ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2019",
+    "question": "‘The wheel denotes progress.’ - ଏହାର ସଠିକ୍ ଓଡ଼ିଆ ଅର୍ଥ କେଉଁଟି?",
+    "options": {
+      "A": "ଚକ୍ର ଶାନ୍ତିକୁ ସୂଚାଏ ।",
+      "B": "ଚକ୍ର ପ୍ରଗତିକୁ ସୂଚିତ କରେ ।",
+      "C": "ଚକ୍ର ପତାକାର ମଝିରେ ଥାଏ ।",
+      "D": "ଚକ୍ର ଏକତାର ପ୍ରତୀକ ।"
+    },
+    "answer": "B",
+    "explanation": "ଜାତୀୟ ପତାକା ସମ୍ବନ୍ଧୀୟ ଅନୁଚ୍ଛେଦରେ 'denotes' ଅର୍ଥ ସୂଚିତ କରିବା ଭାବେ ବ୍ୟବହୃତ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2020",
+    "question": "‘ଅମିତ, ତୁମେ କ’ଣ ମୋର ନୋଟ୍ ବୁକ୍ ଆଣିଛ?’ - ଏହାର ଇଂରାଜୀ ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "Amit, have you brought my Notebook?",
+      "B": "Amit, did you bring my book?",
+      "C": "Amit, where is my Notebook?",
+      "D": "Amit, give me my Notebook."
+    },
+    "answer": "A",
+    "explanation": "ରାହୁଲ ଏବଂ ଅମିତଙ୍କ ମଧ୍ୟରେ ହୋଇଥିବା କଥୋପକଥନରୁ ଏହା ନିଆଯାଇଛି ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "FLO2021",
+    "question": "‘When he was a school boy he used to cross the river by swimming.’ - ଏହାର ଓଡ଼ିଆ ଅନୁବାଦ କ’ଣ?",
+    "options": {
+      "A": "ସେ ପିଲାଦିନେ ନଈରେ ପହଁରୁଥିଲେ ।",
+      "B": "ସେ ଯେତେବେଳେ ଜଣେ ସ୍କୁଲ ଛାତ୍ର ଥିଲେ, ପହଁରି ପହଁରି ନଈ ପାର ହେଉଥିଲେ ।",
+      "C": "ସେ ସ୍କୁଲ ଯିବା ପାଇଁ ପହଁରୁଥିଲେ ।",
+      "D": "ସେ ନାଉରିଆକୁ ପଇସା ଦେଇ ନଈ ପାର ହେଉଥିଲେ ।"
+    },
+    "answer": "B",
+    "explanation": "ଲାଲ ବାହାଦୁର ଶାସ୍ତ୍ରୀଙ୍କ ପିଲାଦିନ ସମ୍ପର୍କିତ ବାକ୍ୟର ଏହା ସଠିକ୍ ଅନୁବାଦ ।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "FLO2022",
+    "question": "‘ସେ କେବେହେଲେ ଅନ୍ୟାୟ ସହିତ ସାଲିସ୍ କରି ନ ଥିଲେ ।’ - ଏହାର ଇଂରାଜୀ ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "He never compromised with injustice.",
+      "B": "He did not like injustice.",
+      "C": "He always fought against injustice.",
+      "D": "He never accepted injustice."
+    },
+    "answer": "A",
+    "explanation": "ଉତ୍ସରେ 'compromised' ଶବ୍ଦଟି ସାଲିସ୍ କରିବା ଅର୍ଥରେ ବ୍ୟବହୃତ ହୋଇଛି ।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "FLO2023",
+    "question": "‘Diwali is the festival of lights.’ - ଏହାର ସଠିକ୍ ଓଡ଼ିଆ ଅନୁବାଦ କେଉଁଟି?",
+    "options": {
+      "A": "ଦୀପାବଳି ଏକ ବଡ଼ ପର୍ବ ।",
+      "B": "ଦୀପାବଳି ହେଉଛି ଆଲୋକର ପର୍ବ ।",
+      "C": "ଦୀପାବଳିରେ ଆଲୋକ ଜଳାଯାଏ ।",
+      "D": "ଦୀପାବଳି ଖୁସିର ପର୍ବ ।"
+    },
+    "answer": "B",
+    "explanation": "ଦୀପାବଳି ସମ୍ପର୍କିତ ଅନୁଚ୍ଛେଦର ଏହା ପ୍ରଥମ ବାକ୍ୟ ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "FLO2024",
+    "question": "‘ମାମା, ବାପା ଘରକୁ ଆସିଲେଣି?’ - ଏହି ପ୍ରଶ୍ନର ଇଂରାଜୀ ରୂପ କେଉଁଟି?",
+    "options": {
+      "A": "Mama, is father at home?",
+      "B": "Mama, has father come home?",
+      "C": "Mama, where is father?",
+      "D": "Mama, will father come home?"
+    },
+    "answer": "B",
+    "explanation": "ଶିକ୍ଷକ ଏବଂ ମାମାଙ୍କ କଥୋପକଥନର ଏହା ଏକ ଅଂଶ ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FLO2025",
+    "question": "‘We should follow his footprints.’ - ଏହାର ସଠିକ୍ ଓଡ଼ିଆ ଅର୍ଥ କ’ଣ?",
+    "options": {
+      "A": "ଆମେ ତାଙ୍କ ପାଦକୁ ଦେଖିବା ଉଚିତ ।",
+      "B": "ଆମ୍ଭେମାନେ ତାଙ୍କ ପଦାଙ୍କ ଅନୁସରଣ କରିବା ଉଚିତ ।",
+      "C": "ଆମକୁ ତାଙ୍କ ପରି ଚାଲିବାକୁ ହେବ ।",
+      "D": "ଆମେ ତାଙ୍କୁ ସବୁବେଳେ ମନେ ରଖିବା ଉଚିତ ।"
+    },
+    "answer": "B",
+    "explanation": "ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କ ପଦାଙ୍କ ଅନୁସରଣ କରିବା ଅର୍ଥରେ ଏହା ବ୍ୟବହୃତ ।",
+    "difficulty": "medium"
+  }
+]
+}

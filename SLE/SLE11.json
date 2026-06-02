@@ -1,0 +1,1046 @@
+﻿{
+  "chapter_id": "SLE11",
+  "chapter_name": "A TIGER IN THE HOUSE",
+  "questions": [
+    {
+      "id": "SLE1101",
+      "question": "Who is the author of the story 'A Tiger in the House'?",
+      "options": {
+        "A": "Ruskin Bond",
+        "B": "Anton Chekhov",
+        "C": "Prem Chand",
+        "D": "Leo Tolstoy"
+      },
+      "answer": "A",
+      "explanation": "The story is written by the famous author Ruskin Bond.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1102",
+      "question": "Where did Grandfather discover the tiger cub?",
+      "options": {
+        "A": "In a zoo at Lucknow",
+        "B": "In the Terai Jungle near Dehra",
+        "C": "In the Siwalik hills",
+        "D": "Near a banyan tree in his garden"
+      },
+      "answer": "B",
+      "explanation": "Timothy was discovered on a hunting expedition in the Terai Jungle near Dehra.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1103",
+      "question": "What was the length of the tiger cub when it was discovered?",
+      "options": {
+        "A": "Ten inches",
+        "B": "Twelve inches",
+        "C": "Eighteen inches",
+        "D": "Two feet"
+      },
+      "answer": "C",
+      "explanation": "Grandfather discovered a little tiger about eighteen inches long hiding among roots.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1104",
+      "question": "Who named the tiger cub 'Timothy'?",
+      "options": {
+        "A": "Grandfather",
+        "B": "Grandmother",
+        "C": "The writer",
+        "D": "Mahmoud the cook"
+      },
+      "answer": "B",
+      "explanation": "The tiger cub was named Timothy by Grandmother.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1105",
+      "question": "Initially, what was Timothy's primary diet?",
+      "options": {
+        "A": "Raw mutton",
+        "B": "Milk in a feeding bottle",
+        "C": "Pigeons and rabbits",
+        "D": "Cod liver oil"
+      },
+      "answer": "B",
+      "explanation": "At first, he was brought up entirely on milk given to him by the cook.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1106",
+      "question": "Who was Timothy's cook and caretaker at home?",
+      "options": {
+        "A": "The writer",
+        "B": "Toto",
+        "C": "Mahmoud",
+        "D": "Grandfather"
+      },
+      "answer": "C",
+      "explanation": "Mahmoud was the cook who gave Timothy milk in a feeding bottle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1107",
+      "question": "Which of these animals was NOT a companion of Timothy at home?",
+      "options": {
+        "A": "Toto the monkey",
+        "B": "A mongrel puppy",
+        "C": "A leopard",
+        "D": "The writer"
+      },
+      "answer": "C",
+      "explanation": "The leopard was in the cage next to the tiger at the zoo, not a companion at home.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1108",
+      "question": "How did Toto the monkey tease Timothy?",
+      "options": {
+        "A": "By biting his ankles",
+        "B": "By pulling him by the tail",
+        "C": "By stealing his food",
+        "D": "By jumping on his back"
+      },
+      "answer": "B",
+      "explanation": "Toto was bold enough to pull the young tiger by the tail.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1109",
+      "question": "Where would Toto climb if Timothy lost his temper?",
+      "options": {
+        "A": "Up a banyan tree",
+        "B": "Under the sofa",
+        "C": "Up the curtains",
+        "D": "On the roof"
+      },
+      "answer": "C",
+      "explanation": "Toto would climb up the curtains if Timothy lost his temper.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1110",
+      "question": "Timothy's favorite place in the house was the ________.",
+      "options": {
+        "A": "Kitchen",
+        "B": "Garden",
+        "C": "Drawing room",
+        "D": "Cook's quarters"
+      },
+      "answer": "C",
+      "explanation": "His favourite place in the house was the drawing room, specifically the long sofa.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1111",
+      "question": "When Timothy was six months old, what major change occurred?",
+      "options": {
+        "A": "He grew very fast",
+        "B": "He became steadily less friendly",
+        "C": "He started eating only vegetables",
+        "D": "He died of pneumonia"
+      },
+      "answer": "B",
+      "explanation": "When he was about six months old, a change came over him; he grew steadily less friendly.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1112",
+      "question": "Why did Grandfather decide to transfer Timothy to a zoo?",
+      "options": {
+        "A": "Because the writer left for Dehra",
+        "B": "Because Mahmoud stopped feeding him",
+        "C": "Because he began to stalk Mahmoud with villainous intent",
+        "D": "Because Grandmother was afraid of him"
+      },
+      "answer": "C",
+      "explanation": "Grandfather decided it was time to transfer him when he began to stalk Mahmoud with what looked like villainous intent.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1113",
+      "question": "In which city was the zoo where Timothy was sent?",
+      "options": {
+        "A": "Dehra",
+        "B": "Lucknow",
+        "C": "Delhi",
+        "D": "Bhubaneswar"
+      },
+      "answer": "B",
+      "explanation": "The nearest zoo was at Lucknow, two hundred miles away.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1114",
+      "question": "How did Grandfather transport Timothy to the zoo?",
+      "options": {
+        "A": "In a truck",
+        "B": "In a private car",
+        "C": "In a first-class compartment",
+        "D": "In a cage on an elephant"
+      },
+      "answer": "C",
+      "explanation": "Grandfather reserved a first-class compartment for himself and Timothy.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1115",
+      "question": "How long after sending Timothy to the zoo did Grandfather visit him?",
+      "options": {
+        "A": "One month",
+        "B": "Two months",
+        "C": "Six months",
+        "D": "One year"
+      },
+      "answer": "C",
+      "explanation": "Grandfather took the opportunity to visit the zoo about six months later.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1116",
+      "question": "What did Grandfather do when the tiger growled during the visit?",
+      "options": {
+        "A": "He ran away",
+        "B": "He smacked him across the mouth",
+        "C": "He fed him a rabbit",
+        "D": "He called the keeper"
+      },
+      "answer": "B",
+      "explanation": "Whenever he growled, Grandfather smacked him across the mouth, which was his old way of keeping him quiet.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1117",
+      "question": "Which animal in the next cage kept frightening the tiger at the zoo?",
+      "options": {
+        "A": "Another tiger",
+        "B": "A lion",
+        "C": "A leopard",
+        "D": "A wolf"
+      },
+      "answer": "C",
+      "explanation": "The tiger sprang away when a leopard in the next cage snarled at him.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1118",
+      "question": "What shocking information did the keeper give Grandfather?",
+      "options": {
+        "A": "Timothy had escaped",
+        "B": "Timothy was transferred to another zoo",
+        "C": "Timothy had died two months ago",
+        "D": "Timothy was actually a leopard"
+      },
+      "answer": "C",
+      "explanation": "The keeper informed Grandfather that Timothy had died two months ago of pneumonia.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1119",
+      "question": "According to the keeper, what caused Timothy's death?",
+      "options": {
+        "A": "Old age",
+        "B": "Pneumonia",
+        "C": "A fight with a leopard",
+        "D": "Starvation"
+      },
+      "answer": "B",
+      "explanation": "The keeper said, 'He died two months ago of pneumonia.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1120",
+      "question": "Where did the dangerous tiger in the cage come from?",
+      "options": {
+        "A": "It was raised in the zoo",
+        "B": "Trapped in the hills only last month",
+        "C": "Brought from the Terai jungle",
+        "D": "Gifted by the Viceroy"
+      },
+      "answer": "B",
+      "explanation": "The keeper explained that the current tiger was trapped in the hills only last month.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1121",
+      "question": "The tiger at the zoo was licking Grandfather’s arm with increasing _______.",
+      "options": {
+        "A": "Anger",
+        "B": "Relish",
+        "C": "Fear",
+        "D": "Sadness"
+      },
+      "answer": "B",
+      "explanation": "The text says, 'The tiger was still licking his arm, with increasing relish.'",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1122",
+      "question": "How did Grandfather feel when he left the zoo?",
+      "options": {
+        "A": "Happy and relieved",
+        "B": "Brisk and scornful",
+        "C": "Angry at Mahmoud",
+        "D": "Excited for a new hunt"
+      },
+      "answer": "B",
+      "explanation": "He gave the keeper a scornful look and walked briskly out of the zoo.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1123",
+      "question": "Grandfather was requested to accompany the hunting party because ______.",
+      "options": {
+        "A": "He was a famous shikari",
+        "B": "He knew the forests of Siwalik hills better than most",
+        "C": "He wanted to catch a tiger",
+        "D": "He was the oldest person in Delhi"
+      },
+      "answer": "B",
+      "explanation": "He knew the land and the direction beaters should take better than others.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1124",
+      "question": "What was the weight or size of Timothy when the writer lived with Grandfather?",
+      "options": {
+        "A": "Size of a small cat",
+        "B": "Size of a full-grown retriever",
+        "C": "Size of a calf",
+        "D": "Size of a puppy"
+      },
+      "answer": "B",
+      "explanation": "He was by this time the size of a full-grown retriever.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1125",
+      "question": "Timothy slept at night in the _______.",
+      "options": {
+        "A": "Drawing room",
+        "B": "Veranda",
+        "C": "Cook’s quarters",
+        "D": "Grandfather's bedroom"
+      },
+      "answer": "C",
+      "explanation": "He slept at night in the cook's quarters.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1126",
+      "question": "What is the meaning of 'shikari' in the context of the text?",
+      "options": {
+        "A": "A guide",
+        "B": "A hunter",
+        "C": "A forest officer",
+        "D": "A cook"
+      },
+      "answer": "B",
+      "explanation": "The text mentions Grandfather was no shikari (hunter).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1127",
+      "question": "Which animal was 'bold enough to pull the young tiger by the tail'?",
+      "options": {
+        "A": "The puppy",
+        "B": "Toto the monkey",
+        "C": "The leopard",
+        "D": "The writer"
+      },
+      "answer": "B",
+      "explanation": "Toto the monkey was bold enough to pull Timothy by the tail.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1128",
+      "question": "The hunting party consisted of several important persons from _______.",
+      "options": {
+        "A": "Lucknow",
+        "B": "Delhi",
+        "C": "Dehra",
+        "D": "Bhubaneswar"
+      },
+      "answer": "B",
+      "explanation": "The party consisted of several very important persons from Delhi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1129",
+      "question": "How many elephants were in the hunting camp?",
+      "options": {
+        "A": "Seven",
+        "B": "Ten",
+        "C": "Fifteen",
+        "D": "Twenty"
+      },
+      "answer": "C",
+      "explanation": "There were also some fifteen elephants in the camp.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1130",
+      "question": "What was the 'villainous intent' Timothy showed towards Mahmoud?",
+      "options": {
+        "A": "He wanted to play with him",
+        "B": "He began to stalk him about the house",
+        "C": "He bit his shoes",
+        "D": "He stole his clothes"
+      },
+      "answer": "B",
+      "explanation": "He began to stalk Mahmoud with what looked like villainous intent.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1131",
+      "question": "In the zoo, Grandfather found the tiger in a cage _______ in a corner.",
+      "options": {
+        "A": "Sleeping",
+        "B": "Growling",
+        "C": "Crouched",
+        "D": "Eating"
+      },
+      "answer": "C",
+      "explanation": "The tiger was there, crouched in a corner, full-grown.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1132",
+      "question": "What did the tiger do to Grandfather's hands at the zoo?",
+      "options": {
+        "A": "Bit them",
+        "B": "Scratched them",
+        "C": "Licked them",
+        "D": "Ignored them"
+      },
+      "answer": "C",
+      "explanation": "He licked Grandfather's hands and only sprang away when the leopard snarled.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1133",
+      "question": "Which of these is a textbook glossary meaning for 'expedition'?",
+      "options": {
+        "A": "A fast runner",
+        "B": "A party / trip",
+        "C": "A dangerous animal",
+        "D": "A large tent"
+      },
+      "answer": "B",
+      "explanation": "Glossary defines expedition as a party / trip.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1134",
+      "question": "What does 'intricate' mean in the description of the banyan tree?",
+      "options": {
+        "A": "Large",
+        "B": "Having a lot of different parts and small details",
+        "C": "Very old",
+        "D": "Fragile"
+      },
+      "answer": "B",
+      "explanation": "Glossary defines intricate as having many parts/details that fit together.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1135",
+      "question": "A 'mongrel' is a kind of _______.",
+      "options": {
+        "A": "Tiger",
+        "B": "Dog",
+        "C": "Monkey",
+        "D": "Bird"
+      },
+      "answer": "B",
+      "explanation": "Glossary: mongrel - a kind of dog (mixture of different breeds).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1136",
+      "question": "The word 'stalk' means to follow _______.",
+      "options": {
+        "A": "Angrily",
+        "B": "Stealthily / quietly",
+        "C": "Happily",
+        "D": "With a chain"
+      },
+      "answer": "B",
+      "explanation": "Glossary: stalk - follow stealthily / quietly.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1137",
+      "question": "What is a 'howdah' used for?",
+      "options": {
+        "A": "Feeding tigers",
+        "B": "Riding on the back of an elephant",
+        "C": "Pitching a tent",
+        "D": "Cooking food"
+      },
+      "answer": "B",
+      "explanation": "Glossary: howdah - a seat for riding on the back of an elephant.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1138",
+      "question": "Grandfather was strolling down the forest path when he discovered the _______ tiger.",
+      "options": {
+        "A": "Sick",
+        "B": "Angry",
+        "C": "Little",
+        "D": "Dead"
+      },
+      "answer": "C",
+      "explanation": "The text mentions he 'discovered a little tiger about eighteen inches long'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1139",
+      "question": "Why did people on the road give Timothy and the writer a 'wide berth'?",
+      "options": {
+        "A": "Because he was cute",
+        "B": "Because they were afraid of the tiger",
+        "C": "Because the writer was famous",
+        "D": "Because the road was narrow"
+      },
+      "answer": "B",
+      "explanation": "When the writer took him for walks, people gave a wide berth out of fear of the wild animal.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1140",
+      "question": "How did the writer become one of the tiger's favorites?",
+      "options": {
+        "A": "By feeding him meat",
+        "B": "By playing with him",
+        "C": "By letting him sleep on the bed",
+        "D": "By training him"
+      },
+      "answer": "B",
+      "explanation": "Timothy's favorite amusement was to stalk anyone who played with him, and the writer played with him.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1141",
+      "question": "The second keeper observed Grandfather with some _______.",
+      "options": {
+        "A": "Joy",
+        "B": "Alarm",
+        "C": "Indifference",
+        "D": "Amusement"
+      },
+      "answer": "B",
+      "explanation": "The text states: 'another keeper observing him with some alarm.'",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1142",
+      "question": "What happened to the poultry house at night as Timothy grew older?",
+      "options": {
+        "A": "He protected it",
+        "B": "Frenzied cackling was heard and feathers were found",
+        "C": "He slept there",
+        "D": "The writer locked him in there"
+      },
+      "answer": "B",
+      "explanation": "Frenzied cackling would be heard and in the morning feathers would be lying on the veranda.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1143",
+      "question": "Grandfather recognized the second keeper as the one who was there when _______.",
+      "options": {
+        "A": "Timothy died",
+        "B": "Timothy first came to the zoo",
+        "C": "The leopard arrived",
+        "D": "The Superintendent left"
+      },
+      "answer": "B",
+      "explanation": "Grandfather recognized him as the keeper who had been there when Timothy first came.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1144",
+      "question": "Why did Grandfather say 'Goodnight, Timothy' at the end?",
+      "options": {
+        "A": "To prove the keeper wrong",
+        "B": "To say a final goodbye, still identifying with his pet",
+        "C": "Because it was time for the tiger to sleep",
+        "D": "Because the tiger told him to"
+      },
+      "answer": "B",
+      "explanation": "It was a poignant final farewell to his memory of Timothy, even though he knew this wasn't him.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1145",
+      "question": "According to the story, who licked the tiger's forehead and ticked his ear?",
+      "options": {
+        "A": "Mahmoud",
+        "B": "Grandmother",
+        "C": "Grandfather",
+        "D": "The keeper"
+      },
+      "answer": "C",
+      "explanation": "At the zoo, Grandfather stroked the tiger's forehead and ticked his ear.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1146",
+      "question": "What is the size of Timothy at the end of the story in the zoo?",
+      "options": {
+        "A": "Small cub",
+        "B": "Full-grown",
+        "C": "Medium sized",
+        "D": "Weak and thin"
+      },
+      "answer": "B",
+      "explanation": "The tiger was 'full-grown and with a magnificent striped coat.'",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1147",
+      "question": "The nearest zoo at Lucknow was _______ miles away.",
+      "options": {
+        "A": "One hundred",
+        "B": "One hundred and fifty",
+        "C": "Two hundred",
+        "D": "Three hundred"
+      },
+      "answer": "C",
+      "explanation": "The text explicitly mentions 'two hundred miles away.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1148",
+      "question": "Grandfather went in search of the _______ of the zoo.",
+      "options": {
+        "A": "Keepers",
+        "B": "Superintendent",
+        "C": "Owner",
+        "D": "Doctor"
+      },
+      "answer": "B",
+      "explanation": "He went to suggest putting the tiger elsewhere to the Superintendent.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1149",
+      "question": "The tiger Grandfather petted at the zoo was trapped _______.",
+      "options": {
+        "A": "Six months ago",
+        "B": "Two months ago",
+        "C": "Last month",
+        "D": "Yesterday"
+      },
+      "answer": "C",
+      "explanation": "The keeper said: 'This tiger was trapped in the hills only last month.'",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1150",
+      "question": "Why did Grandfather withdraw his hand from the cage with 'increasing relish' from the tiger?",
+      "options": {
+        "A": "He was happy",
+        "B": "The tiger was dangerous and licking his arm",
+        "C": "He wanted to stay longer",
+        "D": "The keeper forced him"
+      },
+      "answer": "B",
+      "explanation": "The tiger was dangerous and the realization made the withdrawal take 'what seemed to him an age.'",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1151",
+      "question": "Timothy's clean habits included scrubbing his face with his paws exactly like a _______.",
+      "options": {
+        "A": "Dog",
+        "B": "Cat",
+        "C": "Bear",
+        "D": "Monkey"
+      },
+      "answer": "B",
+      "explanation": "The text compares his face-scrubbing habit to that of a cat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1152",
+      "question": "Grandfather was the only member of the party to have _______ any game.",
+      "options": {
+        "A": "Seen",
+        "B": "Bagged",
+        "C": "Missed",
+        "D": "Lost"
+      },
+      "answer": "B",
+      "explanation": "He had the distinction of being the only member to have bagged any game.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1153",
+      "question": "What did the sportsmen begin to shoot at when they didn't find a tiger?",
+      "options": {
+        "A": "Deer",
+        "B": "Jackals",
+        "C": "Peacocks",
+        "D": "Wild boar"
+      },
+      "answer": "B",
+      "explanation": "They were beginning to shoot at jackals when Grandfather discovered Timothy.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1154",
+      "question": "Timothy would creep closer to the writer and suddenly make a dash for his _______.",
+      "options": {
+        "A": "Hands",
+        "B": "Feet",
+        "C": "Head",
+        "D": "Bag"
+      },
+      "answer": "B",
+      "explanation": "He would 'suddenly making a dash for my feet.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1155",
+      "question": "Who declared 'one of these days we are going to find Timothy sitting on Mahmoud’s bed'?",
+      "options": {
+        "A": "Grandmother",
+        "B": "Grandfather",
+        "C": "The writer",
+        "D": "The keeper"
+      },
+      "answer": "B",
+      "explanation": "Grandfather declared this in his prophetic manner.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1156",
+      "question": "Grandfather was 'no _______', but he knew the forests well.",
+      "options": {
+        "A": "Guide",
+        "B": "Shikari",
+        "C": "Villager",
+        "D": "Official"
+      },
+      "answer": "B",
+      "explanation": "The text states: 'Grandfather was no shikari.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1157",
+      "question": "The zoo authorities were _______ to receive a well-fed tiger.",
+      "options": {
+        "A": "Afraid",
+        "B": "Glad",
+        "C": "Surprised",
+        "D": "Reluctant"
+      },
+      "answer": "B",
+      "explanation": "The text says they were 'only too glad to receive as a gift a well fed and fairly civilized tiger.'",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1158",
+      "question": "Grandfather walked out of the zoo _______ after the encounter.",
+      "options": {
+        "A": "Slowly",
+        "B": "Briskly",
+        "C": "Sadly",
+        "D": "Happily"
+      },
+      "answer": "B",
+      "explanation": "The last line says he 'walked briskly out of the zoo.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1159",
+      "question": "What is the synonym of 'impressive' in the glossary?",
+      "options": {
+        "A": "Expedition",
+        "B": "Sumptuous",
+        "C": "Intricate",
+        "D": "Retriever"
+      },
+      "answer": "B",
+      "explanation": "Glossary: sumptuous : impressive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1160",
+      "question": "What does 'crouch' mean according to the glossary?",
+      "options": {
+        "A": "To jump high",
+        "B": "To bend the knees and bring the upper body forward and down",
+        "C": "To run very fast",
+        "D": "To sleep soundly"
+      },
+      "answer": "B",
+      "explanation": "Glossary defines crouch as bending knees and bringing the body down.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1161",
+      "question": "Grandfather climbed the _______ with ease to reach the cage.",
+      "options": {
+        "A": "Wall",
+        "B": "Mailing (railing)",
+        "C": "Tree",
+        "D": "Ladder"
+      },
+      "answer": "B",
+      "explanation": "He 'climbing the mailing [railing] with ease' to reach the tiger.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1162",
+      "question": "The tiger Grandfather met at the zoo was described by the keeper as very _______.",
+      "options": {
+        "A": "Amiable",
+        "B": "Bad tempered",
+        "C": "Old",
+        "D": "Friendly"
+      },
+      "answer": "B",
+      "explanation": "The keeper said: 'he is always very bad tempered.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1163",
+      "question": "Mahmoud fed Timothy mutton and _______.",
+      "options": {
+        "A": "Milk",
+        "B": "Cod liver oil",
+        "C": "Bread",
+        "D": "Fruit"
+      },
+      "answer": "B",
+      "explanation": "He was put on a diet of raw mutton and cod liver oil.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1164",
+      "question": "What animal was Timothy's second companion?",
+      "options": {
+        "A": "A cat",
+        "B": "A mongrel puppy",
+        "C": "A parrot",
+        "D": "A rabbit"
+      },
+      "answer": "B",
+      "explanation": "His two companions were Toto and a small mongrel puppy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1165",
+      "question": "Timothy was transferred to the zoo when he was about _______ months old.",
+      "options": {
+        "A": "Three",
+        "B": "Six",
+        "C": "Nine",
+        "D": "Twelve"
+      },
+      "answer": "B",
+      "explanation": "The text says 'when Timothy was about six months old a change came over him.'",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1166",
+      "question": "Grandfather discovered Timothy hiding among the roots of a _______ tree.",
+      "options": {
+        "A": "Mango",
+        "B": "Banyan",
+        "C": "Peepal",
+        "D": "Neem"
+      },
+      "answer": "B",
+      "explanation": "He was found among the 'intricate roots of a banyan tree.'",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1167",
+      "question": "What did Grandfather 'shoe' away at the zoo?",
+      "options": {
+        "A": "The keeper",
+        "B": "The leopard",
+        "C": "The tiger",
+        "D": "The crowd"
+      },
+      "answer": "B",
+      "explanation": "Grandfather 'shoed' the leopard away when it snarled at the tiger.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1168",
+      "question": "The keeper stammered, 'But- sir- it is _______ tiger'.",
+      "options": {
+        "A": "A wild",
+        "B": "Not your",
+        "C": "My",
+        "D": "A dead"
+      },
+      "answer": "B",
+      "explanation": "The keeper revealed to Grandfather that 'it is not your tiger.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1169",
+      "question": "In the summary activity, Timothy lived happily like one of the members of the _______ family.",
+      "options": {
+        "A": "Grandfather’s",
+        "B": "Writer’s",
+        "C": "Keeper’s",
+        "D": "Mahmoud’s"
+      },
+      "answer": "B",
+      "explanation": "The summary activity mentions Timothy lived like a member of the writer’s family.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1170",
+      "question": "Which of these words describes a 'slow relaxed / leisurely walk'?",
+      "options": {
+        "A": "Expedition",
+        "B": "Stroll",
+        "C": "Dart",
+        "D": "Stalk"
+      },
+      "answer": "B",
+      "explanation": "Glossary: stroll - a slow relaxed / leisurely walk.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1171",
+      "question": "Grandfather admitted the _______ was very good in the jungle camp.",
+      "options": {
+        "A": "Weather",
+        "B": "Hunting",
+        "C": "Dinner",
+        "D": "Sleep"
+      },
+      "answer": "C",
+      "explanation": "He admitted the 'diner' (dinner) was very good despite being in a tent.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1172",
+      "question": "How did Grandfather keep Timothy quiet in his old way?",
+      "options": {
+        "A": "Giving him meat",
+        "B": "Smacking him across the mouth",
+        "C": "Shouting at him",
+        "D": "Chaining him"
+      },
+      "answer": "B",
+      "explanation": "He 'smacked him across the mouth, which was his old way of keeping him quiet.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1173",
+      "question": "What color was the fur of the 'retriever' dog mentioned in the glossary?",
+      "options": {
+        "A": "White or grey",
+        "B": "Thick black or light brown",
+        "C": "Spotted",
+        "D": "Reddish"
+      },
+      "answer": "B",
+      "explanation": "Glossary: retriever - a large dog with thick black or light brown fur.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1174",
+      "question": "Who was the 'scornful look' directed at in the end?",
+      "options": {
+        "A": "The tiger",
+        "B": "The keeper",
+        "C": "Mahmoud",
+        "D": "Grandmother"
+      },
+      "answer": "B",
+      "explanation": "Grandfather gave the keeper a scornful look before walking out.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1175",
+      "question": "Timothy appeared to be quite _______ of the puppy at first.",
+      "options": {
+        "A": "Fond",
+        "B": "Afraid",
+        "C": "Aggressive",
+        "D": "Protective"
+      },
+      "answer": "B",
+      "explanation": "At first Timothy appeared to be quite afraid of the puppy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1176",
+      "question": "Which animal would snarled at Timothy through the bars at the zoo?",
+      "options": {
+        "A": "The leopard",
+        "B": "A monkey",
+        "C": "A jackal",
+        "D": "Another tiger"
+      },
+      "answer": "A",
+      "explanation": "A leopard in the next cage snarled at him every now and then.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1177",
+      "question": "Grandfather recognized the keeper who had been there when Timothy ________.",
+      "options": {
+        "A": "Died",
+        "B": "First come to the zoo",
+        "C": "Escaped",
+        "D": "Bit someone"
+      },
+      "answer": "B",
+      "explanation": "He recognized the keeper from when Timothy first arrived at the zoo.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1178",
+      "question": "Grandfather testily said, 'I realize he is _______'.",
+      "options": {
+        "A": "A cub",
+        "B": "No longer mine",
+        "C": "Dead",
+        "D": "Timothy"
+      },
+      "answer": "B",
+      "explanation": "He admitted to the keeper, 'I realize he is no longer mine.'",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1179",
+      "question": "What word in the glossary means 'run suddenly'?",
+      "options": {
+        "A": "Stalk",
+        "B": "Dart",
+        "C": "Stroll",
+        "D": "Expedition"
+      },
+      "answer": "B",
+      "explanation": "Glossary: dart - run suddenly.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1180",
+      "question": "Timothy's favorite amusement was to stalk anyone who should _______ with him.",
+      "options": {
+        "A": "Fight",
+        "B": "Play",
+        "C": "Feed",
+        "D": "Sleep"
+      },
+      "answer": "B",
+      "explanation": "One of his favorite amusements was to stalk anyone who should play with him.",
+      "difficulty": "easy"
+    }
+  ]
+}

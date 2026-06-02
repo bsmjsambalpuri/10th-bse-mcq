@@ -1,0 +1,1046 @@
+﻿{
+  "chapter_id": "SLE06",
+  "chapter_name": "A Letter to God",
+  "questions": [
+    {
+      "id": "SLE0601",
+      "question": "Where was Lencho's house located?",
+      "options": {
+        "A": "In a crowded city",
+        "B": "On the crest of a low hill",
+        "C": "In a deep valley",
+        "D": "Near a busy marketplace"
+      },
+      "answer": "B",
+      "explanation": "The text states the house sat on the crest of a low hill and was the only one in the entire valley.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0602",
+      "question": "What could one see from the height of Lencho's house?",
+      "options": {
+        "A": "The ocean and ships",
+        "B": "A dense forest",
+        "C": "The river and the field of ripe corn",
+        "D": "The city lights"
+      },
+      "answer": "C",
+      "explanation": "From that height, one could see the river and the field of ripe corn dotted with flowers.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0603",
+      "question": "What did the earth need according to Lencho?",
+      "options": {
+        "A": "Fertilizers",
+        "B": "Sunlight",
+        "C": "A downpour or at least a shower",
+        "D": "New seeds"
+      },
+      "answer": "C",
+      "explanation": "The story mentions that the only thing the earth needed was a downpour or at least a shower.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0604",
+      "question": "Towards which direction did Lencho look throughout the morning?",
+      "options": {
+        "A": "South-west",
+        "B": "North-east",
+        "C": "North-west",
+        "D": "South-east"
+      },
+      "answer": "B",
+      "explanation": "Lencho had done nothing else but see the sky towards the north-east throughout the morning.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0605",
+      "question": "What did Lencho compare the big drops of rain to?",
+      "options": {
+        "A": "Silver coins",
+        "B": "New coins (ten cent pieces)",
+        "C": "Frozen pearls",
+        "D": "Diamonds"
+      },
+      "answer": "B",
+      "explanation": "Lencho exclaimed that the big drops were ten cent pieces and the little ones were fives.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0606",
+      "question": "What began to fall along with the rain suddenly?",
+      "options": {
+        "A": "Snow",
+        "B": "Dust",
+        "C": "Very large hailstones",
+        "D": "Leaves"
+      },
+      "answer": "C",
+      "explanation": "Suddenly a strong wind began to blow and along with the rain very large hailstones began to fall.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0607",
+      "question": "What did the hailstones resemble in the eyes of the boys?",
+      "options": {
+        "A": "Small stones",
+        "B": "New silver coins",
+        "C": "White salt",
+        "D": "Glass beads"
+      },
+      "answer": "B",
+      "explanation": "The text notes that the hailstones 'truly did resemble new silver coins'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0608",
+      "question": "How long did the hail rain on the entire valley?",
+      "options": {
+        "A": "For ten minutes",
+        "B": "For half an hour",
+        "C": "For an hour",
+        "D": "All night"
+      },
+      "answer": "C",
+      "explanation": "The story states, 'For an hour the hail rained on the house... on the whole valley'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0609",
+      "question": "After the storm, the field looked as if it were covered with _______.",
+      "options": {
+        "A": "Sugar",
+        "B": "Salt",
+        "C": "Ice",
+        "D": "Sand"
+      },
+      "answer": "B",
+      "explanation": "The field was white, as if covered with salt.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0610",
+      "question": "What was the effect of the hailstorm on the corn field?",
+      "options": {
+        "A": "The corn was partially saved",
+        "B": "The corn was totally destroyed",
+        "C": "The corn grew better",
+        "D": "Only the flowers remained"
+      },
+      "answer": "B",
+      "explanation": "The text explicitly says, 'The corn was totally destroyed'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0611",
+      "question": "What did Lencho say would have left more than the hailstorm?",
+      "options": {
+        "A": "A flood",
+        "B": "A plague of locusts",
+        "C": "A forest fire",
+        "D": "A drought"
+      },
+      "answer": "B",
+      "explanation": "Lencho told his sons, 'A plague of locusts would have left more than this'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0612",
+      "question": "What was the single hope left in the hearts of Lencho's family?",
+      "options": {
+        "A": "Help from the government",
+        "B": "Help from neighbors",
+        "C": "Help from God",
+        "D": "Selling the house"
+      },
+      "answer": "C",
+      "explanation": "In their hearts, there was a single hope: help from God.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0613",
+      "question": "Lencho was described as an 'ox of a man'. What does this mean?",
+      "options": {
+        "A": "He was very lazy",
+        "B": "He was very strong and hardworking",
+        "C": "He looked like an animal",
+        "D": "He was very stubborn"
+      },
+      "answer": "B",
+      "explanation": "The expression means he worked like an animal (very hard) in the fields.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0614",
+      "question": "On which day did Lencho begin to write the letter to God?",
+      "options": {
+        "A": "Monday morning",
+        "B": "Saturday night",
+        "C": "The following Sunday, at daybreak",
+        "D": "Friday evening"
+      },
+      "answer": "C",
+      "explanation": "The following Sunday, at daybreak, he began to write a letter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0615",
+      "question": "How much money did Lencho ask for in his letter?",
+      "options": {
+        "A": "Fifty pesos",
+        "B": "Seventy pesos",
+        "C": "A hundred pesos",
+        "D": "Five hundred pesos"
+      },
+      "answer": "C",
+      "explanation": "He wrote that he needed a hundred pesos to sow his field again and to live until the crop comes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0616",
+      "question": "What address did Lencho write on the envelope?",
+      "options": {
+        "A": "To the Postmaster",
+        "B": "To God",
+        "C": "To the Heaven",
+        "D": "To the Mayor"
+      },
+      "answer": "B",
+      "explanation": "He wrote 'To God' on the envelope.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0617",
+      "question": "The postmaster was a fat and _______ fellow.",
+      "options": {
+        "A": "Arrogant",
+        "B": "Serious",
+        "C": "Amiable",
+        "D": "Cruel"
+      },
+      "answer": "C",
+      "explanation": "The text describes the postmaster as a fat, amiable fellow.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0618",
+      "question": "Why did the postmaster decide to answer the letter?",
+      "options": {
+        "A": "To make fun of Lencho",
+        "B": "Because he was bored",
+        "C": "In order not to shake the writer's faith in God",
+        "D": "To get a reward from God"
+      },
+      "answer": "C",
+      "explanation": "In order not to shake the writer’s faith in God, the postmaster came up with the idea to answer the letter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0619",
+      "question": "What did the postmaster need to answer the letter besides goodwill, ink, and paper?",
+      "options": {
+        "A": "A stamp",
+        "B": "Permission from his boss",
+        "C": "Money",
+        "D": "A new envelope"
+      },
+      "answer": "C",
+      "explanation": "When he opened it, it was evident that to answer it he needed something more: money (the hundred pesos Lencho requested).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0620",
+      "question": "How much money was the postmaster able to collect?",
+      "options": {
+        "A": "Exactly a hundred pesos",
+        "B": "Less than half",
+        "C": "A little more than half (70 pesos)",
+        "D": "Ten pesos"
+      },
+      "answer": "C",
+      "explanation": "He was able to send the farmer only a little more than half, which was seventy pesos.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0621",
+      "question": "What signature did the postmaster use on the reply letter?",
+      "options": {
+        "A": "The Postmaster",
+        "B": "A Friend",
+        "C": "God",
+        "D": "Charity"
+      },
+      "answer": "C",
+      "explanation": "He put the money in an envelope and with it a letter containing only a single word as a signature: God.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0622",
+      "question": "Was Lencho surprised to find the money in the letter?",
+      "options": {
+        "A": "Yes, very surprised",
+        "B": "No, not the slightest surprise",
+        "C": "He fainted with joy",
+        "D": "He was confused"
+      },
+      "answer": "B",
+      "explanation": "Lencho showed not the slightest surprise on seeing the money; such was his confidence.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0623",
+      "question": "Why did Lencho become angry after counting the money?",
+      "options": {
+        "A": "The money was fake",
+        "B": "The amount was less than he asked for",
+        "C": "The envelope was torn",
+        "D": "He didn't want charity"
+      },
+      "answer": "B",
+      "explanation": "He became angry because he received only seventy pesos instead of the hundred he requested.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0624",
+      "question": "In his second letter, what did Lencho call the post office employees?",
+      "options": {
+        "A": "Helpful souls",
+        "B": "A bunch of crooks",
+        "C": "God's messengers",
+        "D": "Hardworking people"
+      },
+      "answer": "B",
+      "explanation": "Lencho warned God not to send the rest through the mail because the employees are 'a bunch of crooks'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0625",
+      "question": "Who is the author of 'A Letter to God'?",
+      "options": {
+        "A": "C.F. Alexander",
+        "B": "William Wordsworth",
+        "C": "G.L. Fuentes",
+        "D": "Jawaharlal Nehru"
+      },
+      "answer": "C",
+      "explanation": "The story is written by G.L. Fuentes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0626",
+      "question": "What does the word 'crest' mean in the context of the story?",
+      "options": {
+        "A": "The bottom of a hill",
+        "B": "The side of a hill",
+        "C": "The top or highest part of a hill",
+        "D": "A small cave"
+      },
+      "answer": "C",
+      "explanation": "Glossary defines crest as the top or highest part of a hill.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0627",
+      "question": "According to the story, what are 'locusts'?",
+      "options": {
+        "A": "Beautiful birds",
+        "B": "Insects which fly in big groups and destroy crops",
+        "C": "Small animals that burrow",
+        "D": "Types of corn"
+      },
+      "answer": "B",
+      "explanation": "Glossary defines locusts as insects which fly in big groups and destroy crops.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0628",
+      "question": "What is the currency of several Latin American countries mentioned in the story?",
+      "options": {
+        "A": "Dollar",
+        "B": "Rupee",
+        "C": "Peso",
+        "D": "Cent"
+      },
+      "answer": "C",
+      "explanation": "The currency mentioned and defined in the glossary is the peso.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0629",
+      "question": "What does 'conscience' refer to in the text?",
+      "options": {
+        "A": "Intelligence",
+        "B": "Physical strength",
+        "C": "An inner sense of right and wrong",
+        "D": "A heavy burden"
+      },
+      "answer": "C",
+      "explanation": "Glossary notes conscience as an inner sense of right and wrong.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0630",
+      "question": "What does the word 'amiable' mean?",
+      "options": {
+        "A": "Selfish",
+        "B": "Friendly and pleasant",
+        "C": "Very strict",
+        "D": "Highly skilled"
+      },
+      "answer": "B",
+      "explanation": "Glossary defines amiable as friendly and pleasant.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0631",
+      "question": "A violent tropical storm in which strong winds move in a circle is called a _______.",
+      "options": {
+        "A": "Gale",
+        "B": "Cyclone",
+        "C": "Whirlwind",
+        "D": "Tornado"
+      },
+      "answer": "B",
+      "explanation": "This description matches the definition of a cyclone in the vocabulary section.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0632",
+      "question": "An extremely strong wind is known as a _______.",
+      "options": {
+        "A": "Breeze",
+        "B": "Gale",
+        "C": "Typhoon",
+        "D": "Hurricane"
+      },
+      "answer": "B",
+      "explanation": "The vocabulary section identifies a gale as an extremely strong wind.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0633",
+      "question": "A violent storm whose centre is a cloud in the shape of a funnel is a _______.",
+      "options": {
+        "A": "Whirlwind",
+        "B": "Hurricane",
+        "C": "Tornado",
+        "D": "Typhoon"
+      },
+      "answer": "C",
+      "explanation": "This matches the definition of a tornado in the vocabulary section.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0634",
+      "question": "Why did Lencho's soul fill with sadness after the storm?",
+      "options": {
+        "A": "He was injured",
+        "B": "His house was destroyed",
+        "C": "His entire crop was destroyed",
+        "D": "He lost his cattle"
+      },
+      "answer": "C",
+      "explanation": "The destruction of the corn meant no food for the year, filling him with sorrow.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0635",
+      "question": "What did the postmaster give as part of the charity?",
+      "options": {
+        "A": "Part of his house",
+        "B": "Part of his salary",
+        "C": "His old clothes",
+        "D": "Free stamps"
+      },
+      "answer": "B",
+      "explanation": "The postmaster himself gave part of his salary for the act of charity.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0636",
+      "question": "How did Lencho affix the stamp to the second envelope?",
+      "options": {
+        "A": "With glue",
+        "B": "With a blow of his fist",
+        "C": "By pinning it",
+        "D": "He didn't use a stamp"
+      },
+      "answer": "B",
+      "explanation": "He licked the stamp and then affixed it with a blow of his fist.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0637",
+      "question": "In the sentence 'I hope it passes quickly', what part of speech is 'hope'?",
+      "options": {
+        "A": "Noun",
+        "B": "Verb",
+        "C": "Adjective",
+        "D": "Adverb"
+      },
+      "answer": "B",
+      "explanation": "In this context, 'hope' is used as a verb expressing a wish.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0638",
+      "question": "Lencho compared the raindrops to coins. What did the little ones represent?",
+      "options": {
+        "A": "Ten cent pieces",
+        "B": "Five cent pieces",
+        "C": "One peso",
+        "D": "Silver pearls"
+      },
+      "answer": "B",
+      "explanation": "He said the big drops are ten cent pieces and the little ones are fives.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0639",
+      "question": "Where was G.L. Fuentes from?",
+      "options": {
+        "A": "India",
+        "B": "Ireland",
+        "C": "Mexico",
+        "D": "America"
+      },
+      "answer": "C",
+      "explanation": "Gregorio Lopez Fuentes was a Mexican novelist.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0640",
+      "question": "What is the meaning of 'drape' as used in the story?",
+      "options": {
+        "A": "To cut",
+        "B": "To cover",
+        "C": "To sow",
+        "D": "To harvest"
+      },
+      "answer": "B",
+      "explanation": "The text describes the field 'draped' in a curtain of rain, meaning covered.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0641",
+      "question": "What was the result of Lencho's second letter regarding the remaining money?",
+      "options": {
+        "A": "He received it immediately",
+        "B": "The postmaster was angry",
+        "C": "The story ends before we see the result",
+        "D": "God sent it via mail"
+      },
+      "answer": "C",
+      "explanation": "The story ends with the postmaster reading Lencho's second letter; the final outcome is left to the reader's imagination.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0642",
+      "question": "What did the field of ripe corn always promise?",
+      "options": {
+        "A": "A low income",
+        "B": "A good harvest",
+        "C": "Trouble with pests",
+        "D": "A change of season"
+      },
+      "answer": "B",
+      "explanation": "The corn field dotted with flowers 'always promised a good harvest'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0643",
+      "question": "How did Lencho know his fields?",
+      "options": {
+        "A": "Slightly",
+        "B": "Intimately",
+        "C": "From a distance",
+        "D": "He didn't know them well"
+      },
+      "answer": "B",
+      "explanation": "The text states Lencho 'knew his fields intimately'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0644",
+      "question": "What was the 'frozen pearls' a metaphor for?",
+      "options": {
+        "A": "Raindrops",
+        "B": "Hailstones",
+        "C": "Corn seeds",
+        "D": "Silver coins"
+      },
+      "answer": "B",
+      "explanation": "The boys ran out to collect the hailstones, which the narrator calls 'frozen pearls'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0645",
+      "question": "What did the postman do when he first saw the letter addressed to God?",
+      "options": {
+        "A": "He tore it up",
+        "B": "He started crying",
+        "C": "He went to his boss laughing heartily",
+        "D": "He delivered it to the church"
+      },
+      "answer": "C",
+      "explanation": "The postman showed the letter to his boss while laughing because he had never known that address.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0646",
+      "question": "What quality of Lencho's did the postmaster wish he had?",
+      "options": {
+        "A": "His farming skills",
+        "B": "His physical strength",
+        "C": "His faith",
+        "D": "His writing ability"
+      },
+      "answer": "C",
+      "explanation": "The postmaster commented, 'What faith! I wish I had the faith of the man who wrote this letter'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0647",
+      "question": "What was the postmaster's 'resolution'?",
+      "options": {
+        "A": "To find a new job",
+        "B": "To answer Lencho's letter and provide money",
+        "C": "To ignore the letter",
+        "D": "To report Lencho to the police"
+      },
+      "answer": "B",
+      "explanation": "He stuck to his resolution to answer the letter by collecting money for an act of charity.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0648",
+      "question": "When did Lencho return to the post office to check for a reply?",
+      "options": {
+        "A": "The next day",
+        "B": "Two weeks later",
+        "C": "The following Sunday",
+        "D": "He never returned"
+      },
+      "answer": "C",
+      "explanation": "The following Sunday Lencho came a bit earlier than usual to ask if there was a letter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0649",
+      "question": "What was the postmaster experiencing while looking on from his office?",
+      "options": {
+        "A": "Guilt",
+        "B": "Contentment",
+        "C": "Anger",
+        "D": "Boredom"
+      },
+      "answer": "B",
+      "explanation": "He was 'experiencing the contentment of a man who has performed a good deed'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0650",
+      "question": "Why did Lencho use the public writing-table for his second letter?",
+      "options": {
+        "A": "He had no paper at home",
+        "B": "It's where people usually wrote their letters at the post office",
+        "C": "He wanted everyone to see",
+        "D": "The postmaster forced him"
+      },
+      "answer": "B",
+      "explanation": "As part of the post office facilities, he used the 'public writing-table' to express his ideas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0651",
+      "question": "What caused the 'much wrinkling' of Lencho's brow while writing?",
+      "options": {
+        "A": "Old age",
+        "B": "The bright sun",
+        "C": "The effort he had to make to express his ideas",
+        "D": "Physical pain"
+      },
+      "answer": "C",
+      "explanation": "The wrinkling was 'caused by the effort he had to make to express his ideas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0652",
+      "question": "According to Lencho's belief, God's eyes see _______.",
+      "options": {
+        "A": "Only the good deeds",
+        "B": "Everything, even what is deep in one's conscience",
+        "C": "Only what is written in letters",
+        "D": "Nothing on earth"
+      },
+      "answer": "B",
+      "explanation": "Lencho had been instructed that God's eyes see everything, even deep within the conscience.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0653",
+      "question": "The phrase 'an act of charity' refers to _______.",
+      "options": {
+        "A": "A government scheme",
+        "B": "The postmaster's effort to help Lencho",
+        "C": "Lencho's farming work",
+        "D": "A religious ritual"
+      },
+      "answer": "B",
+      "explanation": "The postmaster asked for contributions from staff and friends for 'an act of charity' for Lencho.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0654",
+      "question": "Which of these words describes a 'dishonest person' in the glossary?",
+      "options": {
+        "A": "Amiable",
+        "B": "Crook",
+        "C": "Postmaster",
+        "D": "Suppliant"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'crooks' as dishonest persons.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0655",
+      "question": "G.L. Fuentes was awarded the National Prize of Arts and Science in _______.",
+      "options": {
+        "A": "1935",
+        "B": "1966",
+        "C": "1895",
+        "D": "1947"
+      },
+      "answer": "A",
+      "explanation": "According to the 'About the Author' section, he received the award in 1935.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0656",
+      "question": "What is the CURRENCY name used in the story?",
+      "options": {
+        "A": "Rupees",
+        "B": "Dollars",
+        "C": "Pesos",
+        "D": "Pounds"
+      },
+      "answer": "C",
+      "explanation": "Lencho asks for 100 'pesos'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0657",
+      "question": "How did Lencho feel throughout the night after his crops were destroyed?",
+      "options": {
+        "A": "He slept peacefully",
+        "B": "He thought only of one hope: the help of God",
+        "C": "He planned to leave the valley",
+        "D": "He was angry at his family"
+      },
+      "answer": "B",
+      "explanation": "The text states, 'All through the night, Lencho thought only of one hope: the help of God'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0658",
+      "question": "The 'older boys' were _______ while the rain started.",
+      "options": {
+        "A": "Playing near the house",
+        "B": "Working in the field",
+        "C": "Sleeping",
+        "D": "Writing letters"
+      },
+      "answer": "B",
+      "explanation": "The older boys were working in the field while the smaller ones played.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0659",
+      "question": "In the story, 'solitary' means _______.",
+      "options": {
+        "A": "Crowded",
+        "B": "Friendly",
+        "C": "Lonely/single",
+        "D": "Large"
+      },
+      "answer": "C",
+      "explanation": "The glossary defines solitary as lonely or single.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0660",
+      "question": "What does 'dotted with' mean?",
+      "options": {
+        "A": "Lined up",
+        "B": "Scattered over an area",
+        "C": "Cleaned up",
+        "D": "Planted in a row"
+      },
+      "answer": "B",
+      "explanation": "Glossary: 'dotted with - scattered over an area'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0661",
+      "question": "What was the 'pleasure' Lencho went out for when the rain started?",
+      "options": {
+        "A": "To collect the corn",
+        "B": "Feeling the rain on his body",
+        "C": "To talk to the neighbors",
+        "D": "To get some coins"
+      },
+      "answer": "B",
+      "explanation": "He went out for 'no other reason than to have the pleasure of feeling the rain on his body'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0662",
+      "question": "Lencho was a _______.",
+      "options": {
+        "A": "Postman",
+        "B": "Farmer",
+        "C": "Shopkeeper",
+        "D": "Teacher"
+      },
+      "answer": "B",
+      "explanation": "Lencho is a farmer who writes a letter to God when his crops fail.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0663",
+      "question": "What happened to the flowers after the hailstorm?",
+      "options": {
+        "A": "They bloomed more",
+        "B": "They were gone from the plants",
+        "C": "They changed color",
+        "D": "Nothing happened"
+      },
+      "answer": "B",
+      "explanation": "The story says, 'The flowers were gone from the plants'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0664",
+      "question": "How many paragraphs describe the story before the first glossary?",
+      "options": {
+        "A": "Three",
+        "B": "Five",
+        "C": "More than ten",
+        "D": "One"
+      },
+      "answer": "C",
+      "explanation": "The narrative spans several pages before the comprehension exercises.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0665",
+      "question": "The second letter from Lencho asked God to _______.",
+      "options": {
+        "A": "Send more rain",
+        "B": "Send the rest of the money",
+        "C": "Forgive the postmen",
+        "D": "Take the money back"
+      },
+      "answer": "B",
+      "explanation": "He asks God to 'Send me the rest since I need it very much'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0666",
+      "question": "What 'always promised a good harvest'?",
+      "options": {
+        "A": "The clouds in the north-east",
+        "B": "The field of ripe corn dotted with flowers",
+        "C": "The river",
+        "D": "The low hill"
+      },
+      "answer": "B",
+      "explanation": "The field of ripe corn dotted with flowers 'always promised a good harvest'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0667",
+      "question": "Why did Lencho not want the money sent through the mail?",
+      "options": {
+        "A": "It was too slow",
+        "B": "He thought the employees would steal it again",
+        "C": "The post office was too far",
+        "D": "He didn't have an address"
+      },
+      "answer": "B",
+      "explanation": "He called the employees 'a bunch of crooks' and asked God not to send it through the mail.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0668",
+      "question": "Lencho predicted the rain during _______.",
+      "options": {
+        "A": "Breakfast",
+        "B": "A meal (supper)",
+        "C": "Lunch",
+        "D": "Morning work"
+      },
+      "answer": "B",
+      "explanation": "It was during the meal that big drops of rain began to fall as predicted.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0669",
+      "question": "The word 'upset' in the glossary is defined as _______.",
+      "options": {
+        "A": "Happy",
+        "B": "Disturbed",
+        "C": "Confident",
+        "D": "Angry"
+      },
+      "answer": "B",
+      "explanation": "Glossary: 'upset : disturbed'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0670",
+      "question": "When did Lencho's first letter reach the town?",
+      "options": {
+        "A": "Saturday evening",
+        "B": "Sunday morning (daybreak)",
+        "C": "Monday",
+        "D": "The text doesn't specify the arrival time, only when he wrote it"
+      },
+      "answer": "B",
+      "explanation": "He wrote it Sunday at daybreak and then 'went to town' to place it in the mail.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0671",
+      "question": "What does G.L. Fuentes' writing often relate to?",
+      "options": {
+        "A": "Ancient myths",
+        "B": "Civil conflict/Mexican Revolution",
+        "C": "Space travel",
+        "D": "Cooking"
+      },
+      "answer": "B",
+      "explanation": "His writing relates to the Mexican Revolution and civil conflict.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0672",
+      "question": "How did the air feel when the rain began?",
+      "options": {
+        "A": "Hot and dusty",
+        "B": "Fresh and sweet",
+        "C": "Cold and biting",
+        "D": "Humid"
+      },
+      "answer": "B",
+      "explanation": "The text says 'The air was fresh and sweet'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0673",
+      "question": "What is 'predict' in the glossary?",
+      "options": {
+        "A": "To remember the past",
+        "B": "To foretell the future",
+        "C": "To ignore something",
+        "D": "To see clearly"
+      },
+      "answer": "B",
+      "explanation": "Glossary: 'predict : foretell the future'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0674",
+      "question": "Lencho stood 'in the middle of the field' after _______.",
+      "options": {
+        "A": "The rain started",
+        "B": "The storm had passed",
+        "C": "The corn had grown",
+        "D": "He got the money"
+      },
+      "answer": "B",
+      "explanation": "When the storm had passed, he stood in the middle of the field to talk to his sons.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0675",
+      "question": "The postmaster turned serious and tapped the letter on his _______.",
+      "options": {
+        "A": "Hand",
+        "B": "Desk",
+        "C": "Chair",
+        "D": "Head"
+      },
+      "answer": "B",
+      "explanation": "He turned serious and was 'tapping the letter on his desk'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0676",
+      "question": "What did the postmaster experience as he watched Lencho get the letter?",
+      "options": {
+        "A": "Satisfaction/Contentment",
+        "B": "Regret",
+        "C": "Amusement",
+        "D": "Impatience"
+      },
+      "answer": "A",
+      "explanation": "He experienced the contentment of performing a good deed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0677",
+      "question": "Lencho asked for 100 pesos. He received _______.",
+      "options": {
+        "A": "50 pesos",
+        "B": "100 pesos",
+        "C": "70 pesos",
+        "D": "30 pesos"
+      },
+      "answer": "C",
+      "explanation": "In the letter he writes: 'only seventy pesos reached me'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0678",
+      "question": "What did Lencho think of God's capacity for error?",
+      "options": {
+        "A": "He thought God was very forgetful",
+        "B": "He thought God could not have made a mistake",
+        "C": "He thought God was testing him",
+        "D": "He didn't believe in God"
+      },
+      "answer": "B",
+      "explanation": "The text says, 'God could not have made a mistake'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0679",
+      "question": "Which word describes a firm decision in the glossary?",
+      "options": {
+        "A": "Resolution",
+        "B": "Amiable",
+        "C": "Contentment",
+        "D": "Predict"
+      },
+      "answer": "A",
+      "explanation": "Glossary: 'resolution : a firm decision'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0680",
+      "question": "The theme of the story 'A Letter to God' is primarily about _______.",
+      "options": {
+        "A": "Modern farming techniques",
+        "B": "The corruption of postal workers",
+        "C": "Unwavering faith in God",
+        "D": "The science of weather"
+      },
+      "answer": "C",
+      "explanation": "The story revolves around Lencho's absolute faith that God will help him when he asks.",
+      "difficulty": "hard"
+    }
+  ]
+}

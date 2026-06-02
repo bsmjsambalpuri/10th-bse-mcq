@@ -1,0 +1,18 @@
+{
+  "SLE01": [
+    {
+      "video_url": "https://www.youtube.com/watch?v=3ofdd2sUXEU",
+      "thumbnail_url": "https://img.youtube.com/vi/3ofdd2sUXEU/hqdefault.jpg"
+    },
+    {
+      "video_url": "https://www.youtube.com/watch?v=0C78WAggWHc",
+      "thumbnail_url": "https://img.youtube.com/vi/0C78WAggWHc/hqdefault.jpg"
+    }
+  ],
+  "SLE06": [
+    {
+      "video_url": "https://www.youtube.com/watch?v=3p8y4uDGcCo",
+      "thumbnail_url": "https://img.youtube.com/vi/3p8y4uDGcCo/hqdefault.jpg"
+    }
+  ]
+}

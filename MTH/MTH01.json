@@ -16,6 +16,7 @@
     {
       "id": "MAT0102",
       "question": "HCF ର ପୂର୍ଣ୍ଣ ନାମ କ’ଣ?",
+	 "img":"https://bsmjsambalpuri.github.io/thumbnail/bsmj.png",
       "options": {
         "A": "Highest Common Factor",
         "B": "Higher Common Factor",
@@ -391,4 +392,10 @@
         "B": "LCM",
         "C": "ଦୁହିଁ",
         "D": "କେହିନୁହେଁ"
-      }
+      },
+      "answer": "C",
+      "explanation": "ଏହି ପଦ୍ଧତିରେ HCF ଓ LCM ଉଭୟ ବାହାର କରାଯାଏ ।",
+      "difficulty": "medium"
+    }
+  ]
+}

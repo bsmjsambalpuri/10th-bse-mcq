@@ -1,8 +1,8 @@
 {
-  "chapter_id": "SLETP05",
+  "chapter_id": "SLESP05",
   "questions": [
     {
-      "id": "SLETP0501",
+      "id": "SLESP0501",
       "question": "What do we gather everyday as described in the poem ‘All Things Bright and Beautiful’?",
       "options": {
         "A": "Ripe fruits",
@@ -15,7 +15,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0502",
+      "id": "SLESP0502",
       "question": "How does the sky look at sunset?",
       "options": {
         "A": "Bright",
@@ -28,7 +28,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0503",
+      "id": "SLESP0503",
       "question": "What belief makes Lencho say his family ‘not to be so upset’?",
       "options": {
         "A": "No one dies of hunger",
@@ -41,7 +41,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0504",
+      "id": "SLESP0504",
       "question": "Why is the Solitary Reaper’s song not comprehensible to the poet?",
       "options": {
         "A": "Her own dialect",
@@ -54,7 +54,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0505",
+      "id": "SLESP0505",
       "question": "Gandhi matriculated in which year?",
       "options": {
         "A": "1887",
@@ -68,7 +68,7 @@
     },
 
     {
-      "id": "SLETP0506",
+      "id": "SLESP0506",
       "question": "Name Gandhi’s autobiography.",
       "options": {
         "A": "Hind Swaraj",
@@ -82,7 +82,7 @@
     },
 
     {
-      "id": "SLETP0507",
+      "id": "SLESP0507",
       "question": "Which remark was NOT passed by the keeper?",
       "options": {
         "A": "I remember your tiger",
@@ -96,7 +96,7 @@
     },
 
     {
-      "id": "SLETP0508",
+      "id": "SLESP0508",
       "question": "Timothy would make himself comfortable where?",
       "options": {
         "A": "Drawing room",
@@ -110,7 +110,7 @@
     },
 
     {
-      "id": "SLETP0509",
+      "id": "SLESP0509",
       "question": "Gandhi wept due to punishment in which class?",
       "options": {
         "A": "Seven",
@@ -124,7 +124,7 @@
     },
 
     {
-      "id": "SLETP0510",
+      "id": "SLESP0510",
       "question": "The postmaster needed more than ink and paper. What?",
       "options": {
         "A": "Goodwill",
@@ -138,7 +138,7 @@
     },
 
     {
-      "id": "SLETP0511",
+      "id": "SLESP0511",
       "question": "Village Song appeared in which book?",
       "options": {
         "A": "Silver Threshold",
@@ -152,7 +152,7 @@
     },
 
     {
-      "id": "SLETP0512",
+      "id": "SLESP0512",
       "question": "Village Song is an example of which poetry?",
       "options": {
         "A": "Folk poetry",
@@ -166,7 +166,7 @@
     },
 
     {
-      "id": "SLETP0513",
+      "id": "SLESP0513",
       "question": "‘Honey Child’ shows what?",
       "options": {
         "A": "Order",
@@ -180,7 +180,7 @@
     },
 
     {
-      "id": "SLETP0514",
+      "id": "SLESP0514",
       "question": "Who is ‘I’ in the line about flowers going to school?",
       "options": {
         "A": "Cloud",
@@ -194,7 +194,7 @@
     },
 
     {
-      "id": "SLETP0515",
+      "id": "SLESP0515",
       "question": "Flower children rush out when?",
       "options": {
         "A": "Wind blows",
@@ -208,7 +208,7 @@
     },
 
     {
-      "id": "SLETP0516",
+      "id": "SLESP0516",
       "question": "Galo tribe worship which goddess?",
       "options": {
         "A": "Kamakhya",
@@ -222,7 +222,7 @@
     },
 
     {
-      "id": "SLETP0517",
+      "id": "SLESP0517",
       "question": "Meaning of picturesque?",
       "options": {
         "A": "Energetic",
@@ -236,7 +236,7 @@
     },
 
     {
-      "id": "SLETP0518",
+      "id": "SLESP0518",
       "question": "Festival feature of Tripura?",
       "options": {
         "A": "All join",
@@ -250,7 +250,7 @@
     },
 
     {
-      "id": "SLETP0519",
+      "id": "SLESP0519",
       "question": "Sergie met Lushkoff after two years where?",
       "options": {
         "A": "Parking",
@@ -264,7 +264,7 @@
     },
 
     {
-      "id": "SLETP0520",
+      "id": "SLESP0520",
       "question": "Vodka is what?",
       "options": {
         "A": "Alcoholic drink",
@@ -277,7 +277,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0521",
+      "id": "SLESP0521",
       "question": "Who are meteorologists?",
       "options": {
         "A": "Persons checking air pollution",
@@ -290,7 +290,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0522",
+      "id": "SLESP0522",
       "question": "Which shows Vicky was good at studies?",
       "options": {
         "A": "Smart boy",
@@ -303,7 +303,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0523",
+      "id": "SLESP0523",
       "question": "Which statement is NOT true?",
       "options": {
         "A": "Automobile exhausts are more dangerous",
@@ -316,7 +316,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0524",
+      "id": "SLESP0524",
       "question": "Which prevents success in life?",
       "options": {
         "A": "Good health",
@@ -329,7 +329,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0525",
+      "id": "SLESP0525",
       "question": "Correct advice to avoid road injuries?",
       "options": {
         "A": "I, II, III",
@@ -342,7 +342,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0526",
+      "id": "SLESP0526",
       "question": "Full price of bullock?",
       "options": {
         "A": "140",
@@ -355,7 +355,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0527",
+      "id": "SLESP0527",
       "question": "Which does NOT support bullock condition?",
       "options": {
         "A": "Proper fodder",
@@ -368,7 +368,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0528",
+      "id": "SLESP0528",
       "question": "Who matches old, bent, pale, toothless?",
       "options": {
         "A": "Old man",
@@ -381,7 +381,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0529",
+      "id": "SLESP0529",
       "question": "Corn used to grow?",
       "options": {
         "A": "Anywhere",
@@ -394,7 +394,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0530",
+      "id": "SLESP0530",
       "question": "Incorrect pair?",
       "options": {
         "A": "Recreation—amusement",
@@ -407,7 +407,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0531",
+      "id": "SLESP0531",
       "question": "An army of soldiers ____.",
       "options": {
         "A": "is",
@@ -420,7 +420,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0532",
+      "id": "SLESP0532",
       "question": "You had better ____.",
       "options": {
         "A": "left",
@@ -433,7 +433,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0533",
+      "id": "SLESP0533",
       "question": "It has been raining ____ 5 o’clock.",
       "options": {
         "A": "at",
@@ -446,7 +446,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0534",
+      "id": "SLESP0534",
       "question": "Agree ____ the proposal.",
       "options": {
         "A": "on",
@@ -459,7 +459,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0535",
+      "id": "SLESP0535",
       "question": "Furniture ____ new.",
       "options": {
         "A": "are",
@@ -472,7 +472,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0536",
+      "id": "SLESP0536",
       "question": "Went to London ____ aeroplane.",
       "options": {
         "A": "by",
@@ -485,7 +485,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0537",
+      "id": "SLESP0537",
       "question": "Village in ____ I lived.",
       "options": {
         "A": "where",
@@ -498,7 +498,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0538",
+      "id": "SLESP0538",
       "question": "Do you object to ____?",
       "options": {
         "A": "what he says",
@@ -511,7 +511,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0539",
+      "id": "SLESP0539",
       "question": "Enjoy T20 can be replaced by?",
       "options": {
         "A": "go in for",
@@ -524,7 +524,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0540",
+      "id": "SLESP0540",
       "question": "If men were fishes, they ____.",
       "options": {
         "A": "will live",
@@ -537,7 +537,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0541",
+      "id": "SLESP0541",
       "question": "Passive of 'I knew her'.",
       "options": {
         "A": "She was known by me",
@@ -550,7 +550,7 @@
       "difficulty": "hard"
     },
     {
-      "id": "SLETP0542",
+      "id": "SLESP0542",
       "question": "Indirect of 'liar!'",
       "options": {
         "A": "He said me liar",
@@ -563,7 +563,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0543",
+      "id": "SLESP0543",
       "question": "Replace 'with enthusiasm'.",
       "options": {
         "A": "enthusiast",
@@ -576,7 +576,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0544",
+      "id": "SLESP0544",
       "question": "While ____.",
       "options": {
         "A": "she cooked",
@@ -589,7 +589,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0545",
+      "id": "SLESP0545",
       "question": "Merited means?",
       "options": {
         "A": "Accepted",
@@ -602,7 +602,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0546",
+      "id": "SLESP0546",
       "question": "Indirect object?",
       "options": {
         "A": "Twenty rupees",
@@ -615,7 +615,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0547",
+      "id": "SLESP0547",
       "question": "Correct indirect speech?",
       "options": {
         "A": "went to for walk",
@@ -628,7 +628,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0548",
+      "id": "SLESP0548",
       "question": "He did not die. He ____.",
       "options": {
         "A": "is murdered",
@@ -641,7 +641,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "SLETP0549",
+      "id": "SLESP0549",
       "question": "Go fast ____ you miss train.",
       "options": {
         "A": "so",
@@ -654,7 +654,7 @@
       "difficulty": "easy"
     },
     {
-      "id": "SLETP0550",
+      "id": "SLESP0550",
       "question": "Sonu as well as friends ____.",
       "options": {
         "A": "are",
