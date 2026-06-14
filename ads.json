@@ -17,6 +17,12 @@
       "link": "https://play.google.com/store/apps/details?id=com.bsmj.sambalpuriwastickers"
     },
   ],
+  "default": [
+    {
+      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/odcalendar.jpg",
+      "link": "https://www.bsmjsambalpuri.in"
+    }
+  ],
 
   "Angul": [
     {
