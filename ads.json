@@ -1,8 +1,8 @@
 {
   "all": [
-    {
-      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/attapoll.jpg",
-      "link": "https://example.com/click/statewide-1"
+    	  {
+      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/default.jpg",
+      "link": "https://www.bsmjsambalpuri.in/p/contact-us.html"
     },
 	  {
       "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/odcalendar.jpg",
@@ -19,8 +19,8 @@
   ],
   "default": [
     {
-      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/odcalendar.jpg",
-      "link": "https://www.bsmjsambalpuri.in"
+      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/default.jpg",
+      "link": "https://www.bsmjsambalpuri.in/p/contact-us.html"
     }
   ],
 
@@ -33,8 +33,8 @@
 
   "Balangir": [
     {
-      "image": "https://example.com/ads/balangir-1.jpg",
-      "link": "https://example.com/click/balangir-1"
+      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/attapoll.jpg",
+      "link": "https://example.com/click/statewide-1"
     }
   ],
 
