@@ -1,1 +1,1042 @@
-﻿{"questions":[]}
+﻿{"questions":[
+  {
+    "id": "MTH1001",
+    "question": "$\sin 0^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "1/2",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "B",
+    "explanation": "ତ୍ରିକୋଣମିତିକ ସାରଣୀ ଅନୁଯାୟୀ sin 0° ର ମାନ 0 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1002",
+    "question": "$\cos 0^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "1/2",
+      "D": "√3/2"
+    },
+    "answer": "B",
+    "explanation": "cos 0° ର ମାନ 1 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1003",
+    "question": "$\tan 0^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "1/√3"
+    },
+    "answer": "A",
+    "explanation": "tan 0° = sin 0° / cos 0° = 0/1 = 0।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1004",
+    "question": "$\cot 0^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "√3"
+    },
+    "answer": "C",
+    "explanation": "cot 0° ର ମାନ ସାରଣୀରେ ଅସଂଜ୍ଞାବଦ୍ଧ ଭାବେ ଦର୍ଶାଯାଇଛି।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1005",
+    "question": "$\sec 0^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "2"
+    },
+    "answer": "B",
+    "explanation": "sec 0° = 1 / cos 0° = 1/1 = 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1006",
+    "question": "$\text{cosec } 0^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "2"
+    },
+    "answer": "C",
+    "explanation": "cosec 0° ର ମାନ ସାରଣୀରେ ଅସଂଜ୍ଞାବଦ୍ଧ ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1007",
+    "question": "$\sin 30^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "1/2",
+      "C": "√3/2",
+      "D": "1/√2"
+    },
+    "answer": "B",
+    "explanation": "ସାରଣୀ ଅନୁଯାୟୀ sin 30° = 1/2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1008",
+    "question": "$\cos 30^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1/2",
+      "B": "√3/2",
+      "C": "1",
+      "D": "1/√3"
+    },
+    "answer": "B",
+    "explanation": "cos 30° ର ମାନ √3/2 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1009",
+    "question": "$\tan 30^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "√3",
+      "B": "1/√3",
+      "C": "1",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "tan 30° ର ମାନ 1/√3 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1010",
+    "question": "$\cot 30^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1/√3",
+      "B": "√3",
+      "C": "1",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "cot 30° ର ମାନ √3 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1011",
+    "question": "$\sec 30^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "2",
+      "B": "2/√3",
+      "C": "√2",
+      "D": "1"
+    },
+    "answer": "B",
+    "explanation": "sec 30° = 1 / cos 30° = 1 / (√3/2) = 2/√3।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1012",
+    "question": "$\text{cosec } 30^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1/2",
+      "B": "2",
+      "C": "√2",
+      "D": "2/√3"
+    },
+    "answer": "B",
+    "explanation": "cosec 30° = 1 / sin 30° = 1 / (1/2) = 2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1013",
+    "question": "$\sin 45^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1/2",
+      "B": "1/√2",
+      "C": "√3/2",
+      "D": "1"
+    },
+    "answer": "B",
+    "explanation": "sin 45° ର ମାନ 1/√2 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1014",
+    "question": "$\cos 45^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1/2",
+      "B": "1/√2",
+      "C": "√3/2",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "cos 45° ର ମାନ 1/√2 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1015",
+    "question": "$\tan 45^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "√3",
+      "D": "1/√3"
+    },
+    "answer": "B",
+    "explanation": "tan 45° = sin 45° / cos 45° = 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1016",
+    "question": "$\cot 45^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "√3",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "B",
+    "explanation": "cot 45° ର ମାନ 1 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1017",
+    "question": "$\sec 45^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "2",
+      "B": "√2",
+      "C": "2/√3",
+      "D": "1"
+    },
+    "answer": "B",
+    "explanation": "sec 45° = 1 / cos 45° = √2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1018",
+    "question": "$\text{cosec } 45^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "2",
+      "B": "√2",
+      "C": "1",
+      "D": "√3"
+    },
+    "answer": "B",
+    "explanation": "cosec 45° = 1 / sin 45° = √2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1019",
+    "question": "$\sin 60^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1/2",
+      "B": "√3/2",
+      "C": "1",
+      "D": "1/√2"
+    },
+    "answer": "B",
+    "explanation": "sin 60° ର ମାନ √3/2 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1020",
+    "question": "$\cos 60^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "√3/2",
+      "B": "1/2",
+      "C": "1",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "cos 60° ର ମାନ 1/2 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1021",
+    "question": "$\tan 60^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1/√3",
+      "B": "√3",
+      "C": "1",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "B",
+    "explanation": "tan 60° = sin 60° / cos 60° = (√3/2) / (1/2) = √3।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1022",
+    "question": "$\cot 60^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "√3",
+      "B": "1/3",
+      "C": "1/√3",
+      "D": "1"
+    },
+    "answer": "C",
+    "explanation": "cot 60° ର ମାନ 1/√3 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1023",
+    "question": "$\sec 60^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "√2",
+      "B": "2",
+      "C": "2/√3",
+      "D": "1"
+    },
+    "answer": "B",
+    "explanation": "sec 60° = 1 / cos 60° = 1 / (1/2) = 2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1024",
+    "question": "$\text{cosec } 60^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "2",
+      "B": "2/√3",
+      "C": "√3/2",
+      "D": "√2"
+    },
+    "answer": "B",
+    "explanation": "cosec 60° = 1 / sin 60° = 1 / (√3/2) = 2/√3।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1025",
+    "question": "$\sin 90^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "1/2",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "B",
+    "explanation": "sin 90° ର ମାନ 1 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1026",
+    "question": "$\cos 90^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "1/2",
+      "D": "-1"
+    },
+    "answer": "B",
+    "explanation": "cos 90° ର ମାନ 0 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1027",
+    "question": "$\tan 90^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "-1"
+    },
+    "answer": "C",
+    "explanation": "tan 90° = sin 90° / cos 90° = 1/0, ଯାହା ଅସଂଜ୍ଞାବଦ୍ଧ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1028",
+    "question": "$\cot 90^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "√3"
+    },
+    "answer": "A",
+    "explanation": "cot 90° ର ମାନ 0 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1029",
+    "question": "$\sec 90^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "-1"
+    },
+    "answer": "C",
+    "explanation": "sec 90° = 1 / cos 90° = 1/0, ଯାହା ଅସଂଜ୍ଞାବଦ୍ଧ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1030",
+    "question": "$\text{cosec } 90^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "2"
+    },
+    "answer": "B",
+    "explanation": "cosec 90° = 1 / sin 90° = 1/1 = 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1031",
+    "question": "$\sin 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "1/2",
+      "B": "√3/2",
+      "C": "-√3/2",
+      "D": "-1/2"
+    },
+    "answer": "B",
+    "explanation": "sin 120° = sin(180-60) = sin 60° = √3/2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1032",
+    "question": "$\cos 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "1/2",
+      "B": "-1/2",
+      "C": "√3/2",
+      "D": "-√3/2"
+    },
+    "answer": "B",
+    "explanation": "cos 120° = cos(180-60) = -cos 60° = -1/2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1033",
+    "question": "$\tan 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "√3",
+      "B": "-√3",
+      "C": "1/√3",
+      "D": "-1/√3"
+    },
+    "answer": "B",
+    "explanation": "tan 120° = tan(180-60) = -tan 60° = -√3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1034",
+    "question": "$\cot 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "-√3",
+      "B": "-1/√3",
+      "C": "1/√3",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "cot 120° = cot(180-60) = -cot 60° = -1/3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1035",
+    "question": "$\sec 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "2",
+      "B": "-2",
+      "C": "2/√3",
+      "D": "-2/√3"
+    },
+    "answer": "B",
+    "explanation": "sec 120° = 1 / cos 120° = 1 / (-1/2) = -2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1036",
+    "question": "$\text{cosec } 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "2",
+      "B": "2/√3",
+      "C": "-2/√3",
+      "D": "√3/2"
+    },
+    "answer": "B",
+    "explanation": "cosec 120° = 1 / sin 120° = 1 / (√3/2) = 2/√3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1037",
+    "question": "$\sin 135^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "1/√2",
+      "B": "-1/√2",
+      "C": "1/2",
+      "D": "√3/2"
+    },
+    "answer": "A",
+    "explanation": "sin 135° = sin(180-45) = sin 45° = 1/√2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1038",
+    "question": "$\cos 135^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "1/√2",
+      "B": "-1/√2",
+      "C": "1/2",
+      "D": "-1/2"
+    },
+    "answer": "B",
+    "explanation": "cos 135° = cos(180-45) = -cos 45° = -1/√2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1039",
+    "question": "$\tan 135^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "-1",
+      "C": "0",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "B",
+    "explanation": "tan 135° = tan(180-45) = -tan 45° = -1।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1040",
+    "question": "$\cot 135^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "-1",
+      "C": "√3",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "cot 135° = 1 / tan 135° = -1।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1041",
+    "question": "$\sec 135^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "√2",
+      "B": "-√2",
+      "C": "2",
+      "D": "-2"
+    },
+    "answer": "B",
+    "explanation": "sec 135° = 1 / cos 135° = 1 / (-1/√2) = -√2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1042",
+    "question": "$\text{cosec } 135^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "√2",
+      "B": "-√2",
+      "C": "1",
+      "D": "2"
+    },
+    "answer": "A",
+    "explanation": "cosec 135° = 1 / sin 135° = 1 / (1/√2) = √2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1043",
+    "question": "$\sin 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "1/2",
+      "B": "-1/2",
+      "C": "√3/2",
+      "D": "1"
+    },
+    "answer": "A",
+    "explanation": "sin 150° = sin(180-30) = sin 30° = 1/2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1044",
+    "question": "$\cos 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "√3/2",
+      "B": "-√3/2",
+      "C": "1/2",
+      "D": "-1/2"
+    },
+    "answer": "B",
+    "explanation": "cos 150° = cos(180-30) = -cos 30° = -√3/2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1045",
+    "question": "$\tan 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "√3",
+      "B": "-√3",
+      "C": "1/√3",
+      "D": "-1/√3"
+    },
+    "answer": "D",
+    "explanation": "tan 150° = tan(180-30) = -tan 30° = -1/√3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1046",
+    "question": "$\cot 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "√3",
+      "B": "-√3",
+      "C": "1/√3",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "B",
+    "explanation": "cot 150° = -cot 30° = -√3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1047",
+    "question": "$\sec 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "2",
+      "B": "-2",
+      "C": "-2/√3",
+      "D": "2/√3"
+    },
+    "answer": "C",
+    "explanation": "sec 150° = 1 / cos 150° = -2/√3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1048",
+    "question": "$\text{cosec } 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "2",
+      "B": "-2",
+      "C": "1/2",
+      "D": "√3/2"
+    },
+    "answer": "A",
+    "explanation": "cosec 150° = 1 / sin 150° = 1 / (1/2) = 2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1049",
+    "question": "$\sin 180^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "A",
+    "explanation": "ସାରଣୀ ଅନୁଯାୟୀ sin 180° ର ମାନ 0 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1050",
+    "question": "$\cos 180^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "C",
+    "explanation": "ସାରଣୀ ଅନୁଯାୟୀ cos 180° ର ମାନ -1 ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1051",
+    "question": "$\tan 180^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "A",
+    "explanation": "tan 180° = sin 180 / cos 180 = 0 / -1 = 0।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1052",
+    "question": "$\cot 180^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "-1"
+    },
+    "answer": "C",
+    "explanation": "ସାରଣୀରେ cot 180° ର ମାନ ଅସଂଜ୍ଞାବଦ୍ଧ ଭାବେ ରହିଛି।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1053",
+    "question": "$\sec 180^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "1",
+      "B": "-1",
+      "C": "0",
+      "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
+    },
+    "answer": "B",
+    "explanation": "sec 180° = 1 / cos 180° = 1 / -1 = -1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1054",
+    "question": "$\text{cosec } 180^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "ଅସଂଜ୍ଞାବଦ୍ଧ",
+      "D": "-1"
+    },
+    "answer": "C",
+    "explanation": "cosec 180° ର ମାନ ସାରଣୀରେ ଅସଂଜ୍ଞାବଦ୍ଧ ଅଟେ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1055",
+    "question": "$\sin(180^\circ - \theta)$ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "sin θ",
+      "B": "-sin θ",
+      "C": "cos θ",
+      "D": "-cos θ"
+    },
+    "answer": "A",
+    "explanation": "ପରିପୂରକ କୋଣର ନିୟମ ଅନୁଯାୟୀ sin(180-θ) = sin θ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1056",
+    "question": "$\cos(180^\circ - \theta)$ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "cos θ",
+      "B": "-cos θ",
+      "C": "sin θ",
+      "D": "-sin θ"
+    },
+    "answer": "B",
+    "explanation": "ପରିପୂରକ କୋଣର ନିୟମ ଅନୁଯାୟୀ cos(180-θ) = -cos θ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1057",
+    "question": "$\tan(180^\circ - \theta)$ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "tan θ",
+      "B": "-tan θ",
+      "C": "cot θ",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "tan(180-θ) = -tan θ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1058",
+    "question": "ଯଦି $\triangle ABC$ ରେ $\angle B = 90^\circ$, ତେବେ $\sin^2 A + \sin^2 C$ ର ମୂଲ୍ୟ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "1/2"
+    },
+    "answer": "B",
+    "explanation": "ସମକୋଣୀ ତ୍ରିଭୁଜରେ A+C = 90°, ତେଣୁ sin C = cos A। ଫଳରେ sin²A + cos²A = 1।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "MTH1059",
+    "question": "ଗୋଟିଏ ଗଛର ପାଦଦେଶରୁ 120 ମିଟର ଦୂରରେ ଥିବା ଏକ ବିନ୍ଦୁରେ ଗଛର ଅଗ୍ରଭାଗର କୌଣିକ ଉନ୍ନତି 30° ହେଲେ ଗଛର ଉଚ୍ଚତା କେତେ?",
+    "options": {
+      "A": "120√3 ମିଟର",
+      "B": "40√3 ମିଟର",
+      "C": "60 ମିଟର",
+      "D": "120 ମିଟର"
+    },
+    "answer": "B",
+    "explanation": "tan 30° = h/120 => 1/√3 = h/120 => h = 120/√3 = 40√3।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "MTH1060",
+    "question": "ଭୂମିର ସମାନ୍ତରାଳ ରେଖାରୁ ଉପରକୁ ଥିବା ବସ୍ତୁକୁ ଦେଖିଲେ କେଉଁ କୋଣ ସୃଷ୍ଟି ହୁଏ?",
+    "options": {
+      "A": "ଉନ୍ନତି କୋଣ",
+      "B": "ଅବନତି କୋଣ",
+      "C": "ସରଳ କୋଣ",
+      "D": "ପରିପୂରକ କୋଣ"
+    },
+    "answer": "A",
+    "explanation": "ଉପରକୁ ଚାହିଁଲେ ସୃଷ୍ଟି ହେଉଥିବା କୋଣକୁ ଉନ୍ନତି କୋଣ (Angle of Elevation) କୁହାଯାଏ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1061",
+    "question": "ଭୂମିର ସମାନ୍ତରାଳ ରେଖାରୁ ତଳକୁ ଥିବା ବସ୍ତୁକୁ ଦେଖିଲେ କେଉଁ କୋଣ ସୃଷ୍ଟି ହୁଏ?",
+    "options": {
+      "A": "ଉନ୍ନତି କୋଣ",
+      "B": "ଅବନତି କୋଣ",
+      "C": "ବିଚ୍ୟୁତି କୋଣ",
+      "D": "ସମକୋଣ"
+    },
+    "answer": "B",
+    "explanation": "ତଳକୁ ଚାହିଁଲେ ସୃଷ୍ଟି ହେଉଥିବା କୋଣକୁ ଅବନତି କୋଣ (Angle of Depression) କୁହାଯାଏ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1062",
+    "question": "$\sin^2 30^\circ + \cos^2 30^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1/2",
+      "B": "1",
+      "C": "0",
+      "D": "√3"
+    },
+    "answer": "B",
+    "explanation": "ସର୍ବସମୀକା sin²θ + cos²θ = 1 ଅନୁଯାୟୀ ଏହାର ମାନ 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1063",
+    "question": "$\tan \theta \cdot \cot \theta$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "ଅନନ୍ତ"
+    },
+    "answer": "B",
+    "explanation": "tan θ ଏବଂ cot θ ପରସ୍ପରର ବ୍ୟୁତ୍କ୍ରମ, ତେଣୁ ସେମାନଙ୍କ ଗୁଣଫଳ 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1064",
+    "question": "$\sin(90^\circ + \theta)$ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "sin θ",
+      "B": "cos θ",
+      "C": "-cos θ",
+      "D": "-sin θ"
+    },
+    "answer": "B",
+    "explanation": "ସୂତ୍ର ଅନୁଯାୟୀ sin(90+θ) = cos θ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1065",
+    "question": "$\cos(90^\circ + \theta)$ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "sin θ",
+      "B": "-sin θ",
+      "C": "cos θ",
+      "D": "-cos θ"
+    },
+    "answer": "B",
+    "explanation": "ସୂତ୍ର ଅନୁଯାୟୀ cos(90+θ) = -sin θ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1066",
+    "question": "$\tan(90^\circ + \theta)$ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "cot θ",
+      "B": "-cot θ",
+      "C": "tan θ",
+      "D": "-tan θ"
+    },
+    "answer": "B",
+    "explanation": "ସୂତ୍ର ଅନୁଯାୟୀ tan(90+θ) = -cot θ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1067",
+    "question": "$\sin 120^\circ + \tan 150^\circ \cdot \cos 135^\circ$ ର ସରଳ ମାନ କେତେ?",
+    "options": {
+      "A": "(3+√2)/(2√3)",
+      "B": "(√3+√2)/(2√3)",
+      "C": "1",
+      "D": "0"
+    },
+    "answer": "A",
+    "explanation": "ମୂଲ୍ୟଗୁଡ଼ିକ ପ୍ରୟୋଗ କରି ସରଳ କଲେ ଏହି ଉତ୍ତର ମିଳେ।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "MTH1068",
+    "question": "ଯଦି $\sin \theta = \cos \theta$, ତେବେ $\theta$ ର ମାନ କେତେ ($0 \le \theta \le 90$)?",
+    "options": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "90°"
+    },
+    "answer": "B",
+    "explanation": "ସାରଣୀ ଅନୁଯାୟୀ 45° ରେ sin ଏବଂ cos ଉଭୟଙ୍କ ମାନ 1/√2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1069",
+    "question": "$\sec^2 \theta - \tan^2 \theta$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "-1"
+    },
+    "answer": "B",
+    "explanation": "ଏହା ଏକ ମୌଳିକ ତ୍ରିକୋଣମିତିକ ଅଭେଦ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1070",
+    "question": "$\text{cosec}^2 \theta - \cot^2 \theta$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "2"
+    },
+    "answer": "B",
+    "explanation": "ଏହା ଏକ ମୌଳିକ ତ୍ରିକୋଣମିତିକ ଅଭେଦ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1071",
+    "question": "$\sin(180^\circ)$ ର ମାନ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "sin 0°",
+      "B": "cos 90°",
+      "C": "tan 0°",
+      "D": "ଉପରୋକ୍ତ ସମସ୍ତ"
+    },
+    "answer": "D",
+    "explanation": "sin 180°, sin 0°, cos 90° ଏବଂ tan 0° ସମସ୍ତଙ୍କ ମାନ 0 ଅଟେ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1072",
+    "question": "$\cos(180^\circ)$ ର ମାନ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "sin 270°",
+      "B": "-cos 0°",
+      "C": "-1",
+      "D": "ଉପରୋକ୍ତ ସମସ୍ତ"
+    },
+    "answer": "D",
+    "explanation": "ସମସ୍ତଙ୍କ ମୂଲ୍ୟ -1 ଅଟେ।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "MTH1073",
+    "question": "$\tan 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "options": {
+      "A": "√3",
+      "B": "-1/√3",
+      "C": "1/√3",
+      "D": "-√3"
+    },
+    "answer": "B",
+    "explanation": "tan 150° = -tan 30° = -1/√3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1074",
+    "question": "$\sin A \cdot \text{cosec } A$ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "A"
+    },
+    "answer": "B",
+    "explanation": "sin ଏବଂ cosec ପରସ୍ପରର ବ୍ୟୁତ୍କ୍ରମ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1075",
+    "question": "$\cos A \cdot \sec A$ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "A",
+      "D": "cos²A"
+    },
+    "answer": "A",
+    "explanation": "cos ଏବଂ sec ପରସ୍ପରର ବ୍ୟୁତ୍କ୍ରମ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1076",
+    "question": "$\sin(180^\circ - \theta) \cdot \cos(90^\circ + \theta) + \sin(90^\circ + \theta) \cdot \cos(180^\circ - \theta)$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "2"
+    },
+    "answer": "C",
+    "explanation": "sin θ (-sin θ) + cos θ (-cos θ) = -(sin²θ + cos²θ) = -1।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "MTH1077",
+    "question": "$\tan 45^\circ + \cot 45^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "0",
+      "D": "√2"
+    },
+    "answer": "B",
+    "explanation": "1 + 1 = 2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1078",
+    "question": "$\sec 60^\circ / \text{cosec } 30^\circ$ ର ମାନ କେତେ?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "1/2",
+      "D": "0"
+    },
+    "answer": "A",
+    "explanation": "2 / 2 = 1।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "MTH1079",
+    "question": "$\sin \theta / \cos \theta$ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "cot θ",
+      "B": "tan θ",
+      "C": "sec θ",
+      "D": "1"
+    },
+    "answer": "B",
+    "explanation": "ଏହା tan θ ର ସଂଜ୍ଞା।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "MTH1080",
+    "question": "$\cos \theta / \sin \theta$ କାହା ସହ ସମାନ?",
+    "options": {
+      "A": "tan θ",
+      "B": "cot θ",
+      "C": "cosec θ",
+      "D": "1"
+    },
+    "answer": "B",
+    "explanation": "ଏହା cot θ ର ସଂଜ୍ଞା।",
+    "difficulty": "easy"
+  }
+]}

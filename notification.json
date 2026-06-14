@@ -1,22 +1,10 @@
 {
   "notifications": [
   {
-	"time":"2026-05-31 09:45:00",
+	"time":"2026-06-14 09:45:00",
     "priority":"normal",
-	"title":"Another Notification from online",
-	"text":"If it shows it's working\n lorem ipsum time"
-      },
-    {
-	"time":"2026-05-31 09:45:00",
-    "priority":"normal",
-	"title":"This is a test notification",
-	"text":"Lorem ipsum mohdjba hashdiuh haudsid chyufguash dc3458\n hu984yr f nfu93f84f hf9cj id di dj948f q8f498237fh2rhh"
-      }, 
-	  {
-	"time":"2026-05-31 08:25:00",
-    "priority":"high",
-	"title":"This is a another high priority notification",
-	"text":"Lorem ipsum is a text just to test\nmohdjba hashdiuh haudsid chyufguash\ndc3458 hu984yr f nfu93f84f hf9cj id di dj948f q8f498237fh2rhh"
+	"title":"We are adding new Questions and Notes everyday !",
+	"text":"Hi Students, Hope you are doing well !\n While this app is new, we are continuously adding new questions and notes everyday. Please keep on practicing the available Questions, more things are on the way."
       }
     ]
 	}

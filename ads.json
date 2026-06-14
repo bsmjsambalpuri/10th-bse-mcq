@@ -1,0 +1,230 @@
+{
+  "all": [
+    {
+      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/attapoll.jpg",
+      "link": "https://example.com/click/statewide-1"
+    },
+	  {
+      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/odcalendar.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.bsmj.odiacalendar"
+    },
+	  {
+      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/sbpdesign.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.bsmj.sambalpuridesign"
+    },
+	  {
+      "image": "https://raw.githubusercontent.com/bsmjsambalpuri/10th-bse-mcq/refs/heads/main/ads/sbpstickers.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.bsmj.sambalpuriwastickers"
+    },
+  ],
+
+  "Angul": [
+    {
+      "image": "https://example.com/ads/angul-1.jpg",
+      "link": "https://example.com/click/angul-1"
+    }
+  ],
+
+  "Balangir": [
+    {
+      "image": "https://example.com/ads/balangir-1.jpg",
+      "link": "https://example.com/click/balangir-1"
+    }
+  ],
+
+  "Balasore": [
+    {
+      "image": "https://example.com/ads/balasore-1.jpg",
+      "link": "https://example.com/click/balasore-1"
+    }
+  ],
+
+  "Bargarh": [
+    {
+      "image": "https://example.com/ads/bargarh-1.jpg",
+      "link": "https://example.com/click/bargarh-1"
+    }
+  ],
+
+  "Bhadrak": [
+    {
+      "image": "https://example.com/ads/bhadrak-1.jpg",
+      "link": "https://example.com/click/bhadrak-1"
+    }
+  ],
+
+  "Boudh": [
+    {
+      "image": "https://example.com/ads/boudh-1.jpg",
+      "link": "https://example.com/click/boudh-1"
+    }
+  ],
+
+  "Cuttack": [
+    {
+      "image": "https://example.com/ads/cuttack-1.jpg",
+      "link": "https://example.com/click/cuttack-1"
+    }
+  ],
+
+  "Deogarh": [
+    {
+      "image": "https://example.com/ads/deogarh-1.jpg",
+      "link": "https://example.com/click/deogarh-1"
+    }
+  ],
+
+  "Dhenkanal": [
+    {
+      "image": "https://example.com/ads/dhenkanal-1.jpg",
+      "link": "https://example.com/click/dhenkanal-1"
+    }
+  ],
+
+  "Gajapati": [
+    {
+      "image": "https://example.com/ads/gajapati-1.jpg",
+      "link": "https://example.com/click/gajapati-1"
+    }
+  ],
+
+  "Ganjam": [
+    {
+      "image": "https://example.com/ads/ganjam-1.jpg",
+      "link": "https://example.com/click/ganjam-1"
+    }
+  ],
+
+  "Jagatsinghpur": [
+    {
+      "image": "https://example.com/ads/jagatsinghpur-1.jpg",
+      "link": "https://example.com/click/jagatsinghpur-1"
+    }
+  ],
+
+  "Jajpur": [
+    {
+      "image": "https://example.com/ads/jajpur-1.jpg",
+      "link": "https://example.com/click/jajpur-1"
+    }
+  ],
+
+  "Jharsuguda": [
+    {
+      "image": "https://example.com/ads/jharsuguda-1.jpg",
+      "link": "https://example.com/click/jharsuguda-1"
+    }
+  ],
+
+  "Kalahandi": [
+    {
+      "image": "https://example.com/ads/kalahandi-1.jpg",
+      "link": "https://example.com/click/kalahandi-1"
+    }
+  ],
+
+  "Kandhamal": [
+    {
+      "image": "https://example.com/ads/kandhamal-1.jpg",
+      "link": "https://example.com/click/kandhamal-1"
+    }
+  ],
+
+  "Kendrapara": [
+    {
+      "image": "https://example.com/ads/kendrapara-1.jpg",
+      "link": "https://example.com/click/kendrapara-1"
+    }
+  ],
+
+  "Kendujhar": [
+    {
+      "image": "https://example.com/ads/kendujhar-1.jpg",
+      "link": "https://example.com/click/kendujhar-1"
+    }
+  ],
+
+  "Khordha": [
+    {
+      "image": "https://example.com/ads/khordha-1.jpg",
+      "link": "https://example.com/click/khordha-1"
+    }
+  ],
+
+  "Koraput": [
+    {
+      "image": "https://example.com/ads/koraput-1.jpg",
+      "link": "https://example.com/click/koraput-1"
+    }
+  ],
+
+  "Malkangiri": [
+    {
+      "image": "https://example.com/ads/malkangiri-1.jpg",
+      "link": "https://example.com/click/malkangiri-1"
+    }
+  ],
+
+  "Mayurbhanj": [
+    {
+      "image": "https://example.com/ads/mayurbhanj-1.jpg",
+      "link": "https://example.com/click/mayurbhanj-1"
+    }
+  ],
+
+  "Nabarangpur": [
+    {
+      "image": "https://example.com/ads/nabarangpur-1.jpg",
+      "link": "https://example.com/click/nabarangpur-1"
+    }
+  ],
+
+  "Nayagarh": [
+    {
+      "image": "https://example.com/ads/nayagarh-1.jpg",
+      "link": "https://example.com/click/nayagarh-1"
+    }
+  ],
+
+  "Nuapada": [
+    {
+      "image": "https://example.com/ads/nuapada-1.jpg",
+      "link": "https://example.com/click/nuapada-1"
+    }
+  ],
+
+  "Puri": [
+    {
+      "image": "https://example.com/ads/puri-1.jpg",
+      "link": "https://example.com/click/puri-1"
+    }
+  ],
+
+  "Rayagada": [
+    {
+      "image": "https://example.com/ads/rayagada-1.jpg",
+      "link": "https://example.com/click/rayagada-1"
+    }
+  ],
+
+  "Sambalpur": [
+    {
+      "image": "https://example.com/ads/sambalpur-1.jpg",
+      "link": "https://example.com/click/sambalpur-1"
+    }
+  ],
+
+  "Subarnapur": [
+    {
+      "image": "https://example.com/ads/subarnapur-1.jpg",
+      "link": "https://example.com/click/subarnapur-1"
+    }
+  ],
+
+  "Sundargarh": [
+    {
+      "image": "https://example.com/ads/sundargarh-1.jpg",
+      "link": "https://example.com/click/sundargarh-1"
+    }
+  ]
+}

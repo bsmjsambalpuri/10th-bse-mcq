@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="or">
+<head>
+    <meta charset="UTF-8">
+    <title>ସମ୍ଭାବ୍ୟତା (Probability) - Math Notes</title>
+	
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.6; padding: 25px; color: #333; max-width: 1000px; margin: auto; background-color: #f9f9f9; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; text-align: center; }
+        h2 { color: #2980b9; margin-top: 30px; border-left: 5px solid #2980b9; padding-left: 10px; background: #ecf0f1; padding: 5px 10px; }
+        h3 { color: #d35400; margin-top: 20px; }
+        .formula-box { background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0; border: 1px solid #bdc3c7; text-align: center; }
+        ul { list-style-type: square; margin-left: 20px; }
+        li { margin-bottom: 12px; }
+        .important { font-weight: bold; color: #c0392b; }
+        math { font-size: 1.25em; }
+    </style>
+</head>
+<body>
+
+    <h1>ଚତୁର୍ଥ ଅଧ୍ୟାୟ: ସମ୍ଭାବ୍ୟତା (PROBABILITY)</h1>
+
+    <h2>୪.୧ ଉପକ୍ରମଣିକା (Introduction)</h2>
+    <ul>
+        <li>ଏକ ପରୀକ୍ଷଣ (Experiment) ଏବଂ ଏହାର ପର୍ଯ୍ୟବେକ୍ଷଣ (Observation) ରୁ ଆସୁଥିବା ଫଳାଫଳକୁ ଆଧାର କରି <b>ସମ୍ଭାବ୍ୟତା</b> କୁ ସଂଖ୍ୟାରେ ମାପ କରାଯାଇଥାଏ [୮୪]।</li>
+        <li>ଏହା ମୁଖ୍ୟତଃ ଦୁଇ ପ୍ରକାରର: (i) ଆନୁଭବିକ ସମ୍ଭାବ୍ୟତା ଏବଂ (ii) ତତ୍ତ୍ୱାଧାରିକ ସମ୍ଭାବ୍ୟତା [୮୫]।</li>
+    </ul>
+
+    <h2>୪.୨ ଆନୁଭବିକ ଏବଂ ତତ୍ତ୍ୱାଧାରିକ ସମ୍ଭାବ୍ୟତା</h2>
+    <h3>(i) ଆନୁଭବିକ ସମ୍ଭାବ୍ୟତା (Empirical Probability):</h3>
+    <ul>
+        <li>ପରୀକ୍ଷଣରୁ ପ୍ରକୃତରେ ମିଳିଥିବା ଫଳାଫଳର ବାରମ୍ବାରତା ଏବଂ ମୋଟ ପରୀକ୍ଷଣ ସଂଖ୍ୟା ଉପରେ ଏହା ନିର୍ଭର କରେ [୮୬]।</li>
+    </ul>
+    <div class="formula-box">
+        <math display="block">
+            <mtext>ଆନୁଭବିକ ସମ୍ଭାବ୍ୟତା</mtext>
+            <mo>=</mo>
+            <mfrac>
+                <mtext>ଆବଶ୍ୟକ ଫଳଟିର ବାରମ୍ବାରତା</mtext>
+                <mtext>ମୋଟ ପରୀକ୍ଷଣ ସଂଖ୍ୟା</mtext>
+            </mfrac>
+        </math>
+    </div>
+
+    <h3>(ii) ତତ୍ତ୍ୱାଧାରିକ ସମ୍ଭାବ୍ୟତା (Theoretical Probability):</h3>
+    <ul>
+        <li>ଏହାକୁ କ୍ଲାସିକାଲ୍ ସମ୍ଭାବ୍ୟତା (Classical Probability) ମଧ୍ୟ କୁହାଯାଏ [୯୧]।</li>
+        <li>ଯଦି <math><mi>E</mi></math> ଏକ ଘଟଣା ଏବଂ <math><mi>S</mi></math> ସାମ୍ପଲ୍ ସ୍ପେସ୍ (Sample Space) ହୁଏ, ତେବେ:</li>
+    </ul>
+    <div class="formula-box">
+        <math display="block">
+            <mi>P</mi>
+            <mo>(</mo>
+            <mi>E</mi>
+            <mo>)</mo>
+            <mo>=</mo>
+            <mfrac>
+                <mrow><mo>|</mo><mi>E</mi><mo>|</mo></mrow>
+                <mrow><mo>|</mo><mi>S</mi><mo>|</mo></mrow>
+            </mfrac>
+        </math>
+        <br>
+        ଯେଉଁଠାରେ <math><mo>|</mo><mi>E</mi><mo>|</mo></math> = ଘଟଣା ଅନୁକୂଳ ଫଳାଫଳ ସଂଖ୍ୟା ଏବଂ <math><mo>|</mo><mi>S</mi><mo>|</mo></math> = ମୋଟ ସମ୍ଭାବ୍ୟ ଫଳାଫଳ ସଂଖ୍ୟା [୧୦୭]।
+    </div>
+
+    <h2>୪.୩ ସେଟ୍ ତତ୍ତ୍ୱ ଉପରେ ଆଧାରିତ କିଛି ଧାରଣା</h2>
+    <ul>
+        <li><b>ସାମ୍ପଲ୍ ସ୍ପେସ୍ (Sample Space):</b> ଏକ ପରୀକ୍ଷଣର ସମସ୍ତ ସମ୍ଭାବ୍ୟ ଫଳାଫଳର ସେଟ୍‌କୁ <math><mi>S</mi></math> ଦ୍ୱାରା ସୂଚାଯାଏ [୧୦୦]।
+            <ul>
+                <li>ମୁଦ୍ରା ଟସ୍ କଲେ: <math><mi>S</mi><mo>=</mo><mo>{</mo><mi>H</mi><mo>,</mo><mi>T</mi><mo>}</mo></math></li>
+                <li>ଲୁଡୁ ଗୋଟି ଗଡ଼ାଇଲେ: <math><mi>S</mi><mo>=</mo><mo>{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>6</mn><mo>}</mo></math></li>
+            </ul>
+        </li>
+        <li><b>ଘଟଣା (Event):</b> ସାମ୍ପଲ୍ ସ୍ପେସ୍ <math><mi>S</mi></math> ର ଯେକୌଣସି ଉପସେଟ୍ <math><mi>E</mi></math> କୁ ଏକ ଘଟଣା କୁହାଯାଏ (<math><mi>E</mi><mo>⊆</mo><mi>S</mi></math>) [୧୦୨]।</li>
+        <li><b>ମୌଳିକ ଘଟଣା (Elementary Event):</b> ଗୋଟିଏ ମାତ୍ର ଉପାଦାନ ବିଶିଷ୍ଟ ଘଟଣା [୧୦୫]।</li>
+        <li><b>ପରସ୍ପର ବହିର୍ଭୁକ୍ତ ଘଟଣା (Mutually Exclusive Events):</b> ଯଦି <math><msub><mi>E</mi><mn>1</mn></msub><mo>∩</mo><msub><mi>E</mi><mn>2</mn></msub><mo>=</mo><mi>∅</mi></math> [୧୦୬]।</li>
+        <li><b>ପରିପୂରକ ଘଟଣା (Complementary Events):</b> ଘଟଣା <math><mi>E</mi></math> ର ପରିପୂରକ ହେଉଛି <math><mi>E'</mi></math> [୧୦୬, ୧୦୯]।</li>
+    </ul>
+
+    <h2>୪.୪ ସମ୍ଭାବ୍ୟତାର ଧର୍ମ (Properties of Probability)</h2>
+    <ul>
+        <li>ଯେକୌଣସି ଘଟଣା <math><mi>E</mi></math> ପାଇଁ, <math><mn>0</mn><mo>≤</mo><mi>P</mi><mo>(</mo><mi>E</mi><mo>)</mo><mo>≤</mo><mn>1</mn></math> [୧୦୮]।</li>
+        <li>ଅନିଶ୍ଚିତ ବା ଅସମ୍ଭବ ଘଟଣାର ସମ୍ଭାବ୍ୟତା <math><mi>P</mi><mo>(</mo><mi>∅</mi><mo>)</mo><mo>=</mo><mn>0</mn></math> [୧୦୮]।</li>
+        <li>ନିଶ୍ଚିତ ଘଟଣାର ସମ୍ଭାବ୍ୟତା <math><mi>P</mi><mo>(</mo><mi>S</mi><mo>)</mo><mo>=</mo><mn>1</mn></math> [୧୦୯]।</li>
+        <li>ପରିପୂରକ ଘଟଣା ପାଇଁ: <math><mi>P</mi><mo>(</mo><mi>E</mi><mo>)</mo><mo>+</mo><mi>P</mi><mo>(</mo><mi>E'</mi><mo>)</mo><mo>=</mo><mn>1</mn></math> [୧୦୯]।</li>
+    </ul>
+
+    <div class="formula-box">
+        <span class="important">ଯୋଗ ସୂତ୍ର:</span><br><br>
+        <math display="block">
+            <mi>P</mi><mo>(</mo><msub><mi>E</mi><mn>1</mn></msub><mo>∪</mo><msub><mi>E</mi><mn>2</mn></msub><mo>)</mo>
+            <mo>=</mo>
+            <mi>P</mi><mo>(</mo><msub><mi>E</mi><mn>1</mn></msub><mo>)</mo>
+            <mo>+</mo>
+            <mi>P</mi><mo>(</mo><msub><mi>E</mi><mn>2</mn></msub><mo>)</mo>
+            <mo>−</mo>
+            <mi>P</mi><mo>(</mo><msub><mi>E</mi><mn>1</mn></msub><mo>∩</mo><msub><mi>E</mi><mn>2</mn></msub><mo>)</mo>
+        </math>
+        <br>
+        ଯଦି ଘଟଣା ଦ୍ୱୟ ପରସ୍ପର ବହିର୍ଭୁକ୍ତ ହୁଅନ୍ତି (<math><msub><mi>E</mi><mn>1</mn></msub><mo>∩</mo><msub><mi>E</mi><mn>2</mn></msub><mo>=</mo><mi>∅</mi></math>), ତେବେ:<br>
+        <math display="block">
+            <mi>P</mi><mo>(</mo><msub><mi>E</mi><mn>1</mn></msub><mo>∪</mo><msub><mi>E</mi><mn>2</mn></msub><mo>)</mo>
+            <mo>=</mo>
+            <mi>P</mi><mo>(</mo><msub><mi>E</mi><mn>1</mn></msub><mo>)</mo>
+            <mo>+</mo>
+            <mi>P</mi><mo>(</mo><msub><mi>E</mi><mn>2</mn></msub><mo>)</mo>
+        </math> [୧୧୧]
+    </div>
+
+</body>
+</html>

@@ -1,1 +1,1046 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE21",
+  "chapter_name": "Phrasal Verbs",
+  "questions": [
+    {
+      "id": "SLE2101",
+      "question": "What is a phrasal verb formed from?",
+      "options": {
+        "A": "A noun and an adjective",
+        "B": "A main verb and an adverb or prepositional particle",
+        "C": "Two nouns joined by a conjunction",
+        "D": "A verb and its object"
+      },
+      "answer": "B",
+      "explanation": "A phrasal verb is formed when a small word (particle) like 'up' or 'at' is added to a main verb, often giving it a new meaning.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2102",
+      "question": "In the sentence 'Our request was turned down', what does 'turned down' mean?",
+      "options": {
+        "A": "Accepted",
+        "B": "Postponed",
+        "C": "Rejected",
+        "D": "Discussed"
+      },
+      "answer": "C",
+      "explanation": "In this context, 'turn down' means to reject an offer or request.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2103",
+      "question": "Which of these phrasal verbs is used intransitively (without an object)?",
+      "options": {
+        "A": "Set up a school",
+        "B": "Make out your words",
+        "C": "My car has broken down",
+        "D": "Turn on the light"
+      },
+      "answer": "C",
+      "explanation": "'Broken down' in this sentence does not have an object, making it intransitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2104",
+      "question": "What does 'break down' mean when referring to a person's reaction to bad news?",
+      "options": {
+        "A": "To stop functioning",
+        "B": "To enter by force",
+        "C": "To collapse or burst into tears",
+        "D": "To interrupt a discussion"
+      },
+      "answer": "C",
+      "explanation": "When applied to people, 'break down' often means to lose emotional control or collapse from grief.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2105",
+      "question": "Choose the correct meaning for 'break into':",
+      "options": {
+        "A": "To start a journey",
+        "B": "To enter by force",
+        "C": "To publish a book",
+        "D": "To take care of"
+      },
+      "answer": "B",
+      "explanation": "'Break into' means to enter a building or room illegally by using force.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2106",
+      "question": "What is the meaning of 'bring up' in 'He was brought up by his uncle'?",
+      "options": {
+        "A": "Published",
+        "B": "Called on the phone",
+        "C": "Educated or reared",
+        "D": "Accommodated"
+      },
+      "answer": "C",
+      "explanation": "'Bring up' means to care for a child until they are an adult.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2107",
+      "question": "Identify the phrasal verb that means 'to cancel':",
+      "options": {
+        "A": "Call up",
+        "B": "Call on",
+        "C": "Call off",
+        "D": "Carry out"
+      },
+      "answer": "C",
+      "explanation": "'Call off' is used when an event or action like a strike or meeting is cancelled.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2108",
+      "question": "Which phrasal verb means 'to execute' or 'to perform a task'?",
+      "options": {
+        "A": "Carry on",
+        "B": "Carry out",
+        "C": "Call up",
+        "D": "Do up"
+      },
+      "answer": "B",
+      "explanation": "'Carry out' means to do something that you have said you will do or have been told to do.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2109",
+      "question": "In 'He got over his difficulties', 'got over' means:",
+      "options": {
+        "A": "Postponed",
+        "B": "Overcame",
+        "C": "Distributed",
+        "D": "Investigated"
+      },
+      "answer": "B",
+      "explanation": "'Get over' means to successfully deal with or overcome a problem or difficulty.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2110",
+      "question": "Which phrasal verb means 'to stop doing something' (like smoking)?",
+      "options": {
+        "A": "Give in",
+        "B": "Give away",
+        "C": "Give up",
+        "D": "Give out"
+      },
+      "answer": "C",
+      "explanation": "'Give up' is commonly used for stopping a habit or activity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2111",
+      "question": "What is the meaning of 'look after'?",
+      "options": {
+        "A": "To investigate",
+        "B": "To take care of",
+        "C": "To search for",
+        "D": "To examine carefully"
+      },
+      "answer": "B",
+      "explanation": "'Look after' means to be responsible for or to take care of someone or something.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2112",
+      "question": "The police are 'looking into' the matter. This means they are:",
+      "options": {
+        "A": "Watching it",
+        "B": "Investigating it",
+        "C": "Ignoring it",
+        "D": "Closing it"
+      },
+      "answer": "B",
+      "explanation": "'Look into' is a phrasal verb meaning to investigate or examine the facts of a situation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2113",
+      "question": "What does 'make out' mean in 'I cannot make out your handwriting'?",
+      "options": {
+        "A": "Understand or see clearly",
+        "B": "Settle a quarrel",
+        "C": "Invent a story",
+        "D": "Depart hurriedly"
+      },
+      "answer": "A",
+      "explanation": "'Make out' means to be able to see, hear, or understand something with difficulty.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2114",
+      "question": "Choose the meaning of 'put off' in 'Don't put off today's work for tomorrow':",
+      "options": {
+        "A": "Extinguish",
+        "B": "Postpone",
+        "C": "Stay at a hotel",
+        "D": "Suppress by force"
+      },
+      "answer": "B",
+      "explanation": "'Put off' means to delay doing something until a later time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2115",
+      "question": "Which phrasal verb means 'to extinguish' (like a light or fire)?",
+      "options": {
+        "A": "Put down",
+        "B": "Put up",
+        "C": "Put out",
+        "D": "Put off"
+      },
+      "answer": "C",
+      "explanation": "'Put out' means to stop something from burning or to turn off a light.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2116",
+      "question": "What does 'set off' mean?",
+      "options": {
+        "A": "To establish",
+        "B": "To begin a journey",
+        "C": "To write down",
+        "D": "To remove a hat"
+      },
+      "answer": "B",
+      "explanation": "'Set off' (or 'set out') means to start a journey.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2117",
+      "question": "In 'He set up a school', 'set up' means:",
+      "options": {
+        "A": "Destroyed",
+        "B": "Visited",
+        "C": "Established or started",
+        "D": "Postponed"
+      },
+      "answer": "C",
+      "explanation": "'Set up' means to start a new business, organization, or system.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2118",
+      "question": "What does 'take off' mean when referring to an aeroplane?",
+      "options": {
+        "A": "To remove parts",
+        "B": "To leave the ground and begin to fly",
+        "C": "To write down notes",
+        "D": "To accept a new duty"
+      },
+      "answer": "B",
+      "explanation": "For aircraft, 'take off' means the moment they leave the ground.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2119",
+      "question": "Which phrasal-prepositional verb means 'to anticipate eagerly'?",
+      "options": {
+        "A": "Get on with",
+        "B": "Go back on",
+        "C": "Look forward to",
+        "D": "Run out of"
+      },
+      "answer": "C",
+      "explanation": "'Look forward to' means to feel excited and happy about something that is going to happen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2120",
+      "question": "What does 'run out of' mean?",
+      "options": {
+        "A": "To have no more of something left",
+        "B": "To escape from a place",
+        "C": "To continue working",
+        "D": "To compensate for trouble"
+      },
+      "answer": "A",
+      "explanation": "If you 'run out of' something, you use all of it and have none left.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2121",
+      "question": "If a particle can be put after the object, the phrasal verb is said to be ________.",
+      "options": {
+        "A": "Inseparable",
+        "B": "Separable",
+        "C": "Intransitive",
+        "D": "Finite"
+      },
+      "answer": "B",
+      "explanation": "Separable phrasal verbs allow the particle to be moved after the noun object.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2122",
+      "question": "In Activity 1, which sentence is NOT separable?",
+      "options": {
+        "A": "He turned off the light.",
+        "B": "The enemy blew up the bridge.",
+        "C": "I depend on you.",
+        "D": "Take off your shoes."
+      },
+      "answer": "C",
+      "explanation": "Activity 1 identifies 'I depend on you' as NS (Not Separable).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2123",
+      "question": "According to Activity 2, how should 'point out many mistakes' be rewritten with a pronoun?",
+      "options": {
+        "A": "Point out them",
+        "B": "Point them out",
+        "C": "Them point out",
+        "D": "Point out many them"
+      },
+      "answer": "B",
+      "explanation": "When the object is a pronoun (them), it must go between the verb and the particle.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2124",
+      "question": "From Activity 3, complete: 'I _____ on my way to school.'",
+      "options": {
+        "A": "came across a strange animal",
+        "B": "came a strange animal across",
+        "C": "came across it",
+        "D": "across came a strange animal"
+      },
+      "answer": "A",
+      "explanation": "'Come across' is typically used transitively in this order for noun objects.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2125",
+      "question": "Using Activity 4, what does 'Look out!' mean?",
+      "options": {
+        "A": "To investigate",
+        "B": "To be careful",
+        "C": "To search a dictionary",
+        "D": "To watch in silence"
+      },
+      "answer": "B",
+      "explanation": "Activity 4 defines 'Look out!' as meaning to be careful.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2126",
+      "question": "Using Activity 4, 'Look down upon' means:",
+      "options": {
+        "A": "To consider with respect",
+        "B": "To consider with contempt",
+        "C": "To take care of",
+        "D": "To examine documents"
+      },
+      "answer": "B",
+      "explanation": "To 'look down on' or 'look down upon' means to think that you are better than someone else.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2127",
+      "question": "In Activity 5, 'make up' is used to mean:",
+      "options": {
+        "A": "To separate after a quarrel",
+        "B": "To leave bed",
+        "C": "To replace some lost thing",
+        "D": "To destroy by explosion"
+      },
+      "answer": "C",
+      "explanation": "Activity 5 uses 'make up' for replacing lost time or things.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2128",
+      "question": "From Activity 6, replace 'resemble' with a phrasal verb:",
+      "options": {
+        "A": "Take off",
+        "B": "Take after",
+        "C": "Take down",
+        "D": "Take over"
+      },
+      "answer": "B",
+      "explanation": "'Take after' means to look or behave like an older member of your family.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2129",
+      "question": "From Activity 8, complete: 'Cholera broke _____ everywhere.'",
+      "options": {
+        "A": "down",
+        "B": "out",
+        "C": "in",
+        "D": "up"
+      },
+      "answer": "B",
+      "explanation": "'Break out' means to start suddenly, used for diseases or wars.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2130",
+      "question": "From Activity 8, complete: 'I could not make _____ what he was saying.'",
+      "options": {
+        "A": "up",
+        "B": "out",
+        "C": "off",
+        "D": "over"
+      },
+      "answer": "B",
+      "explanation": "'Make out' here means to understand.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2131",
+      "question": "In Activity 9, 'published' is replaced by:",
+      "options": {
+        "A": "Brought up",
+        "B": "Brought out",
+        "C": "Pack up",
+        "D": "Get over"
+      },
+      "answer": "B",
+      "explanation": "'Bring out' is the phrasal verb for publishing books or records.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2132",
+      "question": "In Activity 9, 'failed to keep a promise' is replaced by:",
+      "options": {
+        "A": "Go back on",
+        "B": "Go in for",
+        "C": "Stand by",
+        "D": "Drop out"
+      },
+      "answer": "A",
+      "explanation": "To 'go back on' one's word means to fail to do what you promised.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2133",
+      "question": "What is the meaning of 'make off'?",
+      "options": {
+        "A": "To invent a story",
+        "B": "To depart hurriedly",
+        "C": "To settle a quarrel",
+        "D": "To compensate"
+      },
+      "answer": "B",
+      "explanation": "'Make off' means to leave quickly, often to escape.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2134",
+      "question": "Which verb group in Activity 10 means 'to tolerate'?",
+      "options": {
+        "A": "Get on well with",
+        "B": "Put up with",
+        "C": "Catch up with",
+        "D": "Come in for"
+      },
+      "answer": "B",
+      "explanation": "'Put up with' is a phrasal-prepositional verb meaning to tolerate or accept an unpleasant situation.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2135",
+      "question": "In 'The battery has run down', 'run down' means:",
+      "options": {
+        "A": "Weakened / lost power",
+        "B": "Escaped",
+        "C": "Criticised",
+        "D": "Fallen over"
+      },
+      "answer": "A",
+      "explanation": "In an intransitive sense for batteries, 'run down' means to lose charge.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2136",
+      "question": "When 'run down' is used as 'He is always running down his neighbours', it means:",
+      "options": {
+        "A": "Chasing",
+        "B": "Criticising",
+        "C": "Helping",
+        "D": "Following"
+      },
+      "answer": "B",
+      "explanation": "'Run down' can mean to criticise someone or something unfairly.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2137",
+      "question": "What does 'break in' mean in the context of a discussion?",
+      "options": {
+        "A": "To leave",
+        "B": "To interrupt",
+        "C": "To finish",
+        "D": "To agree"
+      },
+      "answer": "B",
+      "explanation": "'Break in' means to interrupt when someone else is talking.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2138",
+      "question": "What does 'break off' mean in 'Let's break off for ten minutes'?",
+      "options": {
+        "A": "To stop for a rest",
+        "B": "To separate by force",
+        "C": "To end a relationship",
+        "D": "To start a fire"
+      },
+      "answer": "A",
+      "explanation": "'Break off' can mean to stop doing something for a short time.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2139",
+      "question": "Which phrasal verb means 'to telephone somebody'?",
+      "options": {
+        "A": "Call on",
+        "B": "Call up",
+        "C": "Call off",
+        "D": "Call back"
+      },
+      "answer": "B",
+      "explanation": "Activity 6 and the common list show 'call up' as meaning to telephone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2140",
+      "question": "'They called on me yesterday' means they ________ me.",
+      "options": {
+        "A": "Phoned",
+        "B": "Visited",
+        "C": "Rejected",
+        "D": "Helped"
+      },
+      "answer": "B",
+      "explanation": "'Call on' means to pay a short visit to someone.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2141",
+      "question": "What does 'do up' mean in 'Do up your shoes'?",
+      "options": {
+        "A": "Decorate",
+        "B": "Fasten",
+        "C": "Clean",
+        "D": "Remove"
+      },
+      "answer": "B",
+      "explanation": "'Do up' can mean to fasten something like a button, zip, or shoelace.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2142",
+      "question": "What does 'do up' mean in 'She did up the room'?",
+      "options": {
+        "A": "Fastened",
+        "B": "Decorated",
+        "C": "Left",
+        "D": "Locked"
+      },
+      "answer": "B",
+      "explanation": "'Do up' can also mean to repair or decorate a room or building.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2143",
+      "question": "Which phrasal verb means 'to make progress'?",
+      "options": {
+        "A": "Get over",
+        "B": "Get on",
+        "C": "Get off",
+        "D": "Get up"
+      },
+      "answer": "B",
+      "explanation": "'Get on' is used to talk about how well someone is doing in a task or life.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2144",
+      "question": "'Give away' (like prizes) means to ________.",
+      "options": {
+        "A": "Sell",
+        "B": "Distribute",
+        "C": "Store",
+        "D": "Win"
+      },
+      "answer": "B",
+      "explanation": "'Give away' means to give something to someone for free, often as a prize.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2145",
+      "question": "What does 'give in' mean?",
+      "options": {
+        "A": "To distribute",
+        "B": "To surrender or yield",
+        "C": "To stop a habit",
+        "D": "To exhaust"
+      },
+      "answer": "B",
+      "explanation": "'Give in' means to agree to something that you do not want to do, or to surrender.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2146",
+      "question": "In 'Keep up your courage', 'keep up' means:",
+      "options": {
+        "A": "To maintain or prevent from getting low",
+        "B": "To hide",
+        "C": "To change",
+        "D": "To lose"
+      },
+      "answer": "A",
+      "explanation": "'Keep up' means to maintain something at a high level.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2147",
+      "question": "What does 'lay by' mean?",
+      "options": {
+        "A": "To save for future use",
+        "B": "To throw away",
+        "C": "To lie down",
+        "D": "To continue working"
+      },
+      "answer": "A",
+      "explanation": "'Lay by' is a phrasal verb meaning to save or put aside money or things.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2148",
+      "question": "'Leave out' is the same as ________.",
+      "options": {
+        "A": "Include",
+        "B": "Omit",
+        "C": "Repeat",
+        "D": "Understand"
+      },
+      "answer": "B",
+      "explanation": "'Leave out' means to not include someone or something.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2149",
+      "question": "In Activity 4, 'Look up to' means:",
+      "options": {
+        "A": "To consider with respect",
+        "B": "To consider with contempt",
+        "C": "To search a dictionary",
+        "D": "To be careful"
+      },
+      "answer": "A",
+      "explanation": "'Look up to' means to admire and respect someone.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2150",
+      "question": "Which phrasal verb means 'to examine carefully'?",
+      "options": {
+        "A": "Look for",
+        "B": "Look over",
+        "C": "Look after",
+        "D": "Look on"
+      },
+      "answer": "B",
+      "explanation": "'Look over' means to examine something quickly to get a general idea of it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2151",
+      "question": "What does 'make up' mean in 'They made up their quarrel'?",
+      "options": {
+        "A": "To invent",
+        "B": "To settle / reestablish good relations",
+        "C": "To compensate",
+        "D": "To separate"
+      },
+      "answer": "B",
+      "explanation": "In this context, 'make up' means to become friends again after an argument.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2152",
+      "question": "What does 'make up' mean in 'Did you make that story up?'",
+      "options": {
+        "A": "To settle",
+        "B": "To invent",
+        "C": "To clean",
+        "D": "To tell"
+      },
+      "answer": "B",
+      "explanation": "'Make up' often means to invent a story, excuse, or explanation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2153",
+      "question": "'Pick out' (like oranges) means to ________.",
+      "options": {
+        "A": "Acquire",
+        "B": "Choose",
+        "C": "Eat",
+        "D": "Wash"
+      },
+      "answer": "B",
+      "explanation": "'Pick out' means to choose someone or something from a group.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2154",
+      "question": "What does 'pick up' mean in 'He has picked up bad habits'?",
+      "options": {
+        "A": "Recovered",
+        "B": "Acquired / got",
+        "C": "Avoided",
+        "D": "Taught"
+      },
+      "answer": "B",
+      "explanation": "'Pick up' can mean to learn or acquire something without intending to.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2155",
+      "question": "When a person is 'picking up' again after an illness, they are:",
+      "options": {
+        "A": "Getting worse",
+        "B": "Recovering",
+        "C": "Taking medicine",
+        "D": "Leaving the hospital"
+      },
+      "answer": "B",
+      "explanation": "'Pick up' in this sense means to improve or get better in health.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2156",
+      "question": "'Put down' (like a riot) means to ________.",
+      "options": {
+        "A": "Postpone",
+        "B": "Suppress by force",
+        "C": "Raise",
+        "D": "Accommodate"
+      },
+      "answer": "B",
+      "explanation": "'Put down' means to use force to stop a protest or riot.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2157",
+      "question": "'Put up at a hotel' means to ________.",
+      "options": {
+        "A": "Build a hotel",
+        "B": "Stay / live there",
+        "C": "Leave the hotel",
+        "D": "Work in the hotel"
+      },
+      "answer": "B",
+      "explanation": "'Put up' can mean to stay somewhere for a short time.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2158",
+      "question": "What does 'put up' mean in 'Put your hand up'?",
+      "options": {
+        "A": "Stay",
+        "B": "Raise",
+        "C": "Accommodate",
+        "D": "Lower"
+      },
+      "answer": "B",
+      "explanation": "'Put up' means to raise something to a higher position.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2159",
+      "question": "'Take down' a speech means to ________.",
+      "options": {
+        "A": "Listen",
+        "B": "Write it down",
+        "C": "Give a speech",
+        "D": "Interrupt"
+      },
+      "answer": "B",
+      "explanation": "'Take down' means to write down information that someone is saying.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2160",
+      "question": "In 'The son took over the business', 'took over' means:",
+      "options": {
+        "A": "Accepted duty / control",
+        "B": "Removed",
+        "C": "Started a journey",
+        "D": "Established"
+      },
+      "answer": "A",
+      "explanation": "'Take over' means to get control of something or to do something that someone else used to do.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2161",
+      "question": "Meaning of 'get away with':",
+      "options": {
+        "A": "To fail to keep",
+        "B": "To escape punishment/consequences",
+        "C": "To move forward",
+        "D": "To compensate"
+      },
+      "answer": "B",
+      "explanation": "To 'get away with' something means to do something wrong and not be punished for it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2162",
+      "question": "'Keep up with the class' means to ________.",
+      "options": {
+        "A": "Omit lessons",
+        "B": "Go forward at an equal pace",
+        "C": "Stop working",
+        "D": "Look forward"
+      },
+      "answer": "B",
+      "explanation": "'Keep up with' means to move or progress at the same rate as someone else.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2163",
+      "question": "'Make up for' the trouble means to ________.",
+      "options": {
+        "A": "Invent trouble",
+        "B": "Compensate for it",
+        "C": "Settle it",
+        "D": "Understand it"
+      },
+      "answer": "B",
+      "explanation": "'Make up for' means to compensate for something bad with something good.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2164",
+      "question": "Choose the correct phrase for 'enjoying cricket':",
+      "options": {
+        "A": "Go back on cricket",
+        "B": "Go in for cricket",
+        "C": "Run out of cricket",
+        "D": "Make out cricket"
+      },
+      "answer": "B",
+      "explanation": "To 'go in for' something means to enjoy or do a particular activity.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2165",
+      "question": "What is 'NS' in Activity 1 short for?",
+      "options": {
+        "A": "No Sentence",
+        "B": "Not Separable",
+        "C": "New Subject",
+        "D": "Noun Subordinate"
+      },
+      "answer": "B",
+      "explanation": "In Activity 1, 'NS' stands for 'Not Separable', meaning the particle cannot move away from the verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2166",
+      "question": "Identify the separable phrasal verb from Activity 1:",
+      "options": {
+        "A": "Depend on",
+        "B": "Look into",
+        "C": "Turn off",
+        "D": "Count on"
+      },
+      "answer": "C",
+      "explanation": "'Turn off' is separable (e.g., 'Turn the light off').",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2167",
+      "question": "In Activity 5, 'blow up' means:",
+      "options": {
+        "A": "To start a business",
+        "B": "To destroy by explosion",
+        "C": "To leave bed",
+        "D": "To obstruct traffic"
+      },
+      "answer": "B",
+      "explanation": "'Blow up' means to explode or to destroy something with an explosion.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2168",
+      "question": "From Activity 5, 'get up' means:",
+      "options": {
+        "A": "To take care of",
+        "B": "To leave bed after sleeping",
+        "C": "To make attractive",
+        "D": "To come to a meeting"
+      },
+      "answer": "B",
+      "explanation": "'Get up' is a very common phrasal verb for rising from bed.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2169",
+      "question": "From Activity 5, 'pack up' means:",
+      "options": {
+        "A": "To start a journey",
+        "B": "To stop working",
+        "C": "To come to a meeting",
+        "D": "To raise hands"
+      },
+      "answer": "B",
+      "explanation": "'Pack up' is used when you finish work or an activity for the day.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2170",
+      "question": "Activity 5: 'show up' means:",
+      "options": {
+        "A": "To make attractive",
+        "B": "To come to a meeting / appear",
+        "C": "To separate",
+        "D": "To exhaust"
+      },
+      "answer": "B",
+      "explanation": "To 'show up' means to arrive or appear somewhere.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2171",
+      "question": "Activity 5: 'do up' when used for a house means:",
+      "options": {
+        "A": "To fasten",
+        "B": "To make something attractive / redecorate",
+        "C": "To destroy",
+        "D": "To start a business"
+      },
+      "answer": "B",
+      "explanation": "'Do up' for a house means to clean, paint, or decorate it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2172",
+      "question": "Activity 5: 'hold up' in traffic means:",
+      "options": {
+        "A": "To speed up",
+        "B": "To obstruct / delay",
+        "C": "To start",
+        "D": "To raise"
+      },
+      "answer": "B",
+      "explanation": "'Hold up' means to cause a delay.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2173",
+      "question": "From Activity 8, select the particle: 'Cholera broke _____.'",
+      "options": {
+        "A": "out",
+        "B": "up",
+        "C": "down",
+        "D": "off"
+      },
+      "answer": "A",
+      "explanation": "'Break out' is the correct particle for the sudden start of a disease.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2174",
+      "question": "Activity 8: 'The meeting came _____ successfully.'",
+      "options": {
+        "A": "up",
+        "B": "off",
+        "C": "on",
+        "D": "by"
+      },
+      "answer": "B",
+      "explanation": "'Come off' means to happen successfully as planned.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2175",
+      "question": "Activity 8: 'I do not give _____ to anybody’s pressure.'",
+      "options": {
+        "A": "out",
+        "B": "in",
+        "C": "up",
+        "D": "away"
+      },
+      "answer": "B",
+      "explanation": "'Give in' means to yield or surrender to pressure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2176",
+      "question": "Activity 8: 'The old man passed _____ in his sleep.'",
+      "options": {
+        "A": "out",
+        "B": "away",
+        "C": "by",
+        "D": "off"
+      },
+      "answer": "B",
+      "explanation": "'Pass away' is a polite way to say 'die'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2177",
+      "question": "In Activity 9, 'quarrel' and 'stop being friends' is replaced by:",
+      "options": {
+        "A": "Fall through",
+        "B": "Fall out",
+        "C": "Drop out",
+        "D": "Stand by"
+      },
+      "answer": "B",
+      "explanation": "To 'fall out' with someone means to argue and stop being friendly with them.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2178",
+      "question": "Activity 9: 'withdrew from the match' is replaced by:",
+      "options": {
+        "A": "Dropped out",
+        "B": "Brought out",
+        "C": "Go back on",
+        "D": "Get over"
+      },
+      "answer": "A",
+      "explanation": "'Drop out' means to stop taking part in something.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2179",
+      "question": "Activity 9: 'failed due to disagreements' is replaced by:",
+      "options": {
+        "A": "Fell out",
+        "B": "Fell through",
+        "C": "Pack up",
+        "D": "Keep on"
+      },
+      "answer": "B",
+      "explanation": "'Fall through' means to fail to happen.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2180",
+      "question": "From Activity 10, 'Suresh ____ a solution' means he:",
+      "options": {
+        "A": "Ran out of",
+        "B": "Came out with / came up with",
+        "C": "Put up with",
+        "D": "Get on with"
+      },
+      "answer": "B",
+      "explanation": "'Come out with' or 'come up with' means to suggest or think of an idea or plan.",
+      "difficulty": "hard"
+    }
+  ]
+}

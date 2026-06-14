@@ -1,1 +1,695 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE23",
+  "chapter_name": "Adverb Clauses",
+  "questions": [
+    {
+      "id": "SLE2301",
+      "question": "Which of these questions does an 'Adverb Clause of Time' typically answer?",
+      "options": {
+        "A": "Where?",
+        "B": "When?",
+        "C": "Why?",
+        "D": "How?"
+      },
+      "answer": "B",
+      "explanation": "Adverb clauses of time provide information about when the action in the main clause occurs [1].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2302",
+      "question": "Identify the subordinator in the sentence: 'It always rains after I have watered the plants.'",
+      "options": {
+        "A": "always",
+        "B": "rains",
+        "C": "after",
+        "D": "watered"
+      },
+      "answer": "C",
+      "explanation": "'After' is the subordinator introducing the adverb clause of time [1, 2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2303",
+      "question": "What type of adverb clause is found in: 'I couldn’t go to the fair because I was busy'?",
+      "options": {
+        "A": "Adverb Clause of Place",
+        "B": "Adverb Clause of Purpose",
+        "C": "Adverb Clause of Reason",
+        "D": "Adverb Clause of Comparison"
+      },
+      "answer": "C",
+      "explanation": "The clause 'because I was busy' explains the reason for the main action [1, 2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2304",
+      "question": "Identify the type of adverb clause: 'Do it as your teacher showed you.'",
+      "options": {
+        "A": "Time",
+        "B": "Place",
+        "C": "Manner",
+        "D": "Condition"
+      },
+      "answer": "C",
+      "explanation": "The clause 'as your teacher showed you' tells us how (the manner) the action should be done [1, 2].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2305",
+      "question": "Which marker is used to introduce an Adverb Clause of Purpose?",
+      "options": {
+        "A": "wherever",
+        "B": "so that",
+        "C": "although",
+        "D": "unless"
+      },
+      "answer": "B",
+      "explanation": "'So that' is a standard subordinator for expressing purpose [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2306",
+      "question": "In the sentence 'If you heat ice, it melts', what does the conditional clause suggest?",
+      "options": {
+        "A": "A past unfulfilled condition",
+        "B": "An imaginary situation",
+        "C": "A scientific truth (zero conditional)",
+        "D": "A future possibility"
+      },
+      "answer": "C",
+      "explanation": "Scientific or universal truths use the present simple in both clauses, known as zero conditional [3].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2307",
+      "question": "Identify the adverb clause type (Activity 2): 'Where there is no vision, the people suffer.'",
+      "options": {
+        "A": "Reason",
+        "B": "Concession",
+        "C": "Place",
+        "D": "Time"
+      },
+      "answer": "C",
+      "explanation": "The clause introduced by 'where' indicates place [2, 4].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2308",
+      "question": "Complete the first conditional: 'If you work hard, you ________ a first division.'",
+      "options": {
+        "A": "get",
+        "B": "would get",
+        "C": "will get",
+        "D": "had got"
+      },
+      "answer": "C",
+      "explanation": "The first conditional uses the present simple in the if-clause and 'will/shall' in the main clause [3, 5].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2309",
+      "question": "Identify the type (Activity 2): 'We went out to play as the weather became better.'",
+      "options": {
+        "A": "Time",
+        "B": "Reason",
+        "C": "Manner",
+        "D": "Comparison"
+      },
+      "answer": "A",
+      "explanation": "In this context, 'as' is used to show time, meaning 'when' [2, 4].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2310",
+      "question": "What tense is used in the main clause of a second (imaginary) conditional?",
+      "options": {
+        "A": "Will + Verb",
+        "B": "Would + Verb",
+        "C": "Would have + Past Participle",
+        "D": "Present Simple"
+      },
+      "answer": "B",
+      "explanation": "Second conditionals use modal pasts like 'would', 'could', or 'might' [5].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2311",
+      "question": "Identify the error in punctuation: 'If I were you I would take the offer.'",
+      "options": {
+        "A": "The verb 'were' should be 'was'",
+        "B": "There should be a comma after 'you'",
+        "C": "There should be a comma after 'I'",
+        "D": "No error"
+      },
+      "answer": "B",
+      "explanation": "If the adverb clause comes at the beginning, it must be followed by a comma [5].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2312",
+      "question": "Which marker introduces an Adverb Clause of Concession?",
+      "options": {
+        "A": "although",
+        "B": "whenever",
+        "C": "so that",
+        "D": "as soon as"
+      },
+      "answer": "A",
+      "explanation": "Markers like 'although', 'though', and 'even though' introduce concession clauses [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2313",
+      "question": "What is the function of 'unless' in an adverb clause?",
+      "options": {
+        "A": "It shows reason",
+        "B": "It shows condition (if not)",
+        "C": "It shows purpose",
+        "D": "It shows manner"
+      },
+      "answer": "B",
+      "explanation": "'Unless' is a subordinator for clauses of condition [2].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2314",
+      "question": "Identify the type (Activity 2): 'Whether you join the picnic or not, you will have to pay.'",
+      "options": {
+        "A": "Condition",
+        "B": "Concession",
+        "C": "Reason",
+        "D": "Comparison"
+      },
+      "answer": "B",
+      "explanation": "'Whether... or not' is listed as a marker for clauses of concession [2, 4].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2315",
+      "question": "Match the clauses (Activity 3): 'If you heat iron, ________.'",
+      "options": {
+        "A": "it melts",
+        "B": "it expands",
+        "C": "it becomes dark",
+        "D": "it floats"
+      },
+      "answer": "B",
+      "explanation": "Scientific fact: iron expands when heated [6].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2316",
+      "question": "Identify the third conditional (unfulfilled past):",
+      "options": {
+        "A": "If you study hard, you will pass.",
+        "B": "If you studied hard, you would pass.",
+        "C": "If you had studied hard, you would have passed.",
+        "D": "If you study, you pass."
+      },
+      "answer": "C",
+      "explanation": "The third conditional uses Past Perfect in the if-clause and 'would have + en' in the main clause [5].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2317",
+      "question": "Which of these is an Adverb Clause of Manner subordinator?",
+      "options": {
+        "A": "when",
+        "B": "as if",
+        "C": "than",
+        "D": "because"
+      },
+      "answer": "B",
+      "explanation": "'As if' and 'as though' are common markers for manner [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2318",
+      "question": "In 'The sum is not as difficult as I thought', the clause is one of ________.",
+      "options": {
+        "A": "Time",
+        "B": "Place",
+        "C": "Comparison",
+        "D": "Purpose"
+      },
+      "answer": "C",
+      "explanation": "'As...as' and 'than' are markers for adverb clauses of comparison [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2319",
+      "question": "Complete the imaginary condition (Activity 4): 'Had I the wings of a dove, I ________.'",
+      "options": {
+        "A": "will fly",
+        "B": "would fly",
+        "C": "had flown",
+        "D": "fly"
+      },
+      "answer": "B",
+      "explanation": "This is an inverted second conditional (If I had...), requiring 'would' in the main clause [5, 7].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2320",
+      "question": "Identify the type (Activity 5): 'The day is quite warm because the sun is shining.'",
+      "options": {
+        "A": "Simple",
+        "B": "Complex",
+        "C": "Compound",
+        "D": "Coordinate"
+      },
+      "answer": "B",
+      "explanation": "It has one main clause and one subordinate adverb clause of reason [8].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2321",
+      "question": "Which marker is found in 'Adverb Clause of Place'?",
+      "options": {
+        "A": "whenever",
+        "B": "wherever",
+        "C": "provided",
+        "D": "although"
+      },
+      "answer": "B",
+      "explanation": "'Wherever' indicates location/place [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2322",
+      "question": "Identify the adverb clause: 'I am taking an umbrella in case it rains.'",
+      "options": {
+        "A": "in case it rains (Condition)",
+        "B": "I am taking (Manner)",
+        "C": "an umbrella (Object)",
+        "D": "taking an umbrella (Purpose)"
+      },
+      "answer": "A",
+      "explanation": "'In case' functions as a subordinator of condition [2, 9].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2323",
+      "question": "Complete the scientific truth: 'If you boil water up to 100°C, it ________.'",
+      "options": {
+        "A": "boiled",
+        "B": "will boil",
+        "C": "boils",
+        "D": "would boil"
+      },
+      "answer": "C",
+      "explanation": "Zero conditional (facts) uses present simple in both parts [3, 7].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2324",
+      "question": "Identify the type (Activity 2): 'Provided you are in need, we shall help you.'",
+      "options": {
+        "A": "Reason",
+        "B": "Concession",
+        "C": "Condition",
+        "D": "Purpose"
+      },
+      "answer": "C",
+      "explanation": "'Provided' is a marker of condition [2, 10].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2325",
+      "question": "Which of these expresses an unfulfilled condition in the past?",
+      "options": {
+        "A": "If he comes, I shall go.",
+        "B": "If he came, I would go.",
+        "C": "If he had come, I would have gone.",
+        "D": "Unless he comes, I won't go."
+      },
+      "answer": "C",
+      "explanation": "The third conditional represents conditions that were not fulfilled in the past [11].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2326",
+      "question": "Identify the adverb clause marker of time that suggests 'immediately after':",
+      "options": {
+        "A": "since",
+        "B": "as soon as",
+        "C": "till",
+        "D": "while"
+      },
+      "answer": "B",
+      "explanation": "'As soon as' is a marker for time meaning immediately following an event [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2327",
+      "question": "In 'They answered better than I had hoped', the clause is one of ________.",
+      "options": {
+        "A": "Manner",
+        "B": "Comparison",
+        "C": "Concession",
+        "D": "Condition"
+      },
+      "answer": "B",
+      "explanation": "The use of 'better than' indicates comparison [2, 9].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2328",
+      "question": "Which marker is NOT used for clauses of Condition?",
+      "options": {
+        "A": "supposing",
+        "B": "provided",
+        "C": "whenever",
+        "D": "unless"
+      },
+      "answer": "C",
+      "explanation": "'Whenever' is used for clauses of time, not condition [2].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2329",
+      "question": "Match (Activity 3): 'If you pour oil on water, ________.'",
+      "options": {
+        "A": "it floats",
+        "B": "it expands",
+        "C": "it melts",
+        "D": "it boils"
+      },
+      "answer": "A",
+      "explanation": "Scientific truth: oil floats on water [6].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2330",
+      "question": "Identify the type: 'Although he went to the market, he forgot to buy the vegetables.'",
+      "options": {
+        "A": "Adverb Clause of Manner",
+        "B": "Adverb Clause of Concession",
+        "C": "Adverb Clause of Reason",
+        "D": "Adverb Clause of Condition"
+      },
+      "answer": "B",
+      "explanation": "'Although' introduces a concession (a contrast to the main clause) [4].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2331",
+      "question": "What is the inverted form of 'If wishes were horses'?",
+      "options": {
+        "A": "Wishes were horses",
+        "B": "Were wishes horses",
+        "C": "Had wishes been horses",
+        "D": "Unless wishes were horses"
+      },
+      "answer": "B",
+      "explanation": "Conditionals can be inverted by removing 'if' and placing the auxiliary at the start [10].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2332",
+      "question": "Identify the type (Activity 5): 'Waste not, want not.'",
+      "options": {
+        "A": "Simple",
+        "B": "Complex",
+        "C": "Compound",
+        "D": "Interrogative"
+      },
+      "answer": "C",
+      "explanation": "This is a compound sentence (equivalent to: 'If you waste not, you will want not') [9].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2333",
+      "question": "Which marker introduces a clause of Reason?",
+      "options": {
+        "A": "in order that",
+        "B": "since",
+        "C": "than",
+        "D": "how"
+      },
+      "answer": "B",
+      "explanation": "'Since', 'as', and 'because' can all introduce reasons [2].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2334",
+      "question": "Complete the imaginary condition: 'If I were you, I ________.'",
+      "options": {
+        "A": "shall tell him",
+        "B": "will tell him",
+        "C": "would tell him",
+        "D": "told him"
+      },
+      "answer": "C",
+      "explanation": "Second conditional (imaginary) uses 'would' in the main clause [5, 7].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2335",
+      "question": "Identify the clause type: 'Make hay while the sun shines.'",
+      "options": {
+        "A": "Adverb Clause of Place",
+        "B": "Adverb Clause of Manner",
+        "C": "Adverb Clause of Time",
+        "D": "Adverb Clause of Purpose"
+      },
+      "answer": "C",
+      "explanation": "'While the sun shines' refers to time [2, 8].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2336",
+      "question": "Which of these subordinators shows 'manner'?",
+      "options": {
+        "A": "than",
+        "B": "so that",
+        "C": "as though",
+        "D": "since"
+      },
+      "answer": "C",
+      "explanation": "'As though' is a marker for adverb clauses of manner [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2337",
+      "question": "What tense is used in the main clause of a first conditional (50-50 chance)?",
+      "options": {
+        "A": "Past Simple",
+        "B": "Will/Shall + Verb",
+        "C": "Present Simple",
+        "D": "Past Perfect"
+      },
+      "answer": "B",
+      "explanation": "First conditional uses the present in the if-clause and future (will/shall) in the main clause [3, 5].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2338",
+      "question": "Identify the type (Activity 2): 'As the dog returns to his vomit, so a fool returns to his folly.'",
+      "options": {
+        "A": "Time",
+        "B": "Manner",
+        "C": "Place",
+        "D": "Reason"
+      },
+      "answer": "B",
+      "explanation": "This biblical proverb uses 'as...so' to describe the manner of returning [4].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2339",
+      "question": "Match (Activity 3): 'If you had not reminded me, ________.'",
+      "options": {
+        "A": "I should not go out",
+        "B": "I could have arrived there on time",
+        "C": "I would take you there",
+        "D": "it expands"
+      },
+      "answer": "B",
+      "explanation": "Third conditional requires 'could have + en' in the main clause [5, 6].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2340",
+      "question": "Adverb clauses of 'concession' are also known as clauses of ________.",
+      "options": {
+        "A": "Similarity",
+        "B": "Contrast",
+        "C": "Direction",
+        "D": "Result"
+      },
+      "answer": "B",
+      "explanation": "Concession clauses (although, though) introduce information that contrasts with the main clause [12].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2341",
+      "question": "Which of these is a markers of an Adverb Clause of Time?",
+      "options": {
+        "A": "wherever",
+        "B": "as soon as",
+        "C": "so that",
+        "D": "unless"
+      },
+      "answer": "B",
+      "explanation": "'As soon as' is used to show a time relationship [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2342",
+      "question": "Identify the clause type: 'I met him as I was leaving the house.'",
+      "options": {
+        "A": "Adverb Clause of Place",
+        "B": "Adverb Clause of Manner",
+        "C": "Adverb Clause of Time",
+        "D": "Adverb Clause of Reason"
+      },
+      "answer": "C",
+      "explanation": "'As' here means 'at the time that' (when) [2, 9].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2343",
+      "question": "Identify the adverb clause marker of place:",
+      "options": {
+        "A": "by the time",
+        "B": "wherever",
+        "C": "provided",
+        "D": "than"
+      },
+      "answer": "B",
+      "explanation": "'Wherever' is a subordinator for place [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2344",
+      "question": "Complete (Activity 1): 'The sum is not as difficult ________.'",
+      "options": {
+        "A": "as I thought",
+        "B": "than I thought",
+        "C": "because I thought",
+        "D": "if I thought"
+      },
+      "answer": "A",
+      "explanation": "Adverb clause of comparison uses the 'as (adj) as' structure [13].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2345",
+      "question": "What is 'third conditional' used for?",
+      "options": {
+        "A": "Scientific truths",
+        "B": "Imaginary present situations",
+        "C": "Unfulfilled past conditions",
+        "D": "Real future possibilities"
+      },
+      "answer": "C",
+      "explanation": "It describes a past condition that was not met, meaning the result was not achieved [11].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2346",
+      "question": "Identify the type (Activity 2): 'We went out to play as the weather became better.'",
+      "options": {
+        "A": "Time",
+        "B": "Reason",
+        "C": "Purpose",
+        "D": "Comparison"
+      },
+      "answer": "A",
+      "explanation": "Activity 2 identifies this 'as' clause as one of time [4].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2347",
+      "question": "Which marker introduces a clause of purpose?",
+      "options": {
+        "A": "because",
+        "B": "so that",
+        "C": "although",
+        "D": "unless"
+      },
+      "answer": "B",
+      "explanation": "'So that' or 'in order that' show the goal or purpose of an action [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2348",
+      "question": "Match (Activity 3): 'If the sun sets, ________.'",
+      "options": {
+        "A": "it becomes dark",
+        "B": "it becomes bright",
+        "C": "it expands",
+        "D": "it floats"
+      },
+      "answer": "A",
+      "explanation": "Fact: it becomes dark after the sun sets [6].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2349",
+      "question": "Identify the type: 'The Pupils worked harder than we had thought.'",
+      "options": {
+        "A": "Manner",
+        "B": "Reason",
+        "C": "Comparison",
+        "D": "Concession"
+      },
+      "answer": "C",
+      "explanation": "'Than we had thought' compares the actual work to expectation [2, 12].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2350",
+      "question": "Which conditional uses 'would have + past participle' in the main clause?",
+      "options": {
+        "A": "Zero",
+        "B": "First",
+        "C": "Second",
+        "D": "Third"
+      },
+      "answer": "D",
+      "explanation": "This structure is specific to the third conditional [5].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2351",
+      "question": "Which of these markers shows 'reason'?",
+      "options": {
+        "A": "as",
+        "B": "so that",
+        "C": "than",
+        "D": "if"
+      },
+      "answer": "A",
+      "explanation": "'As' can introduce clauses of time or reason [2].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2352",
+      "question": "Identify the adverb clause (Activity 6): 'I am sorry that he has been disturbed.'",
+      "options": {
+        "A": "Noun clause",
+        "B": "Adverb clause of reason",
+        "C": "Adverb clause of condition",
+        "D": "Adverb clause of manner"
+      },
+      "answer": "B",
+      "explanation": "This clause explains the reason for being sorry [9, 14].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2353",
+      "question": "Identify the marker in 'No matter how hard he tries, he fails':",
+      "options": {
+        "A": "Condition",
+        "B": "Concession",
+        "C": "Manner",
+        "D": "Purpose"
+      },
+      "answer": "B",
+      "explanation": "'No matter how' is a subordinator of concession.",
+      "difficulty": "hard"
+    }
+	]
+}

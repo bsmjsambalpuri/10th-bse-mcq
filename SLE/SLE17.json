@@ -1,1 +1,1046 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE17",
+  "chapter_name": "Types of Sentences",
+  "questions": [
+    {
+      "id": "SLE1701",
+      "question": "Which of these is a declarative sentence?",
+      "options": {
+        "A": "What a beautiful day!",
+        "B": "Abdul is a strong boy.",
+        "C": "Who told you that?",
+        "D": "Shut the door."
+      },
+      "answer": "B",
+      "explanation": "A declarative sentence is a statement that expresses a fact or an opinion.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1702",
+      "question": "What is the pattern of the sentence: 'This pillow feels soft'?",
+      "options": {
+        "A": "SVO",
+        "B": "SVC",
+        "C": "SVOC",
+        "D": "SVI O"
+      },
+      "answer": "B",
+      "explanation": "Pattern SVC: Subject (This pillow) + Verb (feels) + Complement (soft).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1703",
+      "question": "Which type of sentence is used to give a command or request?",
+      "options": {
+        "A": "Declarative",
+        "B": "Interrogative",
+        "C": "Imperative",
+        "D": "Exclamatory"
+      },
+      "answer": "C",
+      "explanation": "Imperative sentences express things like commands, requests, advice, or suggestions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1704",
+      "question": "Identify the sentence pattern: 'They found him dead.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVC",
+        "C": "SVOC",
+        "D": "SVI O"
+      },
+      "answer": "C",
+      "explanation": "Pattern SVOC: Subject (They) + Verb (found) + Object (him) + Complement (dead).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1705",
+      "question": "Change the declarative sentence into exclamatory: 'The weather is very fine.'",
+      "options": {
+        "A": "What a weather is fine!",
+        "B": "How fine the weather is!",
+        "C": "Is the weather fine?",
+        "D": "Fine the weather is."
+      },
+      "answer": "B",
+      "explanation": "Exclamatory sentences often start with 'How' or 'What' followed by an adjective or noun phrase.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1706",
+      "question": "Which of the following is a Wh-interrogative?",
+      "options": {
+        "A": "Did she attend the class yesterday?",
+        "B": "Are you joining the picnic?",
+        "C": "Who wrote the Mahabharata?",
+        "D": "Will you help me?"
+      },
+      "answer": "C",
+      "explanation": "Wh-interrogatives start with words like who, what, where, when, why, or how.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1707",
+      "question": "What is the function of the imperative sentence: 'Don’t touch a live wire.'?",
+      "options": {
+        "A": "Advice",
+        "B": "Warning",
+        "C": "Request",
+        "D": "Command"
+      },
+      "answer": "B",
+      "explanation": "This sentence warns the listener about a danger.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1708",
+      "question": "A simple sentence consists of ________ finite verb(s).",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "No",
+        "D": "Three"
+      },
+      "answer": "A",
+      "explanation": "A simple sentence contains only one finite clause, which means it has only one finite verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1709",
+      "question": "Identify the type: 'How luckily I escaped the accident!'",
+      "options": {
+        "A": "Declarative",
+        "B": "Exclamatory",
+        "C": "Imperative",
+        "D": "Interrogative"
+      },
+      "answer": "B",
+      "explanation": "Sentences ending with an exclamation mark expressing surprise or strong emotion are exclamatory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1710",
+      "question": "What is the pattern: 'They elected Mr Das President.'?",
+      "options": {
+        "A": "SVI O",
+        "B": "SVOC",
+        "C": "SVC",
+        "D": "SVO"
+      },
+      "answer": "B",
+      "explanation": "Subject (They) + Verb (elected) + Object (Mr Das) + Complement (President).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1711",
+      "question": "Identify the function of 'Let us move on.'",
+      "options": {
+        "A": "Command",
+        "B": "Advice",
+        "C": "Suggestion",
+        "D": "Prayer"
+      },
+      "answer": "C",
+      "explanation": "Sentences starting with 'Let us' are typically used for suggestions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1712",
+      "question": "Which of these is NOT a coordination coordinator?",
+      "options": {
+        "A": "And",
+        "B": "But",
+        "C": "Or",
+        "D": "Because"
+      },
+      "answer": "D",
+      "explanation": "'Because' is a subordinator used in complex sentences, not a coordinator for compound sentences.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1713",
+      "question": "Sentence pattern for 'He gave me a book' is:",
+      "options": {
+        "A": "SVOC",
+        "B": "SVI O",
+        "C": "SVO",
+        "D": "SVC"
+      },
+      "answer": "B",
+      "explanation": "Pattern SVI O: Subject (He) + Verb (gave) + Indirect Object (me) + Direct Object (a book).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1714",
+      "question": "What kind of sentence is: 'Turn to page 25 in your grammar book.'?",
+      "options": {
+        "A": "Declarative",
+        "B": "Imperative",
+        "C": "Interrogative",
+        "D": "Exclamatory"
+      },
+      "answer": "B",
+      "explanation": "This gives an instruction or command, making it imperative.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1715",
+      "question": "Identify the finite verb in: 'I met the boy on the road today.'",
+      "options": {
+        "A": "met",
+        "B": "boy",
+        "C": "road",
+        "D": "on"
+      },
+      "answer": "A",
+      "explanation": "'Met' is the verb that carries tense and agrees with the subject.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1716",
+      "question": "Change into exclamatory: 'He is a very stupid boy.'",
+      "options": {
+        "A": "What a stupid boy he is!",
+        "B": "How a stupid boy he is!",
+        "C": "What boy he is stupid!",
+        "D": "How stupid boy he is!"
+      },
+      "answer": "A",
+      "explanation": "When the declarative contains 'a/an + adjective + noun', we use 'What'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1717",
+      "question": "Pattern of: 'The result proved him wrong.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVC",
+        "C": "SVOC",
+        "D": "SV"
+      },
+      "answer": "C",
+      "explanation": "Subject (The result) + Verb (proved) + Object (him) + Complement (wrong).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1718",
+      "question": "Which of these is a subordinating conjunction?",
+      "options": {
+        "A": "And",
+        "B": "While",
+        "C": "Yet",
+        "D": "So"
+      },
+      "answer": "B",
+      "explanation": "'While' is used to join a subordinate clause to a main clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1719",
+      "question": "Identify the type: 'Tell me if Smruti would go there.'",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Declarative"
+      },
+      "answer": "C",
+      "explanation": "This sentence contains a main clause ('Tell me') and a subordinate noun clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1720",
+      "question": "Function of: 'Please have a cup of tea.'",
+      "options": {
+        "A": "Request",
+        "B": "Offer",
+        "C": "Command",
+        "D": "Advice"
+      },
+      "answer": "B",
+      "explanation": "This imperative sentence serves as a polite offer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1721",
+      "question": "Pattern of: 'She is a doctor.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVC",
+        "C": "SVI O",
+        "D": "SV"
+      },
+      "answer": "B",
+      "explanation": "'A doctor' is the subject complement, identifying the subject 'She'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1722",
+      "question": "A compound sentence is formed by joining ________ independent clauses.",
+      "options": {
+        "A": "Two or more",
+        "B": "Only one",
+        "C": "One main and one subordinate",
+        "D": "No"
+      },
+      "answer": "A",
+      "explanation": "Compound sentences join multiple independent clauses using coordinators.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1723",
+      "question": "Identify the sentence: 'Waste not, want not.'",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Imperative"
+      },
+      "answer": "B",
+      "explanation": "This is a compound imperative sentence with an implied coordinator 'and'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1724",
+      "question": "Convert into exclamatory: 'I am very hungry.'",
+      "options": {
+        "A": "What hungry I am!",
+        "B": "How hungry I am!",
+        "C": "Am I hungry!",
+        "D": "I am so hungry!"
+      },
+      "answer": "B",
+      "explanation": "When an adjective follows the verb in a declarative sentence, we use 'How' for the exclamatory form.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1725",
+      "question": "Pattern of: 'It is raining.'",
+      "options": {
+        "A": "SV",
+        "B": "SVO",
+        "0C": "SVC",
+        "D": "SVOC"
+      },
+      "answer": "A",
+      "explanation": "Subject (It) + Verb (is raining).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1726",
+      "question": "Which of these is a yes/no question?",
+      "options": {
+        "A": "Who are you?",
+        "B": "Where do you live?",
+        "C": "Are you joining the picnic?",
+        "D": "How are you?"
+      },
+      "answer": "C",
+      "explanation": "This question can be answered with a simple 'Yes' or 'No'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1727",
+      "question": "Identify the function: 'Have a smooth journey.'",
+      "options": {
+        "A": "Advice",
+        "B": "Warning",
+        "C": "Wish",
+        "D": "Request"
+      },
+      "answer": "C",
+      "explanation": "This is an imperative used to express a wish/prayer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1728",
+      "question": "A complex sentence has ________ main clause(s).",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Zero"
+      },
+      "answer": "A",
+      "explanation": "A complex sentence has one independent (main) clause and at least one subordinate clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1729",
+      "question": "Pattern of: 'He works at a training school.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVA",
+        "C": "SVC",
+        "D": "SV"
+      },
+      "answer": "B",
+      "explanation": "Subject (He) + Verb (works) + Adjunct (at a training school).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1730",
+      "question": "Identify the coordinator in: 'He is poor, but he is honest.'",
+      "options": {
+        "A": "is",
+        "B": "poor",
+        "C": "but",
+        "D": "honest"
+      },
+      "answer": "C",
+      "explanation": "'But' is the coordinating conjunction joining two independent clauses.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1731",
+      "question": "What kind of sentence is: 'Respect your elders.'?",
+      "options": {
+        "A": "Declarative",
+        "B": "Imperative",
+        "C": "Exclamatory",
+        "D": "Complex"
+      },
+      "answer": "B",
+      "explanation": "This is an advice, which falls under imperative sentences.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1732",
+      "question": "Identify the pattern: 'She made her dress beautiful.'",
+      "options": {
+        "A": "SVI O",
+        "B": "SVOC",
+        "C": "SVC",
+        "D": "SVO"
+      },
+      "answer": "B",
+      "explanation": "Subject (She) + Verb (made) + Object (her dress) + Complement (beautiful).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1733",
+      "question": "Which word functions as a subordinator?",
+      "options": {
+        "A": "And",
+        "B": "Or",
+        "C": "If",
+        "D": "But"
+      },
+      "answer": "C",
+      "explanation": "'If' is used to introduce a subordinate conditional clause.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1734",
+      "question": "Pattern of: 'The flower smells sweet.'",
+      "options": {
+        "A": "SVC",
+        "B": "SVO",
+        "C": "SVOC",
+        "D": "SV"
+      },
+      "answer": "A",
+      "explanation": "'Sweet' is an adjective complement describing the flower.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1735",
+      "question": "Identify the sentence type: 'I have already read the story book you gave me.'",
+      "options": {
+        "A": "Simple",
+        "B": "Complex",
+        "C": "Compound",
+        "D": "Interrogative"
+      },
+      "answer": "B",
+      "explanation": "It contains a main clause and a relative clause ('you gave me').",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1736",
+      "question": "What is the function: 'Beware of pickpockets.'",
+      "options": {
+        "A": "Advice",
+        "B": "Warning",
+        "C": "Instruction",
+        "D": "Command"
+      },
+      "answer": "B",
+      "explanation": "This is a warning to the public.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1737",
+      "question": "Pattern of: 'My father gave me a pen.'",
+      "options": {
+        "A": "SVI O",
+        "B": "SVOC",
+        "C": "SVC",
+        "D": "SVO"
+      },
+      "answer": "A",
+      "explanation": "Subject (My father) + Verb (gave) + Indirect Object (me) + Direct Object (a pen).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1738",
+      "question": "What kind of sentence asks for information?",
+      "options": {
+        "A": "Declarative",
+        "B": "Interrogative",
+        "C": "Imperative",
+        "D": "Exclamatory"
+      },
+      "answer": "B",
+      "explanation": "Interrogative sentences are used to ask questions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1739",
+      "question": "Pattern of: 'The bird is singing.'",
+      "options": {
+        "A": "SV",
+        "B": "SVO",
+        "C": "SVC",
+        "D": "SVA"
+      },
+      "answer": "A",
+      "explanation": "Subject (The bird) + Verb (is singing).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1740",
+      "question": "Convert into exclamatory: 'It was nothing less than a letter to God.'",
+      "options": {
+        "A": "What a letter it was to God!",
+        "B": "How a letter it was to God!",
+        "C": "What a letter to God it was!",
+        "D": "How a letter to God it was!"
+      },
+      "answer": "C",
+      "explanation": "Correct exclamation structure for the object emphasis.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1741",
+      "question": "Which of these pattern involves an Adverbial Adjunct?",
+      "options": {
+        "A": "SVC",
+        "B": "SVO",
+        "C": "SVA",
+        "D": "SVOC"
+      },
+      "answer": "C",
+      "explanation": "SVA pattern consists of Subject, Verb, and Adjunct.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1742",
+      "question": "Identify the type: 'He tried hard, yet he failed.'",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Exclamatory"
+      },
+      "answer": "B",
+      "explanation": "Two independent clauses joined by the coordinator 'yet'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1743",
+      "question": "What is the function of: 'March on, soldiers.'",
+      "options": {
+        "A": "Advice",
+        "B": "Command",
+        "C": "Request",
+        "D": "Wish"
+      },
+      "answer": "B",
+      "explanation": "This is a direct command given to soldiers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1744",
+      "question": "Pattern of: 'The training school offers lessons on cooking.'",
+      "options": {
+        "A": "SV",
+        "B": "SVO",
+        "C": "SVI O",
+        "D": "SVOC"
+      },
+      "answer": "B",
+      "explanation": "Subject (The training school) + Verb (offers) + Object (lessons on cooking).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1745",
+      "question": "Identify the pattern: 'She became famous.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVC",
+        "C": "SV",
+        "D": "SVA"
+      },
+      "answer": "B",
+      "explanation": "'Famous' is a subject complement following the linking verb 'became'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1746",
+      "question": "A Wh-word that asks about 'place' is:",
+      "options": {
+        "A": "When",
+        "B": "Why",
+        "C": "Where",
+        "D": "Which"
+      },
+      "answer": "C",
+      "explanation": "'Where' is used to ask about a location or place.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1747",
+      "question": "Identify the pattern: 'I gave him my mobile.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVOC",
+        "C": "SVI O",
+        "D": "SVC"
+      },
+      "answer": "C",
+      "explanation": "Subject (I) + Verb (gave) + Indirect Object (him) + Direct Object (my mobile).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1748",
+      "question": "Function of: 'Would you mind opening the window?'",
+      "options": {
+        "A": "Command",
+        "B": "Question",
+        "C": "Polite Request",
+        "D": "Advice"
+      },
+      "answer": "C",
+      "explanation": "Although interrogative in form, it functions as a polite imperative request.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1749",
+      "question": "Pattern of: 'Birds fly.'",
+      "options": {
+        "A": "SV",
+        "B": "SVO",
+        "C": "SVC",
+        "D": "SVA"
+      },
+      "answer": "A",
+      "explanation": "Minimal sentence pattern consisting only of Subject and Verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1750",
+      "question": "Identify the pattern: 'The teacher called him a genius.'",
+      "options": {
+        "A": "SVI O",
+        "B": "SVO",
+        "C": "SVOC",
+        "D": "SVC"
+      },
+      "answer": "C",
+      "explanation": "Subject (The teacher) + Verb (called) + Object (him) + Complement (a genius).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1751",
+      "question": "Which type of sentence ends with an exclamation mark?",
+      "options": {
+        "A": "Declarative",
+        "B": "Imperative",
+        "C": "Exclamatory",
+        "D": "Interrogative"
+      },
+      "answer": "C",
+      "explanation": "Exclamatory sentences use exclamation marks to show strong feelings.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1752",
+      "question": "Pattern of: 'He is playing in the park.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVA",
+        "C": "SVC",
+        "D": "SVOC"
+      },
+      "answer": "B",
+      "explanation": "Subject (He) + Verb (is playing) + Adjunct (in the park).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1753",
+      "question": "Identify the type: 'Work hard, otherwise you will fail.'",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Declarative"
+      },
+      "answer": "B",
+      "explanation": "'Otherwise' acts as a coordinator joining two independent ideas.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1754",
+      "question": "Function of: 'Please help me.'",
+      "options": {
+        "A": "Request",
+        "B": "Command",
+        "C": "Advice",
+        "D": "Suggestion"
+      },
+      "answer": "A",
+      "explanation": "The word 'Please' indicates a request.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1755",
+      "question": "Pattern of: 'She painted the wall white.'",
+      "options": {
+        "A": "SVI O",
+        "B": "SVO",
+        "C": "SVOC",
+        "D": "SVC"
+      },
+      "answer": "C",
+      "explanation": "Subject (She) + Verb (painted) + Object (the wall) + Complement (white).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1756",
+      "question": "A sentence that is a combination of two simple sentences with 'and' is a:",
+      "options": {
+        "A": "Complex sentence",
+        "B": "Compound sentence",
+        "C": "Simple sentence",
+        "D": "Interrogative sentence"
+      },
+      "answer": "B",
+      "explanation": "'And' is a common coordinator for compound sentences.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1757",
+      "question": "Identify the pattern: 'I feel better now.'",
+      "options": {
+        "A": "SVCA",
+        "B": "SVO",
+        "C": "SVC",
+        "D": "SVA"
+      },
+      "answer": "A",
+      "explanation": "Subject (I) + Verb (feel) + Complement (better) + Adjunct (now).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1758",
+      "question": "Identify the pattern: 'They considered him a hero.'",
+      "options": {
+        "A": "SVI O",
+        "B": "SVOC",
+        "C": "SVC",
+        "D": "SVO"
+      },
+      "answer": "B",
+      "explanation": "Subject (They) + Verb (considered) + Object (him) + Complement (a hero).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1759",
+      "question": "Which of these is a command?",
+      "options": {
+        "A": "You should work hard.",
+        "B": "Stop writing now.",
+        "C": "Could you help me?",
+        "D": "Please sit down."
+      },
+      "answer": "B",
+      "explanation": "'Stop writing now' is a direct order/command.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1760",
+      "question": "Identify the type: 'I know that he is a good boy.'",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Exclamatory"
+      },
+      "answer": "C",
+      "explanation": "Contains a main clause and a subordinate noun clause starting with 'that'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1761",
+      "question": "Pattern of: 'The baby is sleeping.'",
+      "options": {
+        "A": "SV",
+        "B": "SVO",
+        "C": "SVC",
+        "D": "SVA"
+      },
+      "answer": "A",
+      "explanation": "Subject (The baby) + Verb (is sleeping).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1762",
+      "question": "Which coordinator shows contrast?",
+      "options": {
+        "A": "And",
+        "B": "But",
+        "C": "Or",
+        "D": "So"
+      },
+      "answer": "B",
+      "explanation": "'But' is used to connect opposing or contrasting ideas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1763",
+      "question": "Identify the pattern: 'He named his dog Tiger.'",
+      "options": {
+        "A": "SVI O",
+        "B": "SVOC",
+        "C": "SVC",
+        "D": "SVO"
+      },
+      "answer": "B",
+      "explanation": "Subject (He) + Verb (named) + Object (his dog) + Complement (Tiger).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1764",
+      "question": "Function of: 'Don't go near the water.'",
+      "options": {
+        "A": "Advice",
+        "B": "Command",
+        "C": "Warning",
+        "D": "Request"
+      },
+      "answer": "C",
+      "explanation": "This imperative gives a warning about a safety risk.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1765",
+      "question": "Pattern of: 'He left his book at home.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVOA",
+        "C": "SVC",
+        "D": "SVOC"
+      },
+      "answer": "B",
+      "explanation": "Subject (He) + Verb (left) + Object (his book) + Adjunct (at home).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1766",
+      "question": "Complex sentences contain at least one ________ clause.",
+      "options": {
+        "A": "Main",
+        "B": "Coordinated",
+        "C": "Subordinate",
+        "D": "Exclamatory"
+      },
+      "answer": "C",
+      "explanation": "Complex sentences are built with main and subordinate clauses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1767",
+      "question": "Identify the pattern: 'The weather turned cold.'",
+      "options": {
+        "A": "SVC",
+        "B": "SVO",
+        "C": "SV",
+        "D": "SVA"
+      },
+      "answer": "A",
+      "explanation": "'Cold' is the complement describing the state of the weather.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1768",
+      "question": "Wh-word for asking about 'time' is:",
+      "options": {
+        "A": "Where",
+        "B": "Why",
+        "C": "When",
+        "D": "How"
+      },
+      "answer": "C",
+      "explanation": "'When' is the Wh-word for time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1769",
+      "question": "Pattern of: 'I love my country.'",
+      "options": {
+        "A": "SV",
+        "B": "SVO",
+        "C": "SVC",
+        "D": "SVOC"
+      },
+      "answer": "B",
+      "explanation": "Subject (I) + Verb (love) + Object (my country).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1770",
+      "question": "Function of: 'God save the King.'",
+      "options": {
+        "A": "Advice",
+        "B": "Wish/Prayer",
+        "C": "Command",
+        "D": "Exclamation"
+      },
+      "answer": "B",
+      "explanation": "This is a traditional imperative form for a prayer or wish.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1771",
+      "question": "Identify the pattern: 'The judge set the prisoner free.'",
+      "options": {
+        "A": "SVI O",
+        "B": "SVOC",
+        "C": "SVO",
+        "D": "SVC"
+      },
+      "answer": "B",
+      "explanation": "Subject (The judge) + Verb (set) + Object (the prisoner) + Complement (free).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1772",
+      "question": "Which of these is a declarative patterned as SV?",
+      "options": {
+        "A": "He is running.",
+        "B": "He runs the shop.",
+        "C": "He is a runner.",
+        "D": "He runs fast."
+      },
+      "answer": "A",
+      "explanation": "'He is running' follows the Subject + Verb pattern.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1773",
+      "question": "Function of: 'Do not tell a lie.'",
+      "options": {
+        "A": "Advice",
+        "B": "Command",
+        "C": "Request",
+        "D": "Wish"
+      },
+      "answer": "A",
+      "explanation": "This is a general piece of moral advice.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1774",
+      "question": "Identify the pattern: 'People consider him lucky.'",
+      "options": {
+        "A": "SVOC",
+        "B": "SVO",
+        "C": "SVC",
+        "D": "SVI O"
+      },
+      "answer": "A",
+      "explanation": "Subject (People) + Verb (consider) + Object (him) + Complement (lucky).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1775",
+      "question": "Type of sentence: 'He is slow, but he is steady.'",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Declarative"
+      },
+      "answer": "B",
+      "explanation": "Joined by 'but', making it a compound sentence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1776",
+      "question": "Pattern of: 'She became an officer.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVC",
+        "C": "SV",
+        "D": "SVOC"
+      },
+      "answer": "B",
+      "explanation": "'An officer' is the complement of the subject.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1777",
+      "question": "A simple sentence must have exactly one ________ clause.",
+      "options": {
+        "A": "Independent",
+        "B": "Dependent",
+        "C": "Subordinate",
+        "D": "Coordinated"
+      },
+      "answer": "A",
+      "explanation": "Simple sentences are composed of one single independent clause.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1778",
+      "question": "Identify the pattern: 'He showed us the map.'",
+      "options": {
+        "A": "SVO",
+        "B": "SVI O",
+        "C": "SVOC",
+        "D": "SVC"
+      },
+      "answer": "B",
+      "explanation": "Subject (He) + Verb (showed) + Indirect Object (us) + Direct Object (the map).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1779",
+      "question": "Function of: 'Please keep quiet.'",
+      "options": {
+        "A": "Request",
+        "B": "Command",
+        "C": "Advice",
+        "D": "Warning"
+      },
+      "answer": "A",
+      "explanation": "A polite request indicated by 'Please'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1780",
+      "question": "Identify the type: 'Though he is rich, he is not happy.'",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Exclamatory"
+      },
+      "answer": "C",
+      "explanation": "Joined by subordinator 'Though', making it a complex sentence.",
+      "difficulty": "hard"
+    }
+  ]
+}

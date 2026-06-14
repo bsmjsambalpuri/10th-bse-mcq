@@ -1,1 +1,1046 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE16",
+  "chapter_name": "Tense Revisited",
+  "questions": [
+    {
+      "id": "SLE1601",
+      "question": "Which tense is used for a habitual action or a permanent truth?",
+      "options": {
+        "A": "Present Progressive",
+        "B": "Present Simple",
+        "C": "Past Simple",
+        "D": "Present Perfect"
+      },
+      "answer": "B",
+      "explanation": "The Present Simple is used for things that happen regularly or are always true.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1602",
+      "question": "Choose the correct form: 'Chinese dishes ________ so good!'",
+      "options": {
+        "A": "tastes",
+        "B": "are tasting",
+        "C": "taste",
+        "D": "tasted"
+      },
+      "answer": "C",
+      "explanation": "Verbs of perception like 'taste' are usually used in the simple present when describing a quality.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1603",
+      "question": "Identify the tense: 'My dog is being taken to the garden.'",
+      "options": {
+        "A": "Present Simple",
+        "B": "Present Progressive",
+        "C": "Present Perfect Progressive",
+        "D": "Past Progressive"
+      },
+      "answer": "B",
+      "explanation": "The structure 'is being + past participle' is the passive form of the Present Progressive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1604",
+      "question": "Complete the sentence: 'The girl ________ more and more beautiful day by day.'",
+      "options": {
+        "A": "looks",
+        "B": "is looking",
+        "C": "has looked",
+        "D": "had looked"
+      },
+      "answer": "B",
+      "explanation": "Present Progressive is used to describe a gradual change or development over time.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1605",
+      "question": "Which auxiliary is used with 'Nina' in: 'Nina ________ like to come'?",
+      "options": {
+        "A": "shall",
+        "B": "would",
+        "C": "will",
+        "D": "is"
+      },
+      "answer": "B",
+      "explanation": "The expression 'would like to' is used to express a desire or offer.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1606",
+      "question": "Fill in the blank: 'It has been raining ________ 5 O’clock this morning.'",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "since",
+        "D": "in"
+      },
+      "answer": "C",
+      "explanation": "We use 'since' to refer to a specific point in time when an action began.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1607",
+      "question": "Complete the past sequence: 'Once when I ________ in my room, I heard a noise.'",
+      "options": {
+        "A": "read",
+        "B": "am reading",
+        "C": "was reading",
+        "D": "have read"
+      },
+      "answer": "C",
+      "explanation": "Past Progressive is used for an action that was in progress when another action (heard) happened.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1608",
+      "question": "Which form expresses a future action already planned or arranged?",
+      "options": {
+        "A": "Will + Verb",
+        "B": "Present Progressive",
+        "C": "Past Simple",
+        "D": "Shall + Verb"
+      },
+      "answer": "B",
+      "explanation": "The Present Progressive is often used for definite future arrangements.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1609",
+      "question": "Correct the verb: 'By the time you read this, I ________ answering all questions.'",
+      "options": {
+        "A": "finish",
+        "B": "will have finished",
+        "C": "am finishing",
+        "D": "will be finishing"
+      },
+      "answer": "B",
+      "explanation": "Future Perfect is used for an action that will be completed before a specific point in the future.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1610",
+      "question": "What is the past simple of 'hear'?",
+      "options": {
+        "A": "heared",
+        "B": "heard",
+        "C": "hearing",
+        "D": "hired"
+      },
+      "answer": "B",
+      "explanation": "'Heard' is the irregular past simple form of the verb 'hear'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1611",
+      "question": "In the sentence 'I still remember ________ Puri', what is the correct verb form?",
+      "options": {
+        "A": "visit",
+        "B": "to visit",
+        "C": "visiting",
+        "D": "visited"
+      },
+      "answer": "C",
+      "explanation": "The verb 'remember' is followed by the '-ing' form when referring to a memory of a past event.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1612",
+      "question": "Which of these is a stative verb that usually doesn't take the progressive form?",
+      "options": {
+        "A": "Run",
+        "B": "Prefer",
+        "C": "Shout",
+        "D": "Work"
+      },
+      "answer": "B",
+      "explanation": "Verbs of liking, disliking, or preference (like 'prefer') are generally stative.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1613",
+      "question": "Select the correct future form: 'My father ________ back from Delhi tomorrow.'",
+      "options": {
+        "A": "arrive",
+        "B": "is arriving",
+        "C": "arrives",
+        "D": "arrived"
+      },
+      "answer": "B",
+      "explanation": "Present Progressive expresses a planned future arrival.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1614",
+      "question": "What tense is used in: 'The training school offers lessons on cooking'?",
+      "options": {
+        "A": "Present Simple",
+        "B": "Present Progressive",
+        "C": "Present Perfect",
+        "D": "Past Simple"
+      },
+      "answer": "A",
+      "explanation": "This describes a regular fact about the school, requiring Present Simple.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1615",
+      "question": "Complete the time expression: 'I ________ this job because I am learning a lot.'",
+      "options": {
+        "A": "prefer",
+        "B": "am preferring",
+        "C": "preferred",
+        "D": "prefers"
+      },
+      "answer": "A",
+      "explanation": "'Prefer' is a stative verb and is not used in the progressive form.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1616",
+      "question": "Identify the error in: 'He is knowing the answer.'",
+      "options": {
+        "A": "The verb 'knowing' should be 'knows'",
+        "B": "The verb 'is' should be 'has'",
+        "C": "The word 'the' is incorrect",
+        "D": "There is no error"
+      },
+      "answer": "A",
+      "explanation": "'Know' is a stative verb and should be in the Present Simple.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1617",
+      "question": "Future Time: 'I ________ go and ask the clerk if he has a spare key.'",
+      "options": {
+        "A": "am",
+        "B": "will",
+        "C": "going to",
+        "D": "shall be"
+      },
+      "answer": "B",
+      "explanation": "'Will' is used for an immediate decision made at the moment of speaking.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1618",
+      "question": "Past Simple or Past Progressive? 'People ________ in a particular direction while I came out.'",
+      "options": {
+        "A": "run",
+        "B": "ran",
+        "C": "were running",
+        "D": "have run"
+      },
+      "answer": "C",
+      "explanation": "Describes an action in progress in the past.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1619",
+      "question": "Select the Future Continuous form: 'You ________ a test this day next week.'",
+      "options": {
+        "A": "take",
+        "B": "will be taking",
+        "C": "will take",
+        "D": "are taking"
+      },
+      "answer": "B",
+      "explanation": "Future Continuous is used for an action that will be in progress at a certain time in the future.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1620",
+      "question": "Correct the S-V agreement: 'Idli and chutney ________ my favourite breakfast.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "When two nouns suggest a single idea (a meal), they take a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1621",
+      "question": "Which tense is found in the sentence: 'I have already read the book'?",
+      "options": {
+        "A": "Past Simple",
+        "B": "Present Perfect",
+        "C": "Past Perfect",
+        "D": "Present Simple"
+      },
+      "answer": "B",
+      "explanation": "The structure 'have/has + past participle' indicates Present Perfect.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1622",
+      "question": "Complete the Future Perfect form: 'I ________ home by five o'clock.'",
+      "options": {
+        "A": "reach",
+        "B": "will reach",
+        "C": "will have reached",
+        "D": "reaching"
+      },
+      "answer": "C",
+      "explanation": "'By five o'clock' indicates a deadline, requiring the Future Perfect.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1623",
+      "question": "Use the correct form: 'The school ________ lessons on cooking (usually).'",
+      "options": {
+        "A": "offer",
+        "B": "is offering",
+        "C": "offers",
+        "D": "offered"
+      },
+      "answer": "C",
+      "explanation": "Used for a regular schedule or fact.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1624",
+      "question": "Fill the blank: 'Nina ________ not have time this weekend.'",
+      "options": {
+        "A": "will",
+        "B": "is",
+        "C": "going to",
+        "D": "has"
+      },
+      "answer": "A",
+      "explanation": "Will is used for future predictions/statements of fact.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1625",
+      "question": "Identify the tense: 'They have been working here for next five years.'",
+      "options": {
+        "A": "Present Perfect Progressive",
+        "B": "Future Perfect Progressive",
+        "C": "Past Perfect",
+        "D": "Present Progressive"
+      },
+      "answer": "A",
+      "explanation": "The text lists this structure under ways of expressing time with have been + verb-ing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1626",
+      "question": "Change into past progressive: 'I clean my teeth.'",
+      "options": {
+        "A": "I cleaned my teeth.",
+        "B": "I was cleaning my teeth.",
+        "C": "I had cleaned my teeth.",
+        "D": "I am cleaning my teeth."
+      },
+      "answer": "B",
+      "explanation": "Past progressive is 'was/were + verb-ing'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1627",
+      "question": "Complete: 'They ________ painting the building until next week.'",
+      "options": {
+        "A": "don't finish",
+        "B": "won't have finished",
+        "C": "haven't finished",
+        "D": "didn't finish"
+      },
+      "answer": "B",
+      "explanation": "Future perfect (negative) is used for a deadline in the future.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1628",
+      "question": "Which verb is non-finite in: 'She could have been laughing at us'?",
+      "options": {
+        "A": "could",
+        "B": "laughing",
+        "C": "have",
+        "D": "been"
+      },
+      "answer": "B",
+      "explanation": "In a verb group, the first verb is finite; all others are non-finite.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1629",
+      "question": "Which sentence expresses a suggestion?",
+      "options": {
+        "A": "Shut the window.",
+        "B": "Respect your elders.",
+        "C": "Let’s go on an excursion.",
+        "D": "Please have a cup of coffee."
+      },
+      "answer": "C",
+      "explanation": "Imperative sentences starting with 'Let's' usually express a suggestion.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1630",
+      "question": "Choose the correct preposition for the duration: 'I have been here ________ three days.'",
+      "options": {
+        "A": "since",
+        "B": "for",
+        "C": "at",
+        "D": "on"
+      },
+      "answer": "B",
+      "explanation": "'For' is used with a period of time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1631",
+      "question": "Identify the tense: 'I arrived at the station.'",
+      "options": {
+        "A": "Past Progressive",
+        "B": "Past Simple",
+        "C": "Present Perfect",
+        "D": "Past Perfect"
+      },
+      "answer": "B",
+      "explanation": "Simple past is the basic form for completed actions in the past.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1632",
+      "question": "Correct the form: 'What ________ (they/teach) now?'",
+      "options": {
+        "A": "did they teach",
+        "B": "do they teach",
+        "C": "are they teaching",
+        "D": "were they teaching"
+      },
+      "answer": "C",
+      "explanation": "The word 'now' requires the Present Progressive tense.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1633",
+      "question": "Future intention: 'I ________ to come round at 8 and I'll bring ice-cream.'",
+      "options": {
+        "A": "will",
+        "B": "am going",
+        "C": "going",
+        "D": "shall"
+      },
+      "answer": "B",
+      "explanation": "'Be going to' is used to express a prior intention.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1634",
+      "question": "Complete the condition: 'If I were a bird, I ________ fly.'",
+      "options": {
+        "A": "will",
+        "B": "shall",
+        "C": "would",
+        "D": "can"
+      },
+      "answer": "C",
+      "explanation": "In an imaginary condition (Second Conditional), 'would' is used in the main clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1635",
+      "question": "Past habits: 'Gandhi ________ weep piteously when he was punished.'",
+      "options": {
+        "A": "will",
+        "B": "would",
+        "C": "is",
+        "D": "was"
+      },
+      "answer": "B",
+      "explanation": "'Would' can be used to describe past habitual actions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1636",
+      "question": "What is the non-finite form of the verb 'post' in 'Don't forget ________ the letter'?",
+      "options": {
+        "A": "post",
+        "B": "to post",
+        "C": "posting",
+        "D": "posted"
+      },
+      "answer": "B",
+      "explanation": "After 'forget', the infinitive 'to post' is used for an action that must still be done.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1637",
+      "question": "Which of these sentences is correct?",
+      "options": {
+        "A": "Muna neither eats fish nor meat.",
+        "B": "Muna does not neither eat fish nor meat.",
+        "C": "Muna neither does not eat fish nor meat.",
+        "D": "Muna eats neither fish nor meat."
+      },
+      "answer": "D",
+      "explanation": "The standard placement for 'neither' in this context is after the main verb 'eats'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1638",
+      "question": "Identify the passive tense: 'The houses were completely destroyed in the fire.'",
+      "options": {
+        "A": "Present Simple Passive",
+        "B": "Past Simple Passive",
+        "C": "Past Perfect Passive",
+        "D": "Past Progressive Passive"
+      },
+      "answer": "B",
+      "explanation": "'Were + past participle' is the structure for Past Simple Passive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1639",
+      "question": "Complete the reported speech: He said, 'Did you know him?' -> He asked me if I ________ him.",
+      "options": {
+        "A": "know",
+        "B": "knew",
+        "C": "had known",
+        "D": "have known"
+      },
+      "answer": "C",
+      "explanation": "In indirect speech, the Past Simple 'know' changes to the Past Perfect 'had known'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1640",
+      "question": "Future state: 'When I ________ famous, I'll help the poor.'",
+      "options": {
+        "A": "will become",
+        "B": "become",
+        "C": "am becoming",
+        "D": "became"
+      },
+      "answer": "B",
+      "explanation": "In a time clause starting with 'when', the Present Simple is used for future meaning.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1641",
+      "question": "S-V Agreement: 'Seventy kilometres ________ a long distance.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Distance, money, and weight take a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1642",
+      "question": "Which of these verbs doesn't take the progressive form?",
+      "options": {
+        "A": "Think",
+        "B": "Believe",
+        "C": "Feel",
+        "D": "See"
+      },
+      "answer": "B",
+      "explanation": "'Believe' is a verb of mental state and is typically stative.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1643",
+      "question": "Identify the tense: 'I have been answering questions.'",
+      "options": {
+        "A": "Present Perfect",
+        "B": "Present Perfect Progressive",
+        "C": "Future Continuous",
+        "D": "Present Progressive"
+      },
+      "answer": "B",
+      "explanation": "This is 'have/has + been + verb-ing'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1644",
+      "question": "Verb form: 'Lata's parents have always encouraged ________.'",
+      "options": {
+        "A": "studying",
+        "B": "study",
+        "C": "her to study",
+        "D": "studied"
+      },
+      "answer": "C",
+      "explanation": "'Encourage' takes an object followed by a 'to-infinitive'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1645",
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "I go for a walk every morning.",
+        "B": "I am going for a walk every morning.",
+        "C": "I gone for a walk every morning.",
+        "D": "I goes for a walk every morning."
+      },
+      "answer": "A",
+      "explanation": "Habitual actions take the Present Simple.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1646",
+      "question": "Identify the error: 'The train had left when we arrive.'",
+      "options": {
+        "A": "Change 'had' to 'has'",
+        "B": "Change 'left' to 'leaves'",
+        "C": "Change 'arrive' to 'arrived'",
+        "D": "No error"
+      },
+      "answer": "C",
+      "explanation": "The second action in the past should be in the Past Simple.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1647",
+      "question": "Fill the blank: 'Siddharth ________ in Class X.'",
+      "options": {
+        "A": "read",
+        "B": "reading",
+        "C": "reads",
+        "D": "is read"
+      },
+      "answer": "C",
+      "explanation": "A statement of fact requires the Present Simple.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1648",
+      "question": "What is the non-finite form in: 'He has been helped by his brother'?",
+      "options": {
+        "A": "has",
+        "B": "helped",
+        "C": "been",
+        "D": "by"
+      },
+      "answer": "B",
+      "explanation": "'Helped' is the past participle (non-finite) in this passive construction.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1649",
+      "question": "Select the correct form: 'The alarm clock ________ at 6 a.m. yesterday.'",
+      "options": {
+        "A": "ring",
+        "B": "rang",
+        "C": "rung",
+        "D": "rings"
+      },
+      "answer": "B",
+      "explanation": "The action happened at a specific time in the past.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1650",
+      "question": "Condition: 'Supposing he ________ late, what will we do?'",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "First conditional uses Present Simple in the if-clause/supposing-clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1651",
+      "question": "Identify the error: 'I am hearing a loud noise.'",
+      "options": {
+        "A": "Change 'hearing' to 'hear'",
+        "B": "Change 'am' to 'have'",
+        "C": "Change 'noise' to 'noises'",
+        "D": "No error"
+      },
+      "answer": "A",
+      "explanation": "'Hear' is a verb of perception and isn't used in progressive unless the meaning changes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1652",
+      "question": "S-V Agreement: 'A crowd ________ gathered in the street.'",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "Collective nouns like 'crowd' take a singular verb when considered as a unit.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1653",
+      "question": "Fill the blank: 'Gopal as well as his friends ________ in the hall.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "With 'as well as', the verb agrees with the first subject (Gopal).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1654",
+      "question": "Identify the tense: 'They will have finished their homework.'",
+      "options": {
+        "A": "Future Continuous",
+        "B": "Future Perfect",
+        "C": "Future Simple",
+        "D": "Present Perfect"
+      },
+      "answer": "B",
+      "explanation": "'Will have + past participle' is Future Perfect.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1655",
+      "question": "Which of these verbs is used in its '-ing' form after 'enjoy'?",
+      "options": {
+        "A": "to play",
+        "B": "playing",
+        "C": "play",
+        "D": "played"
+      },
+      "answer": "B",
+      "explanation": "The verb 'enjoy' is followed by a gerund.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1656",
+      "question": "Which tense is used in: 'I (work) at a training school currently'?",
+      "options": {
+        "A": "work",
+        "B": "am working",
+        "C": "worked",
+        "D": "have worked"
+      },
+      "answer": "B",
+      "explanation": "Describes an action happening around the time of speaking.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1657",
+      "question": "Correct the verb: 'He ________ to London by aeroplane next month.'",
+      "options": {
+        "A": "go",
+        "B": "is going",
+        "C": "went",
+        "D": "gone"
+      },
+      "answer": "B",
+      "explanation": "Planned future events are expressed in Present Progressive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1658",
+      "question": "Use the right auxiliary: ' Nina:Nina:NinaNina Nina ________ Nina Nina ________ Nina Nina Nina Nina ________ like to Nina Nina ________ like to come Nina Nina ________ like to come to Nina Nina ________ like to come to watch Nina Nina ________ like to come to watch a Nina Nina ________ like to come to watch a movie Nina Nina ________ like to come to watch a movie?'",
+      "options": {
+        "A": "Would",
+        "B": "Do",
+        "C": "Shall",
+        "D": "Will"
+      },
+      "answer": "A",
+      "explanation": "'Would' is used for polite invitations.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1659",
+      "question": "Identify the non-finite verb: 'They must have finished their work.'",
+      "options": {
+        "A": "must",
+        "B": "have",
+        "C": "finished",
+        "D": "work"
+      },
+      "answer": "C",
+      "explanation": "In this group, 'must' is finite; 'have' and 'finished' are non-finite.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1660",
+      "question": "Complete the Future Continuous: 'I ________ some snacks at five o’clock.'",
+      "options": {
+        "A": "take",
+        "B": "will be taking",
+        "C": "took",
+        "D": "will take"
+      },
+      "answer": "B",
+      "explanation": "Action in progress in the future.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1661",
+      "question": "Identify the tense: 'I still remember visiting Puri.'",
+      "options": {
+        "A": "Present Simple",
+        "B": "Past Simple",
+        "C": "Present Perfect",
+        "D": "Future Continuous"
+      },
+      "answer": "A",
+      "explanation": "The main verb 'remember' is in the Present Simple.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1662",
+      "question": "Correct usage: 'I (prefer) this job because I learn a lot.'",
+      "options": {
+        "A": "am preferring",
+        "B": "prefer",
+        "C": "preferred",
+        "D": "prefers"
+      },
+      "answer": "B",
+      "explanation": "'Prefer' is a stative verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1663",
+      "question": "What tense describes the situation: 'The situation is improving day by day.'",
+      "options": {
+        "A": "Present Simple",
+        "B": "Present Progressive",
+        "C": "Present Perfect",
+        "D": "Past Progressive"
+      },
+      "answer": "B",
+      "explanation": "Gradual change uses Present Progressive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1664",
+      "question": "Complete the past sequence: 'They ________ buckets in their hands when they ran.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "were having",
+        "D": "are having"
+      },
+      "answer": "B",
+      "explanation": "'Have' meaning possession is stative and usually used in Past Simple.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1665",
+      "question": "Reported speech tense: 'I am tired,' said the traveler.",
+      "options": {
+        "A": "The traveler said that he is tired.",
+        "B": "The traveler said that he was tired.",
+        "C": "The traveler says that he is tired.",
+        "D": "The traveler had been tired."
+      },
+      "answer": "B",
+      "explanation": "Reporting verb 'said' changes 'am' to 'was'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1666",
+      "question": "Select the correct form: 'Lopa: NinaNinaNina NinaNinaNinaNina Nina ________ NinaNinaNina Nina Nina ________ Nina Nina ________ Lopa Nina Nina ________ Lopa: Lopa Nina Nina ________ Lopa: NinaNina Nina Nina ________ Lopa: NinaNina Nina Nina Nina Nina ________ Nina Nina ________ Lopa: NinaNina Nina Nina Nina Nina Nina Nina ________ Nina Nina ________ Lopa: Nina Nina ________ Lopa: Lopa: Lopa Nina Nina ________ Lopa: Lopa: (you / like) the job?'",
+      "options": {
+        "A": "Do you like",
+        "B": "Are you liking",
+        "C": "Did you like",
+        "D": "Have you liked"
+      },
+      "answer": "A",
+      "explanation": "'Like' is a stative verb, used in simple form.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1667",
+      "question": "Condition: 'If I were you, I ________ accept the offer.'",
+      "options": {
+        "A": "will",
+        "B": "would",
+        "C": "can",
+        "D": "shall"
+      },
+      "answer": "B",
+      "explanation": "Second conditional (unreal situation) uses 'would'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1668",
+      "question": "Identify the Future Continuous form of 'work':",
+      "options": {
+        "A": "will work",
+        "B": "will have worked",
+        "C": "will be working",
+        "D": "is working"
+      },
+      "answer": "C",
+      "explanation": "Structure: will be + verb-ing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1669",
+      "question": "Fill the blank: 'Nina ________ arrive back from Delhi tomorrow.'",
+      "options": {
+        "A": "is going",
+        "B": "is arriving",
+        "C": "will be",
+        "D": "shall"
+      },
+      "answer": "B",
+      "explanation": "Textbook Activity 5 uses Present Progressive for future arrangements.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1670",
+      "question": "Which sentence shows Present Perfect Progressive?",
+      "options": {
+        "A": "I have worked.",
+        "B": "I am working.",
+        "C": "I have been working.",
+        "D": "I had been working."
+      },
+      "answer": "C",
+      "explanation": "Structure: have/has + been + verb-ing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1671",
+      "question": "Identify the tense: 'The result proved him wrong.'",
+      "options": {
+        "A": "Past Simple",
+        "B": "Present Perfect",
+        "C": "Past Perfect",
+        "D": "Past Progressive"
+      },
+      "answer": "A",
+      "explanation": "Basic past form of 'prove'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1672",
+      "question": "Verb form after 'hope': 'I hope ________ you soon.'",
+      "options": {
+        "A": "see",
+        "B": "seeing",
+        "C": "to see",
+        "D": "will see"
+      },
+      "answer": "C",
+      "explanation": "Hope is followed by a to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1673",
+      "question": "Which tense is found in the Wh-question: 'What are you looking for?'",
+      "options": {
+        "A": "Present Progressive",
+        "B": "Present Simple",
+        "C": "Past Simple",
+        "D": "Present Perfect"
+      },
+      "answer": "A",
+      "explanation": "Asks about an action in progress.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1674",
+      "question": "Correct the tense: 'I had cleaned my teeth before I (eat) breakfast.'",
+      "options": {
+        "A": "ate",
+        "B": "had eaten",
+        "C": "eat",
+        "D": "was eating"
+      },
+      "answer": "A",
+      "explanation": "The second action in the past takes the Past Simple.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1675",
+      "question": "Future Intent: 'Nina:NinaNina NinaNinaNinaNina Nina ________ NinaNinaNina Nina Nina ________ Nina Nina ________ Nina Nina ________ Nina Nina ________ Nina Nina ________ Nina Nina ________ watch a movie Nina Nina ________ watch a movie.'",
+      "options": {
+        "A": "will",
+        "B": "is going to",
+        "C": "shall",
+        "D": "am"
+      },
+      "answer": "B",
+      "explanation": "'Be going to' is used for intentions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1676",
+      "question": "Identify the tense: 'The sun is shining.'",
+      "options": {
+        "A": "Present Simple",
+        "B": "Present Progressive",
+        "C": "Present Perfect",
+        "D": "Past Simple"
+      },
+      "answer": "B",
+      "explanation": "Action happening now.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1677",
+      "question": "Subject-Verb Agreement: 'Neither rose nor jasmine ________ available.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "With 'neither...nor', the verb agrees with the closer subject (jasmine, singular).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1678",
+      "question": "Past habits: 'I (play) the violin every morning last year.'",
+      "options": {
+        "A": "play",
+        "B": "was playing",
+        "C": "have played",
+        "D": "played"
+      },
+      "answer": "B",
+      "explanation": "Used for repeated actions in the past (often with 'was/were + ing' to show duration).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1679",
+      "question": "Select the correct form: 'The manager ________ his work.'",
+      "options": {
+        "A": "unmanaged",
+        "B": "mismanaged",
+        "C": "immanaged",
+        "D": "ilmanaged"
+      },
+      "answer": "B",
+      "explanation": "'Mismanaged' is the correct derivative word for managing poorly.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1680",
+      "question": "Identify the tense: 'Spring comes after winter.'",
+      "options": {
+        "A": "Present Simple",
+        "B": "Present Progressive",
+        "C": "Present Perfect",
+        "D": "Future Simple"
+      },
+      "answer": "A",
+      "explanation": "Used for universal or geographical truths.",
+      "difficulty": "easy"
+    }
+  ]
+}

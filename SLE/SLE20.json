@@ -1,1 +1,1046 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE20",
+  "chapter_name": "Prepositions",
+  "questions": [
+    {
+      "id": "SLE2001",
+      "question": "Which preposition is used to indicate a specific point, such as a house or station?",
+      "options": {
+        "A": "In",
+        "B": "At",
+        "C": "On",
+        "D": "To"
+      },
+      "answer": "B",
+      "explanation": "The preposition 'at' is used to show an exact point like a house, station, or bus-stop.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2002",
+      "question": "Fill in the blank: 'The young men are swimming ________ the sea.'",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": "We use 'in' for areas or volumes where something is contained.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2003",
+      "question": "Complete the sentence: 'There is a label ________ the medicine bottle.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": " 'On' is used to express the idea of touching or close contact with a surface.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2004",
+      "question": "Which preposition fits best? 'There is a TV set ________ the corner of the room.'",
+      "options": {
+        "A": "on",
+        "B": "at",
+        "C": "in",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": "We use 'in the corner' when referring to the interior space of a room.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2005",
+      "question": "Choose the correct form: 'London is ________ the Thames.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": " 'On' is used to indicate proximity or being 'close to' a river or coastline.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2006",
+      "question": "Fill in the blanks: 'John was brought up ________ a farm, but now works ________ a shop.'",
+      "options": {
+        "A": "at; in",
+        "B": "in; at",
+        "C": "on; in",
+        "D": "on; at"
+      },
+      "answer": "C",
+      "explanation": "We use 'on' for farms (non-building work areas) and 'in' for shops (buildings).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2007",
+      "question": "What is the correct preposition for a specific address? 'He lives ________ 25 Ashok Nagar, Bhubaneswar.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "to"
+      },
+      "answer": "A",
+      "explanation": "'At' is used for exact points, including house numbers.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2008",
+      "question": "Complete the sentence to suggest 'lower than' rank or position: 'He was ________ me at school.'",
+      "options": {
+        "A": "under",
+        "B": "below",
+        "C": "beneath",
+        "D": "down"
+      },
+      "answer": "B",
+      "explanation": " 'Below' is used to mean lower than in rank, position, or average.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2009",
+      "question": "Identify the preposition showing authority: 'He has ten men working ________ him.'",
+      "options": {
+        "A": "below",
+        "B": "under",
+        "C": "beneath",
+        "D": "after"
+      },
+      "answer": "B",
+      "explanation": " 'Under' is used figuratively to show authority or power over others.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2010",
+      "question": "Choose the correct preposition: 'They were walking together ________ the beach.'",
+      "options": {
+        "A": "through",
+        "B": "across",
+        "C": "along",
+        "D": "in"
+      },
+      "answer": "C",
+      "explanation": " 'Along' means in a line from one end to the other or in the direction of the length of something.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2011",
+      "question": "Which preposition is used for three or more people? 'She divided the cake ________ her five children.'",
+      "options": {
+        "A": "between",
+        "B": "among",
+        "C": "with",
+        "D": "to"
+      },
+      "answer": "B",
+      "explanation": " 'Between' is for two people/things; 'Among' is for three or more.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2012",
+      "question": "Fill in the blank for a specific time: 'The meeting started ________ ten o'clock.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": " 'At' is used for an exact point of time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2013",
+      "question": "Which preposition indicates the latest time an action will be finished? 'The house should be finished ________ next month.'",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "by",
+        "D": "for"
+      },
+      "answer": "C",
+      "explanation": " 'By' shows the latest time at which an action will be completed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2014",
+      "question": "Complete the sentence: 'He has been sick ________ the day he arrived.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "from",
+        "D": "at"
+      },
+      "answer": "B",
+      "explanation": " 'Since' is used with a point of time in the past when an action began and still continues.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2015",
+      "question": "Choose the correct form: 'He came here ________ a winter evening.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "during"
+      },
+      "answer": "C",
+      "explanation": "We use 'on' with specific dates and days, including Sunday mornings or winter evenings.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2016",
+      "question": "Identify the difference: 'He has been ill ________ last month.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "at",
+        "D": "in"
+      },
+      "answer": "B",
+      "explanation": " 'Last month' is a specific point in time, requiring 'since'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2017",
+      "question": "Identify the difference: 'He has been ill ________ the last month.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "at",
+        "D": "in"
+      },
+      "answer": "A",
+      "explanation": " 'The last month' refers to a duration or period of time, requiring 'for'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2018",
+      "question": "Which phrase means 'earlier than scheduled'? 'He arrived ________ time to attend the meeting.'",
+      "options": {
+        "A": "on",
+        "B": "at",
+        "C": "in",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": " 'In time' means earlier than needed; 'on time' means at the exact scheduled time.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2019",
+      "question": "Which preposition is used with years? 'The Second World War ended ________ 1945.'",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": " 'In' is used with years and seasons.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2020",
+      "question": "Fill in the blank for festivals: 'We are having a party ________ New Year.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "during"
+      },
+      "answer": "B",
+      "explanation": "Names of festivals like Christmas, Holi, or New Year take 'at'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2021",
+      "question": "Complete the travel expression: 'He goes to college daily ________ bus.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "by",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": "We use 'by' for means of travel when no article is present.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2022",
+      "question": "Complete the travel expression: 'He went to college ________ his bicycle.'",
+      "options": {
+        "A": "by",
+        "B": "on",
+        "C": "in",
+        "D": "at"
+      },
+      "answer": "B",
+      "explanation": "If an article or possessive (his/a/the) is used with bicycle or bus, we use 'on'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2023",
+      "question": "What is the correct preposition for cars? 'He went to Bhubaneswar ________ a car.'",
+      "options": {
+        "A": "by",
+        "B": "on",
+        "C": "in",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": "While we use 'on' for buses/trains, we use 'in' for cars and boats when an article is used.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2024",
+      "question": "Identify the correct mode of payment: 'He paid the bill ________ cheque.'",
+      "options": {
+        "A": "in",
+        "B": "with",
+        "C": "by",
+        "D": "at"
+      },
+      "answer": "C",
+      "explanation": "Payment 'by cheque' or 'by credit card' is standard; 'in cash' is used for physical money.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2025",
+      "question": "Which preposition is used for instruments? 'He cut the apple ________ a knife.'",
+      "options": {
+        "A": "by",
+        "B": "with",
+        "C": "in",
+        "D": "through"
+      },
+      "answer": "B",
+      "explanation": " 'With' is used to indicate the instrument used to perform an action.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2026",
+      "question": "Choose the correct form for writing materials: 'The letter was written ________ ink.'",
+      "options": {
+        "A": "with",
+        "B": "by",
+        "C": "in",
+        "D": "through"
+      },
+      "answer": "C",
+      "explanation": "We say written 'with a pen' but 'in ink' or 'in pencil'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2027",
+      "question": "Fill in the blank: 'The temple was designed ________ Rabi.'",
+      "options": {
+        "A": "with",
+        "B": "by",
+        "C": "from",
+        "D": "at"
+      },
+      "answer": "B",
+      "explanation": " 'By' is used to indicate the agency or doer of the action.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2028",
+      "question": "Complete the idiomatic expression: 'His decision took me ________ surprise.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "by",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": "The idiom is 'by surprise'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2029",
+      "question": "Fill in the blank: 'Rabi has been ________ holiday for the last two weeks.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "for"
+      },
+      "answer": "C",
+      "explanation": "The correct phrase is 'on holiday'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2030",
+      "question": "Complete the sentence: 'He acted ________ once to save the boy's life.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "by",
+        "D": "on"
+      },
+      "answer": "A",
+      "explanation": "The idiomatic phrase is 'at once', meaning immediately.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2031",
+      "question": "Which preposition follows 'die' when the cause is a disease? 'He died ________ cholera.'",
+      "options": {
+        "A": "from",
+        "B": "with",
+        "C": "of",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": "We use 'die of' for diseases, hunger, or old age.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2032",
+      "question": "Which preposition follows 'die' when the cause is external? 'He died ________ overeating.'",
+      "options": {
+        "A": "of",
+        "B": "from",
+        "C": "with",
+        "D": "by"
+      },
+      "answer": "B",
+      "explanation": "We use 'die from' for wounds, starvation, or external causes like overeating.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2033",
+      "question": "Complete the sentence: 'They all agreed ________ the date of examination.'",
+      "options": {
+        "A": "to",
+        "B": "with",
+        "C": "on",
+        "D": "at"
+      },
+      "answer": "C",
+      "explanation": " 'Agree on' is used for a mutual decision like a date or plan.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2034",
+      "question": "Choose the correct preposition: 'The ring is made ________ gold.'",
+      "options": {
+        "A": "of",
+        "B": "from",
+        "C": "with",
+        "D": "by"
+      },
+      "answer": "A",
+      "explanation": "We use 'made of' when the material does not change its form in the finished product.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2035",
+      "question": "Choose the correct preposition: 'Butter is made ________ milk.'",
+      "options": {
+        "A": "of",
+        "B": "from",
+        "C": "with",
+        "D": "by"
+      },
+      "answer": "B",
+      "explanation": "We use 'made from' when the material changes its form completely.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2036",
+      "question": "Which preposition follows 'compare' for dissimilar things? 'The poet compared her face ________ the moon.'",
+      "options": {
+        "A": "with",
+        "B": "to",
+        "C": "by",
+        "D": "at"
+      },
+      "answer": "B",
+      "explanation": " 'Compare to' is used when comparing two dissimilar things.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2037",
+      "question": "Fill in the blank: 'Don't be impolite ________ your elders.'",
+      "options": {
+        "A": "at",
+        "B": "with",
+        "C": "to",
+        "D": "for"
+      },
+      "answer": "C",
+      "explanation": "Adjectives like impolite, rude, or kind are followed by 'to'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2038",
+      "question": "Complete the sentence: 'Are you angry ________ what happened?'",
+      "options": {
+        "A": "with",
+        "B": "at",
+        "C": "for",
+        "D": "to"
+      },
+      "answer": "B",
+      "explanation": "We are 'angry at' an event or situation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2039",
+      "question": "Complete the sentence: 'The old man is very furious ________ me.'",
+      "options": {
+        "A": "at",
+        "B": "with",
+        "C": "on",
+        "D": "for"
+      },
+      "answer": "B",
+      "explanation": "We are 'angry/furious with' a person.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2040",
+      "question": "Fill in the blank: 'I am tired ________ arguing with you.'",
+      "options": {
+        "A": "with",
+        "B": "of",
+        "C": "at",
+        "D": "by"
+      },
+      "answer": "B",
+      "explanation": "The adjective 'tired' is followed by the preposition 'of'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2041",
+      "question": "Choose the right preposition: 'The diet here is deficient ________ vitamins.'",
+      "options": {
+        "A": "of",
+        "B": "in",
+        "C": "at",
+        "D": "with"
+      },
+      "answer": "B",
+      "explanation": " 'Deficient' is followed by 'in'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2042",
+      "question": "Complete the sentence: 'You must be conscious ________ your speech.'",
+      "options": {
+        "A": "at",
+        "B": "of",
+        "C": "for",
+        "D": "in"
+      },
+      "answer": "B",
+      "explanation": "The adjective 'conscious' is followed by 'of'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2043",
+      "question": "Fill in the blank: 'There is a sharp fall ________ demand for gold.'",
+      "options": {
+        "A": "of",
+        "B": "at",
+        "C": "in",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": "Nouns like 'fall', 'success', or 'difficulty' are followed by 'in'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2044",
+      "question": "Complete the sentence: 'What is your reaction ________ the news?'",
+      "options": {
+        "A": "at",
+        "B": "to",
+        "C": "for",
+        "D": "of"
+      },
+      "answer": "B",
+      "explanation": "The noun 'reaction' is followed by 'to'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2045",
+      "question": "Fill in the blank: 'He has a great admiration ________ my talent.'",
+      "options": {
+        "A": "to",
+        "B": "at",
+        "C": "for",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": "The noun 'admiration' is followed by 'for'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2046",
+      "question": "Identify the preposition of place: 'The aeroplane is flying ________ the head.'",
+      "options": {
+        "A": "above",
+        "B": "over",
+        "C": "on",
+        "D": "through"
+      },
+      "answer": "B",
+      "explanation": " 'Over' means vertically above.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2047",
+      "question": "Complete the sentence: 'He hung a calendar ________ the fireplace.'",
+      "options": {
+        "A": "on",
+        "B": "over",
+        "C": "above",
+        "D": "at"
+      },
+      "answer": "B",
+      "explanation": " 'Over' is used for things vertically above something.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2048",
+      "question": "Which preposition means 'higher than' but not necessarily vertical? 'There is a temple ________ the house.'",
+      "options": {
+        "A": "over",
+        "B": "above",
+        "C": "on",
+        "D": "up"
+      },
+      "answer": "B",
+      "explanation": " 'Above' means at a higher level than something else.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2049",
+      "question": "Fill in the blank: 'Shall I write my name ________ the line?'",
+      "options": {
+        "A": "under",
+        "B": "below",
+        "C": "beneath",
+        "D": "down"
+      },
+      "answer": "B",
+      "explanation": " 'Below' is commonly used for a lower position on a page.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2050",
+      "question": "Which preposition fits best? 'The road goes ________ the forest.'",
+      "options": {
+        "A": "across",
+        "B": "through",
+        "C": "along",
+        "D": "into"
+      },
+      "answer": "B",
+      "explanation": " 'Through' means entering at one side and coming out the other.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2051",
+      "question": "Complete the sentence: 'The house is just ________ the street.'",
+      "options": {
+        "A": "along",
+        "B": "through",
+        "C": "across",
+        "D": "beside"
+      },
+      "answer": "C",
+      "explanation": " 'Across' can mean 'at or on the other side of'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2052",
+      "question": "Choose the correct preposition: 'Trees grow ________ the bank of the river.'",
+      "options": {
+        "A": "across",
+        "B": "through",
+        "C": "along",
+        "D": "at"
+      },
+      "answer": "C",
+      "explanation": " 'Along' means in a line following the edge or length.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2053",
+      "question": "Fill in the blank: 'The boy was hiding ________ a tree.'",
+      "options": {
+        "A": "after",
+        "B": "behind",
+        "C": "below",
+        "D": "under"
+      },
+      "answer": "B",
+      "explanation": " 'Behind' means at the back of something.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2054",
+      "question": "Which preposition is used for two things? 'Luxemburg lies ________ Belgium, Germany and France.'",
+      "options": {
+        "A": "between",
+        "B": "among",
+        "C": "beside",
+        "D": "across"
+      },
+      "answer": "A",
+      "explanation": "While Luxemburg is between three countries, the text uses 'between' for the relationship with neighboring entities.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2055",
+      "question": "Complete the sentence: 'He is leaning ________ the wall.'",
+      "options": {
+        "A": "on",
+        "B": "at",
+        "C": "against",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": " 'Against' means touching an upright surface for support.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2056",
+      "question": "Choose the correct form for 'facing': 'Ram is sitting ________ Gopal.'",
+      "options": {
+        "A": "in front of",
+        "B": "opposite",
+        "C": "before",
+        "D": "at"
+      },
+      "answer": "B",
+      "explanation": " 'Opposite' means facing each other.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2057",
+      "question": "Complete the direction phrase: 'Take the book ________ the table.'",
+      "options": {
+        "A": "off",
+        "B": "out of",
+        "C": "from",
+        "D": "down"
+      },
+      "answer": "A",
+      "explanation": " 'Off' means away from the surface of something.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2058",
+      "question": "Fill in the blank: 'He took the handkerchief ________ his pocket.'",
+      "options": {
+        "A": "off",
+        "B": "out of",
+        "C": "from",
+        "D": "away"
+      },
+      "answer": "B",
+      "explanation": " 'Out of' means from the interior of something.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2059",
+      "question": "Choose the direction preposition: 'He set off ________ London.'",
+      "options": {
+        "A": "at",
+        "B": "to",
+        "C": "for",
+        "D": "towards"
+      },
+      "answer": "C",
+      "explanation": " 'Set off for' means to start a journey to a destination.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2060",
+      "question": "Fill in the blank for time: 'He arrived here ________ midday.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "during"
+      },
+      "answer": "B",
+      "explanation": "We use 'at' for midday, midnight, dawn, etc.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2061",
+      "question": "Which preposition is used for 'latest time'? 'Applications must reach the office ________ 20th June.'",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "by",
+        "D": "until"
+      },
+      "answer": "C",
+      "explanation": " 'By' indicates the deadline or latest time.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2062",
+      "question": "Identify the time expression: 'The magic show started ________ time.'",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "by"
+      },
+      "answer": "B",
+      "explanation": " 'On time' means at the exact scheduled time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2063",
+      "question": "Fill in the blank: 'He reached the airport ________ time to see his friend off.'",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "by"
+      },
+      "answer": "C",
+      "explanation": " 'In time' means early enough or with time to spare.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2064",
+      "question": "Choose the mode of communication: 'He sent the message ________ post.'",
+      "options": {
+        "A": "at",
+        "B": "by",
+        "C": "in",
+        "D": "on"
+      },
+      "answer": "B",
+      "explanation": "We use 'by' for modes of communication like post, telegram, or phone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2065",
+      "question": "Which is correct for instruments? 'The answer was written ________ a pencil.'",
+      "options": {
+        "A": "by",
+        "B": "with",
+        "C": "in",
+        "D": "at"
+      },
+      "answer": "B",
+      "explanation": "Usage with 'a' requires 'with'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2066",
+      "question": "Which is correct for instruments? 'The answer was written ________ pencil.'",
+      "options": {
+        "A": "by",
+        "B": "with",
+        "C": "in",
+        "D": "at"
+      },
+      "answer": "C",
+      "explanation": "Usage without an article requires 'in'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2067",
+      "question": "Complete the idiomatic phrase: 'He is very kind ________ heart.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "by",
+        "D": "with"
+      },
+      "answer": "A",
+      "explanation": "The idiom is 'at heart'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2068",
+      "question": "Complete the idiomatic phrase: 'The house is ________ sale.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "for",
+        "D": "on"
+      },
+      "answer": "C",
+      "explanation": "Items are 'for sale' when they are available for purchase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2069",
+      "question": "Which preposition follows the verb 'borrow'? 'He borrowed a pen ________ me.'",
+      "options": {
+        "A": "to",
+        "B": "from",
+        "C": "at",
+        "D": "with"
+      },
+      "answer": "B",
+      "explanation": "We 'borrow from' someone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2070",
+      "question": "Complete the verb phrase: 'We congratulate you ________ becoming a father.'",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "on",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": "The verb 'congratulate' is followed by 'on'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2071",
+      "question": "Complete the verb phrase: 'Students should concentrate ________ studies.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "for"
+      },
+      "answer": "C",
+      "explanation": "The verb 'concentrate' is followed by 'on'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2072",
+      "question": "Which preposition follows 'eligible'? 'You are eligible ________ this post.'",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "at",
+        "D": "with"
+      },
+      "answer": "B",
+      "explanation": " 'Eligible' is followed by 'for'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2073",
+      "question": "Fill in the blank: 'I am now short ________ funds.'",
+      "options": {
+        "A": "at",
+        "B": "with",
+        "C": "of",
+        "D": "in"
+      },
+      "answer": "C",
+      "explanation": "The phrase is 'short of'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2074",
+      "question": "Which preposition follows 'resemblance'? 'I can see a resemblance ________ them.'",
+      "options": {
+        "A": "at",
+        "B": "between",
+        "C": "to",
+        "D": "with"
+      },
+      "answer": "B",
+      "explanation": "Noun 'resemblance' is followed by 'between' for two entities.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2075",
+      "question": "Fill in the blank: 'He has a great admiration ________ my talent.'",
+      "options": {
+        "A": "at",
+        "B": "to",
+        "C": "for",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": "The noun 'admiration' takes 'for'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2076",
+      "question": "Complete the sentence: 'I have a good relationship ________ my neighbours.'",
+      "options": {
+        "A": "at",
+        "B": "with",
+        "C": "between",
+        "D": "to"
+      },
+      "answer": "B",
+      "explanation": "Noun 'relationship' takes 'with'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2077",
+      "question": "Which preposition is 'multi-word'? ",
+      "options": {
+        "A": "Through",
+        "B": "In front of",
+        "C": "Regarding",
+        "D": "Since"
+      },
+      "answer": "B",
+      "explanation": " 'In front of' is a multi-word preposition.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2078",
+      "question": "Which preposition is a 'participle' (-ing form)?",
+      "options": {
+        "A": "Between",
+        "B": "Across",
+        "C": "Concerning",
+        "D": "Outside"
+      },
+      "answer": "C",
+      "explanation": " 'Concerning' is a participle preposition.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2079",
+      "question": "Complete the sentence with an 'end-preposition': 'What are you looking ________?'",
+      "options": {
+        "A": "for",
+        "B": "at",
+        "C": "after",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "Depending on meaning, 'at', 'for', or 'after' can be used as prepositions at the end of a question.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2080",
+      "question": "Choose the correct preposition: 'There was no chair to sit ________.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "with"
+      },
+      "answer": "C",
+      "explanation": "We sit 'on' a chair.",
+      "difficulty": "easy"
+    }
+  ]
+}

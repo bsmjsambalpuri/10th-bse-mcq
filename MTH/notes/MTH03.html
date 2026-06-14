@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="or">
+<head>
+    <meta charset="UTF-8">
+    <title>Chapter 3 - ସମାନ୍ତର ପ୍ରଗତି</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.6; padding: 25px; color: #333; max-width: 1000px; margin: auto; background-color: #f9f9f9; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; text-align: center; }
+        h2 { color: #2980b9; margin-top: 30px; border-left: 5px solid #2980b9; padding-left: 10px; background: #ecf0f1; padding: 5px 10px; }
+        h3 { color: #d35400; margin-top: 20px; }
+        .formula-box { background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0; border: 1px solid #bdc3c7; text-align: center; }
+        ul { list-style-type: square; margin-left: 20px; }
+        li { margin-bottom: 12px; }
+        .important { font-weight: bold; color: #c0392b; }
+        math { font-size: 1.25em; }
+    </style>
+</head>
+<body>
+
+    <h1>ତୃତୀୟ ଅଧ୍ୟାୟ: ସମାନ୍ତର ପ୍ରଗତି (Arithmetic Progression)</h1>
+
+    <h2>୩.୧ ଅନୁକ୍ରମ (Sequence)</h2>
+    <ul>
+        <li>ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ନିୟମକୁ ଭିତ୍ତି କରି ନିର୍ଦ୍ଦିଷ୍ଟ କ୍ରମ (Order) ରେ ଥିବା ସଂଖ୍ୟାସମୂହକୁ ଏକ <b>ଅନୁକ୍ରମ (Sequence)</b> କୁହାଯାଏ [3]।</li>
+        <li>ଅନୁକ୍ରମରେ ଥିବା ପ୍ରତ୍ୟେକ ସଂଖ୍ୟାକୁ ଗୋଟିଏ ଗୋଟିଏ <b>ପଦ (Term)</b> କୁହାଯାଏ। ଏଗୁଡ଼ିକୁ <math><msub><mi>t</mi><mn>1</mn></msub><mo>,</mo><msub><mi>t</mi><mn>2</mn></msub><mo>,</mo><msub><mi>t</mi><mn>3</mn></msub><mo>,</mo><mo>...</mo></math> ଭାବେ ସୂଚାଯାଏ [4]।</li>
+        <li>ଅନୁକ୍ରମର n-ତମ ପଦକୁ <math><msub><mi>t</mi><mi>n</mi></msub></math> ଦ୍ୱାରା ସୂଚାଯାଏ ଏବଂ ଏହାକୁ <b>ସାଧାରଣ ପଦ (General term)</b> କୁହାଯାଏ [4]।</li>
+    </ul>
+
+    <h2>୩.୨ ସମାନ୍ତର ପ୍ରଗତି (Arithmetic Progression - A.P.)</h2>
+    <ul>
+        <li>ଯଦି ଏକ ଅନୁକ୍ରମର ପ୍ରତ୍ୟେକ ପଦରୁ (ପ୍ରଥମଟିକୁ ଛାଡ଼ି) ତାହାର ପୂର୍ବ ପଦର ବିୟୋଗଫଳ ସର୍ବଦା ସମାନ ହୁଏ, ତେବେ ତାହାକୁ <b>ସମାନ୍ତର ପ୍ରଗତି (A.P.)</b> କୁହାଯାଏ [5]।</li>
+        <li>ଏହି ସ୍ଥିର ବିୟୋଗଫଳକୁ <b>ସାଧାରଣ ଅନ୍ତର (Common difference)</b> କୁହାଯାଏ ଏବଂ ଏହାକୁ '<math><mi>d</mi></math>' ଦ୍ୱାରା ସୂଚିତ କରାଯାଏ [5]।</li>
+        <li><math><mi>d</mi><mo>=</mo><msub><mi>t</mi><mn>2</mn></msub><mo>−</mo><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><msub><mi>t</mi><mn>3</mn></msub><mo>−</mo><msub><mi>t</mi><mn>2</mn></msub><mo>=</mo><mo>...</mo></math> [5]</li>
+        <li>ଯଦି ପ୍ରଥମ ପଦ '<math><mi>a</mi></math>' ଏବଂ ସାଧାରଣ ଅନ୍ତର '<math><mi>d</mi></math>' ହୁଏ, ତେବେ A.P. ର ସାଧାରଣ ରୂପ ହେଉଛି: <math><mi>a</mi><mo>,</mo><mi>a</mi><mo>+</mo><mi>d</mi><mo>,</mo><mi>a</mi><mo>+</mo><mn>2</mn><mi>d</mi><mo>,</mo><mo>...</mo></math> [6]।</li>
+    </ul>
+
+    <div class="formula-box">
+        <span class="important">A.P. ର n-ତମ ପଦ ସୂତ୍ର:</span><br><br>
+        <math display="block">
+            <msub><mi>t</mi><mi>n</mi></msub>
+            <mo>=</mo>
+            <mi>a</mi>
+            <mo>+</mo>
+            <mo>(</mo>
+            <mi>n</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+            <mo>)</mo>
+            <mi>d</mi>
+        </math>
+    </div>
+
+    <h2>୩.୩ ପ୍ରଥମ n ସଂଖ୍ୟକ ପଦର ଯୋଗଫଳ (<math><msub><mi>S</mi><mi>n</mi></msub></math>)</h2>
+    <p>ଏକ A.P. ର ପ୍ରଥମ <math><mi>n</mi></math> ସଂଖ୍ୟକ ପଦର ସମଷ୍ଟି (<math><msub><mi>S</mi><mi>n</mi></msub></math>) ନିର୍ଣ୍ଣୟ ପାଇଁ ଦୁଇଟି ମୁଖ୍ୟ ସୂତ୍ର ଅଛି [7]:</p>
+    
+    <div class="formula-box">
+        <span class="important">ସୂତ୍ର ୧:</span><br>
+        <math display="block">
+            <msub><mi>S</mi><mi>n</mi></msub>
+            <mo>=</mo>
+            <mfrac><mi>n</mi><mn>2</mn></mfrac>
+            <mo>[</mo>
+            <mn>2</mn><mi>a</mi>
+            <mo>+</mo>
+            <mo>(</mo>
+            <mi>n</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+            <mo>)</mo>
+            <mi>d</mi>
+            <mo>]</mo>
+        </math>
+        <br>
+        <span class="important">ସୂତ୍ର ୨ (ଯଦି ଶେଷ ପଦ <math><mi>l</mi></math> ଜଣାଥାଏ):</span><br>
+        <math display="block">
+            <msub><mi>S</mi><mi>n</mi></msub>
+            <mo>=</mo>
+            <mfrac><mi>n</mi><mn>2</mn></mfrac>
+            <mo>(</mo>
+            <mi>a</mi>
+            <mo>+</mo>
+            <mi>l</mi>
+            <mo>)</mo>
+        </math>
+    </div>
+
+    <h3>କିଛି ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଯୋଗଫଳ ପରିଣାମ:</h3>
+    <ul>
+        <li>ପ୍ରଥମ n ସଂଖ୍ୟକ <b>ଗଣନ ସଂଖ୍ୟାର ସମଷ୍ଟି</b>: 
+            <math><mfrac><mrow><mi>n</mi><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mn>2</mn></mfrac></math> [8, 9]
+        </li>
+        <li>ପ୍ରଥମ n ସଂଖ୍ୟକ <b>ଅଯୁଗ୍ମ ଗଣନ ସଂଖ୍ୟାର ସମଷ୍ଟି</b>: 
+            <math><msup><mi>n</mi><mn>2</mn></msup></math> [10]
+        </li>
+        <li>ପ୍ରଥମ n ସଂଖ୍ୟକ <b>ଯୁଗ୍ମ ଗଣନ ସଂଖ୍ୟାର ସମଷ୍ଟି</b>: 
+            <math><mi>n</mi><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo></math> [11]
+        </li>
+        <li>ପ୍ରଥମ n ସଂଖ୍ୟକ ଗଣନ ସଂଖ୍ୟାର <b>ବର୍ଗର ସମଷ୍ଟି</b>: 
+            <math><mfrac><mrow><mi>n</mi><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>(</mo><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mn>6</mn></mfrac></math> [12]
+        </li>
+        <li>ପ୍ରଥମ n ସଂଖ୍ୟକ ଗଣନ ସଂଖ୍ୟାର <b>ଘନର ସମଷ୍ଟି</b>: 
+            <math><msup><mrow><mo>[</mo><mfrac><mrow><mi>n</mi><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mn>2</mn></mfrac><mo>]</mo></mrow><mn>2</mn></msup></math> [13]
+        </li>
+    </ul>
+
+    <h2>୩.୪ ସମାନ୍ତର ମଧ୍ୟକ (Arithmetic Mean - A.M.)</h2>
+    <ul>
+        <li>ଦୁଇଟି ସଂଖ୍ୟା <math><mi>a</mi></math> ଓ <math><mi>b</mi></math> ର ସମାନ୍ତର ମଧ୍ୟକ ହେଉଛି <math><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mn>2</mn></mfrac></math> [14]।</li>
+        <li>ଯଦି <math><mi>a</mi><mo>,</mo><mi>x</mi><mo>,</mo><mi>b</mi></math> ଏକ A.P. ରେ ରହନ୍ତି, ତେବେ <math><mi>x</mi></math> କୁ <math><mi>a</mi></math> ଓ <math><mi>b</mi></math> ର ସମାନ୍ତର ମଧ୍ୟକ କୁହାଯାଏ [14]।</li>
+        <li>ଯଦି ଦୁଇଟି ସଂଖ୍ୟା ମଧ୍ୟରେ n ସଂଖ୍ୟକ ସମାନ୍ତର ମଧ୍ୟକ ରଖାଯାଏ, ତେବେ ସାଧାରଣ ଅନ୍ତର <math display="inline"><mi>d</mi><mo>=</mo><mfrac><mrow><mi>b</mi><mo>−</mo><mi>a</mi></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfrac></math> ହୁଏ [15, 16]।</li>
+    </ul>
+
+</body>
+</html>

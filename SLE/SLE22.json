@@ -1,1 +1,1047 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE22",
+  "chapter_name": "Noun Clauses and Relative Clauses",
+  "chapter_group": "Grammar",
+  "questions": [
+    {
+      "id": "SLE2201",
+      "question": "What is the definition of a clause according to the text?",
+      "options": {
+        "A": "A group of words without a subject",
+        "B": "A group of words that forms part of a longer sentence and has its own subject and predicate",
+        "C": "A single word that functions as a sentence",
+        "D": "A phrase that does not contain a finite verb"
+      },
+      "answer": "B",
+      "explanation": "A clause is a group of words with its own subject and predicate, forming part of a complex or compound sentence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2202",
+      "question": "Identify the type of subordinate clause: 'Ajay remembers that it was a Friday.'",
+      "options": {
+        "A": "Relative Clause",
+        "B": "Adverb Clause",
+        "C": "Noun Clause",
+        "D": "Coordinate Clause"
+      },
+      "answer": "C",
+      "explanation": "The clause 'that it was a Friday' functions as the object of the verb 'remembers', making it a noun clause.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2203",
+      "question": "What function does the noun clause perform in: 'What he says is correct'?",
+      "options": {
+        "A": "Object of a verb",
+        "B": "Subject of the sentence",
+        "C": "Complement of a verb",
+        "D": "Object of a preposition"
+      },
+      "answer": "B",
+      "explanation": "The clause 'What he says' is the subject of the verb 'is'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2204",
+      "question": "In the sentence 'I asked Radha how she felt', 'how she felt' is a noun clause acting as:",
+      "options": {
+        "A": "Subject",
+        "B": "Direct Object",
+        "C": "Complement",
+        "D": "Apposition"
+      },
+      "answer": "B",
+      "explanation": "The clause serves as the direct object of the transitive verb 'asked'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2205",
+      "question": "Identify the noun clause function: 'The problem is that we do not have any money.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object of preposition",
+        "C": "Complement of a verb",
+        "D": "Apposition to noun"
+      },
+      "answer": "C",
+      "explanation": "The clause 'that we do not have any money' completes the meaning of the linking verb 'is'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2206",
+      "question": "Which of these is a noun clause acting as an object of a preposition?",
+      "options": {
+        "A": "I know what you mean.",
+        "B": "Pay attention to what I say.",
+        "C": "That he is honest is true.",
+        "D": "The news that he died is shocking."
+      },
+      "answer": "B",
+      "explanation": "The clause 'what I say' follows the preposition 'to' and acts as its object.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2207",
+      "question": "Identify the appositive noun clause: 'The news that his father has come is true.'",
+      "options": {
+        "A": "The news",
+        "B": "that his father has come",
+        "C": "is true",
+        "D": "his father has come"
+      },
+      "answer": "B",
+      "explanation": "The clause 'that his father has come' explains the noun phrase 'The news'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2208",
+      "question": "Relative clauses are also known as:",
+      "options": {
+        "A": "Noun Clauses",
+        "B": "Adverb Clauses",
+        "C": "Adjective Clauses",
+        "D": "Finite Clauses"
+      },
+      "answer": "C",
+      "explanation": "Relative clauses function like adjectives by qualifying a noun or pronoun.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2209",
+      "question": "Which relative pronoun is used for people in a defining relative clause?",
+      "options": {
+        "A": "Which",
+        "B": "Who",
+        "C": "What",
+        "D": "Whose (for things)"
+      },
+      "answer": "B",
+      "explanation": "'Who' is the relative pronoun used to refer to persons.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2210",
+      "question": "In 'The book which is lying on the table is mine', what is the antecedent of 'which'?",
+      "options": {
+        "A": "Table",
+        "B": "Mine",
+        "C": "The book",
+        "D": "Lying"
+      },
+      "answer": "C",
+      "explanation": "The antecedent is the noun that the relative clause describes, which is 'The book'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2211",
+      "question": "When can a relative pronoun be dropped from a sentence?",
+      "options": {
+        "A": "When it is the subject of the relative clause",
+        "B": "When it is the object of the verb in the relative clause",
+        "C": "In non-defining relative clauses",
+        "D": "Never"
+      },
+      "answer": "B",
+      "explanation": "If the relative pronoun functions as the object in its clause, it can remain 'hidden' or be dropped.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2212",
+      "question": "Which of these sentences allows the relative pronoun to be dropped?",
+      "options": {
+        "A": "The boy who is sitting there is my brother.",
+        "B": "I have read the book which you gave me.",
+        "C": "The man who stole the purse ran away.",
+        "D": "Amit, who often comes here, is my friend."
+      },
+      "answer": "B",
+      "explanation": "In sentence B, 'which' is the object of 'gave' and can be dropped ('the book you gave me').",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2213",
+      "question": "What is a characteristic of a non-defining relative clause?",
+      "options": {
+        "A": "It is essential to identify the noun.",
+        "B": "It is separated from the main clause by commas.",
+        "C": "It can start with the pronoun 'that'.",
+        "D": "The relative pronoun can be dropped."
+      },
+      "answer": "B",
+      "explanation": "Non-defining clauses provide extra information and are punctuated with commas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2214",
+      "question": "Which relative pronoun is NOT allowed in non-defining relative clauses?",
+      "options": {
+        "A": "Who",
+        "B": "Whom",
+        "C": "Which",
+        "D": "That"
+      },
+      "answer": "D",
+      "explanation": "The text states that non-defining clauses cannot take the relative pronoun 'that'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2215",
+      "question": "Identify the non-defining relative clause: 'Pramod, who is my classmate, is very sincere.'",
+      "options": {
+        "A": "Pramod is very sincere",
+        "B": "who is my classmate",
+        "C": "my classmate",
+        "D": "is very sincere"
+      },
+      "answer": "B",
+      "explanation": "This clause adds extra info about Pramod and is set off by commas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2216",
+      "question": "Choose the correctly punctuated sentence:",
+      "options": {
+        "A": "My father who is a teacher loves to talk.",
+        "B": "My father, who is a teacher loves to talk.",
+        "C": "My father who is a teacher, loves to talk.",
+        "D": "My father, who is a teacher, loves to talk."
+      },
+      "answer": "D",
+      "explanation": "Since 'father' is a known identity, the relative clause is non-defining and needs commas on both sides.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2217",
+      "question": "In Activity 5, sentence viii: 'Uneasy lies the head that wears a crown.' This relative clause is:",
+      "options": {
+        "A": "Defining",
+        "B": "Non-defining",
+        "C": "Noun Clause",
+        "D": "Adverb Clause"
+      },
+      "answer": "A",
+      "explanation": "The clause 'that wears a crown' identifies which 'head' is being discussed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2218",
+      "question": "Which relative pronoun refers to 'possession'?",
+      "options": {
+        "A": "Who",
+        "B": "Which",
+        "C": "Whose",
+        "D": "Whom"
+      },
+      "answer": "C",
+      "explanation": "'Whose' is used to show a relationship of possession or belonging.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2219",
+      "question": "Complete the proverb: 'All ________ glitters is not gold.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "that",
+        "D": "whose"
+      },
+      "answer": "C",
+      "explanation": "The standard proverb uses 'that' as the relative pronoun for 'All'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2220",
+      "question": "A defining relative clause is ________ to the meaning of the sentence.",
+      "options": {
+        "A": "Unnecessary",
+        "B": "Essential",
+        "C": "Optional",
+        "D": "Coordinate"
+      },
+      "answer": "B",
+      "explanation": "Defining clauses are essential because they identify the specific person or thing.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2221",
+      "question": "Identify the noun clause function: 'Shanti didn’t know that her uncle had come.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object of a verb",
+        "C": "Complement",
+        "D": "Object of a preposition"
+      },
+      "answer": "B",
+      "explanation": "It is the object of the verb 'know'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2222",
+      "question": "Noun clauses usually begin with which words?",
+      "options": {
+        "A": "Prepositions",
+        "B": "Coordinators",
+        "C": "Wh-words, if, or that",
+        "D": "Personal pronouns"
+      },
+      "answer": "C",
+      "explanation": "Noun clauses are typically introduced by wh-words, 'if', 'whether', or the conjunction 'that'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2223",
+      "question": "Identify the relative clause: 'The chair which has a cracked leg is in the corner.'",
+      "options": {
+        "A": "The chair is in the corner",
+        "B": "which has a cracked leg",
+        "C": "in the corner",
+        "D": "a cracked leg"
+      },
+      "answer": "B",
+      "explanation": "This clause provides information about 'the chair'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2224",
+      "question": "Which sentence contains a non-defining relative clause qualifying the whole main clause?",
+      "options": {
+        "A": "I found the book which I lost.",
+        "B": "He has stopped attending classes, which is unfortunate.",
+        "C": "The girl who won the prize is happy.",
+        "D": "This is the scientist whose invention is famous."
+      },
+      "answer": "B",
+      "explanation": "In this case, 'which' refers to the entire fact that he stopped attending classes.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2225",
+      "question": "Rewrite using a relative clause: 'I write with a pen. My father bought it.'",
+      "options": {
+        "A": "I write with a pen which my father bought.",
+        "B": "I write with a pen who my father bought.",
+        "C": "I write with a pen my father bought it.",
+        "D": "My father bought a pen I write."
+      },
+      "answer": "A",
+      "explanation": "'Which' is the correct relative pronoun for an inanimate object like a pen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2226",
+      "question": "In 'The rumor ________ is true', fill with a noun clause in apposition.",
+      "options": {
+        "A": "that she has resigned",
+        "B": "who she is",
+        "C": "which is false",
+        "D": "where she lives"
+      },
+      "answer": "A",
+      "explanation": "'That she has resigned' acts as an appositive noun clause explaining 'the rumor'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2227",
+      "question": "Relative clauses that describe 'place' begin with:",
+      "options": {
+        "A": "When",
+        "B": "Where",
+        "C": "Why",
+        "D": "How"
+      },
+      "answer": "B",
+      "explanation": "'Where' is the relative pronoun/adverb for locations.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2228",
+      "question": "Relative clauses that describe 'time' begin with:",
+      "options": {
+        "A": "Where",
+        "B": "Which",
+        "C": "When",
+        "D": "Whose"
+      },
+      "answer": "C",
+      "explanation": "'When' is used for time-related antecedents.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2229",
+      "question": "What is the function of the noun clause in: 'It is a pity that he doesn't come home.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object",
+        "C": "Complement",
+        "D": "Apposition to 'It'"
+      },
+      "answer": "D",
+      "explanation": "The clause 'that he doesn't come home' is in apposition to the dummy subject 'It'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2230",
+      "question": "Which of these cannot be used as the subject of a passive construction but works in an active relative sentence?",
+      "options": {
+        "A": "That clause",
+        "B": "Reciprocal pronouns like 'each other'",
+        "C": "Noun Phrase",
+        "D": "Wh-word"
+      },
+      "answer": "B",
+      "explanation": "Reciprocal pronouns like 'each other' cannot be the subject of a passive clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2231",
+      "question": "Identify the type: 'I cannot express how sorry I am.'",
+      "options": {
+        "A": "Simple Sentence",
+        "B": "Compound Sentence",
+        "C": "Complex Sentence",
+        "D": "Exclamatory Sentence"
+      },
+      "answer": "C",
+      "explanation": "It contains a main clause and a subordinate noun clause ('how sorry I am').",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2232",
+      "question": "In 'The movie depends on how it ends', the noun clause is:",
+      "options": {
+        "A": "The movie depends",
+        "B": "on how it ends",
+        "C": "how it ends",
+        "D": "it ends"
+      },
+      "answer": "C",
+      "explanation": "'How it ends' is the noun clause acting as the object of the preposition 'on'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2233",
+      "question": "Defining relative clauses ________ commas.",
+      "options": {
+        "A": "Must have",
+        "B": "Do not take",
+        "C": "Sometimes take",
+        "D": "Always have"
+      },
+      "answer": "B",
+      "explanation": "Defining clauses are not set off by commas because they are essential to the sentence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2234",
+      "question": "Identify the finite verb in the relative clause: 'The boy who always gives me books is my friend.'",
+      "options": {
+        "A": "is",
+        "B": "gives",
+        "C": "always",
+        "D": "friend"
+      },
+      "answer": "B",
+      "explanation": "'Gives' is the verb within the subordinate relative clause.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2235",
+      "question": "Which sentence contains a noun clause as a complement?",
+      "options": {
+        "A": "He says that he is ill.",
+        "B": "My decision is that he must help you.",
+        "C": "I know where he lives.",
+        "D": "That he is honest is clear."
+      },
+      "answer": "B",
+      "explanation": "In B, the clause follows the linking verb 'is' and completes its meaning.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2236",
+      "question": "A 'hidden' relative pronoun in the text: 'The house – which was the only one... – sat on the hill.' can be shortened to:",
+      "options": {
+        "A": "The house sat on the hill.",
+        "B": "The house – the only one in the valley – sat on the hill.",
+        "C": "The house which the only one.",
+        "D": "The house was only one."
+      },
+      "answer": "B",
+      "explanation": "In the original text, the relative pronoun 'which' and the verb 'was' remain hidden.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2237",
+      "question": "In 'The travellers who knew about the floods took another road', the relative clause is defining. This means:",
+      "options": {
+        "A": "All travellers took another road.",
+        "B": "Only the travellers who knew about the floods took another road.",
+        "C": "No travellers knew about the floods.",
+        "D": "The road was flooded for everyone."
+      },
+      "answer": "B",
+      "explanation": "A defining clause restricts the meaning to a specific group.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2238",
+      "question": "A conductor is a person ________.",
+      "options": {
+        "A": "who drives a car",
+        "B": "who collects fares in a bus",
+        "C": "who sells vegetables",
+        "D": "who treats patients"
+      },
+      "answer": "B",
+      "explanation": "Relative clause definition based on Activity 3.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2239",
+      "question": "A journalist is a person ________.",
+      "options": {
+        "A": "who works on a farm",
+        "B": "who writes for a newspaper",
+        "C": "who fixes pipes",
+        "D": "who acts in plays"
+      },
+      "answer": "B",
+      "explanation": "Relative clause definition based on Activity 3.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2240",
+      "question": "Which relative pronoun is used for 'belonging to a person'?",
+      "options": {
+        "A": "Whom",
+        "B": "Whose",
+        "C": "Who",
+        "D": "Which"
+      },
+      "answer": "B",
+      "explanation": "'Whose' is the possessive form of 'who'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2241",
+      "question": "Complete the phrase: 'The boy ________ we met at Konark is a tourist.'",
+      "options": {
+        "A": "which",
+        "B": "whom",
+        "C": "what",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "'Whom' is the objective case of the relative pronoun for people.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2242",
+      "question": "If a relative clause comes at the end of a sentence, we put a:",
+      "options": {
+        "A": "Comma",
+        "B": "Dash",
+        "C": "Full stop",
+        "D": "Question mark"
+      },
+      "answer": "C",
+      "explanation": "According to the text, a full stop is used if the clause ends the sentence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2243",
+      "question": "Non-defining relative clauses cannot be used after ________.",
+      "options": {
+        "A": "Proper nouns",
+        "B": "Common nouns",
+        "C": "Indefinite pronouns like 'anyone'",
+        "D": "Noun phrases"
+      },
+      "answer": "C",
+      "explanation": "The text explicitly states that non-defining clauses cannot follow words like anyone, somebody, etc.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2244",
+      "question": "What is the function: 'Tell me where you were born.'?",
+      "options": {
+        "A": "Subject",
+        "B": "Object of 'tell'",
+        "C": "Complement",
+        "D": "Apposition"
+      },
+      "answer": "B",
+      "explanation": "The noun clause 'where you were born' is the direct object.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2245",
+      "question": "In 'I understand how she felt', 'how she felt' is a:",
+      "options": {
+        "A": "Relative Clause",
+        "B": "Noun Clause",
+        "C": "Adverb Clause",
+        "D": "Coordinate Clause"
+      },
+      "answer": "B",
+      "explanation": "It functions as the object of the verb 'understand'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2246",
+      "question": "In 'The Curiosity which I felt... persisted', 'which' is a:",
+      "options": {
+        "A": "Noun clause marker",
+        "B": "Relative pronoun",
+        "C": "Conjunction",
+        "D": "Adverb"
+      },
+      "answer": "B",
+      "explanation": "It introduces a relative clause describing 'curiosity'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2247",
+      "question": "Which of these is a complex sentence?",
+      "options": {
+        "A": "The sun is shining and the day is warm.",
+        "B": "The day is warm because the sun is shining.",
+        "C": "The sun is bright and warm.",
+        "D": "Waste not, want not."
+      },
+      "answer": "B",
+      "explanation": "Sentence B has one main clause and one subordinate adverb clause.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2248",
+      "question": "Identify the type: 'What you told me is entirely false.'",
+      "options": {
+        "A": "Simple",
+        "B": "Complex",
+        "C": "Compound",
+        "D": "Declarative only"
+      },
+      "answer": "B",
+      "explanation": "Contains a main clause ('is entirely false') and a noun clause subject.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2249",
+      "question": "The marker 'whether' is typically used for:",
+      "options": {
+        "A": "Defining relative clauses",
+        "B": "Noun clauses with choices or Yes/No meanings",
+        "C": "Adverb clauses of place",
+        "D": "Appositives only"
+      },
+      "answer": "B",
+      "explanation": "'Whether' introduces noun clauses, especially in subjects or objects involving alternatives.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2250",
+      "question": "Relative clauses describing 'reason' usually begin with:",
+      "options": {
+        "A": "Whose",
+        "B": "Where",
+        "C": "Why",
+        "D": "Which"
+      },
+      "answer": "C",
+      "explanation": "'Why' is the relative marker for reasons.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2251",
+      "question": "Which sentence contains a noun clause in apposition to 'It'?",
+      "options": {
+        "A": "It is true that he is coming.",
+        "B": "I asked him if it is true.",
+        "C": "The truth is it happened.",
+        "D": "Tell me what is true."
+      },
+      "answer": "A",
+      "explanation": "The clause 'that he is coming' explains the dummy subject 'It'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2252",
+      "question": "Relative clauses follow ________.",
+      "options": {
+        "A": "Verbs",
+        "B": "Nouns or Pronouns",
+        "C": "Adverbs",
+        "D": "Prepositions"
+      },
+      "answer": "B",
+      "explanation": "Relative clauses modify a preceding noun or pronoun (the antecedent).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2253",
+      "question": "Complete the proverb: 'He ________ laughs last, laughs best.'",
+      "options": {
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "that"
+      },
+      "answer": "B",
+      "explanation": "Based on Activity 4 proverbs list.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2254",
+      "question": "In 'The man that Mohan was talking to is his uncle', 'that' can be replaced by:",
+      "options": {
+        "A": "Whose",
+        "B": "Whom",
+        "C": "Who",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "Both 'who' and 'whom' are acceptable for people in objective relative clauses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2255",
+      "question": "Which relative pronoun is used for non-living things in defining clauses?",
+      "options": {
+        "A": "Who",
+        "B": "Which",
+        "C": "That",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "Both 'which' and 'that' can be used for inanimate objects in defining clauses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2256",
+      "question": "What is the non-finite version of: 'He posted the letter after he had sealed it'?",
+      "options": {
+        "A": "He sealed the letter and posted it.",
+        "B": "After sealing the letter, he posted it.",
+        "C": "He posted the letter because it was sealed.",
+        "D": "Sealing the letter he posted."
+      },
+      "answer": "B",
+      "explanation": "Using the '-ing' form 'sealing' creates a non-finite clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2257",
+      "question": "Which of these is a coordinate main clause?",
+      "options": {
+        "A": "He came here.",
+        "B": "but Mohan stayed at home",
+        "C": "when I arrived",
+        "D": "if you go"
+      },
+      "answer": "B",
+      "explanation": "A clause joined by a coordinator like 'but' is a coordinate main clause.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2258",
+      "question": "Which of these sentences is ungrammatical?",
+      "options": {
+        "A": "Seema writes letters.",
+        "B": "Seema written the letter.",
+        "C": "Seema will write the letter.",
+        "D": "Seema has written the letter."
+      },
+      "answer": "B",
+      "explanation": "Sentence B has no finite verb, making it incomplete/ungrammatical.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2259",
+      "question": "Identify the subordinate clause: 'We thought that he was a hermit.'",
+      "options": {
+        "A": "We thought",
+        "B": "that he was a hermit",
+        "C": "he was a hermit",
+        "D": "a hermit"
+      },
+      "answer": "B",
+      "explanation": "It is a noun clause subordinate to the main clause 'We thought'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2260",
+      "question": "Identify the type: 'A dog that barks seldom bites.'",
+      "options": {
+        "A": "Noun Clause",
+        "B": "Relative Clause",
+        "C": "Adverb Clause",
+        "D": "Coordinate Clause"
+      },
+      "answer": "B",
+      "explanation": "'That barks' is a relative clause modifying 'A dog'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2261",
+      "question": "Identify the function: 'I have no objection to whatever you say.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object of a verb",
+        "C": "Object of a preposition",
+        "D": "Complement"
+      },
+      "answer": "C",
+      "explanation": "'Whatever you say' follows the preposition 'to'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2262",
+      "question": "Relative clauses are part of ________ sentences.",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Coordinate"
+      },
+      "answer": "C",
+      "explanation": "Complex sentences consist of a main clause and at least one subordinate clause (like a relative clause).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2263",
+      "question": "Relative pronouns that describe people in objective cases are:",
+      "options": {
+        "A": "Whose",
+        "B": "Which",
+        "C": "Whom",
+        "D": "That (only)"
+      },
+      "answer": "C",
+      "explanation": "'Whom' is the standard relative pronoun for people when they are the object.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2264",
+      "question": "Which marker can start a noun clause showing a question meaning?",
+      "options": {
+        "A": "That",
+        "B": "If / Whether",
+        "C": "Who",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "Questions in reported speech or as noun clauses start with 'if', 'whether', or wh-words.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2265",
+      "question": "Is 'Under the queen’s chair' a phrase, clause, or sentence?",
+      "options": {
+        "A": "Phrase",
+        "B": "Clause",
+        "C": "Sentence",
+        "D": "Subordinate Clause"
+      },
+      "answer": "A",
+      "explanation": "It is a group of words without a finite verb/subject-predicate structure.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2266",
+      "question": "Identify the noun clause: 'It is feared that he will not help us.'",
+      "options": {
+        "A": "It is feared",
+        "B": "that he will not help us",
+        "C": "he will not help us",
+        "D": "will not help us"
+      },
+      "answer": "B",
+      "explanation": "This is a noun clause in apposition to the subject 'It'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2267",
+      "question": "Defining relative clauses are used to ________ a large set.",
+      "options": {
+        "A": "Expand",
+        "B": "Restrict/Identify",
+        "C": "Delete",
+        "D": "Punctuate"
+      },
+      "answer": "B",
+      "explanation": "They help identify a specific item out of many.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2268",
+      "question": "Non-defining clauses provide ________ information.",
+      "options": {
+        "A": "Essential",
+        "B": "Identifying",
+        "C": "Extra/Additional",
+        "D": "No"
+      },
+      "answer": "C",
+      "explanation": "The identity of the noun is already known; the clause just adds more details.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2269",
+      "question": "A hospital is a place ________.",
+      "options": {
+        "A": "where teachers work",
+        "B": "where patients are treated",
+        "C": "which sells medicine",
+        "D": "that drives an ambulance"
+      },
+      "answer": "B",
+      "explanation": "Relative clause definition using the 'where' marker for place.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2270",
+      "question": "Which sentence has a relative pronoun that CANNOT be dropped?",
+      "options": {
+        "A": "The pen which I bought is good.",
+        "B": "The boy who won the prize is happy.",
+        "C": "The book that you gave me is lost.",
+        "D": "The dress which she is wearing is nice."
+      },
+      "answer": "B",
+      "explanation": "In B, 'who' is the subject of the clause ('who won'). Subjects cannot be dropped.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2271",
+      "question": "In 'All that glitters is not gold', 'that glitters' is a:",
+      "options": {
+        "A": "Noun Clause",
+        "B": "Relative Clause",
+        "C": "Adverb Clause",
+        "D": "Coordinate Clause"
+      },
+      "answer": "B",
+      "explanation": "It describes the pronoun 'All'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2272",
+      "question": "Which marker starts a clause of purpose?",
+      "options": {
+        "A": "Because",
+        "B": "Although",
+        "C": "So that",
+        "D": "Since"
+      },
+      "answer": "C",
+      "explanation": "'So that' introduces adverb clauses of purpose.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2273",
+      "question": "In 'I like the man who has a smiling face', 'who' is the:",
+      "options": {
+        "A": "Object",
+        "B": "Subject of the relative clause",
+        "C": "Possessive",
+        "D": "Antecedent"
+      },
+      "answer": "B",
+      "explanation": "It is the subject of the verb 'has'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2274",
+      "question": "Identify the type: 'Jack fell down and he broke his crown.'",
+      "options": {
+        "A": "Simple",
+        "B": "Compound",
+        "C": "Complex",
+        "D": "Adverbial"
+      },
+      "answer": "B",
+      "explanation": "Two independent clauses joined by 'and'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2275",
+      "question": "Identify the noun clause function: 'The point is that he was absolutely honest.'",
+      "options": {
+        "A": "Subject",
+        "B": "Complement",
+        "C": "Object",
+        "D": "Apposition"
+      },
+      "answer": "B",
+      "explanation": "It completes the verb 'is'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2276",
+      "question": "Relative pronouns ________ stay alone without an antecedent in relative clauses.",
+      "options": {
+        "A": "Can",
+        "B": "Cannot",
+        "C": "Always",
+        "D": "Usually"
+      },
+      "answer": "B",
+      "explanation": "Relative clauses must refer back to a noun or pronoun (the antecedent).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2277",
+      "question": "The first word in a verb phrase that takes tense is called the ________ verb.",
+      "options": {
+        "A": "Main",
+        "B": "Finite",
+        "C": "Non-finite",
+        "D": "Auxiliary only"
+      },
+      "answer": "B",
+      "explanation": "Finite verbs carry tense and show agreement.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2278",
+      "question": "A simple sentence has ________ clause(s).",
+      "options": {
+        "A": "One independent",
+        "B": "Two coordinate",
+        "C": "One subordinate",
+        "D": "Multiple"
+      },
+      "answer": "A",
+      "explanation": "Simple sentences are defined by having only one finite clause.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2279",
+      "question": "Identify the noun clause: 'When his father will return is uncertain.'",
+      "options": {
+        "A": "his father will return",
+        "B": "When his father will return",
+        "C": "is uncertain",
+        "D": "uncertain"
+      },
+      "answer": "B",
+      "explanation": "This wh-clause functions as the subject of 'is'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2280",
+      "question": "Relative clauses in textbook Source 1 (I. Let's learn language) are identified as:",
+      "options": {
+        "A": "Adverbial",
+        "B": "Extra-information / Relative",
+        "C": "Conditionals",
+        "D": "Imperatives"
+      },
+      "answer": "B",
+      "explanation": "Source 1 describes relative clauses starting with 'who' that give more info about characters like Lencho.",
+      "difficulty": "medium"
+    }
+  ]
+}

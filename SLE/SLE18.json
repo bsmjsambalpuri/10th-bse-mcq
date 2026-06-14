@@ -1,1 +1,1046 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE18",
+  "chapter_name": "Subject Verb Agreement",
+  "questions": [
+    {
+      "id": "SLE1801",
+      "question": "Choose the correct verb: 'There _______ plenty of job opportunities for the people of this region.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "has",
+        "D": "was"
+      },
+      "answer": "B",
+      "explanation": "After an introductory 'there', the verb must agree with the real subject following it ('opportunities'), which is plural.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1802",
+      "question": "Fill in the blank: 'There _______ plenty of room for improvement in her work.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "The real subject 'room' is uncountable and singular, requiring a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1803",
+      "question": "Which verb is correct? 'Two plus two _______ four.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "Mathematical expressions of addition are typically treated as singular.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1804",
+      "question": "Correct the verb: 'Two twos _______ four.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "When multiplication is expressed this way in the textbook activity, it is treated as plural.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1805",
+      "question": "Select the right form: 'Seventy kilometres _______ a long distance.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Plural numbers representing a single figure of distance take a singular verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1806",
+      "question": "Identify the correct verb: 'Fish and chips _______ not so expensive as chicken curry and rice.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "Two nouns joined by 'and' that represent a single meal or notion take a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1807",
+      "question": "Fill the blank: 'A crowd _______ gathered in the street.'",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "A collective noun treated as a singular unit takes a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1808",
+      "question": "Choose the correct form: 'The assembly _______ divided on this issue.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "When the members of a collective noun are considered as individuals (often indicated by the word 'divided'), a plural verb is used.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1809",
+      "question": "Correct usage: 'The police _______ chasing the burglar.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has"
+      },
+      "answer": "B",
+      "explanation": "The word 'police' is always treated as plural and takes a plural verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1810",
+      "question": "Complete the sentence: 'Her clothing _______ waterproof.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "Nouns like 'clothing', 'furniture', and 'stationery' are uncountable and take singular verbs.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1811",
+      "question": "Identify the auxiliary: 'Either of the boys _______ won a medal.'",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "When a subject begins with 'Either of' followed by a plural noun, the verb is singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1812",
+      "question": "Fill the blank: 'Neither of those officers _______ efficient.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "A",
+      "explanation": "'Neither of' followed by a plural noun requires a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1813",
+      "question": "Verb form: 'One of his friends _______ able to speak English fluently.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "'One of' followed by a plural noun takes a singular verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1814",
+      "question": "Correct the verb: 'Some honey _______ left in the pot.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have"
+      },
+      "answer": "A",
+      "explanation": "When 'some' is followed by a singular/uncountable noun, it takes a singular verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1815",
+      "question": "Agreement Check: 'The governor and chancellor of the university _______ been invited to this function.'",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "The lack of the article 'the' before 'chancellor' indicates that both titles refer to the same person, requiring a singular verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1816",
+      "question": "Fraction rule: 'Three-fourths of the crop _______ damaged by the flood.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "With fractions, the verb agrees with the noun following the fraction ('crop' is singular).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1817",
+      "question": "Correct the auxiliary: 'A great deal of money _______ spent for his mother’s treatment.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "The phrase 'a great deal of' is used with uncountable nouns like 'money', requiring a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1818",
+      "question": "Identify the verb: 'A whole regiment of volunteers _______ working here.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have"
+      },
+      "answer": "A",
+      "explanation": "Phrases like 'a regiment of' followed by a plural noun usually take a singular verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1819",
+      "question": "Rule distinction: 'The number of scholarships _______ increased this year.'",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "'The number of' takes a singular verb because the real subject is 'the number'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1820",
+      "question": "Disease rule: 'These days mumps _______ not at all difficult to cure.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Names of certain diseases like 'mumps' or 'measles' take singular verbs despite ending in 's'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1821",
+      "question": "Clause as subject: 'What he says about me _______ not affect me.'",
+      "options": {
+        "A": "do",
+        "B": "does",
+        "C": "doing",
+        "D": "done"
+      },
+      "answer": "B",
+      "explanation": "If the subject of a sentence is a clause, the verb is singular.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1822",
+      "question": "Connective rule: 'Ram as well as his friends _______ to play football.'",
+      "options": {
+        "A": "like",
+        "B": "likes",
+        "C": "liking",
+        "D": "are like"
+      },
+      "answer": "B",
+      "explanation": "With 'as well as', the verb agrees with the first subject ('Ram'), which is singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1823",
+      "question": "Identify the verb: 'Neither rose nor jasmine _______ available in the market.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "With 'neither...nor', the verb agrees with the closer subject ('jasmine'), which is singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1824",
+      "question": "Pair noun rule: 'A pair of spectacles _______ lying on the bed.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "While 'spectacles' is plural, 'a pair of spectacles' is singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1825",
+      "question": "Adjective rule: 'The rich _______ in affluence.'",
+      "options": {
+        "A": "lives",
+        "B": "live",
+        "C": "is living",
+        "D": "has lived"
+      },
+      "answer": "B",
+      "explanation": "When an adjective like 'rich' is used with 'the' to represent a class, it takes a plural verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1826",
+      "question": "Title rule: 'The Canterbury Tales _______ written by Chaucer.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "be"
+      },
+      "answer": "A",
+      "explanation": "A plural proper name of a single book or work requires a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1827",
+      "question": "Time rule: 'Six weeks _______ a long vacation for students.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "A plural noun expressing a period of time as a single unit takes a singular verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1828",
+      "question": "Identify the correct verb: 'Your trousers _______ torn.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has"
+      },
+      "answer": "B",
+      "explanation": "Nouns like 'trousers' and 'scissors' are treated as plural.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1829",
+      "question": "Question tag rule: 'I am young and strong, _______ ?'",
+      "options": {
+        "A": "amn’t I",
+        "B": "aren't I",
+        "C": "am I",
+        "D": "isn't I"
+      },
+      "answer": "B",
+      "explanation": "The textbook identifies 'aren't I' as the correct tag for 'I am'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1830",
+      "question": "Relative clause rule: 'It is you who _______ insulted me.'",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "is",
+        "D": "was"
+      },
+      "answer": "B",
+      "explanation": "The verb in a relative clause agrees with the antecedent ('you').",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1831",
+      "question": "Check introductory 'there': 'There _______ people waiting to see you.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "Verb agrees with 'people' (plural).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1832",
+      "question": "Identify the tag: 'Ours is a great nation, _______ ?'",
+      "options": {
+        "A": "isn’t it",
+        "B": "aren’t they",
+        "C": "is it",
+        "D": "are they"
+      },
+      "answer": "A",
+      "explanation": "The subject 'nation' is singular, requiring 'isn't it'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1833",
+      "question": "Identify the verb: 'The police _______ a difficult job.'",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "is having",
+        "D": "was having"
+      },
+      "answer": "B",
+      "explanation": "'Police' always takes a plural verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1834",
+      "question": "Correct usage: 'A lot of cattle _______ grazing in the field.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "'Cattle' is a plural noun, requiring 'were'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1835",
+      "question": "Identify the verb: 'The youth _______ not so sincere (general class).'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "When 'the youth' refers to young people in general, it is plural.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1836",
+      "question": "Verb agreement: 'The youth _______ more serious than his uncle (specific person).'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "When referring to a specific young man, 'youth' is singular.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1837",
+      "question": "Find the verb: 'Ill news _______ fast.'",
+      "options": {
+        "A": "travel",
+        "B": "travels",
+        "C": "traveling",
+        "D": "are traveling"
+      },
+      "answer": "B",
+      "explanation": "'News' is uncountable and takes a singular verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1838",
+      "question": "Disease agreement: 'Mumps _______ very unpleasant.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "'Mumps' is a singular subject.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1839",
+      "question": "Science rule: 'Bacteria of the harmful kind _______ diseases.'",
+      "options": {
+        "A": "cause",
+        "B": "causes",
+        "C": "causing",
+        "D": "is causing"
+      },
+      "answer": "A",
+      "explanation": "'Bacteria' is the plural form of 'bacterium', requiring a plural verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1840",
+      "question": "Introductory rule: 'There _______ a pair of spectacles on that shelf.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "Agreeing with 'a pair' (singular).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1841",
+      "question": "Plural rule: 'My brothers _______ here.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "Basic subject-verb agreement with a plural subject.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1842",
+      "question": "Weight rule: 'Ten kilos _______ a heavy load.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Weights representing a single quantity are singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1843",
+      "question": "Time unit: 'Five minutes _______ enough to finish.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Periods of time treated as a single unit take a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1844",
+      "question": "Money rule: 'One hundred dollars _______ too much for this pen.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Amounts of money treated as a single sum take a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1845",
+      "question": "Single notion: 'Bread and jam _______ my favorite snack.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "Two nouns suggesting a single idea take a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1846",
+      "question": "Collective unit: 'The class _______ very noisy today.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "has been"
+      },
+      "answer": "A",
+      "explanation": "Collective noun acting as a single unit.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1847",
+      "question": "Collective individuals: 'The crew _______ arguing about their duties.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "When members of a group act individually (indicated by 'arguing' or 'their duties'), use a plural verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1848",
+      "question": "Identify the verb: 'People _______ unhappy with the new tax.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "'People' is a plural noun.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1849",
+      "question": "Furniture check: 'The furniture _______ delivered yesterday.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "'Furniture' is uncountable and singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1850",
+      "question": "Either of rule: 'Either of the candidates _______ suitable.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "'Either of' always takes a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1851",
+      "question": "Neither of rule: 'Neither of my parents _______ home.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have"
+      },
+      "answer": "B",
+      "explanation": "'Neither of' takes a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1852",
+      "question": "None of rule: 'None of the students _______ completed the task.'",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "The textbook identifies 'none of' as taking a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1853",
+      "question": "Each of rule: 'Each of the flowers _______ beautiful.'",
+      "options": {
+        "A": "look",
+        "B": "looks",
+        "C": "looking",
+        "D": "are looking"
+      },
+      "answer": "B",
+      "explanation": "'Each of' takes a singular verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1854",
+      "question": "One of rule: 'One of the eggs _______ broken.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "Verb agrees with 'one'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1855",
+      "question": "Fraction rule (singular): 'One-third of the city _______ flooded.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "Verb agrees with 'city' (singular).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1856",
+      "question": "Fraction rule (plural): 'Half of the boys _______ absent.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "Verb agrees with 'boys' (plural).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1857",
+      "question": "Phrase rule: 'A lot of books _______ missing.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "Verb agrees with 'books'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1858",
+      "question": "Phrase rule: 'A lot of work _______ left.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "Verb agrees with 'work' (uncountable).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1859",
+      "question": "Collective phrase: 'A crowd of fans _______ waiting.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "'A crowd of' usually takes a singular verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1860",
+      "question": "Phrase rule: 'A number of mistakes _______ made.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "'A number of' takes a plural verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1861",
+      "question": "Phrase rule: 'The number of cases _______ rising.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "'The number of' takes a singular verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1862",
+      "question": "Subject rule: 'Physics _______ my favorite subject.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "'Physics' is singular.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1863",
+      "question": "Identify the verb: 'What he does _______ none of your business.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "A clause as a subject is singular.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1864",
+      "question": "Agreement rule: 'The captain as well as the players _______ cheering.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "With 'as well as', agree with the first subject.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1865",
+      "question": "Agreement rule: 'The teacher, together with her students, _______ going on a field trip.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "With 'together with', agree with the first subject.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1866",
+      "question": "Correlative rule: 'Not only the teacher but also the students _______ happy.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "With 'not only...but also', agree with the nearer subject ('students').",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1867",
+      "question": "Correlative rule: 'Either my brothers or my sister _______ cleaning the house.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "Agree with nearer subject ('sister').",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1868",
+      "question": "Correlative rule: 'Neither the boys nor the girls _______ arrived.'",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "is",
+        "D": "was"
+      },
+      "answer": "B",
+      "explanation": "Agree with nearer subject ('girls').",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1869",
+      "question": "Agreement check: 'My glasses _______ on the table.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "'Glasses' is a plural noun.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1870",
+      "question": "Identify the verb: 'A pair of trousers _______ required.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "'A pair of...' is singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1871",
+      "question": "Identify the verb: 'The blind _______ help crossing the road.'",
+      "options": {
+        "A": "needs",
+        "B": "need",
+        "C": "is needing",
+        "D": "has needed"
+      },
+      "answer": "B",
+      "explanation": "'The blind' refers to a plural class.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1872",
+      "question": "Agreement check: 'Gulliver's Travels _______ a famous book.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "A",
+      "explanation": "Titles of books are singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1873",
+      "question": "Identify the verb: 'It is I who _______ responsible.'",
+      "options": {
+        "A": "am",
+        "B": "is",
+        "C": "are",
+        "D": "be"
+      },
+      "answer": "A",
+      "explanation": "In relative clauses, the verb agrees with the antecedent ('I').",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1874",
+      "question": "Relative check: 'The boys who _______ playing are my friends.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Antecedent 'boys' is plural.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1875",
+      "question": "Identify the verb: 'The poet and singer _______ here (same person).'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "One person, two titles (singular).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1876",
+      "question": "Identify the verb: 'The poet and the singer _______ here (two people).'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Two different people (indicated by 'the' before each).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1877",
+      "question": "Agreement check: 'No student _______ present.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "'No' + singular noun takes a singular verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1878",
+      "question": "Agreement check: 'No students _______ present.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "'No' + plural noun takes a plural verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1879",
+      "question": "Subject check: 'Mathematics _______ difficult for some.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Singular subject.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1880",
+      "question": "Agreement Check: 'Honesty _______ the best policy.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "A",
+      "explanation": "Abstract nouns like 'Honesty' take a singular verb.",
+      "difficulty": "easy"
+    }
+  ]
+}

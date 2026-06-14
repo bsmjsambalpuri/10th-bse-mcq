@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="or">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ଦ୍ୱିତୀୟ ଅଧ୍ୟାୟ: ଦ୍ୱିଘାତ ସମୀକରଣ (Offline Friendly)</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #34495e;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+        h2 {
+            color: #2980b9;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #16a085;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .formula-block {
+            text-align: center;
+            margin: 15px 0;
+            padding: 12px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+        }
+        math {
+            font-size: 1.15em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>ଦ୍ୱିତୀୟ ଅଧ୍ୟାୟ (Chapter 2): ଦ୍ୱିଘାତ ସମୀକରଣ <br><small>(Quadratic Equations)</small></h1>
+
+    <h2>୨.୧ ଉପକ୍ରମଣିକା (Introduction)</h2>
+    <ul>
+        <li><strong>ଦ୍ୱିଘାତ ସମୀକରଣର ସାଧାରଣ ରୂପ:</strong> ଏକ ଅଜ୍ଞାତ ରାଶି <math><mi>x</mi></math> ଥିବା ଦ୍ୱିଘାତ ସମୀକରଣର ସାଧାରଣ ବୀଜଗାଣିତିକ ରୂପ ହେଉଛି:
+            <div class="formula-block">
+                <math display="block">
+                    <mrow>
+                        <mi>a</mi>
+                        <msup><mi>x</mi><mn>2</mn></msup>
+                        <mo>+</mo>
+                        <mi>b</mi>
+                        <mi>x</mi>
+                        <mo>+</mo>
+                        <mi>c</mi>
+                        <mo>=</mo>
+                        <mn>0</mn>
+                        <mspace width="1em"></mspace>
+                        <mo>(</mo>
+                        <mtext>ଯେଉଁଠାରେ </mtext>
+                        <mi>a</mi>
+                        <mo>,</mo>
+                        <mi>b</mi>
+                        <mo>,</mo>
+                        <mi>c</mi>
+                        <mtext> ବାସ୍ତବ ସଂଖ୍ୟା ଏବଂ </mtext>
+                        <mi>a</mi>
+                        <mo>≠</mo>
+                        <mn>0</mn>
+                        <mo>)</mo>
+                    </mrow>
+                </math>
+            </div>
+        </li>
+        <li>ଏହି ସମୀକରଣରେ <math><mi>a</mi></math> କୁ <math><msup><mi>x</mi><mn>2</mn></msup></math> ର ସହଗ, <math><mi>b</mi></math> କୁ <math><mi>x</mi></math> ର ସହଗ ଏବଂ <math><mi>c</mi></math> କୁ ଧ୍ରୁବକ ପଦ କୁହାଯାଏ।</li>
+        <li>ପ୍ରତ୍ୟେକ ଦ୍ୱିଘାତ ସମୀକରଣର ସର୍ବାଧିକ <strong>ଦୁଇଟି ମୂଳ (Roots)</strong> ଥାଏ।</li>
+    </ul>
+
+    <h2>୨.୨ ସମାଧାନ ପ୍ରଣାଳୀ (Methods of Solution)</h2>
+    <p>ଦ୍ୱିଘାତ ସମୀକରଣକୁ ସମାଧାନ କରିବା ପାଇଁ ମୁଖ୍ୟତଃ ଦୁଇଟି ପ୍ରଣାଳୀ ବ୍ୟବହାର କରାଯାଏ:</p>
+    
+    <h3>୧. ସୂତ୍ର ପ୍ରୟୋଗ ଦ୍ୱାରା ସମାଧାନ (Using Quadratic Formula):</h3>
+    <p>ଶ୍ରୀଧର ଆଚାର୍ଯ୍ୟଙ୍କ ନିୟମ ଅନୁଯାୟୀ, ଦ୍ୱିଘାତ ସମୀକରଣର ଦୁଇଟି ମୂଳ (ଯାହାକୁ <math><mi>α</mi></math> ଓ <math><mi>β</mi></math> କୁହାଯାଏ) ବାହାର କରିବା ପାଇଁ ନିମ୍ନ ସୂତ୍ର ବ୍ୟବହାର ହୁଏ:</p>
+    <div class="formula-block">
+        <math display="block">
+            <mi>x</mi>
+            <mo>=</mo>
+            <mfrac>
+                <mrow>
+                    <mo>−</mo>
+                    <mi>b</mi>
+                    <mo>±</mo>
+                    <msqrt>
+                        <msup><mi>b</mi><mn>2</mn></msup>
+                        <mo>−</mo>
+                        <mn>4</mn><mi>a</mi><mi>c</mi>
+                    </msqrt>
+                </mrow>
+                <mrow>
+                    <mn>2</mn>
+                    <mi>a</mi>
+                </mrow>
+            </mfrac>
+        </math>
+    </div>
+
+    <h3>୨. ପୂର୍ଣ୍ଣବର୍ଗରେ ପରିଣତ କରି ସମାଧାନ (Completing the Square):</h3>
+    <p>ଏହି ପ୍ରଣାଳୀରେ ସମୀକରଣର ବାମପାର୍ଶ୍ୱକୁ <math><msup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mi>k</mi><mo>)</mo></mrow><mn>2</mn></msup></math> ବା ପୂର୍ଣ୍ଣବର୍ଗ ରୂପକୁ ଆଣି ସମାଧାନ କରାଯାଏ।</p>
+
+    <h2>୨.୩ ପ୍ରଭେଦକ ଓ ମୂଳର ସ୍ୱରୂପ (Discriminant and Nature of Roots)</h2>
+    <p>ରାଶି <math><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>a</mi><mi>c</mi></math> କୁ ଦ୍ୱିଘାତ ସମୀକରଣର <strong>ପ୍ରଭେଦକ (Discriminant)</strong> କୁହାଯାଏ। ଏହାକୁ ସଂକ୍ଷେପରେ <math><mi>D</mi></math> ସଙ୍କେତ ଦ୍ୱାରା ସୂଚିତ କରାଯାଏ:</p>
+    <div class="formula-block">
+        <math display="block">
+            <mi>D</mi>
+            <mo>=</mo>
+            <msup><mi>b</mi><mn>2</mn></msup>
+            <mo>−</mo>
+            <mn>4</mn>
+            <mi>a</mi>
+            <mi>c</mi>
+        </math>
+    </div>
+    
+    <p><math><mi>D</mi></math> ର ମୂଲ୍ୟ ଅନୁଯାୟୀ ମୂଳଦ୍ୱୟର ସ୍ୱରୂପ ନିମ୍ନମତେ ନିର୍ଦ୍ଧାରିତ ହୁଏ:</p>
+    <ul>
+        <li><strong>ସ୍ଥିତି ୧:</strong> ଯଦି <math><mi>D</mi><mo>&gt;</mo><mn>0</mn></math> ହୁଏ, ତେବେ ମୂଳଦ୍ୱୟ <strong>ବାସ୍ତବ ଏବଂ ଅସମାନ (Real and Distinct)</strong> ହେବେ।</li>
+        <li><strong>ସ୍ଥିତି ୨:</strong> ଯଦି <math><mi>D</mi><mo>=</mo><mn>0</mn></math> ହୁଏ, ତେବେ ମୂଳଦ୍ୱୟ <strong>ବାସ୍ତବ ଏବଂ ସମାନ (Real and Equal)</strong> ହେବେ। ଏହି ସ୍ଥିତିରେ ପ୍ରତ୍ୟେକ ମୂଳ = <math><mfrac><mrow><mo>−</mo><mi>b</mi></mrow><mrow><mn>2</mn><mi>a</mi></mrow></mfrac></math> ਹੁଏ।</li>
+        <li><strong>ସ୍ଥିତି ୩:</strong> ଯଦି <math><mi>D</mi><mo>&lt;</mo><mn>0</mn></math> ହୁଏ, ତେବେ କୌଣସି <strong>ବାସ୍ତବ ମୂଳ ସମ୍ଭବ ନୁହେଁ (No Real Roots)</strong>। ଏହାର ମୂଳ ଆଭାସୀ ବା କାଳ୍ପନିକ ହୋଇଥାଏ।</li>
+    </ul>
+
+    <h2>୨.୪ ମୂଳ ଏବଂ ସହଗ ମଧ୍ୟରେ ସମ୍ପର୍କ (Relationship between Roots and Coefficients)</h2>
+    <p>ଯଦି ଦ୍ୱିଘାତ ସମୀକରଣର ଦୁଇଟି ମୂଳ <math><mi>α</mi></math> ଏବଂ <math><mi>β</mi></math> ହୁଅନ୍ତି, ତେବେ:</p>
+    <ul>
+        <li><strong>୧. ମୂଳଦ୍ୱୟର ଯୋଗଫଳ (Sum of Roots):</strong>
+            <div class="formula-block">
+                <math display="block">
+                    <mi>α</mi>
+                    <mo>+</mo>
+                    <mi>β</mi>
+                    <mo>=</mo>
+                    <mfrac>
+                        <mrow><mo>−</mo><mi>b</mi></mrow>
+                        <mi>a</mi>
+                    </mfrac>
+                </mrow>
+                </math>
+            </div>
+        </li>
+        <li><strong>୨. ମୂଳଦ୍ୱୟର ଗୁଣଫଳ (Product of Roots):</strong>
+            <div class="formula-block">
+                <math display="block">
+                    <mi>α</mi>
+                    <mo>·</mo>
+                    <mi>β</mi>
+                    <mo>=</mo>
+                    <mfrac>
+                        <mi>c</mi>
+                        <mi>a</mi>
+                    </mfrac>
+                </math>
+            </div>
+        </li>
+    </ul>
+
+    <h2>୨.୫ ମୂଳ ଦତ୍ତ ଥିଲେ ଦ୍ୱିଘାତ ସମୀକରଣ ଗଠନ (Formation of Quadratic Equation)</h2>
+    <p>ଯଦି ଏକ ଦ୍ୱିଘାତ ସମୀକରଣର ଦୁଇଟି ମୂଳ <math><mi>α</mi></math> ଓ <math><mi>β</mi></math> ଜଣାଥାଏ, ତେବେ ସମୀକରଣଟିକୁ ନିମ୍ନମତେ ଗଠନ କରାଯାଇପାରିବ:</p>
+    <div class="formula-block">
+        <math display="block">
+            <msup><mi>x</mi><mn>2</mn></msup>
+            <mo>−</mo>
+            <mo>(</mo>
+            <mi>α</mi>
+            <mo>+</mo>
+            <mi>β</mi>
+            <mo>)</mo>
+            <mi>x</mi>
+            <mo>+</mo>
+            <mo>(</mo>
+            <mi>α</mi>
+            <mo>·</mo>
+            <mi>β</mi>
+            <mo>)</mo>
+            <mo>=</mo>
+            <mn>0</mn>
+        </math>
+    </div>
+    <p>ଅର୍ଥାତ୍: <math><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mo>(</mo><mtext>ମୂଳଦ୍ୱୟର ଯୋଗଫଳ</mtext><mo>)</mo><mi>x</mi><mo>+</mo><mo>(</mo><mtext>ମୂଳଦ୍ୱୟର ଗୁଣଫଳ</mtext><mo>)</mo><mo>=</mo><mn>0</mn></math></main>
+
+    <h2>୨.୬ ଦ୍ୱିଘାତ ସମୀକରଣର ପ୍ରୟୋଗ (Applications of Quadratic Equations)</h2>
+    <ul>
+        <li>ବାସ୍ତବ ଜୀବନର ବିଭିନ୍ନ ଗାଣିତିକ ସମସ୍ୟା, ଯେପରିକି କ୍ଷେତ୍ରଫଳ, ବେଗ-ସମୟ-ଦୂରତା, ସଂଖ୍ୟା ସମ୍ବନ୍ଧୀୟ ପ୍ରଶ୍ନ ଏବଂ ବୟସ ନିରୂପଣ ଆଦି ସମସ୍ୟାକୁ ଦ୍ୱିଘାତ ସମୀକରଣ ରୂପରେ ପ୍ରକାଶ କରି ସହଜରେ ସମାଧାନ କରାଯାଇପାରେ।</li>
+    </ul>
+
+</body>
+</html>

@@ -1,0 +1,657 @@
+{
+  "paper_id": "SLE_MODEL_2",
+  "paper_name": "MODEL QUESTION PAPER – 2",
+  "subject": "SECOND LANGUAGE ENGLISH (SLE)",
+  "questions":[
+  {
+    "id": "SLESP0201",
+    "question": "What is the theme of the poem ‘All Things Bright and Beautiful’ ?",
+    "options": {
+      "A": "About our gratitude to God for his wonderful creation",
+      "B": "About beautiful plants and animals",
+      "C": "About beautiful birds and flowers",
+      "D": "About natural beauty"
+    },
+    "answer": "A",
+    "explanation": "The poem emphasizes praising God and expressing gratitude for creating everything in the universe with purpose and beauty.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0202",
+    "question": "What is the rhyming scheme of the poem ‘All Things Bright and Beautiful’ in the first stanza ?",
+    "options": {
+      "A": "AABB",
+      "B": "ABAB",
+      "C": "ABCB",
+      "D": "Free verse"
+    },
+    "answer": "C",
+    "explanation": "In the first stanza, the ending words are 'beautiful' (A), 'creatures' (B), 'wonderful' (C), and 'all' (B), which follows the ABCB pattern.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0203",
+    "question": "What matter put Gandhiji to shame ?",
+    "options": {
+      "A": "Kindness of Sanskrit teacher",
+      "B": "Kindness of Persian teacher",
+      "C": "Kindness of the headmaster",
+      "D": "Kindness of his father"
+    },
+    "answer": "B",
+    "explanation": "Gandhiji felt ashamed of himself when his gentle Persian teacher expressed affection and urged him not to abandon the study of Persian.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0204",
+    "question": "According to Krishnashankar Pandya, as a Vaishnava learning of ................ should not be ignored.",
+    "options": {
+      "A": "Geography",
+      "B": "Gymnastics",
+      "C": "Sanskrit",
+      "D": "Persian"
+    },
+    "answer": "C",
+    "explanation": "Krishnashankar Pandya reminded Gandhiji that since he belonged to a Vaishnava family, he should learn Sanskrit properly to read its sacred texts.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0205",
+    "question": "God, “Send me the rest since I need it very much,” wrote Lencho. Here the underlined word ‘rest’ refers to ................ pesos.",
+    "options": {
+      "A": "Thirty",
+      "B": "Forty",
+      "C": "Seventy",
+      "D": "Thirty-five"
+    },
+    "answer": "A",
+    "explanation": "Lencho received 70 pesos out of the 100 he asked for. Therefore, the 'rest' refers to the remaining 30 pesos.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0206",
+    "question": "What thought reflects Lencho’s confidence in God when he received only seventy pesos ?",
+    "options": {
+      "A": "The help of God",
+      "B": "No one dies of hunger",
+      "C": "God could not have made a mistake",
+      "D": "‘God.’ If you don’t help me and my family I will go hungry this year"
+    },
+    "answer": "C",
+    "explanation": "Lencho was fully certain that God could never make a calculation error nor deny what he had requested.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0207",
+    "question": "Grandfather used to stop Timothy growl by .............",
+    "options": {
+      "A": "stroking his forehead",
+      "B": "smacking him across the mouth",
+      "C": "patting his back",
+      "D": "ticking his ears"
+    },
+    "answer": "B",
+    "explanation": "Smacking Timothy across the mouth was grandfather's unique way of keeping the tiger cub disciplined when he growled.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0208",
+    "question": "Which situation finally compelled grandfather to transfer Timothy to a zoo ?",
+    "options": {
+      "A": "He grew steadily less friendly.",
+      "B": "He tried to steal away to stalk a cat or a pet pekinese.",
+      "C": "He entered the poultry house and killed the birds.",
+      "D": "He began to stalk Mahmoud with a villainous look."
+    },
+    "answer": "D",
+    "explanation": "The critical turning point came when Timothy began following Mahmoud, the cook, with a clearly predatory and dangerous look.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0209",
+    "question": "What is the tone of the poem ‘The Solitary Reaper’ ?",
+    "options": {
+      "A": "Happy",
+      "B": "Sad",
+      "C": "Emotional",
+      "D": "Soothing"
+    },
+    "answer": "B",
+    "explanation": "The narrator notices that the young woman's melody carries a deeply melancholy and sorrowful tone.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0210",
+    "question": "The expression, ‘Breaking the silence of the seas’ in ‘The Solitary Reaper’ refers to .................... .",
+    "options": {
+      "A": "Arabian sands",
+      "B": "The deep valley",
+      "C": "Mountain regions",
+      "D": "Farthest Hebrides"
+    },
+    "answer": "D",
+    "explanation": "The poet describes the reaper's song echoing powerfully enough to pierce the quiet atmosphere of the remote islands known as the Farthest Hebrides.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0211",
+    "question": "Suppose you were a flower in the poem ‘The Flower School’. What message would you give to the world ?",
+    "options": {
+      "A": "beauty and happiness",
+      "B": "anger and frustration",
+      "C": "pain and pleasure",
+      "D": "sorrows and sufferings"
+    },
+    "answer": "A",
+    "explanation": "Flowers represent joy, vibrancy, and celebratory freedom when they burst out to dance merrily in the rain.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0212",
+    "question": "‘The flowers were hiding underground before they bloom.’ They teach us the value of ............... .",
+    "options": {
+      "A": "Love",
+      "B": "Patience",
+      "C": "Truthfulness",
+      "D": "Sacrifice"
+    },
+    "answer": "B",
+    "explanation": "Waiting silently through their underground school phase before blooming teaches the vital life skill of patience.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0213",
+    "question": "Bihu, ‘a joyous dance of Assam’ is marked with .............. .",
+    "options": {
+      "A": "brisk steps and hand movements",
+      "B": "brisk steps and belly movements",
+      "C": "gentle steps and body movements",
+      "D": "gentle steps and eye movements"
+    },
+    "answer": "A",
+    "explanation": "The traditional Bihu dance style is energetic, defined by rapid footwork and rapid rhythmic hand motions.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0214",
+    "question": "People of Assam are blessed with the mighty river ............. .",
+    "options": {
+      "A": "Ganga",
+      "B": "Yamuna",
+      "C": "Godavari",
+      "D": "Brahmaputra"
+    },
+    "answer": "D",
+    "explanation": "The Brahmaputra river shapes the geography, fertile valleys, and festive cultural life of the Assamese people.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0215",
+    "question": "The Hundred-Drum Festival is celebrated by the Garos in the villages of ....... .",
+    "options": {
+      "A": "Meghalaya",
+      "B": "Tripura",
+      "C": "Manipur",
+      "D": "Assam"
+    },
+    "answer": "A",
+    "explanation": "The Wangala festival, also known as the Hundred-Drum festival, is a prominent autumn celebration observed by the Garo tribe in Meghalaya.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0216",
+    "question": "The phrases ‘bridal songs’ and ‘cradle songs’ suggest that ........... .",
+    "options": {
+      "A": "life is full of pleasure",
+      "B": "life is full of pain and suffering",
+      "C": "life is filled with opportunities",
+      "D": "life is filled with customs and beliefs"
+    },
+    "answer": "A",
+    "explanation": "In 'Village Song', these musical phrases represent worldly pleasures, joyous celebrations, and domestic happiness that the mother uses to convince her daughter.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0217",
+    "question": "A mother sings ‘lullabies’ to make her baby go to sleep. Here, the word ‘lullabies’ refers to ............. .",
+    "options": {
+      "A": "bridal songs",
+      "B": "cradle songs",
+      "C": "folk songs",
+      "D": "devotional songs"
+    },
+    "answer": "B",
+    "explanation": "Lullabies are synonymous with cradle songs, which are soft tunes intended to soothe a baby to sleep in its crib.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0218",
+    "question": "“Kind Sir, have pity ; turn your attention to the poor, hungry man !” The statement is said by ................ .",
+    "options": {
+      "A": "the advocate",
+      "B": "the advocate’s driver",
+      "C": "the cook",
+      "D": "the beggar"
+    },
+    "answer": "D",
+    "explanation": "Lushkoff, the beggar, uses this desperate, formulaic plea to gain sympathy and money from passing strangers like Sergei.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0219",
+    "question": "Sergie, the advocate, offered some other Cleaner employment to the beggar. Here the underlined phrase means ............. .",
+    "options": {
+      "A": "the work of a copying",
+      "B": "the work of a cook",
+      "C": "the job of a wagoner",
+      "D": "the job of a woodcutter"
+    },
+    "answer": "A",
+    "explanation": "After manual labor like wood-chopping, Sergei sets Lushkoff up with an easier, cleaner literary desk job involving copying out documents.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0220",
+    "question": "Olga, the cook, proved that a drunkard like Luskoff can be changed by .......... .",
+    "options": {
+      "A": "money and gifts",
+      "B": "noble deeds and words",
+      "C": "scolding and beating",
+      "D": "giving him menial work"
+    },
+    "answer": "B",
+    "explanation": "Lushkoff notes that it wasn't the hard work or Sergei's stern commands, but Olga's selfless, compassionate, and deeply sorrowful deeds on his behalf that transformed his spirit.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0221",
+    "question": "Which of the following is not a major cause of air pollution ?",
+    "options": {
+      "A": "Automobile exhausts",
+      "B": "Emission of industrial smoke and ash",
+      "C": "Burning of fossil fuels",
+      "D": "Acid rain"
+    },
+    "answer": "D",
+    "explanation": "Acid rain is a secondary impact or consequence of air pollution, rather than an initial human-driven cause.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0222",
+    "question": "Why is the Bhopal incident called a tragic industrial accident ?",
+    "options": {
+      "A": "Because it emitted obnoxious gases, ash and dust particles",
+      "B": "Because a deadly gas escaped into the atmosphere and killed 4000 residents",
+      "C": "Because Bhopal is an industrial city",
+      "D": "Because a large number of people were rendered blind and crippled"
+    },
+    "answer": "B",
+    "explanation": "The incident is historic due to its extreme mortality, where highly toxic MIC gas leaked overnight and cost thousands of lives directly.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0223",
+    "question": "What is the message conveyed by the poet through the poem ‘From the Formalin Jar’ ?",
+    "options": {
+      "A": "Age, fame, beauty or wisdom becomes meaningless unless a person is careful about his safety.",
+      "B": "Life should be lived to its fullest, without fear of death.",
+      "C": "Humans should not worry about mundane tasks.",
+      "D": "Safety leads to eternal happiness."
+    },
+    "answer": "A",
+    "explanation": "The ultimate warning values everyday safety precautions (like wearing helmets) over accomplishments, as a simple crash can end everything instantly.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0224",
+    "question": "What is insulting to Vicky’s brain ?",
+    "options": {
+      "A": "Sitting in the formalin jar",
+      "B": "People staring at it again and again",
+      "C": "Being called a specimen",
+      "D": "Having no stroke, bugs or tumour"
+    },
+    "answer": "C",
+    "explanation": "The text directly states that for an active, intelligent mind, being reduced to a static 'specimen' inside a glass laboratory jar is deeply humiliating.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0225",
+    "question": "What should we avoid in our leisure hours ?",
+    "options": {
+      "A": "Reading interesting books",
+      "B": "Mere idling",
+      "C": "Spending time with good companionships",
+      "D": "Making interesting hobbies"
+    },
+    "answer": "B",
+    "explanation": "The essay warns against passive, unproductive time-wasting, suggesting we steer clear of completely blank, mindless idling.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0226",
+    "question": "Which diet proved too rich for Timothy ?",
+    "options": {
+      "A": "Cod liver oil",
+      "B": "Raw mutton",
+      "C": "Milk",
+      "D": "Pigeons and rabbits"
+    },
+    "answer": "C",
+    "explanation": "Initially given a steady diet of milk in a feeding bottle, it turned out to be far too rich for his wild digestive system to tolerate consistently.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0227",
+    "question": "According to Lord Eustace Percy, success in life depends largely on ............. .",
+    "options": {
+      "A": "good health",
+      "B": "good character",
+      "C": "leisure hours",
+      "D": "sound mind"
+    },
+    "answer": "B",
+    "explanation": "He advises students that a strong, moral, untarnished personal character acts as the ultimate bedrock for a truly successful lifestyle.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0228",
+    "question": "“Money does not grow on trees here.” Who said this statement ?",
+    "options": {
+      "A": "Jumman Sheikh",
+      "B": "Algu Chaudhuri",
+      "C": "Samjhoo Sahu",
+      "D": "Old aunt"
+    },
+    "answer": "A",
+    "explanation": "Jumman Sheikh says this callously to his old aunt when she asks for a monthly financial allowance to set up her own separate kitchen.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0229",
+    "question": "The wise men went to the king and said : “It is a grain of corn.” when ........... .",
+    "options": {
+      "A": "a traveller sold the thing to the king",
+      "B": "the old man recognised the thing",
+      "C": "the wise men pondered and recognised the thing",
+      "D": "a hen pecked at the thing and made a hole in it"
+    },
+    "answer": "D",
+    "explanation": "The scholars could only identify the item after a pecking bird made a hole in it, revealing its internal composition to be a massive grain kernel.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0230",
+    "question": "What practical solution can people take to reduce air pollution in their daily lives ?",
+    "options": {
+      "A": "Depending more on private vehicles rather than public transportation",
+      "B": "Burning more sulphur coal and oil",
+      "C": "Using vehicles equipped with harmless devices",
+      "D": "Engaging in deforestation and making urbanisation"
+    },
+    "answer": "C",
+    "explanation": "Fitting private cars with emission-reducing components like catalytic converters actively targets and drops immediate local pollution levels.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0231",
+    "question": "Dr. A.P.J. Kalam .......................... a lot of books.",
+    "options": {
+      "A": "wrote",
+      "B": "was writing",
+      "C": "has written",
+      "D": "had written"
+    },
+    "answer": "A",
+    "explanation": "The simple past tense 'wrote' is appropriate here as it describes a completed action in the past by a person who is no longer alive.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0232",
+    "question": "The girl ....................... more and more beautiful day by day.",
+    "options": {
+      "A": "looks",
+      "B": "is looking",
+      "C": "has looked",
+      "D": "had looked"
+    },
+    "answer": "B",
+    "explanation": "The present progressive form 'is looking' matches the ongoing, progressive nature indicated by 'day by day'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0233",
+    "question": "Which of the following imperative sentences expresses suggestion ?",
+    "options": {
+      "A": "Respect your elders.",
+      "B": "Please have another cup of coffee.",
+      "C": "Let’s go on an excursion.",
+      "D": "Shut the window."
+    },
+    "answer": "C",
+    "explanation": "Sentences starting with 'Let's' naturally pitch a group suggestion or a shared recommendation for an action.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0234",
+    "question": "The boy did not go to school, ................. he was ill.",
+    "options": {
+      "A": "so",
+      "B": "for",
+      "C": "still",
+      "D": "and"
+    },
+    "answer": "B",
+    "explanation": "The coordinating conjunction 'for' is used formally to introduce a reason or cause, meaning the same as 'because'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0235",
+    "question": "The number of students watching the cricket match .................. fifty.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "has",
+      "D": "have"
+    },
+    "answer": "B",
+    "explanation": "Phrases starting with 'The number of' always take a singular verb, unlike 'A number of' which takes plural verbs.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0236",
+    "question": "What the students are studying these days ................. very important for their examination.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "have",
+      "D": "had"
+    },
+    "answer": "A",
+    "explanation": "When a whole noun clause serves as the complete subject of a sentence, it treats the entire action statement as a singular entity.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0237",
+    "question": "I still remember .................. Puri with my father last year.",
+    "options": {
+      "A": "visit",
+      "B": "visiting",
+      "C": "to visit",
+      "D": "visited"
+    },
+    "answer": "B",
+    "explanation": "The verb 'remember' takes a gerund (-ing form) when looking back on a past memory or event that has already occurred.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0238",
+    "question": "The candidates should reach the examination hall ........... .",
+    "options": {
+      "A": "at time",
+      "B": "in time",
+      "C": "by time",
+      "D": "for time"
+    },
+    "answer": "B",
+    "explanation": "'In time' means arriving with enough room or a comfortable margin before a scheduled deadline start.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0239",
+    "question": "Have the factory workers ............ the strike ................ ?",
+    "options": {
+      "A": "called, on",
+      "B": "called, in",
+      "C": "called, out",
+      "D": "called, off"
+    },
+    "answer": "D",
+    "explanation": "The phrasal verb 'call off' means to officially cancel an ongoing or planned event like a strike.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0240",
+    "question": "Pick out the correct grammatical sentence having a defining relative clause.",
+    "options": {
+      "A": "A doctor, who treats the patients is a person.",
+      "B": "A doctor who treated the patients, is a person.",
+      "C": "A doctor is a person who treats the patients.",
+      "D": "A doctor was a person who treats the patients."
+    },
+    "answer": "C",
+    "explanation": "Option C features a proper defining relative clause that identifies the noun cleanly without unnecessary commas or tense conflicts.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "SLESP0241",
+    "question": "Pick out the sentence with a conditional clause :",
+    "options": {
+      "A": "They studied hard although they were tired.",
+      "B": "Do it as your teacher showed you.",
+      "C": "Were I a bird, I would fly in the sky.",
+      "D": "I wrote in the diary so that I would not forget."
+    },
+    "answer": "C",
+    "explanation": "'Were I a bird' uses an inverted conditional structure (equivalent to 'If I were a bird'), which sets up a hypothetical condition.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "SLESP0242",
+    "question": "My dog is being taken to the garden. The sentence is in ............................. .",
+    "options": {
+      "A": "Present progressive",
+      "B": "Past progressive",
+      "C": "Present perfect progressive",
+      "D": "Past perfect progressive"
+    },
+    "answer": "A",
+    "explanation": "The structure 'is being + past participle' denotes the passive voice form of the present progressive tense.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0243",
+    "question": "Pick out the correct grammatical sentence :",
+    "options": {
+      "A": "He wanted to know if it is raining.",
+      "B": "He wanted to know if it was raining.",
+      "C": "He asked whether was it raining.",
+      "D": "He asked whether it is raining."
+    },
+    "answer": "B",
+    "explanation": "According to rules of indirect speech, a past reporting verb ('wanted to know') requires shifting the present tense into past continuous ('was raining').",
+    "difficulty": "hard"
+  },
+  {
+    "id": "SLESP0244",
+    "question": "My friend visits me every year ....................... the New Year.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "by",
+      "D": "in"
+    },
+    "answer": "B",
+    "explanation": "The preposition 'at' is typically chosen for holiday periods (e.g., at New Year, at Easter, at Christmas).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SLESP0245",
+    "question": "There are many people ..................... lives have been spoilt by this war.",
+    "options": {
+      "A": "which",
+      "B": "whose",
+      "C": "that",
+      "D": "who"
+    },
+    "answer": "B",
+    "explanation": "The relative pronoun 'whose' is required to show possession regarding the lives belonging to those people.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0246",
+    "question": "My shirt needs ironing. The passive sentence of the sentence above : ......................",
+    "options": {
+      "A": "My shirt is needed ironing.",
+      "B": "My shirt needs to be ironed.",
+      "C": "My shirt needed to be ironed.",
+      "D": "My shirt is to need ironing."
+    },
+    "answer": "B",
+    "explanation": "Verbs like 'need' followed by a gerund can be structurally converted to passive status via 'need + to be + past participle' while preserving the original present tense.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "SLESP0247",
+    "question": "He said to me, “Did you know him ?” It can be changed into reported speech as .............. .",
+    "options": {
+      "A": "He told me if I know him",
+      "B": "He asked me if I knew him",
+      "C": "He asked me if I had known him",
+      "D": "He asked me if I have known him"
+    },
+    "answer": "C",
+    "explanation": "An interrogative sentence in the simple past tense ('Did you know') converts over to the past perfect tense ('had known') when shifting into reported speech.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "SLESP0248",
+    "question": "But though I was none the worse for having neglected exercise, I am still paying the penalty of another neglect. The underlined word can be replaced by",
+    "options": {
+      "A": "not so bad",
+      "B": "not good",
+      "C": "not affected",
+      "D": "not mind"
+    },
+    "answer": "C",
+    "explanation": "'None the worse' is an idiom indicating that a person did not suffer any negative consequences or remain affected by an action.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "SLESP0249",
+    "question": "The manager could not manage his work. He .................. his work. Change the underlined word into a single word :",
+    "options": {
+      "A": "unmanaged",
+      "B": "mismanaged",
+      "C": "immanaged",
+      "D": "ilmanaged"
+    },
+    "answer": "B",
+    "explanation": "The prefix 'mis-' indicates doing an action incorrectly or badly; thus, failing to handle work properly translates directly to 'mismanaged'.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "SLESP0250",
+    "question": "Gandhi was bad ...................... handwriting.",
+    "options": {
+      "A": "at",
+      "B": "to",
+      "C": "in",
+      "D": "on"
+    },
+    "answer": "at",
+    "explanation": "The adjective phrase 'bad at' (or 'good at') is the standard prepositional pairing used to express competence or lack thereof in a skill.",
+    "difficulty": "easy"
+  }
+]
+}

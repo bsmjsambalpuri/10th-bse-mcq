@@ -61,22 +61,13 @@
     {
       "subject_code": "TLS",
       "chapters": [
-        { "chapter_id": "TLS01", "chapter_name": "उपदेशामृतम्", "chapter_group": "गद्यभाग", "active": "yes" },
         { "chapter_id": "TLS02", "chapter_name": "सुशिष्यः उपमन्युः", "chapter_group": "गद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS03", "chapter_name": "वराहोपाख्यानम्", "chapter_group": "गद्यभाग", "active": "yes" },
         { "chapter_id": "TLS04", "chapter_name": "सिंहशृगालशिशुकथा", "chapter_group": "गद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS05", "chapter_name": "बककुलीरककथा", "chapter_group": "गद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS06", "chapter_name": "जन्मवर्वरकथा", "chapter_group": "गद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS07", "chapter_name": "बलीयसी केवलमीश्वरेच्छा", "chapter_group": "गद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS08", "chapter_name": "स्वामी विवेकानन्दः", "chapter_group": "गद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS09", "chapter_name": "वैज्ञानिकः डक्टर अब्दुलकलामः", "chapter_group": "गद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS10", "chapter_name": "भौतिकं पर्यावरणम्", "chapter_group": "गद्यभाग", "active": "yes" },
+		  { "chapter_id": "TLS10", "chapter_name": "भौतिकं पर्यावरणम्", "chapter_group": "गद्यभाग", "active": "yes" },
+		  { "chapter_id": "TLS08", "chapter_name": "स्वामी विवेकानन्दः", "chapter_group": "गद्यभाग", "active": "yes" },
         { "chapter_id": "TLS11", "chapter_name": "शिशुवात्सल्यम्", "chapter_group": "एकाङ्किकाभाग", "active": "yes" },
-        { "chapter_id": "TLS12", "chapter_name": "देहि पदपल्लवमुदारम्", "chapter_group": "एकाङ्किकाभाग", "active": "yes" },
         { "chapter_id": "TLS13", "chapter_name": "सीतायाः वनगमनम्", "chapter_group": "पद्यभाग", "active": "yes" },
         { "chapter_id": "TLS14", "chapter_name": "युधिष्ठिर-यक्षसंवादः", "chapter_group": "पद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS15", "chapter_name": "मोहमुद्गरः", "chapter_group": "पद्यभाग", "active": "yes" },
-        { "chapter_id": "TLS16", "chapter_name": "जननी गरीयसी", "chapter_group": "पद्यभाग", "active": "yes" },
         { "chapter_id": "TLS17", "chapter_name": "असाध्यसाधनम्", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
         { "chapter_id": "TLS18", "chapter_name": "सन्निमित्ते वरं त्यागः", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
         { "chapter_id": "TLS19", "chapter_name": "बुद्धिर्यस्य बलं तस्य", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
@@ -89,7 +80,7 @@
         { "chapter_id": "TLS26", "chapter_name": "अस्ମकं राष्ट्रियध्वजः", "chapter_group": "अनुच्छेदभाग", "active": "yes" },
         { "chapter_id": "TLS27", "chapter_name": "ସ୍ତ୍ରୀପ୍ରତ୍ୟୟ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
         { "chapter_id": "TLS28", "chapter_name": "ସମାସ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
-        { "chapter_id": "TLS29", "chapter_name": "ତଦ୍ଧିତ ପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
+        { "chapter_id": "TLS29", "chapter_name": "ତଦ୍ଧିତ ପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "no" },
         { "chapter_id": "TLS30", "chapter_name": "କୃଦନ୍ତ ପ୍ରକରଣ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
         { "chapter_id": "TLS31", "chapter_name": "ଣିଜନ୍ତ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
         { "chapter_id": "TLS32", "chapter_name": "ସନନ୍ତ", "chapter_group": "ବ୍ୟାକରଣ", "active": "yes" },
@@ -127,9 +118,10 @@
         { "chapter_id": "SSH02", "chapter_name": "ସ୍ବତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ", "chapter_group": "ଇତିହାସ", "active": "yes" },
         { "chapter_id": "SSH03", "chapter_name": "୨୦୦୦ ଖ୍ରୀଷ୍ଟାବ୍ଦ ପର୍ଯ୍ୟନ୍ତ ସ୍ବାଧୀନତା ପରବର୍ତ୍ତୀ ଭାରତ", "chapter_group": "ଇତିହାସ", "active": "yes" },
         { "chapter_id": "SSH04", "chapter_name": "ସ୍ଵାଧୀନୋତ୍ତର ଓଡ଼ିଶାର ବିକାଶ", "chapter_group": "ଇତିହାସ", "active": "yes" },
-        { "chapter_id": "SSH05", "chapter_name": "ଭାରତରେ ସ୍ବାଧୀନତା ପରବର୍ତ୍ତୀ ରା राज्य पुनर्गठन", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" },
+        { "chapter_id": "SSH05", "chapter_name": "ଭାରତରେ ସ୍ବାଧୀନତା ପରବର୍ତ୍ତୀ ରାଜ୍ୟ ପୁନର୍ଗଠନ ", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" },
         { "chapter_id": "SSH06", "chapter_name": "ଭାରତରେ ଗଣତନ୍ତ୍ର", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" },
-        { "chapter_id": "SSH07", "chapter_name": "ଭାରତର ବୈଦେଶିକ ନୀତି", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" }
+		{ "chapter_id": "SSH07", "chapter_name": "ସଡ଼କ ନିରାପତ୍ତା, ସଚେତନତା ଓ ଇନ୍ଧନ ସଂରକ୍ଷଣ", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" },
+        { "chapter_id": "SSH08", "chapter_name": "ଭାରତର ବୈଦେଶିକ ନୀତି", "chapter_group": "ରାଜନୀତି ବିଜ୍ଞାନ", "active": "yes" }
       ]
     },
     {
@@ -153,7 +145,7 @@
       "chapters": [
         { "chapter_id": "TLH01", "chapter_name": "अनमोल वाणी", "chapter_group": "पद्य विभाग", "active": "yes" },
         { "chapter_id": "TLH02", "chapter_name": "मनुष्यता", "chapter_group": "पद्य विभाग", "active": "yes" },
-        { "chapter_id": "TLH03", "chapter_name": "एक ति", "chapter_group": "पद्य विभाग", "active": "yes" },
+        { "chapter_id": "TLH03", "chapter_name": "एक तिनका", "chapter_group": "पद्य विभाग", "active": "yes" },
         { "chapter_id": "TLH04", "chapter_name": "चाँद का झिंगोला", "chapter_group": "पद्य विभाग", "active": "yes" },
         { "chapter_id": "TLH05", "chapter_name": "नीड़ का निर्माण फिर फिर", "chapter_group": "पद्य विभाग", "active": "yes" },
         { "chapter_id": "TLH06", "chapter_name": "काँटे कम-से-कम मत बोओ", "chapter_group": "पद्य विभाग", "active": "yes" },
@@ -162,18 +154,18 @@
         { "chapter_id": "TLH09", "chapter_name": "देशप्रेमी संन्यासी", "chapter_group": "गद्य विभाग", "active": "yes" },
         { "chapter_id": "TLH10", "chapter_name": "गिल्लू", "chapter_group": "गद्य विभाग", "active": "yes" },
         { "chapter_id": "TLH11", "chapter_name": "जननी जन्मभूमि", "chapter_group": "गद्य विभाग", "active": "yes" },
-        { "chapter_id": "TLH12", "chapter_name": "व्याकरण अवश्य पढ़ें", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH13", "chapter_name": "हिन्दी ध्वनियाँ और वर्णमाला", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH14", "chapter_name": "लेखन (वर्तनी)", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH15", "chapter_name": "शब्द-विचार", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH16", "chapter_name": "शब्द-रचना", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH17", "chapter_name": "रूप-विचार", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH18", "chapter_name": "वाक्य-विचार", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH19", "chapter_name": "विराम चिह्न", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH20", "chapter_name": "अनुवाद", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH21", "chapter_name": "निबंध-लेखन", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH22", "chapter_name": "अपठित पाठ", "chapter_group": "व्याकरण", "active": "yes" },
-        { "chapter_id": "TLH23", "chapter_name": "मुहावरे और कहावतें", "chapter_group": "व्याकरण", "active": "yes" }
+        { "chapter_id": "TLH12", "chapter_name": "व्याकरण अवश्य पढ़ें", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH13", "chapter_name": "हिन्दी ध्वनियाँ और वर्णमाला", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH14", "chapter_name": "लेखन (वर्तनी)", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH15", "chapter_name": "शब्द-विचार", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH16", "chapter_name": "शब्द-रचना", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH17", "chapter_name": "रूप-विचार", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH18", "chapter_name": "वाक्य-विचार", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH19", "chapter_name": "विराम चिह्न", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH20", "chapter_name": "अनुवाद", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH21", "chapter_name": "निबंध-लेखन", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH22", "chapter_name": "अपठित पाठ", "chapter_group": "व्याकरण", "active": "no" },
+        { "chapter_id": "TLH23", "chapter_name": "मुहावरे और कहावतें", "chapter_group": "व्याकरण", "active": "no" }
       ]
     },
     {
@@ -205,7 +197,8 @@
         { "chapter_id": "SLE24", "chapter_name": "The Passive", "chapter_group": "Grammar", "active": "yes" },
         { "chapter_id": "SLE25", "chapter_name": "Direct and Indirect Speech", "chapter_group": "Grammar", "active": "yes" },
 		
-		 { "chapter_id": "SLETP05", "chapter_name": "Sample Paper 05 (2025-Pariksha Darpan)", "chapter_group": "Sample Paper", "active": "yes" }
+		{ "chapter_id": "SLESP03", "chapter_name": "Sample Paper 03 (2025-Pariksha Darpan)", "chapter_group": "Sample Paper", "active": "yes" },
+		 { "chapter_id": "SLESP05", "chapter_name": "Sample Paper 05 (2025-Pariksha Darpan)", "chapter_group": "Sample Paper", "active": "yes" }
       ]
     }
   ]

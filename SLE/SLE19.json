@@ -1,1 +1,1046 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE19",
+  "chapter_name": "Non-finite Verb Forms",
+  "questions": [
+    {
+      "id": "SLE1901",
+      "question": "Which of these is a characteristic of a non-finite verb?",
+      "options": {
+        "A": "It must agree with the subject.",
+        "B": "It carries the tense of the sentence.",
+        "C": "It has no agreement with the subject.",
+        "D": "It is always the first verb in a verb group."
+      },
+      "answer": "C",
+      "explanation": "According to the text, non-finite verbs have no agreement with the subject and do not carry tense.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1902",
+      "question": "In a verb group, which verb is considered 'finite'?",
+      "options": {
+        "A": "The last verb",
+        "B": "The main verb",
+        "C": "The first auxiliary verb",
+        "D": "The verb ending in -ing"
+      },
+      "answer": "C",
+      "explanation": "The source states that the first auxiliary in a verb group takes tense and is hence the finite verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1903",
+      "question": "Identify the non-finite verbs in: 'She could have been laughing at us.'",
+      "options": {
+        "A": "could",
+        "B": "could, have",
+        "C": "have, been, laughing",
+        "D": "laughing"
+      },
+      "answer": "C",
+      "explanation": "In this group, 'could' is finite; all subsequent verbs ('have', 'been', 'laughing') are non-finite.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1904",
+      "question": "Which of the following is NOT one of the four types of non-finite verbs?",
+      "options": {
+        "A": "to + verb",
+        "B": "verb + -s/-es",
+        "C": "-en form (past participle)",
+        "D": "-ing form (present participle)"
+      },
+      "answer": "B",
+      "explanation": "The text lists four types: to + verb, bare infinitive, -en form, and -ing form. Verb + s/es is a finite form.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1905",
+      "question": "Identify the non-finite verb in Activity 1: 'He has been answering questions.'",
+      "options": {
+        "A": "has",
+        "B": "been",
+        "C": "answering",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "In 'has been answering', 'has' is finite, while 'been' and 'answering' are non-finite.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1906",
+      "question": "What is the function of the non-finite clause in: 'To err is human'?",
+      "options": {
+        "A": "Object",
+        "B": "Subject",
+        "C": "Complement",
+        "D": "Adjunct"
+      },
+      "answer": "B",
+      "explanation": "The text explains that in 'To err is human', 'to err' is the subject of the sentence.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1907",
+      "question": "Verbs like 'let', 'make', and 'help' are followed by which form?",
+      "options": {
+        "A": "to + verb",
+        "B": "φ + verb (bare infinitive)",
+        "C": "verb + -ing",
+        "D": "verb + -ed"
+      },
+      "answer": "B",
+      "explanation": "The source specifies that let, make, and help are followed by the bare infinitive (φ + verb).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1908",
+      "question": "Complete the sentence from Activity 4: 'They made ________ (I / do / it).'",
+      "options": {
+        "A": "me to do it",
+        "B": "I do it",
+        "C": "me do it",
+        "D": "me doing it"
+      },
+      "answer": "C",
+      "explanation": "'Make' is followed by an object and a bare infinitive.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1909",
+      "question": "Which form follows 'had better'?",
+      "options": {
+        "A": "to + verb",
+        "B": "φ + verb (bare infinitive)",
+        "C": "verb + -ing",
+        "D": "past tense"
+      },
+      "answer": "B",
+      "explanation": "Expressions like 'had better' and 'would rather' are followed by the bare infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1910",
+      "question": "Fill in the blank (Activity 6): 'I enjoy ________ (play) on the river bank.'",
+      "options": {
+        "A": "play",
+        "B": "to play",
+        "C": "playing",
+        "D": "played"
+      },
+      "answer": "C",
+      "explanation": "'Enjoy' is followed by the -ing form (gerund).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1911",
+      "question": "Fill in the blank (Activity 6): 'Where do you want ________ (go)?'",
+      "options": {
+        "A": "go",
+        "B": "to go",
+        "C": "going",
+        "D": "gone"
+      },
+      "answer": "B",
+      "explanation": "The verb 'want' is followed by the to-infinitive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1912",
+      "question": "Identify the function (Activity 3): 'He killed a snake to save the child.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object",
+        "C": "Complement",
+        "D": "Adjunct"
+      },
+      "answer": "D",
+      "explanation": "'To save the child' expresses purpose, which functions as an adjunct.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1913",
+      "question": "Complete (Activity 7): 'He is very funny. He makes me ________.'",
+      "options": {
+        "A": "laugh",
+        "B": "to laugh",
+        "C": "laughing",
+        "D": "laughed"
+      },
+      "answer": "A",
+      "explanation": "The verb 'make' requires a bare infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1914",
+      "question": "Which verb is used in Activity 9: 'Don't forget ________ (post) the letter.'",
+      "options": {
+        "A": "post",
+        "B": "to post",
+        "C": "posting",
+        "D": "posted"
+      },
+      "answer": "B",
+      "explanation": "'Don't forget to post' refers to an action still to be performed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1915",
+      "question": "Choose the correct form (Activity 9): 'Can you ever forget ________ (post) that important letter without any postage?'",
+      "options": {
+        "A": "to post",
+        "B": "posting",
+        "C": "post",
+        "D": "posted"
+      },
+      "answer": "B",
+      "explanation": "When 'forget' refers to a past memory, it is followed by the -ing form.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1916",
+      "question": "Identify the non-finite verb: 'They must have finished doing their homework.'",
+      "options": {
+        "A": "must",
+        "B": "must, have",
+        "C": "have, finished, doing",
+        "D": "doing"
+      },
+      "answer": "C",
+      "explanation": "'Must' is finite; all others in the group are non-finite.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1917",
+      "question": "In 'I still remember ________ Puri', which form is correct?",
+      "options": {
+        "A": "visit",
+        "B": "to visit",
+        "C": "visiting",
+        "D": "visited"
+      },
+      "answer": "C",
+      "explanation": "Remembering a past event uses the -ing form.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1918",
+      "question": "Identify the function: 'To find fault with others is easy.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object",
+        "C": "Complement",
+        "D": "Adjunct"
+      },
+      "answer": "A",
+      "explanation": "The non-finite clause 'To find fault with others' acts as the subject of the sentence.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1919",
+      "question": "Which of these verbs is followed by 'to + verb'?",
+      "options": {
+        "A": "Let",
+        "B": "Notice",
+        "C": "Refuse",
+        "D": "Make"
+      },
+      "answer": "C",
+      "explanation": "The list in the source includes 'refuse' as a verb followed by to + verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1920",
+      "question": "Complete the instruction: 'The doctor advised Seema ________ some tests.'",
+      "options": {
+        "A": "take",
+        "B": "to take",
+        "C": "taking",
+        "D": "taken"
+      },
+      "answer": "B",
+      "explanation": "Verbs like 'advise' take an object followed by a to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1921",
+      "question": "What tense form is 'to write' in: 'Seema wants to write the letter'?",
+      "options": {
+        "A": "Present tense",
+        "B": "Future tense",
+        "C": "It carries no tense",
+        "D": "Conditional tense"
+      },
+      "answer": "C",
+      "explanation": "Non-finite verbs like 'to write' do not change with tense and do not carry tense.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1922",
+      "question": "Find the non-finite verb (Activity 1): 'She may have been helped by her brother.'",
+      "options": {
+        "A": "may",
+        "B": "have",
+        "C": "have, been, helped",
+        "D": "helped"
+      },
+      "answer": "C",
+      "explanation": "'May' is the finite auxiliary; 'have', 'been', and 'helped' are non-finite.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1923",
+      "question": "In the phrase 'a house to let', 'to let' functions like a/an:",
+      "options": {
+        "A": "Subject",
+        "B": "Adjective",
+        "C": "Object",
+        "D": "Adverb"
+      },
+      "answer": "B",
+      "explanation": "The text states 'to let works as a describing word or functions like an adjective'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1924",
+      "question": "Which verb type is 'sing' in: 'I heard her sing a patriotic song'?",
+      "options": {
+        "A": "Finite verb",
+        "B": "Bare infinitive",
+        "C": "To-infinitive",
+        "D": "Past participle"
+      },
+      "answer": "B",
+      "explanation": "'Hear' is followed by the bare infinitive (φ + verb).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1925",
+      "question": "What follows 'would rather' in the source examples?",
+      "options": {
+        "A": "To-infinitive",
+        "B": "Bare infinitive",
+        "C": "Gerund",
+        "D": "Prepositional phrase"
+      },
+      "answer": "B",
+      "explanation": "'I would rather look into it' demonstrates usage with a bare infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1926",
+      "question": "Which verb list includes 'agree', 'hope', and 'refuse'?",
+      "options": {
+        "A": "Verbs followed by bare infinitive",
+        "B": "Verbs followed by to-infinitive",
+        "C": "Verbs followed only by gerunds",
+        "D": "Finite verbs only"
+      },
+      "answer": "B",
+      "explanation": "Section E lists these verbs as being usually followed by to + verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1927",
+      "question": "Identify the function: 'I hope to see you again.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object of 'hope'",
+        "C": "Complement",
+        "D": "Adjunct"
+      },
+      "answer": "B",
+      "explanation": "The text identifies 'to see you again' as the object of the verb 'hope'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1928",
+      "question": "Fill the blank (Activity 5): 'Lata’s parents have always encouraged her ________ (study).'",
+      "options": {
+        "A": "study",
+        "B": "to study",
+        "C": "studying",
+        "D": "studied"
+      },
+      "answer": "B",
+      "explanation": "'Encourage' takes an object and a to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1929",
+      "question": "Which of these is a bare infinitive from Activity 7?",
+      "options": {
+        "A": "to clean",
+        "B": "clean",
+        "C": "cleaning",
+        "D": "cleans"
+      },
+      "answer": "B",
+      "explanation": "'Clean' is listed as one of the φ + verb options.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1930",
+      "question": "Identify the non-finite verb (Activity 1): 'The film must have been screened by now.'",
+      "options": {
+        "A": "must",
+        "B": "screened",
+        "C": "have, been, screened",
+        "D": "have"
+      },
+      "answer": "C",
+      "explanation": "'Must' is finite; all subsequent verbs are non-finite.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1931",
+      "question": "What is the function: 'He is to go abroad next month.'?",
+      "options": {
+        "A": "Subject",
+        "B": "Object",
+        "C": "Complement",
+        "D": "Adjunct"
+      },
+      "answer": "C",
+      "explanation": "In this structure, 'to go abroad next month' acts as a complement.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1932",
+      "question": "Which form follows 'managed'?",
+      "options": {
+        "A": "to + verb",
+        "B": "φ + verb",
+        "C": "verb + -ing",
+        "D": "past participle"
+      },
+      "answer": "A",
+      "explanation": "'Manage' is listed among verbs followed by the to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1933",
+      "question": "Select the correct form (Activity 6): 'I learnt ________ (swim) when I was eight.'",
+      "options": {
+        "A": "swim",
+        "B": "to swim",
+        "C": "swimming",
+        "D": "swam"
+      },
+      "answer": "B",
+      "explanation": "'Learn' takes a to-infinitive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1934",
+      "question": "Choose the correct sequence (Activity 6): 'I am trying ________ (study). Please stop ________ (talk).'",
+      "options": {
+        "A": "to study; to talk",
+        "B": "study; talking",
+        "C": "to study; talking",
+        "D": "studying; talk"
+      },
+      "answer": "C",
+      "explanation": "'Try' here takes a to-infinitive, and 'stop' (to cease an activity) takes a gerund.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1935",
+      "question": "Which of these verbs is followed by the bare infinitive?",
+      "options": {
+        "A": "Want",
+        "B": "Prepare",
+        "C": "Notice",
+        "D": "Attempt"
+      },
+      "answer": "C",
+      "explanation": "Section D lists 'notice' as a verb followed by the bare infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1936",
+      "question": "Fill the blank (Activity 5): 'Please remind him ________ (phone) Ashok.'",
+      "options": {
+        "A": "phone",
+        "B": "to phone",
+        "C": "phoning",
+        "D": "phoned"
+      },
+      "answer": "B",
+      "explanation": "'Remind' takes an object and a to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1937",
+      "question": "Choose the correct form (Activity 6): 'I don't mind ________ (travel) by bus.'",
+      "options": {
+        "A": "travel",
+        "B": "to travel",
+        "C": "travelling",
+        "D": "travelled"
+      },
+      "answer": "C",
+      "explanation": "'Don't mind' is followed by the -ing form.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1938",
+      "question": "Identify the function: 'He let out part of his house to make extra money.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object",
+        "C": "Complement",
+        "D": "Adjunct"
+      },
+      "answer": "D",
+      "explanation": "It describes the 'purpose' for which he let the house, making it an adjunct.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1939",
+      "question": "Which verb type is 'written' in: 'We found the letters written and typed.'?",
+      "options": {
+        "A": "to + verb",
+        "B": "φ + verb",
+        "C": "-en form",
+        "D": "-ing form"
+      },
+      "answer": "C",
+      "explanation": "'Written' is the -en form (third form/past participle) of the verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1940",
+      "question": "What is the non-finite verb in Activity 8: 'Don’t touch that wire', the man said to me.",
+      "options": {
+        "A": "touch",
+        "B": "to touch",
+        "C": "said",
+        "D": "me"
+      },
+      "answer": "B",
+      "explanation": "The suggested rewrite is 'The man told me not to touch that wire', where 'to touch' is non-finite.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1941",
+      "question": "True or False: Non-finite verbs can form a complete simple sentence on their own.",
+      "options": {
+        "A": "True",
+        "B": "False",
+        "C": "Only in questions",
+        "D": "Only if there are two"
+      },
+      "answer": "B",
+      "explanation": "The text states: 'We cannot form a sentence with non-finite verbs only. We must use a finite verb'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1942",
+      "question": "Identify the non-finite verb (Activity 1): 'You should have been studying English Grammar...'",
+      "options": {
+        "A": "should",
+        "B": "have, been, studying",
+        "C": "studying",
+        "D": "should, have"
+      },
+      "answer": "B",
+      "explanation": "'Should' is the finite auxiliary; the others are non-finite.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1943",
+      "question": "Which form follows 'decided'?",
+      "options": {
+        "A": "to + verb",
+        "B": "φ + verb",
+        "C": "verb + -ing",
+        "D": "None"
+      },
+      "answer": "A",
+      "explanation": "'Decide' is followed by a to-infinitive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1944",
+      "question": "What follows 'see' in: 'I saw him ________ (cross) the road.'?",
+      "options": {
+        "A": "cross",
+        "B": "to cross",
+        "C": "crossing",
+        "D": "Both A and C"
+      },
+      "answer": "D",
+      "explanation": "The text shows 'see him cross' (bare infinitive), and also 'see Seema writing' (-ing form). Both are possible depending on aspect.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1945",
+      "question": "Choose the correct form (Activity 7): 'Don't ________ (cry).'",
+      "options": {
+        "A": "cry",
+        "B": "to cry",
+        "C": "crying",
+        "D": "cried"
+      },
+      "answer": "A",
+      "explanation": "Imperative negative 'don't' is followed by the base form (bare infinitive).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1946",
+      "question": "Identify the type (Activity 9): 'I hate ________ (tell) lies.'",
+      "options": {
+        "A": "tell",
+        "B": "to tell",
+        "C": "telling",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "Verbs like 'hate' and 'prefer' can often take either a to-infinitive or a gerund.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1947",
+      "question": "Complete (Activity 7): 'Do you ________ (sleep) in the afternoon?'",
+      "options": {
+        "A": "sleep",
+        "B": "to sleep",
+        "C": "sleeping",
+        "D": "slept"
+      },
+      "answer": "A",
+      "explanation": "Auxiliary 'do' is followed by the bare infinitive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1948",
+      "question": "Function identification: 'I want to win this match.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object of 'want'",
+        "C": "Adjunct",
+        "D": "Complement"
+      },
+      "answer": "B",
+      "explanation": "'To win this match' is what I want, making it the object.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1949",
+      "question": "Identify the non-finite verb: 'I wrote a letter announcing my departure.'",
+      "options": {
+        "A": "wrote",
+        "B": "letter",
+        "C": "announcing",
+        "D": "departure"
+      },
+      "answer": "C",
+      "explanation": "'Wrote' is finite (past tense); 'announcing' is the non-finite -ing form.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1950",
+      "question": "Which of these verbs takes an object before the to-infinitive?",
+      "options": {
+        "A": "Refuse",
+        "B": "Order",
+        "C": "Attempt",
+        "D": "Agree"
+      },
+      "answer": "B",
+      "explanation": "'Order' (like advise, tell, remind) takes a Noun Phrase before the to + verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1951",
+      "question": "Which form follows 'pretend'?",
+      "options": {
+        "A": "to + verb",
+        "B": "φ + verb",
+        "C": "verb + -ing",
+        "D": "past participle"
+      },
+      "answer": "A",
+      "explanation": "'Pretend' is listed among verbs taking a to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1952",
+      "question": "Fill the blank (Activity 5): 'The teacher doesn't let us ________ (make) a noise.'",
+      "options": {
+        "A": "make",
+        "B": "to make",
+        "C": "making",
+        "D": "made"
+      },
+      "answer": "A",
+      "explanation": "'Let' is followed by the bare infinitive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1953",
+      "question": "Identify the function: 'I want Bhutia to win.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object of 'want'",
+        "C": "Adjunct",
+        "D": "Complement"
+      },
+      "answer": "B",
+      "explanation": "'Bhutia to win' acts as the object clause for 'want'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1954",
+      "question": "Choose the correct form (Activity 9): 'I prefer ________ (be) alone.'",
+      "options": {
+        "A": "be",
+        "B": "to be",
+        "C": "being",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "'Prefer' can be followed by a to-infinitive or gerund.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1955",
+      "question": "What is the non-finite form in: 'He was made to stand up.'?",
+      "options": {
+        "A": "was",
+        "B": "made",
+        "C": "to stand",
+        "D": "stand"
+      },
+      "answer": "C",
+      "explanation": "In the passive voice, verbs like 'make' (which take bare infinitives in active) take a to-infinitive.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1956",
+      "question": "Which of these sentences is UNGRAMMATICAL?",
+      "options": {
+        "A": "Seema writes letters.",
+        "B": "Seema is writing the letter.",
+        "C": "Seema written the letter.",
+        "D": "Seema will write the letter."
+      },
+      "answer": "C",
+      "explanation": "'Seema written the letter' is wrong because it has no finite verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1957",
+      "question": "Complete (Activity 7): 'I help my mother ________ (clean) the kitchen.'",
+      "options": {
+        "A": "clean",
+        "B": "to clean",
+        "C": "cleaning",
+        "D": "Both A and B"
+      },
+      "answer": "D",
+      "explanation": "The text lists 'help' as followed by φ + verb, but in general English grammar (and implied in some lists), 'to' is also acceptable. The source focus is φ + verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1958",
+      "question": "In 'It is easy to win', 'to win' is part of a:",
+      "options": {
+        "A": "Main clause",
+        "B": "Finite clause",
+        "C": "Non-finite clause",
+        "D": "Relative clause"
+      },
+      "answer": "C",
+      "explanation": "'To win' is a non-finite verb forming a non-finite clause.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1959",
+      "question": "Fill the blank (Activity 5): 'Hot weather makes me ________ (feel) uncomfortable.'",
+      "options": {
+        "A": "feel",
+        "B": "to feel",
+        "C": "feeling",
+        "D": "felt"
+      },
+      "answer": "A",
+      "explanation": "'Make' is followed by the bare infinitive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1960",
+      "question": "Which auxiliary is finite in: 'She may have been writing'?",
+      "options": {
+        "A": "may",
+        "B": "have",
+        "C": "been",
+        "D": "writing"
+      },
+      "answer": "A",
+      "explanation": "The first modal auxiliary 'may' is the finite verb.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1961",
+      "question": "Identify the type (Activity 9): 'Remember ________ (give) him my regards.'",
+      "options": {
+        "A": "give",
+        "B": "to give",
+        "C": "giving",
+        "D": "given"
+      },
+      "answer": "B",
+      "explanation": "'Remember to give' refers to a future action/duty.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1962",
+      "question": "Fill the blank (Activity 6): 'I prefer ________ (travel) by train.'",
+      "options": {
+        "A": "travel",
+        "B": "to travel",
+        "C": "travelling",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "Activity 6 and 9 show that 'prefer' can take both forms.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1963",
+      "question": "Identify the function: 'I expressed surprise at what he said.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object of preposition",
+        "C": "Complement",
+        "D": "Adjunct"
+      },
+      "answer": "B",
+      "explanation": "'What he said' is the object of the preposition 'at'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1964",
+      "question": "What follows 'expect' when there is an object? 'I expect you ________.'",
+      "options": {
+        "A": "write",
+        "B": "to write",
+        "C": "writing",
+        "D": "written"
+      },
+      "answer": "B",
+      "explanation": "As seen in Activity 2, 'expect someone to do something' is the correct structure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1965",
+      "question": "Identify the non-finite verb: 'I felt ashamed to face Mrs. Bethy.'",
+      "options": {
+        "A": "felt",
+        "B": "ashamed",
+        "C": "to face",
+        "D": "Mrs. Bethy"
+      },
+      "answer": "C",
+      "explanation": "'Felt' is finite; 'to face' is the non-finite form.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1966",
+      "question": "Which of these is followed by φ + verb?",
+      "options": {
+        "A": "Tend",
+        "B": "Seem",
+        "C": "Hear",
+        "D": "Agree"
+      },
+      "answer": "C",
+      "explanation": "'Hear' is in the list of verbs followed by the bare infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1967",
+      "question": "Select the correct form (Activity 6): 'Where do you want ________ (go)?'",
+      "options": {
+        "A": "go",
+        "B": "to go",
+        "C": "going",
+        "D": "gone"
+      },
+      "answer": "B",
+      "explanation": "Standard to-infinitive usage after 'want'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1968",
+      "question": "Which is the non-finite -en form of 'type'?",
+      "options": {
+        "A": "to type",
+        "B": "type",
+        "C": "typed",
+        "D": "typing"
+      },
+      "answer": "C",
+      "explanation": "'Typed' is the past participle (-en form).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1969",
+      "question": "In 'They want Seema to write', 'Seema' is the:",
+      "options": {
+        "A": "Subject of 'want'",
+        "B": "Object of 'want'",
+        "C": "Adverb",
+        "D": "Complement"
+      },
+      "answer": "B",
+      "explanation": "Seema is the Noun Phrase (object) that comes between the main verb and the non-finite clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1970",
+      "question": "Which form follows 'fail'?",
+      "options": {
+        "A": "to + verb",
+        "B": "φ + verb",
+        "C": "verb + -ing",
+        "D": "past participle"
+      },
+      "answer": "A",
+      "explanation": "'Fail' is followed by a to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1971",
+      "question": "Complete (Activity 7): 'Don't forget ________ (hear) the news.'",
+      "options": {
+        "A": "hear",
+        "B": "to hear",
+        "C": "hearing",
+        "D": "heard"
+      },
+      "answer": "B",
+      "explanation": "'Don't forget to hear' is the logical to-infinitive form.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1972",
+      "question": "What is the function: 'To forgive is divine.'?",
+      "options": {
+        "A": "Subject",
+        "B": "Object",
+        "C": "Complement",
+        "D": "Adjunct"
+      },
+      "answer": "A",
+      "explanation": "'To forgive' acts as the subject, similar to 'to err' in the textbook example.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1973",
+      "question": "Identify the type of non-finite: 'We saw Seema writing.'",
+      "options": {
+        "A": "to + verb",
+        "B": "φ + verb",
+        "C": "-en form",
+        "D": "-ing form"
+      },
+      "answer": "D",
+      "explanation": "'Writing' is the present participle/-ing form.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1974",
+      "question": "Fill the blank (Activity 5): 'He would like ________ (come) to the party.'",
+      "options": {
+        "A": "come",
+        "B": "to come",
+        "C": "coming",
+        "D": "came"
+      },
+      "answer": "B",
+      "explanation": "'Would like' is followed by a to-infinitive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1975",
+      "question": "Identify the type (Activity 9): 'I hate ________ (repeat) what I heard.'",
+      "options": {
+        "A": "repeat",
+        "B": "to repeat",
+        "C": "repeating",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "'Hate' (like like, love, prefer) can take both to + verb and verb-ing.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1976",
+      "question": "Which verb is finite: 'He may have been writing'?",
+      "options": {
+        "A": "writing",
+        "B": "been",
+        "C": "have",
+        "D": "may"
+      },
+      "answer": "D",
+      "explanation": "The first auxiliary 'may' carries the tense and is finite.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1977",
+      "question": "Function identification: 'I am certain of completing the work.'",
+      "options": {
+        "A": "Subject",
+        "B": "Object of preposition",
+        "C": "Complement",
+        "D": "Main clause"
+      },
+      "answer": "B",
+      "explanation": "'Completing the work' is the object of the preposition 'of'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1978",
+      "question": "Choose the correct form: 'The gardener won't let us ________ (touch) the flowers.'",
+      "options": {
+        "A": "touch",
+        "B": "to touch",
+        "C": "touching",
+        "D": "touched"
+      },
+      "answer": "A",
+      "explanation": "Usage of 'let' requires the bare infinitive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1979",
+      "question": "In 'Tell me where you were born', 'where you were born' is a/an:",
+      "options": {
+        "A": "Noun clause",
+        "B": "Adjective clause",
+        "C": "Relative clause",
+        "D": "Simple clause"
+      },
+      "answer": "A",
+      "explanation": "It functions as the object of 'tell', making it a noun clause.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1980",
+      "question": "Identify the non-finite verb: 'I found all the letters written.'",
+      "options": {
+        "A": "found",
+        "B": "letters",
+        "C": "written",
+        "D": "I"
+      },
+      "answer": "C",
+      "explanation": "'Found' is finite; 'written' is the non-finite past participle.",
+      "difficulty": "easy"
+    }
+  ]
+}

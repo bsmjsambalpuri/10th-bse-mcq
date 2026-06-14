@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="or">
+<head>
+    <meta charset="UTF-8">
+    <title>Statistics (ପରିସଂଖ୍ୟାନ) - Math Notes</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.6; padding: 25px; color: #333; max-width: 1000px; margin: auto; background-color: #f9f9f9; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; text-align: center; }
+        h2 { color: #2980b9; margin-top: 30px; border-left: 5px solid #2980b9; padding-left: 10px; background: #ecf0f1; padding: 5px 10px; }
+        h3 { color: #d35400; margin-top: 20px; }
+        .formula-box { background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0; border: 1px solid #bdc3c7; text-align: center; }
+        ul { list-style-type: square; margin-left: 20px; }
+        li { margin-bottom: 12px; }
+        .important { font-weight: bold; color: #c0392b; }
+        math { font-size: 1.25em; }
+    </style>
+</head>
+<body>
+
+    <h1>ପଞ୍ଚମ ଅଧ୍ୟାୟ: ପରିସଂଖ୍ୟାନ (STATISTICS)</h1>
+
+    <h2>୫.୧ ଉପକ୍ରମଣିକା</h2>
+    <ul>
+        <li>ଏକାଧିକ ସାଂଖ୍ୟିକ ତଥ୍ୟର ଏକକ ପ୍ରତିନିଧିତ୍ୱ କରୁଥିବା ସଂଖ୍ୟାକୁ <b>କେନ୍ଦ୍ରୀୟ ପ୍ରବଣତା (Central Tendency)</b> କୁହାଯାଏ [୧]।</li>
+        <li>ଏହାକୁ ମାପିବା ପାଇଁ ତିନୋଟି ମୁଖ୍ୟ ପ୍ରକାର ଅଛି: (i) ମାଧ୍ୟମାନ (Mean), (ii) ମଧ୍ୟମା (Median) ଏବଂ (iii) ଗରିଷ୍ଠକ (Mode) [୪]।</li>
+    </ul>
+
+    <h2>୫.୨ ମାଧ୍ୟମାନ (Mean)</h2>
+    <p>ତଥ୍ୟାବଳୀର ସମସ୍ତ ଲବ୍‌ଧାଙ୍କର ହାରାହାରି ମାପକୁ <b>ମାଧ୍ୟମାନ</b> କୁହାଯାଏ [୫] ।</p>
+
+    <h3>୧. ଅବିଭକ୍ତ ତଥ୍ୟାବଳୀ ପାଇଁ:</h3>
+    <div class="formula-box">
+        <math display="block">
+            <mi>M</mi>
+            <mo>=</mo>
+            <mfrac>
+                <mrow><mo>∑</mo><mi>x</mi></mrow>
+                <mi>n</mi>
+            </mfrac>
+        </math>
+        <p>ଯେଉଁଠାରେ <math><mo>∑</mo><mi>x</mi></math> = ଲବ୍‌ଧାଙ୍କର ସମଷ୍ଟି ଏବଂ <math><mi>n</mi></math> = ଲବ୍‌ଧାଙ୍କ ସଂଖ୍ୟା [୬]।</p>
+    </div>
+
+    <h3>୨. ବାରମ୍ବାରତା ବିତରଣ ପାଇଁ:</h3>
+    <div class="formula-box">
+        <math display="block">
+            <mi>M</mi>
+            <mo>=</mo>
+            <mfrac>
+                <mrow><mo>∑</mo><mi>f</mi><mi>x</mi></mrow>
+                <mrow><mo>∑</mo><mi>f</mi></mrow>
+            </mfrac>
+        </math>
+    </div>
+
+    <h3>୩. ସଂକ୍ଷିପ୍ତ ପ୍ରଣାଳୀ (Short-cut Method):</h3>
+    <div class="formula-box">
+        <math display="block">
+            <mi>M</mi>
+            <mo>=</mo>
+            <mi>A</mi>
+            <mo>+</mo>
+            <mfrac>
+                <mrow><mo>∑</mo><mi>f</mi><mi>y</mi></mrow>
+                <mrow><mo>∑</mo><mi>f</mi></mrow>
+            </mfrac>
+        </math>
+        <p>ଯେଉଁଠାରେ <math><mi>A</mi></math> = ଆରମ୍ଭ ବିନ୍ଦୁ (Working Zero) ଏବଂ <math><mi>y</mi><mo>=</mo><mi>x</mi><mo>−</mo><mi>A</mi></math> (ବିଚ୍ୟୁତି) [୧୦, ୧୪]।</p>
+    </div>
+
+    <h3>୪. ସୋପାନ-ବିଚ୍ୟୁତି ପ୍ରଣାଳୀ (Step-deviation Method):</h3>
+    <div class="formula-box">
+        <math display="block">
+            <mi>M</mi>
+            <mo>=</mo>
+            <mi>A</mi>
+            <mo>+</mo>
+            <mo>(</mo>
+            <mfrac>
+                <mrow><mo>∑</mo><mi>f</mi><msup><mi>y</mi><mo>′</mo></msup></mrow>
+                <mrow><mo>∑</mo><mi>f</mi></mrow>
+            </mfrac>
+            <mo>)</mo>
+            <mo>×</mo>
+            <mi>c</mi>
+        </math>
+        <p>ଯେଉଁଠାରେ <math><msup><mi>y</mi><mo>′</mo></msup><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mi>A</mi></mrow><mi>c</mi></mfrac></math> ଏବଂ <math><mi>c</mi></math> = ସାଧାରଣ ଗୁଣନୀୟକ [୧୫]।</p>
+    </div>
+
+    <h2>୫.୩ ମଧ୍ୟମା (Median)</h2>
+    <p>ଲବ୍‌ଧାଙ୍କଗୁଡ଼ିକୁ କ୍ରମରେ ସଜାଇଲେ ମଝିରେ ରହୁଥିବା ଲବ୍‌ଧାଙ୍କକୁ <b>ମଧ୍ୟମା</b> କୁହାଯାଏ [୩୨]।</p>
+
+    <ul>
+        <li>ଯଦି <math><mi>n</mi></math> ଅଯୁଗ୍ମ ହୁଏ: <math><msub><mi>M</mi><mi>d</mi></msub><mo>=</mo><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac></math>-ତମ ପଦ [୩୩]।</li>
+        <li>ଯଦି <math><mi>n</mi></math> ଯୁଗ୍ମ ହୁଏ: <math><msub><mi>M</mi><mi>d</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>{</mo><mfrac><mi>n</mi><mn>2</mn></mfrac><mtext>-ତମ ପଦ</mtext><mo>+</mo><mo>(</mo><mfrac><mi>n</mi><mn>2</mn></mfrac><mo>+</mo><mn>1</mn><mo>)</mo><mtext>-ତମ ପଦ</mtext><mo>}</mo></math> [୩୩]।</li>
+    </ul>
+
+    <h3>ଭାଗ ବିଭକ୍ତ ତଥ୍ୟାବଳୀ ପାଇଁ ସୂତ୍ର:</h3>
+    <div class="formula-box">
+        <math display="block">
+            <msub><mi>M</mi><mi>d</mi></msub>
+            <mo>=</mo>
+            <mi>l</mi>
+            <mo>+</mo>
+            <mfrac>
+                <mrow><mi>m</mi><mo>−</mo><mi>c</mi></mrow>
+                <mi>f</mi>
+            </mfrac>
+            <mo>×</mo>
+            <mi>i</mi>
+        </math>
+        <p><math><mi>m</mi><mo>=</mo><mfrac><mi>n</mi><mn>2</mn></mfrac></math>, <math><mi>l</mi></math> = ମଧ୍ୟମା ସଂଭାଗର ନିମ୍ନ ସୀମା, <math><mi>f</mi></math> = ମଧ୍ୟମା ସଂଭାଗର ବାରମ୍ବାରତା, <math><mi>c</mi></math> = ପୂର୍ବ ସଂଭାଗର ରାଶିକୃତ ବାରମ୍ବାରତା, <math><mi>i</mi></math> = ସଂଭାଗ ବିସ୍ତାର [୩୯]।</p>
+    </div>
+
+    <h2>୫.୪ ଗରିଷ୍ଠକ (Mode)</h2>
+    <ul>
+        <li>ଯେଉଁ ଲବ୍‌ଧାଙ୍କର ବାରମ୍ବାରତା ସର୍ବାଧିକ, ତାହାକୁ <b>ଗରିଷ୍ଠକ</b> କୁହାଯାଏ [୫, ୫୫]।</li>
+        <li>ମାଧ୍ୟମାନ, ମଧ୍ୟମା ଓ ଗରିଷ୍ଠକ ମଧ୍ୟରେ ସମ୍ପର୍କ:</li>
+    </ul>
+    <div class="formula-box">
+        <span class="important">ଅନୁଭବିକ ସମ୍ପର୍କ:</span><br><br>
+        <math display="block">
+            <msub><mi>M</mi><mi>o</mi></msub>
+            <mo>=</mo>
+            <mn>3</mn><msub><mi>M</mi><mi>d</mi></msub>
+            <mo>−</mo>
+            <mn>2</mn><mi>M</mi>
+        </math>
+        <p>(ଗରିଷ୍ଠକ = ୩ × ମଧ୍ୟମା - ୨ × ମାଧ୍ୟମାନ) [୫୭]।</p>
+    </div>
+
+</body>
+</html>

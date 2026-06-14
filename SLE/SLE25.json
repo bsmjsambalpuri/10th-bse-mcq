@@ -1,1 +1,1080 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE25",
+  "chapter_name": "Direct and Indirect Speech",
+  "questions": [
+    {
+      "id": "SLE2501",
+      "question": "In direct speech, where are the exact words of the speaker placed?",
+      "options": {
+        "A": "Before the reporting verb",
+        "B": "Within inverted commas",
+        "C": "After the conjunction 'that'",
+        "D": "In a separate paragraph"
+      },
+      "answer": "B",
+      "explanation": "According to the source, the exact words of the speaker are put within inverted commas in direct speech [1].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2502",
+      "question": "Which of these is NOT a characteristic of direct speech?",
+      "options": {
+        "A": "The first word begins with a capital letter.",
+        "B": "The quoted words are separated from the reporting verb by a comma.",
+        "C": "The conjunction 'that' is always used.",
+        "D": "Inverted commas are used."
+      },
+      "answer": "C",
+      "explanation": "The conjunction 'that' is used in indirect speech, not direct speech [1, 2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2503",
+      "question": "What is the verb that precedes the quoted words in direct speech called?",
+      "options": {
+        "A": "Finite verb",
+        "B": "Modal verb",
+        "C": "Reporting verb",
+        "D": "Auxiliary verb"
+      },
+      "answer": "C",
+      "explanation": "The verb that precedes the direct speech is called the 'reporting verb' [3].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2504",
+      "question": "How does a reported sentence end, regardless of its original type?",
+      "options": {
+        "A": "With a question mark",
+        "B": "With an exclamation mark",
+        "C": "With a full stop",
+        "D": "With a comma"
+      },
+      "answer": "C",
+      "explanation": "The reported speech ends with a full stop, no matter what type of sentence the direct speech was [2].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2505",
+      "question": "When is there NO change in the tense of the verb in indirect speech?",
+      "options": {
+        "A": "When the speaker is famous.",
+        "B": "When the speaker’s words remain true at the time of reporting.",
+        "C": "When the reporting verb is in the past tense.",
+        "D": "When the statement is a question."
+      },
+      "answer": "B",
+      "explanation": "If the speaker's words remain true or unchanged at the time of reporting, there is no change in tense [4].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2506",
+      "question": "Convert to indirect: Father said, 'The sun rises in the east.'",
+      "options": {
+        "A": "Father said that the sun rose in the east.",
+        "B": "Father said that the sun rises in the east.",
+        "C": "Father says that the sun rises in the east.",
+        "D": "Father said the sun had risen in the east."
+      },
+      "answer": "B",
+      "explanation": "Universal truths do not change tense in reported speech [5, 6].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2507",
+      "question": "Which of these stays in the present simple in indirect speech?",
+      "options": {
+        "A": "Habitual actions",
+        "B": "Unplanned future actions",
+        "C": "Personal opinions from the past",
+        "D": "Temporary actions"
+      },
+      "answer": "A",
+      "explanation": "The present tense is not changed into past if the direct speech is a habitual action [5].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2508",
+      "question": "If the reporting verb is in the present tense, how does the verb in indirect speech change?",
+      "options": {
+        "A": "It changes to past tense.",
+        "B": "It changes to past perfect.",
+        "C": "It remains unchanged.",
+        "D": "It becomes a to-infinitive."
+      },
+      "answer": "C",
+      "explanation": "Verbs in indirect speech remain unchanged when the reporting verb is in the present tense [6].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2509",
+      "question": "Convert the Samaj's comment (Activity 1): 'The show is brilliant.'",
+      "options": {
+        "A": "The Samaj reported that the show is brilliant.",
+        "B": "The Samaj reported that the show was brilliant.",
+        "C": "The Samaj reported the show brilliant.",
+        "D": "The Samaj says the show was brilliant."
+      },
+      "answer": "B",
+      "explanation": "Following the backshift rule for past reporting verbs in Activity 1 [7, 8].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2510",
+      "question": "Report the Dharitri's comment: 'We can't have a better show.'",
+      "options": {
+        "A": "The Dharitri reported that they can't have a better show.",
+        "B": "The Dharitri reported that we couldn't have a better show.",
+        "C": "The Dharitri reported that they couldn't have a better show.",
+        "D": "The Dharitri reports they couldn't have a better show."
+      },
+      "answer": "C",
+      "explanation": "Pronoun 'we' changes to 'they' and 'can't' changes to 'couldn't' [8, 9].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2511",
+      "question": "Rewrite (Activity 3): Rakhal said, 'I shall never forget my childhood days.'",
+      "options": {
+        "A": "Rakhal said that he should never forget his childhood days.",
+        "B": "Rakhal said that he would never forget his childhood days.",
+        "C": "Rakhal said he will never forget his childhood days.",
+        "D": "Rakhal said he should never have forgotten his childhood days."
+      },
+      "answer": "B",
+      "explanation": "'Shall' in first person often becomes 'would' when referring to a future intent in third person [9, 10].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2512",
+      "question": "Convert: The man said, 'The house is on fire.'",
+      "options": {
+        "A": "The man said that the house is on fire.",
+        "B": "The man said that the house was on fire.",
+        "C": "The man says that the house was on fire.",
+        "D": "The man said that the house had been on fire."
+      },
+      "answer": "B",
+      "explanation": "Standard backshift from present simple to past simple [10].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2513",
+      "question": "Change to indirect: She says, 'I don't like sweets.'",
+      "options": {
+        "A": "She says that she didn't like sweets.",
+        "B": "She says that she doesn't like sweets.",
+        "C": "She said that she didn't like sweets.",
+        "D": "She says she hasn't liked sweets."
+      },
+      "answer": "B",
+      "explanation": "When the reporting verb is 'says' (present), the tense remains unchanged [10].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2514",
+      "question": "Change to indirect: The guide said, 'Puri is famous for the temple of Lord Jagannath.'",
+      "options": {
+        "A": "The guide said that Puri was famous for the temple.",
+        "B": "The guide said that Puri is famous for the temple.",
+        "C": "The guide says that Puri is famous for the temple.",
+        "D": "The guide said that Puri has been famous for the temple."
+      },
+      "answer": "B",
+      "explanation": "Geographical truths or permanent facts do not change tense [11].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2515",
+      "question": "How is 'now' changed in indirect speech?",
+      "options": {
+        "A": "today",
+        "B": "then",
+        "C": "at this time",
+        "D": "before"
+      },
+      "answer": "B",
+      "explanation": "The source lists 'now' changing to 'then' or 'at that time' [12].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2516",
+      "question": "What does 'yesterday' become in indirect speech?",
+      "options": {
+        "A": "tomorrow",
+        "B": "the day before",
+        "C": "the following day",
+        "D": "that day"
+      },
+      "answer": "B",
+      "explanation": "The source states 'yesterday' changes to 'the day before' or 'the previous day' [12].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2517",
+      "question": "What does 'tomorrow' become in indirect speech?",
+      "options": {
+        "A": "the previous day",
+        "B": "the next day",
+        "C": "that day",
+        "D": "then"
+      },
+      "answer": "B",
+      "explanation": "The source states 'tomorrow' changes to 'the next day' or 'the following day' [12].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2518",
+      "question": "Change to indirect: He said, 'I am going home.'",
+      "options": {
+        "A": "He said that he was going home.",
+        "B": "He said that he is going home.",
+        "C": "He said he has been going home.",
+        "D": "He says he was going home."
+      },
+      "answer": "A",
+      "explanation": "Present progressive changes to past progressive [13].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2519",
+      "question": "Identify the change: 'I have done my homework,' I said.",
+      "options": {
+        "A": "I said that I have done my homework.",
+        "B": "I said that I had done my homework.",
+        "C": "I said that I did my homework.",
+        "D": "I said that I was doing my homework."
+      },
+      "answer": "B",
+      "explanation": "Present perfect changes to past perfect [13].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2520",
+      "question": "Convert: The peon said, 'I posted the letter.'",
+      "options": {
+        "A": "The peon said that he posted the letter.",
+        "B": "The peon said that he had posted the letter.",
+        "C": "The peon said that he has posted the letter.",
+        "D": "The peon says he had posted the letter."
+      },
+      "answer": "B",
+      "explanation": "Past simple changes to past perfect if the action happened before the time of reporting [14].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2521",
+      "question": "Does the past simple change if it refers to a historical fact? 'India became independent on 15th August 1947,' the teacher said.",
+      "options": {
+        "A": "Yes: had become independent",
+        "B": "No: became independent"
+      },
+      "answer": "B",
+      "explanation": "Historical facts relevant at the time of reporting stay in the past simple [15].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2522",
+      "question": "Convert: She said, 'When I left home, it began to rain.'",
+      "options": {
+        "A": "She said that when she had left home, it had begun to rain.",
+        "B": "She said that when she left home, it began to rain.",
+        "C": "She said when she was leaving, it began to rain.",
+        "D": "She said that when she left home, it was beginning to rain."
+      },
+      "answer": "B",
+      "explanation": "In time clauses where two actions occurred simultaneously, the past simple remains unchanged [16].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2523",
+      "question": "True or False: Past perfect and past perfect progressive forms do not change in indirect speech.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "answer": "A",
+      "explanation": "The source explicitly states these forms do not change [17].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2524",
+      "question": "How does the modal 'can' change in indirect speech?",
+      "options": {
+        "A": "could",
+        "B": "would",
+        "C": "can't",
+        "D": "must"
+      },
+      "answer": "A",
+      "explanation": "The source lists 'can' changing to 'could' [18].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2525",
+      "question": "What does 'may' change to in indirect speech?",
+      "options": {
+        "A": "might",
+        "B": "could",
+        "C": "maybe",
+        "D": "must"
+      },
+      "answer": "A",
+      "explanation": "The source lists 'may' changing to 'might' [18].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2526",
+      "question": "When 'must' refers to the future, it changes into:",
+      "options": {
+        "A": "must",
+        "B": "had to",
+        "C": "would have to",
+        "D": "should have to"
+      },
+      "answer": "C",
+      "explanation": "When must refers to the future, it changes to 'would have to' [18].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2527",
+      "question": "When reporting a question, what is NOT used after the reporting verb?",
+      "options": {
+        "A": "the wh-word",
+        "B": "the conjunction 'that'",
+        "C": "if",
+        "D": "whether"
+      },
+      "answer": "B",
+      "explanation": "The conjunction 'that' is not used after the reporting verb in questions [19, 20].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2528",
+      "question": "Report: Rakesh said to his servant, 'Where are you going?'",
+      "options": {
+        "A": "Rakesh asked his servant where he was going.",
+        "B": "Rakesh asked his servant where are you going.",
+        "C": "Rakesh asked his servant that where he was going.",
+        "D": "Rakesh asked his servant where he had gone."
+      },
+      "answer": "A",
+      "explanation": "Wh-questions become statements beginning with the wh-word [19, 21].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2529",
+      "question": "Report: He said to me, 'Do you know him?'",
+      "options": {
+        "A": "He asked me if I know him.",
+        "B": "He asked me if I knew him.",
+        "C": "He told me that I knew him.",
+        "D": "He asked me that if I knew him."
+      },
+      "answer": "B",
+      "explanation": "Yes-No questions become statements beginning with 'if' or 'whether' [20, 22].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2530",
+      "question": "In imperatives, 'say' is replaced by which verbs?",
+      "options": {
+        "A": "tell, order, request",
+        "B": "advise, remind, warn",
+        "C": "suggest, command, beg",
+        "D": "All of these"
+      },
+      "answer": "D",
+      "explanation": "The source lists all these verbs as replacements for 'say' in imperatives [23].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2531",
+      "question": "What is used before the verb of the imperative in indirect speech?",
+      "options": {
+        "A": "that",
+        "B": "to / not to",
+        "C": "if / whether",
+        "D": "because"
+      },
+      "answer": "B",
+      "explanation": "Imperatives take the 'to + infinitive' form [23].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2532",
+      "question": "Report: Mother said to me, 'Don't go to bed late.'",
+      "options": {
+        "A": "Mother advised me that I don't go to bed late.",
+        "B": "Mother advised me not to go to bed late.",
+        "C": "Mother advised me to not go to bed late.",
+        "D": "Mother advised me that don't go to bed late."
+      },
+      "answer": "B",
+      "explanation": "Negative imperatives use 'not to' before the verb [23, 24].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2533",
+      "question": "Report an exclamation: He said, 'What a splendid sunset this is!'",
+      "options": {
+        "A": "He said that it was a splendid sunset.",
+        "B": "He exclaimed in joy that it was really a splendid sunset.",
+        "C": "He asked what a splendid sunset that was.",
+        "D": "He said what a splendid sunset."
+      },
+      "answer": "B",
+      "explanation": "Exclamatory sentences become statements, often using verbs like 'exclaimed in joy/sorrow' [25, 26].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2534",
+      "question": "How is 'Liar!' reported in indirect speech?",
+      "options": {
+        "A": "He said that he was a liar.",
+        "B": "He called him a liar.",
+        "C": "He exclaimed that he is a liar.",
+        "D": "He told a liar."
+      },
+      "answer": "B",
+      "explanation": "The source shows 'Liar!' being changed to 'He called me a liar' [27].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2535",
+      "question": "Report a greeting: He said, 'Hello! Where do you live?'",
+      "options": {
+        "A": "He said hello and where I lived.",
+        "B": "He greeted me and asked where I lived.",
+        "C": "He said hello that where I lived.",
+        "D": "He greeted me that where do I live."
+      },
+      "answer": "B",
+      "explanation": "'Hello' is reported as 'greeted' [27].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2536",
+      "question": "Report: 'Can you work out this sum?' the teacher said to me.",
+      "options": {
+        "A": "The teacher asked if I can work out the sum.",
+        "B": "The teacher asked if I could work out that sum.",
+        "C": "The teacher asked if you could work out that sum.",
+        "D": "The teacher asked me that if I could work out that sum."
+      },
+      "answer": "B",
+      "explanation": "'Can' changes to 'could' and 'this' changes to 'that' [27].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2537",
+      "question": "Report (Activity 7): 'Consult a doctor immediately,' he said to me.",
+      "options": {
+        "A": "He said to consult a doctor.",
+        "B": "He advised me to consult a doctor immediately.",
+        "C": "He advised me that I should consult a doctor.",
+        "D": "He advised me consult a doctor."
+      },
+      "answer": "B",
+      "explanation": "Imperative of advice using 'advised' and 'to + verb' [28].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2538",
+      "question": "Report: The captain said, 'Hurrah! We have scored two goals!'",
+      "options": {
+        "A": "The captain exclaimed in joy that they had scored two goals.",
+        "B": "The captain said hurrah they had scored two goals.",
+        "C": "The captain exclaimed that we have scored two goals.",
+        "D": "The captain said they scored two goals."
+      },
+      "answer": "A",
+      "explanation": "'Hurrah' shows joy; present perfect 'have scored' changes to past perfect 'had scored' [28].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2539",
+      "question": "Report (Activity 8): 'Are you leaving today?' Maggie asked.",
+      "options": {
+        "A": "Maggie asked if I was leaving today.",
+        "B": "Maggie asked if I was leaving that day.",
+        "C": "Maggie asked if you were leaving that day.",
+        "D": "Maggie asked whether I am leaving that day."
+      },
+      "answer": "B",
+      "explanation": "'Today' changes to 'that day' and present progressive to past progressive [29].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2540",
+      "question": "Which word is used to emphasize the intensity of an exclamation in indirect speech?",
+      "options": {
+        "A": "much",
+        "B": "very",
+        "C": "too",
+        "D": "so"
+      },
+      "answer": "B",
+      "explanation": "The source states we use 'very' to emphasize intensity [26].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2541",
+      "question": "What does 'this week' change to in indirect speech?",
+      "options": {
+        "A": "that week",
+        "B": "next week",
+        "C": "the previous week",
+        "D": "last week"
+      },
+      "answer": "A",
+      "explanation": "'this week' changes to 'that week' [12, 30].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2542",
+      "question": "How does 'here' change in indirect speech?",
+      "options": {
+        "A": "now",
+        "B": "there",
+        "C": "this place",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "The source lists 'here' changing to 'there' [12].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2543",
+      "question": "When 'must' is used in the meaning of certainty, does it change?",
+      "options": {
+        "A": "Yes: becomes 'had to'",
+        "B": "No: remains 'must'"
+      },
+      "answer": "B",
+      "explanation": "When must is used in the meaning of certainty, it remains unchanged [18].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2544",
+      "question": "Sample Question: He said to me, 'Did you know him?'",
+      "options": {
+        "A": "He told me if I know him.",
+        "B": "He asked me if I knew him.",
+        "C": "He asked me if I had known him.",
+        "D": "He asked me if I have known him."
+      },
+      "answer": "B",
+      "explanation": "Model Paper question 47 [31, 32].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2545",
+      "question": "Report: 'I go for a walk every morning,' a scout said.",
+      "options": {
+        "A": "A scout said that he went for a walk every morning.",
+        "B": "A scout said that he goes for a walk every morning.",
+        "C": "A scout said that he would go for a walk every morning.",
+        "D": "A scout told that he will go for a walk every morning."
+      },
+      "answer": "B",
+      "explanation": "Habitual actions remain in the present simple in indirect speech [33, 34].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2546",
+      "question": "Change: 'Good evening,' he said.",
+      "options": {
+        "A": "He said me good evening.",
+        "B": "He asked me good evening.",
+        "C": "He wished a good evening.",
+        "D": "He wished me a good evening."
+      },
+      "answer": "D",
+      "explanation": "Model Paper question 44 [35, 36].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2547",
+      "question": "In reported speech, what happens to the inverted commas?",
+      "options": {
+        "A": "They are doubled.",
+        "B": "They are omitted.",
+        "C": "They are moved to the end.",
+        "D": "They stay the same."
+      },
+      "answer": "B",
+      "explanation": "In indirect speech, the inverted commas are omitted [2].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2548",
+      "question": "How is 'ago' changed in indirect speech?",
+      "options": {
+        "A": "before",
+        "B": "since",
+        "C": "then",
+        "D": "yesterday"
+      },
+      "answer": "A",
+      "explanation": "The source lists 'ago' changing to 'before' [12].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2549",
+      "question": "What is the structure for reporting a Yes-No question?",
+      "options": {
+        "A": "subject + ask + that + statement",
+        "B": "subject + ask + if/whether + statement",
+        "C": "subject + ask + what + statement",
+        "D": "subject + tell + if/whether + statement"
+      },
+      "answer": "B",
+      "explanation": "Yes-No questions become statements beginning with 'if' or 'whether' [20].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2550",
+      "question": "Report: 'Let's go on a picnic,' she said.",
+      "options": {
+        "A": "She said to go on a picnic.",
+        "B": "She suggested going on a picnic.",
+        "C": "She told to go on a picnic.",
+        "D": "She said that let's go on a picnic."
+      },
+      "answer": "B",
+      "explanation": "'Let's' indicates a suggestion and is reported with 'suggested + -ing' or 'suggested that... should' [37].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2551",
+      "question": "How is 'this week' changed when used as a time expression?",
+      "options": {
+        "A": "that week",
+        "B": "the week before",
+        "C": "the next week",
+        "D": "this week"
+      },
+      "answer": "A",
+      "explanation": "'this week' changes to 'that week' [30].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2552",
+      "question": "If something is said in continuation of another statement, which verb is used?",
+      "options": {
+        "A": "ask",
+        "B": "add",
+        "C": "reply",
+        "D": "deny"
+      },
+      "answer": "B",
+      "explanation": "We generally use 'add', 'continue', or 'further said' for continuations [38].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2553",
+      "explanation": "Questions in reported speech are transformed into statements [19].",
+      "options": {
+        "A": "Interrogative sentences",
+        "B": "Declarative sentences (statements)",
+        "C": "Imperative sentences",
+        "D": "Exclamatory sentences"
+      },
+      "question": "Questions in indirect speech take the form of:",
+      "answer": "B",
+      "id": "SLE2553",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2554",
+      "question": "Change into indirect speech: Rabi said to me, \"I know where you were born.\"",
+      "options": {
+        "A": "Rabi told me that he knew where I was born.",
+        "B": "Rabi asked me where I was born.",
+        "C": "Rabi told me that I knew where he was born.",
+        "D": "Rabi said to me that he knows where I was born."
+      },
+      "answer": "A",
+      "explanation": "In indirect speech, the present simple 'know' and 'were born' backshift to past simple and past perfect, respectively, and pronouns change to match the reporter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2555",
+      "question": "Change into indirect speech: Father said, \"Morning is at six today.\"",
+      "options": {
+        "A": "Father said that morning is at six today.",
+        "B": "Father said that morning was at six that day.",
+        "C": "Father said that morning had been at six that day.",
+        "D": "Father says that morning was at six today."
+      },
+      "answer": "B",
+      "explanation": "The present simple 'is' changes to 'was', and the adverbial 'today' changes to 'that day'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2556",
+      "question": "Change into indirect speech: She said, \"I’ll help you in the hour of your need.\"",
+      "options": {
+        "A": "She said that she would help me in the hour of my need.",
+        "B": "She said that I would help her in the hour of her need.",
+        "C": "She said she will help me in the hour of my need.",
+        "D": "She told she should help me in the hour of my need."
+      },
+      "answer": "A",
+      "explanation": "The modal 'will' changes to 'would', and pronouns 'I' and 'you' shift to 'she' and 'me'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2557",
+      "question": "Change into indirect speech: He said, \"I collected these pebbles at the seashore.\"",
+      "options": {
+        "A": "He said that he collected those pebbles at the seashore.",
+        "B": "He said that he had collected those pebbles at the seashore.",
+        "C": "He said that he had collected these pebbles at the seashore.",
+        "D": "He told he was collecting those pebbles at the seashore."
+      },
+      "answer": "B",
+      "explanation": "Past simple 'collected' changes to past perfect 'had collected', and the demonstrative 'these' changes to 'those'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2558",
+      "question": "Change into indirect speech: I said to him, \"You didn’t keep fit last year.\"",
+      "options": {
+        "A": "I told him that he didn't keep fit the previous year.",
+        "B": "I told him that he hadn't kept fit the previous year.",
+        "C": "I told him that you hadn't kept fit last year.",
+        "D": "I asked him if he hadn't kept fit last year."
+      },
+      "answer": "B",
+      "explanation": "The past simple 'didn't keep' changes to past perfect 'hadn't kept', and 'last year' becomes 'the previous year'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2559",
+      "question": "Change into indirect speech: The teacher said to me, \"You must work hard for your examination.\"",
+      "options": {
+        "A": "The teacher told me that I must work hard for my examination.",
+        "B": "The teacher told me that I had to work hard for my examination.",
+        "C": "Both A and B are correct.",
+        "D": "The teacher told me that you must work hard for your examination."
+      },
+      "answer": "C",
+      "explanation": "In indirect speech, 'must' can remain 'must' or change to 'had to' depending on the sense of obligation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2560",
+      "question": "Change into indirect speech: The doctor said to me, \"You mustn’t smoke.\"",
+      "options": {
+        "A": "The doctor told me that I didn't have to smoke.",
+        "B": "The doctor told me that I mustn't smoke.",
+        "C": "The doctor advised me to smoke.",
+        "D": "The doctor said I wouldn't smoke."
+      },
+      "answer": "B",
+      "explanation": "The source specifies that 'mustn't' generally remains 'mustn't' in indirect speech.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2561",
+      "question": "Change into indirect speech: Sushil said, \"We celebrate our Republic Day on 26th January every year.\"",
+      "options": {
+        "A": "Sushil said that they celebrated their Republic Day on 26th January every year.",
+        "B": "Sushil said that they celebrate their Republic Day on 26th January every year.",
+        "C": "Sushil said that we celebrate our Republic Day on 26th January every year.",
+        "D": "Sushil asked if they celebrate Republic Day every year."
+      },
+      "answer": "B",
+      "explanation": "For habitual or repeated actions that remain true, the present simple tense remains unchanged.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2562",
+      "question": "Change into indirect speech: He said, \"I was playing the violin every morning last year.\"",
+      "options": {
+        "A": "He said that he was playing the violin every morning the previous year.",
+        "B": "He said that he had been playing the violin every morning the previous year.",
+        "C": "He said he played the violin every morning last year.",
+        "D": "He told he had played the violin every morning the previous year."
+      },
+      "answer": "B",
+      "explanation": "Past progressive 'was playing' is usually changed into past perfect progressive 'had been playing'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2563",
+      "question": "Change into indirect speech: He said, \"These are my toys.\"",
+      "options": {
+        "A": "He said that these were his toys.",
+        "B": "He said that those were his toys.",
+        "C": "He said that they were his toys.",
+        "D": "Both B and C are possible."
+      },
+      "answer": "D",
+      "explanation": "When 'these' is used as a pronoun, it can become 'those' or 'they' in indirect speech.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2564",
+      "question": "Change into indirect speech: My friend said to me, \"When did you return home last night?\"",
+      "options": {
+        "A": "My friend asked me when I had returned home the previous night.",
+        "B": "My friend asked me when did I return home last night.",
+        "C": "My friend told me when I had returned home the previous night.",
+        "D": "My friend asked when I returned home last night."
+      },
+      "answer": "A",
+      "explanation": "In reporting a wh-question, the question becomes a statement, past simple 'did return' becomes past perfect 'had returned', and 'last night' becomes 'the previous night'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2565",
+      "question": "Change into indirect speech: Gita said to her younger brother, \"Who are you talking to on the phone?\"",
+      "options": {
+        "A": "Gita asked her younger brother who he was talking to on the phone.",
+        "B": "Gita asked her younger brother who was he talking to on the phone.",
+        "C": "Gita asked her younger brother that who he was talking to.",
+        "D": "Gita wanted to know who her brother is talking to."
+      },
+      "answer": "A",
+      "explanation": "The wh-question 'Who are you talking to' becomes a statement 'who he was talking to', with tense backshifted from present progressive to past progressive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2566",
+      "question": "Change into indirect speech: The teacher said to me, \"Have you done your homework?\"",
+      "options": {
+        "A": "The teacher asked me that if I had done my homework.",
+        "B": "The teacher asked me if I had done my homework.",
+        "C": "The teacher asked me if I have done my homework.",
+        "D": "The teacher asked me whether had I done my homework."
+      },
+      "answer": "B",
+      "explanation": "Yes-No questions are reported using 'if' or 'whether' followed by a statement, and present perfect shifts to past perfect.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2567",
+      "question": "Change into indirect speech: \"Was it raining heavily at your place last month?\" he said to me.",
+      "options": {
+        "A": "He asked me if it was raining heavily at my place last month.",
+        "B": "He asked me if it had been raining heavily at my place the previous month.",
+        "C": "He asked me if it rained heavily at my place the month before.",
+        "D": "He asked me whether it was raining heavily at your place the month before."
+      },
+      "answer": "B",
+      "explanation": "Past progressive 'was it raining' backshifts to 'had been raining', and 'last month' changes to 'the previous month'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2568",
+      "question": "Report the question (Activity 5): Mahesh asked, \"What is the name of your sister's husband?\"",
+      "options": {
+        "A": "Mahesh asked what the name of my sister's husband was.",
+        "B": "Mahesh asked what was the name of my sister's husband.",
+        "C": "Mahesh asked me what is the name of my sister's husband.",
+        "D": "Mahesh wanted to know the name of my sister husband."
+      },
+      "answer": "A",
+      "explanation": "The interrogative form is changed into a declarative statement with backshift.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2569",
+      "question": "Report the question (Activity 5): Mahesh asked, \"Has he ever been abroad?\"",
+      "options": {
+        "A": "Mahesh asked if he has ever been abroad.",
+        "B": "Mahesh asked if he had ever been abroad.",
+        "C": "Mahesh asked whether has he ever been abroad.",
+        "D": "Mahesh asked that if he had ever been abroad."
+      },
+      "answer": "B",
+      "explanation": "Present perfect 'has... been' changes to past perfect 'had... been' in a reported question.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2570",
+      "question": "Report the question (Activity 5): Mahesh asked, \"What salary does he get?\"",
+      "options": {
+        "A": "Mahesh asked what salary did he get.",
+        "B": "Mahesh asked what salary he got.",
+        "C": "Mahesh asked what salary he gets.",
+        "D": "Mahesh asked what salary does he get."
+      },
+      "answer": "B",
+      "explanation": "The present simple 'does... get' becomes past simple 'he got' in the reported statement.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2571",
+      "question": "Change into indirect speech: The teacher said to the students, \"Move out of the class silently.\"",
+      "options": {
+        "A": "The teacher told the students to move out of the class silently.",
+        "B": "The teacher told the students that move out of the class silently.",
+        "C": "The teacher asked the students to moved out of the class silently.",
+        "D": "The teacher ordered that the students move out silently."
+      },
+      "answer": "A",
+      "explanation": "Imperative sentences are reported using the structure: reporting verb + object + to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2572",
+      "question": "Change into indirect speech: \"Please help me cross the road,\" he said to the policeman.",
+      "options": {
+        "A": "He said the policeman to help him cross the road.",
+        "B": "He requested the policeman to help him cross the road.",
+        "C": "He requested the policeman that he should help him cross the road.",
+        "D": "He asked the policeman to please help him."
+      },
+      "answer": "B",
+      "explanation": "The word 'please' indicates a request, which is reported using 'requested' followed by the to-infinitive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2573",
+      "question": "Change into indirect speech: She said, \"Let’s go on a picnic to Nandankanan tomorrow.\"",
+      "options": {
+        "A": "She said that they should go on a picnic to Nandankanan tomorrow.",
+        "B": "She suggested their going on a picnic to Nandankanan the next day.",
+        "C": "She suggested that they should go on a picnic to Nandankanan the next day.",
+        "D": "Both B and C are correct."
+      },
+      "answer": "D",
+      "explanation": "Suggestions with 'Let's' can be reported using 'suggested + -ing' or 'suggested that... should'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2574",
+      "question": "Change into indirect speech: My sister said, \"Remember to bring the umbrella.\"",
+      "options": {
+        "A": "My sister told me to remember to bring the umbrella.",
+        "B": "My sister reminded me to bring the umbrella.",
+        "C": "My sister said that I remember to bring the umbrella.",
+        "D": "Both A and B are acceptable."
+      },
+      "answer": "D",
+      "explanation": "The imperative of reminder can be reported with 'told... to remember' or the specific verb 'reminded'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2575",
+      "question": "Change into indirect speech: He said, \"Good luck!\"",
+      "options": {
+        "A": "He said good luck.",
+        "B": "He wished me good luck.",
+        "C": "He told me good luck.",
+        "D": "He exclaimed good luck."
+      },
+      "answer": "B",
+      "explanation": "Wishes and greetings are reported with the verb 'wished'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2576",
+      "question": "Change into indirect speech: He said, \"How dreadful!\"",
+      "options": {
+        "A": "He said that it was how dreadful.",
+        "B": "He exclaimed that it was very dreadful.",
+        "C": "He said that it is very dreadful.",
+        "D": "He exclaimed in joy it was dreadful."
+      },
+      "answer": "B",
+      "explanation": "Exclamations are converted into statements using 'exclaimed' and intensity markers like 'very'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2577",
+      "question": "Change into indirect speech: He said, \"Good morning!\"",
+      "options": {
+        "A": "He said me good morning.",
+        "B": "He wished me a good morning.",
+        "C": "He greeted me good morning.",
+        "D": "He told me a good morning."
+      },
+      "answer": "B",
+      "explanation": "Greetings like 'Good morning' are reported using the verb 'wished'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2578",
+      "question": "Change into indirect speech (Activity 7): \"Don’t get addicted to tea,\" he said to me.",
+      "options": {
+        "A": "He advised me not to get addicted to tea.",
+        "B": "He said me not to get addicted to tea.",
+        "C": "He warned me to not get addicted to tea.",
+        "D": "He advised that I don't get addicted to tea."
+      },
+      "answer": "A",
+      "explanation": "Negative imperatives of advice are reported with 'advised... not to'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2579",
+      "question": "Change into indirect speech (Activity 7): \"Your mouth smells foul. Don’t open it,\" he said.",
+      "options": {
+        "A": "He said that my mouth smelled foul and told me not to open it.",
+        "B": "He said that your mouth smelled foul and asked not to open it.",
+        "C": "He said that his mouth smelled foul and told me to not open it.",
+        "D": "He told me my mouth smells foul and don't open it."
+      },
+      "answer": "A",
+      "explanation": "This combined sentence requires backshift for the statement and 'not to' for the imperative.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2580",
+      "question": "Change into indirect speech (Activity 7): The General said, \"Bravo! You have done wonders!\"",
+      "options": {
+        "A": "The General said bravo that they had done wonders.",
+        "B": "The General applauded them, saying that they had done wonders.",
+        "C": "The General told they had done wonders.",
+        "D": "The General exclaimed they have done wonders."
+      },
+      "answer": "B",
+      "explanation": "'Bravo' indicates applause or praise, often reported with the verb 'applauded'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2581",
+      "question": "Change into indirect speech (Activity 7): The teacher said to Nirmal, \"What a lazy boy you are!\"",
+      "options": {
+        "A": "The teacher told Nirmal that he was a very lazy boy.",
+        "B": "The teacher exclaimed that Nirmal was a very lazy boy.",
+        "C": "Both A and B are correct.",
+        "D": "The teacher asked Nirmal if he was a lazy boy."
+      },
+      "answer": "C",
+      "explanation": "Exclamatory sentences can be reported as statements using backshift and 'very' for intensity.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2582",
+      "question": "Change into indirect speech (Activity 7): My friend said to me, \"How nice of you to have come!\"",
+      "options": {
+        "A": "My friend exclaimed that it was very nice of me to have come.",
+        "B": "My friend said it was nice of you to have come.",
+        "C": "My friend thanked me for coming.",
+        "D": "My friend told me how nice it was."
+      },
+      "answer": "A",
+      "explanation": "Standard exclamation to statement conversion.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2583",
+      "question": "Change into indirect speech (Activity 7): \"If only I had the wings of a dove!\" he said.",
+      "options": {
+        "A": "He wished he had the wings of a dove.",
+        "B": "He said if he had the wings of a dove.",
+        "C": "He exclaimed that he had the wings of a dove.",
+        "D": "He asked if he had wings."
+      },
+      "answer": "A",
+      "explanation": "The phrase 'If only I had' indicates a wish, reported using the verb 'wished'.",
+      "difficulty": "hard"
+    }
+  ]
+}

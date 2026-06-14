@@ -1,1 +1,1024 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE24",
+  "chapter_name": "The Passive",
+  "questions": [
+    {
+      "id": "SLE2401",
+      "question": "In the passive voice, what happens to the object of the active sentence?",
+      "options": {
+        "A": "It remains the object.",
+        "B": "It is omitted.",
+        "C": "It becomes the subject of the passive sentence.",
+        "D": "It becomes an adjunct."
+      },
+      "answer": "C",
+      "explanation": "The source states that the object of the active sentence is used as the subject of the passive sentence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2402",
+      "question": "What is the general verb pattern for a passive construction?",
+      "options": {
+        "A": "be + ing-form",
+        "B": "have + en-form",
+        "C": "be + en-form (past participle)",
+        "D": "modal + verb"
+      },
+      "answer": "C",
+      "explanation": "The verb in the active sentence is changed into its appropriate passive form: be + en-form of the main verb.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2403",
+      "question": "Identify the passive form of the Present Simple: 'Badminton ________ here every afternoon.'",
+      "options": {
+        "A": "played",
+        "B": "is played",
+        "C": "is playing",
+        "D": "was played"
+      },
+      "answer": "B",
+      "explanation": "For Present Simple, the passive uses 'is/am/are' + the past participle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2404",
+      "question": "Choose the correct passive form for the Past Simple: 'My purse ________ yesterday.'",
+      "options": {
+        "A": "is stolen",
+        "B": "was stolen",
+        "C": "has been stolen",
+        "D": "was being stolen"
+      },
+      "answer": "B",
+      "explanation": "For Past Simple, the passive uses 'was/were' + the past participle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2405",
+      "question": "Convert 'The children are playing football' to the passive voice.",
+      "options": {
+        "A": "Football is played by the children.",
+        "B": "Football has been played by the children.",
+        "C": "Football is being played by the children.",
+        "D": "Football was being played by the children."
+      },
+      "answer": "C",
+      "explanation": "In Present Progressive passive, 'be' auxiliary + 'being' + past participle is used.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2406",
+      "question": "Identify the passive form of the Past Progressive: 'The walls of my room ________ green.'",
+      "options": {
+        "A": "were painted",
+        "B": "have been painted",
+        "C": "were being painted",
+        "D": "are being painted"
+      },
+      "answer": "C",
+      "explanation": "Past Progressive passive uses 'was/were being' + past participle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2407",
+      "question": "Complete the Present Perfect passive: 'The room ________.'",
+      "options": {
+        "A": "has decorated",
+        "B": "is decorated",
+        "C": "has been decorated",
+        "D": "had been decorated"
+      },
+      "answer": "C",
+      "explanation": "Present Perfect passive uses 'has/have been' + past participle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2408",
+      "question": "Complete the Past Perfect passive: 'Roofs of houses ________ in the storm.'",
+      "options": {
+        "A": "were blown off",
+        "B": "had blown off",
+        "C": "had been blown off",
+        "D": "have been blown off"
+      },
+      "answer": "C",
+      "explanation": "Past Perfect passive uses 'had been' + past participle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2409",
+      "question": "Which of these tense forms CANNOT be passivized?",
+      "options": {
+        "A": "Present Perfect",
+        "B": "Past Progressive",
+        "C": "Present Perfect Progressive",
+        "D": "Future Simple"
+      },
+      "answer": "C",
+      "explanation": "The source explicitly states that Present and Past Perfect Progressive verbs cannot be passivized.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2410",
+      "question": "Identify the passive with a modal: 'The letter ________ soon.'",
+      "options": {
+        "A": "will type",
+        "B": "will be typed",
+        "C": "is typed",
+        "D": "will been typed"
+      },
+      "answer": "B",
+      "explanation": "Passive with modals follows the pattern: modal + be + past participle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2411",
+      "question": "What is the passive form of 'The work should complete by 5 p.m.'?",
+      "options": {
+        "A": "The work should be completed by 5 p.m.",
+        "B": "The work is completed by 5 p.m.",
+        "C": "The work should been completed by 5 p.m.",
+        "D": "The work will be completed by 5 p.m."
+      },
+      "answer": "A",
+      "explanation": "Passive modals use 'should/must/can' + be + past participle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2412",
+      "question": "Select the correct informal passive: 'They had their house ________ yellow.'",
+      "options": {
+        "A": "paint",
+        "B": "painted",
+        "C": "painting",
+        "D": "be painted"
+      },
+      "answer": "B",
+      "explanation": "Informal passives use 'have/get' + object + past participle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2413",
+      "question": "Convert to passive: 'The students have elected Mr. Das President.'",
+      "options": {
+        "A": "Mr. Das was elected President.",
+        "B": "Mr. Das has been elected President.",
+        "C": "President has been elected Mr. Das.",
+        "D": "Mr. Das has elected President."
+      },
+      "answer": "B",
+      "explanation": "In sentences with an object complement, the object becomes the subject and the complement stays after the verb.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2414",
+      "question": "Which is a correct passive of 'Father gave the son fifty rupees'?",
+      "options": {
+        "A": "The son was given fifty rupees.",
+        "B": "Fifty rupees was given to the son.",
+        "C": "The son was being given fifty rupees.",
+        "D": "Both A and B"
+      },
+      "answer": "D",
+      "explanation": "Verbs with two objects can have two passive forms, often using the nearest object as the new subject.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2415",
+      "question": "Convert the reporting verb: 'People say that elephants have good memories.'",
+      "options": {
+        "A": "It is said that elephants have good memories.",
+        "B": "Elephants are said to have good memories.",
+        "C": "Both A and B",
+        "D": "Elephants were said to have good memories."
+      },
+      "answer": "C",
+      "explanation": "Reporting verbs like 'say' can be passivized using 'It is said' or by making the subordinate subject the main subject with an infinitive-.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2416",
+      "question": "When the reporting verb is Present and the 'that-clause' is Past, how is it passivized?",
+      "options": {
+        "A": "It is said ... + past simple",
+        "B": "Subject + is said + to have been ...",
+        "C": "Both A and B",
+        "D": "It was said ... + past simple"
+      },
+      "answer": "C",
+      "explanation": "If the main clause is present and the 'that' clause is past, we use 'It is said that...' or 'He is said to have been...'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2417",
+      "question": "Identify the passive form: 'The teacher made him stand up.'",
+      "options": {
+        "A": "He was made stand up.",
+        "B": "He was made to stand up.",
+        "C": "He made to stand up by the teacher.",
+        "D": "Stand up was made by him."
+      },
+      "answer": "B",
+      "explanation": "Bare infinitives (stand) in the active become to-infinitives (to stand) in the passive.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2418",
+      "question": "Passive of 'I saw him climbing the ladder' is:",
+      "options": {
+        "A": "He was seen climbing the ladder.",
+        "B": "He was seen to climb the ladder.",
+        "C": "Climbing the ladder was seen by him.",
+        "D": "He saw to be climbing the ladder."
+      },
+      "answer": "A",
+      "explanation": "With -ing forms, the passive maintains the -ing form after the 'be + past participle'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2419",
+      "question": "Which sentence has an active form but a passive meaning?",
+      "options": {
+        "A": "The room is being tidied.",
+        "B": "The room requires tidying.",
+        "C": "The room was tidied.",
+        "D": "I tidied the room."
+      },
+      "answer": "B",
+      "explanation": "Verbs like 'need' and 'require' can take an -ing form that has a passive meaning.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2420",
+      "question": "Identify the voice in Activity 1: 'Prakash killed a snake with a stick.'",
+      "options": {
+        "A": "Active",
+        "B": "Passive"
+      },
+      "answer": "A",
+      "explanation": "The subject performs the action directly.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2421",
+      "question": "Identify the voice: 'Mr. Patnaik has been selected President of the Congress Party.'",
+      "options": {
+        "A": "Active",
+        "B": "Passive"
+      },
+      "answer": "B",
+      "explanation": "The auxiliary 'been' + past participle 'selected' indicates passive voice.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2422",
+      "question": "Identify the voice: 'Why was he beaten?'",
+      "options": {
+        "A": "Active",
+        "B": "Passive"
+      },
+      "answer": "B",
+      "explanation": "The form 'was' + 'beaten' is passive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2423",
+      "question": "Fill the blank (Activity 2): 'English ________ all over the world.'",
+      "options": {
+        "A": "is speaking",
+        "B": "speaks",
+        "C": "is spoken",
+        "D": "was spoken"
+      },
+      "answer": "C",
+      "explanation": "General truth in the passive uses Present Simple passive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2424",
+      "question": "Fill the blank: 'Thousands of people ________ in the earthquake last year.'",
+      "options": {
+        "A": "killed",
+        "B": "were killed",
+        "C": "are killed",
+        "D": "have been killed"
+      },
+      "answer": "B",
+      "explanation": "Past event requires Past Simple passive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2425",
+      "question": "Correct form: 'The accident ________ due to the driver's carelessness.'",
+      "options": {
+        "A": "might cause",
+        "B": "might be caused",
+        "C": "might have caused",
+        "D": "might been caused"
+      },
+      "answer": "B",
+      "explanation": "Modal 'might' followed by 'be' + past participle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2426",
+      "question": "Fill the blank: 'The road ________ when I saw it last year.'",
+      "options": {
+        "A": "was repaired",
+        "B": "repaired",
+        "C": "was being repaired",
+        "D": "is being repaired"
+      },
+      "answer": "C",
+      "explanation": "The action was in progress in the past, requiring Past Progressive passive.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2427",
+      "question": "Activity 4 Newspaper report: 'Fifty houses ________ to ashes last Sunday.'",
+      "options": {
+        "A": "burnt",
+        "B": "were burnt",
+        "C": "are burnt",
+        "D": "had been burnt"
+      },
+      "answer": "B",
+      "explanation": "Past Simple passive for a completed past action.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2428",
+      "question": "Newspaper report: 'Ten children and six women ________ alive.'",
+      "options": {
+        "A": "burnt",
+        "B": "were burnt",
+        "C": "are burnt",
+        "D": "have been burnt"
+      },
+      "answer": "B",
+      "explanation": "Agreement with plural subject in Past Simple passive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2429",
+      "question": "Newspaper report: 'About eighty people ________ for treatment.'",
+      "options": {
+        "A": "hospitalised",
+        "B": "were hospitalised",
+        "C": "are hospitalised",
+        "D": "hospitalising"
+      },
+      "answer": "B",
+      "explanation": "Passive construction for receiving treatment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2430",
+      "question": "Change to passive: 'Did the hunter kill the bird yesterday?'",
+      "options": {
+        "A": "Was the bird killed by the hunter yesterday?",
+        "B": "The bird was killed by the hunter yesterday?",
+        "C": "Was the hunter killed the bird yesterday?",
+        "D": "Did the bird killed yesterday?"
+      },
+      "answer": "A",
+      "explanation": "To change a Yes/No question, first convert it to a statement, then passivize, then revert to question form-.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2431",
+      "question": "Change to passive: 'Who wrote this book?'",
+      "options": {
+        "A": "By whom was this book written?",
+        "B": "Who was this book written by?",
+        "C": "This book was written by who?",
+        "D": "Both A and B"
+      },
+      "answer": "D",
+      "explanation": "Questions starting with 'who' can be passivized using 'By whom' at the start or 'who' at the start with 'by' at the end.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2432",
+      "question": "Which of these sentences is UNGRAMMATICAL?",
+      "options": {
+        "A": "I have a car.",
+        "B": "A car is had by me.",
+        "C": "I eat rice.",
+        "D": "The car was driven by me."
+      },
+      "answer": "B",
+      "explanation": "The verb 'have' (meaning to possess) cannot be passivized.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2433",
+      "question": "Which active verb can have a corresponding passive form?",
+      "options": {
+        "A": "Resemble",
+        "B": "Fit",
+        "C": "Drive",
+        "D": "Lack"
+      },
+      "answer": "C",
+      "explanation": "Verbs like 'resemble', 'fit', and 'lack' cannot be passivized-.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2434",
+      "question": "Is 'Rama Chandra married Sita' acceptable in passive voice?",
+      "options": {
+        "A": "Yes: Sita was married by Rama Chandra.",
+        "B": "No: It is absurd and unnatural."
+      },
+      "answer": "B",
+      "explanation": "The source lists this sentence as one that has no corresponding passive form because it sounds absurd.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2435",
+      "question": "Can reflexives (himself/herself) be the subject of a passive construction?",
+      "options": {
+        "A": "Yes",
+        "B": "No"
+      },
+      "answer": "B",
+      "explanation": "Reflexives as subjects of passive constructions are unacceptable.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2436",
+      "question": "Which is INCORRECT?",
+      "options": {
+        "A": "The children loved one another.",
+        "B": "One another was loved by the children."
+      },
+      "answer": "B",
+      "explanation": "Reciprocal pronouns like 'one another' cannot be the subject of a passive construction.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2437",
+      "question": "Do intransitive verbs like 'sleep' or 'last' have passive forms?",
+      "options": {
+        "A": "Yes",
+        "B": "No"
+      },
+      "answer": "B",
+      "explanation": "Intransitive and link verbs have no passive forms.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2438",
+      "question": "Passive of 'Shut the door' using 'let' is:",
+      "options": {
+        "A": "Let the door be shut.",
+        "B": "The door was shut.",
+        "C": "Let the door shut.",
+        "D": "You are ordered to shut the door."
+      },
+      "answer": "A",
+      "explanation": "Imperative sentences can be passivized using 'let' + object + be + past participle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2439",
+      "question": "Which verb is used ONLY in the passive in these examples?",
+      "options": {
+        "A": "Kill",
+        "B": "Born",
+        "C": "Write",
+        "D": "Open"
+      },
+      "answer": "B",
+      "explanation": "The verb 'born' is used only in the passive (e.g., Gandhiji was born...).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2440",
+      "question": "Can 'The car broke down' be passivized?",
+      "options": {
+        "A": "Yes",
+        "B": "No"
+      },
+      "answer": "B",
+      "explanation": "Intransitive phrasal verbs like 'break down' cannot be passivized.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2441",
+      "question": "Can 'Have the factory workers called off the strike?' be passivized?",
+      "options": {
+        "A": "Yes",
+        "B": "No"
+      },
+      "answer": "A",
+      "explanation": "Transitive phrasal verbs like 'call off' can have passive forms.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2442",
+      "question": "When do we use the 'by + agent' phrase?",
+      "options": {
+        "A": "When the agent is unknown.",
+        "B": "When the agent is a definite/famous person or provide new information.",
+        "C": "Always.",
+        "D": "Never."
+      },
+      "answer": "B",
+      "explanation": "We use it for famous authors/inventors or when it provides readers with important new information-.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2443",
+      "question": "Choose the passive for (Activity 5): 'He did not leave the examination hall.' (ask to leave)",
+      "options": {
+        "A": "He was asked to leave.",
+        "B": "He didn't asked to leave.",
+        "C": "He wasn't asked to leave.",
+        "D": "He asked to be left."
+      },
+      "answer": "C",
+      "explanation": "The situational context suggests he wasn't asked to leave.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2444",
+      "question": "Passive for (Activity 6): 'You want to talk about the Odia Bhagabat and mention its author Jagannath Das.'",
+      "options": {
+        "A": "The Odia Bhagabat is written by Jagannath Das.",
+        "B": "The Odia Bhagabat was written by Jagannath Das.",
+        "C": "Jagannath Das wrote the Odia Bhagabat.",
+        "D": "The Odia Bhagabat had been written by Jagannath Das."
+      },
+      "answer": "B",
+      "explanation": "Correct passive form for historical authorship.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2445",
+      "question": "Fill the blank (Activity 7): 'Cheese ________ from milk.'",
+      "options": {
+        "A": "makes",
+        "B": "is made",
+        "C": "was made",
+        "D": "is making"
+      },
+      "answer": "B",
+      "explanation": "General scientific/factual passive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2446",
+      "question": "Activity 7: 'The letter ________ a week ago.'",
+      "options": {
+        "A": "was posted",
+        "B": "posted",
+        "C": "is posted",
+        "D": "had been posted"
+      },
+      "answer": "A",
+      "explanation": "Past Simple passive for 'a week ago'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2447",
+      "question": "Sample Question 42: 'My dog is being taken to the garden.' Identify the tense/form.",
+      "options": {
+        "A": "Present progressive",
+        "B": "Past progressive",
+        "C": "Present perfect progressive",
+        "D": "Past perfect progressive"
+      },
+      "answer": "A",
+      "explanation": "The form 'is being + en' indicates Present Progressive passive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2448",
+      "question": "Sample Question 46: 'My shirt needs ironing.' Choose the passive equivalent.",
+      "options": {
+        "A": "My shirt is needed ironing.",
+        "B": "My shirt needs to be ironed.",
+        "C": "My shirt needed to be ironed.",
+        "D": "My shirt is to need ironing."
+      },
+      "answer": "B",
+      "explanation": "Verbs like 'need' followed by -ing can be expressed as 'need + to be + en',.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2449",
+      "question": "Model Paper Question: 'How did you work out the sum?' Choose the passive voice.",
+      "options": {
+        "A": "How was the sum worked out?",
+        "B": "How the sum was worked out?",
+        "C": "How is the sum worked out?",
+        "D": "The sum was worked out by you."
+      },
+      "answer": "A",
+      "explanation": "Interrogative passive for Past Simple,.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2450",
+      "question": "Model Paper Question: 'The businessman did not die. He ________ (murder).'",
+      "options": {
+        "A": "is murdered",
+        "B": "was murdered",
+        "C": "is not murdered",
+        "D": "was not murdered"
+      },
+      "answer": "B",
+      "explanation": "Completing a situational context in Past Simple passive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2451",
+      "question": "Which verb is used in Activity 2: 'English ________ all over the world'?",
+      "options": {
+        "A": "is spoke",
+        "B": "is spoken",
+        "C": "is speaked",
+        "D": "was spoken"
+      },
+      "answer": "B",
+      "explanation": "Correct past participle of 'speak' is 'spoken'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2452",
+      "question": "Activity 2: 'I like ________ alone.'",
+      "options": {
+        "A": "to be left",
+        "B": "being leave",
+        "C": "be left",
+        "D": "to left"
+      },
+      "answer": "A",
+      "explanation": "Passive infinitive after 'like'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2453",
+      "question": "In 'It had been nicely decorated', what is the tense?",
+      "options": {
+        "A": "Present Perfect",
+        "B": "Past Perfect",
+        "C": "Past Simple",
+        "D": "Past Progressive"
+      },
+      "answer": "B",
+      "explanation": "'had been + en' is the Past Perfect passive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2454",
+      "question": "What is the passive form of 'The teacher taught us geography'?",
+      "options": {
+        "A": "We were taught geography.",
+        "B": "Geography was taught to us.",
+        "C": "Both A and B",
+        "D": "We were teaching geography."
+      },
+      "answer": "C",
+      "explanation": "Ditransitive verbs (two objects) allow both forms.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2455",
+      "question": "Identify the finite verb: 'He teaches us English.'",
+      "options": {
+        "A": "teaches",
+        "B": "us",
+        "C": "English",
+        "D": "He"
+      },
+      "answer": "A",
+      "explanation": "The first word in a verb phrase that takes tense is the finite verb-.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2456",
+      "question": "Convert to passive: 'The teacher is working out the sum.'",
+      "options": {
+        "A": "The sum is worked out.",
+        "B": "The sum was being worked out.",
+        "C": "The sum is being worked out.",
+        "D": "The sum has been worked out."
+      },
+      "answer": "C",
+      "explanation": "Present Progressive active to passive conversion.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2457",
+      "question": "Change 'The reporter took down the speech' to passive.",
+      "options": {
+        "A": "The speech was taken down.",
+        "B": "The speech is taken down.",
+        "C": "The speech had been taken down.",
+        "D": "The speech was being taken down."
+      },
+      "answer": "A",
+      "explanation": "Past simple passive for a transitive phrasal verb,.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2458",
+      "question": "Passive of 'He will help you':",
+      "options": {
+        "A": "You will be helped by him.",
+        "B": "You are helped by him.",
+        "C": "You would be helped by him.",
+        "D": "You will been helped."
+      },
+      "answer": "A",
+      "explanation": "Future simple active uses 'will be + past participle' in passive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2459",
+      "question": "Is 'The meeting lasted two hours' possible in passive?",
+      "options": {
+        "A": "Yes",
+        "B": "No"
+      },
+      "answer": "B",
+      "explanation": "Intransitive verbs like 'last' cannot be passivized.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2460",
+      "question": "Passive of 'When did he return the book?'",
+      "options": {
+        "A": "When was the book returned?",
+        "B": "When did the book returned?",
+        "C": "When is the book returned?",
+        "D": "The book was returned when?"
+      },
+      "answer": "A",
+      "explanation": "WH-question conversion to passive.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2461",
+      "question": "Passive of 'Where did he find it?'",
+      "options": {
+        "A": "Where was it finded?",
+        "B": "Where is it found?",
+        "C": "Where was it found?",
+        "D": "Where did it found?"
+      },
+      "answer": "C",
+      "explanation": "Past Simple interrogative passive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2462",
+      "question": "Which of these expresses a 'state' rather than a passive action?",
+      "options": {
+        "A": "The letter was typed by the clerk.",
+        "B": "She was married when I saw her.",
+        "C": "The cake was made by mother.",
+        "D": "The book was written by him."
+      },
+      "answer": "B",
+      "explanation": "Past participle forms referring to a state (adjectival meaning) are not passive voice.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2463",
+      "question": "In 'There is some homework to be done', 'to be done' is a:",
+      "options": {
+        "A": "Active infinitive",
+        "B": "Passive infinitive",
+        "C": "Gerund",
+        "D": "Finite verb"
+      },
+      "answer": "B",
+      "explanation": "Sentences starting with 'there' can use either active or passive infinitives.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2464",
+      "question": "Convert 'I have finished my work' to passive.",
+      "options": {
+        "A": "My work has been finished.",
+        "B": "My work is finished.",
+        "C": "My work was finished.",
+        "D": "My work had been finished."
+      },
+      "answer": "A",
+      "explanation": "Present Perfect passive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2465",
+      "question": "Convert 'The unique attempt was made by Janaki' to active.",
+      "options": {
+        "A": "Janaki makes this unique attempt.",
+        "B": "Janaki made this unique attempt.",
+        "C": "Janaki has made this unique attempt.",
+        "D": "Janaki was making this unique attempt."
+      },
+      "answer": "B",
+      "explanation": "Reverting Past Simple passive back to active-.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2466",
+      "question": "Can 'I eat rice' be naturally passivized?",
+      "options": {
+        "A": "Yes: Rice is eaten by me.",
+        "B": "No: The passive form is absurd and unnatural."
+      },
+      "answer": "B",
+      "explanation": "The source states that sentences like 'We eat rice' or 'Babies drink milk' have passive forms that are absurd.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2467",
+      "question": "Passive of 'They found him dead':",
+      "options": {
+        "A": "He was found dead.",
+        "B": "He found dead.",
+        "C": "Dead was found him.",
+        "D": "Him was found dead."
+      },
+      "answer": "A",
+      "explanation": "The object complement 'dead' remains after the verb,.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2468",
+      "question": "In 'The sum is being worked out', 'being' indicates:",
+      "options": {
+        "A": "The perfect tense",
+        "B": "The progressive aspect",
+        "C": "A modal verb",
+        "D": "An infinitive"
+      },
+      "answer": "B",
+      "explanation": "'being' is used in passive progressive constructions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2469",
+      "question": "Passive of 'He has not been able to overcome his fears' (Activity 9):",
+      "options": {
+        "A": "His fears have not been able to be overcome.",
+        "B": "His fears were not overcome.",
+        "C": "He was not able to overcome.",
+        "D": "Fears have not been overcome."
+      },
+      "answer": "A",
+      "explanation": "Based on the phrasal verb exercise and passive logic for perfect tenses,.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2470",
+      "question": "Which preposition is typically used in the agent phrase?",
+      "options": {
+        "A": "to",
+        "B": "with",
+        "C": "by",
+        "D": "at"
+      },
+      "answer": "C",
+      "explanation": "The 'by + agent' phrase indicates who performed the action.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2471",
+      "question": "Identify the passive voice marker in 'Thousands of people were killed'.",
+      "options": {
+        "A": "Thousands",
+        "B": "were",
+        "C": "killed",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "explanation": "The 'be' auxiliary and past participle together indicate passive voice.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2472",
+      "question": "Convert 'Marconi invented Radio' to passive.",
+      "options": {
+        "A": "Radio was invented by Marconi.",
+        "B": "Radio is invented by Marconi.",
+        "C": "Marconi was invented by Radio.",
+        "D": "Radio had been invented by Marconi."
+      },
+      "answer": "A",
+      "explanation": "Past Simple passive for definite agents.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2473",
+      "question": "Change 'The postman gave me a parcel' to passive starting with 'A parcel'.",
+      "options": {
+        "A": "A parcel was given me by the postman.",
+        "B": "A parcel was given to me by the postman.",
+        "C": "A parcel was being given to me.",
+        "D": "A parcel given me."
+      },
+      "answer": "B",
+      "explanation": "Passive of ditransitive verb using the direct object as subject,.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2474",
+      "question": "Which auxiliary is used for Present Perfect passive?",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "been",
+        "D": "being"
+      },
+      "answer": "C",
+      "explanation": "'has/have been' + past participle.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2475",
+      "question": "Passive of 'He should punish for telling a lie' (Activity 2):",
+      "options": {
+        "A": "He should be punished.",
+        "B": "He should being punished.",
+        "C": "He should have punished.",
+        "D": "He should punished."
+      },
+      "answer": "A",
+      "explanation": "Passive modal pattern.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2476",
+      "question": "Identify the passive form in Activity 4: 'All the belongings ________ completely destroy.'",
+      "options": {
+        "A": "destroyed",
+        "B": "were destroyed",
+        "C": "was destroyed",
+        "D": "have been destroyed"
+      },
+      "answer": "B",
+      "explanation": "Plural subject 'belongings' in Past Simple passive.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2477",
+      "question": "In 'The sum is being worked out', 'is' matches the tense of:",
+      "options": {
+        "A": "The active auxiliary",
+        "B": "The active main verb",
+        "C": "The passive participle",
+        "D": "The by-phrase"
+      },
+      "answer": "A",
+      "explanation": "The tense of the 'be' auxiliary in both active and passive sentences is the same.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2478",
+      "question": "Which verb form follows 'being' in a passive construction?",
+      "options": {
+        "A": "Present participle",
+        "B": "Past participle",
+        "C": "Base form",
+        "D": "Infinitive"
+      },
+      "answer": "B",
+      "explanation": "In progressive passives, 'being' is followed by the past participle (en-form).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2479",
+      "question": "Passive for 'He got his hair cut' (Activity 5):",
+      "options": {
+        "A": "His hair was cut.",
+        "B": "He was cut his hair.",
+        "C": "Cut was his hair.",
+        "D": "He had cut his hair."
+      },
+      "answer": "A",
+      "explanation": "General passive transformation for an informal 'get' construction.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2480",
+      "question": "Convert to passive: 'The unique attempt was made (by Janaki)'. What was the active subject?",
+      "options": {
+        "A": "The attempt",
+        "B": "Janaki",
+        "C": "Unique",
+        "D": "Made"
+      },
+      "answer": "B",
+      "explanation": "In 'Janaki made this unique attempt', Janaki is the active subject-.",
+      "difficulty": "easy"
+    }
+  ]
+}
