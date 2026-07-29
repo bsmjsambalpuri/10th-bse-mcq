@@ -1,7 +1,7 @@
 ﻿{"questions":[
   {
     "id": "MTH1001",
-    "question": "$\sin 0^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sin 0^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1",
       "B": "0",
@@ -14,7 +14,7 @@
   },
   {
     "id": "MTH1002",
-    "question": "$\cos 0^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cos 0^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -27,7 +27,7 @@
   },
   {
     "id": "MTH1003",
-    "question": "$\tan 0^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\tan 0^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -40,7 +40,7 @@
   },
   {
     "id": "MTH1004",
-    "question": "$\cot 0^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cot 0^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -53,7 +53,7 @@
   },
   {
     "id": "MTH1005",
-    "question": "$\sec 0^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sec 0^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -66,7 +66,7 @@
   },
   {
     "id": "MTH1006",
-    "question": "$\text{cosec } 0^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\text{cosec } 0^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -79,7 +79,7 @@
   },
   {
     "id": "MTH1007",
-    "question": "$\sin 30^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sin 30^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1",
       "B": "1/2",
@@ -92,7 +92,7 @@
   },
   {
     "id": "MTH1008",
-    "question": "$\cos 30^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cos 30^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1/2",
       "B": "√3/2",
@@ -105,7 +105,7 @@
   },
   {
     "id": "MTH1009",
-    "question": "$\tan 30^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\tan 30^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "√3",
       "B": "1/√3",
@@ -118,7 +118,7 @@
   },
   {
     "id": "MTH1010",
-    "question": "$\cot 30^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cot 30^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1/√3",
       "B": "√3",
@@ -131,10 +131,10 @@
   },
   {
     "id": "MTH1011",
-    "question": "$\sec 30^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sec 30^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "2",
-      "B": "2/√3",
+      "B": "2/\\sqrt3",
       "C": "√2",
       "D": "1"
     },
@@ -144,12 +144,12 @@
   },
   {
     "id": "MTH1012",
-    "question": "$\text{cosec } 30^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\text{cosec } 30^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1/2",
       "B": "2",
       "C": "√2",
-      "D": "2/√3"
+      "D": "2/\\sqrt3"
     },
     "answer": "B",
     "explanation": "cosec 30° = 1 / sin 30° = 1 / (1/2) = 2।",
@@ -157,10 +157,10 @@
   },
   {
     "id": "MTH1013",
-    "question": "$\sin 45^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sin 45^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1/2",
-      "B": "1/√2",
+      "B": "1/\\sqrt2",
       "C": "√3/2",
       "D": "1"
     },
@@ -170,10 +170,10 @@
   },
   {
     "id": "MTH1014",
-    "question": "$\cos 45^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cos 45^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1/2",
-      "B": "1/√2",
+      "B": "1/\\sqrt2",
       "C": "√3/2",
       "D": "0"
     },
@@ -183,12 +183,12 @@
   },
   {
     "id": "MTH1015",
-    "question": "$\tan 45^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\tan 45^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
       "C": "√3",
-      "D": "1/√3"
+      "D": "1/\\sqrt3"
     },
     "answer": "B",
     "explanation": "tan 45° = sin 45° / cos 45° = 1।",
@@ -196,7 +196,7 @@
   },
   {
     "id": "MTH1016",
-    "question": "$\cot 45^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cot 45^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -209,11 +209,11 @@
   },
   {
     "id": "MTH1017",
-    "question": "$\sec 45^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sec 45^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "2",
       "B": "√2",
-      "C": "2/√3",
+      "C": "2/\\sqrt3",
       "D": "1"
     },
     "answer": "B",
@@ -222,7 +222,7 @@
   },
   {
     "id": "MTH1018",
-    "question": "$\text{cosec } 45^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\text{cosec } 45^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "2",
       "B": "√2",
@@ -235,12 +235,12 @@
   },
   {
     "id": "MTH1019",
-    "question": "$\sin 60^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sin 60^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1/2",
       "B": "√3/2",
       "C": "1",
-      "D": "1/√2"
+      "D": "1/\\sqrt2"
     },
     "answer": "B",
     "explanation": "sin 60° ର ମାନ √3/2 ଅଟେ।",
@@ -248,7 +248,7 @@
   },
   {
     "id": "MTH1020",
-    "question": "$\cos 60^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cos 60^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "√3/2",
       "B": "1/2",
@@ -261,9 +261,9 @@
   },
   {
     "id": "MTH1021",
-    "question": "$\tan 60^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\tan 60^\\circ$ ର ମାନ କେତେ?",
     "options": {
-      "A": "1/√3",
+      "A": "1/\\sqrt3",
       "B": "√3",
       "C": "1",
       "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
@@ -274,11 +274,11 @@
   },
   {
     "id": "MTH1022",
-    "question": "$\cot 60^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cot 60^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "√3",
       "B": "1/3",
-      "C": "1/√3",
+      "C": "1/\\sqrt3",
       "D": "1"
     },
     "answer": "C",
@@ -287,11 +287,11 @@
   },
   {
     "id": "MTH1023",
-    "question": "$\sec 60^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sec 60^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "√2",
       "B": "2",
-      "C": "2/√3",
+      "C": "2/\\sqrt3",
       "D": "1"
     },
     "answer": "B",
@@ -300,10 +300,10 @@
   },
   {
     "id": "MTH1024",
-    "question": "$\text{cosec } 60^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\text{cosec } 60^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "2",
-      "B": "2/√3",
+      "B": "2/\\sqrt3",
       "C": "√3/2",
       "D": "√2"
     },
@@ -313,7 +313,7 @@
   },
   {
     "id": "MTH1025",
-    "question": "$\sin 90^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sin 90^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -326,7 +326,7 @@
   },
   {
     "id": "MTH1026",
-    "question": "$\cos 90^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cos 90^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1",
       "B": "0",
@@ -339,7 +339,7 @@
   },
   {
     "id": "MTH1027",
-    "question": "$\tan 90^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\tan 90^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -352,7 +352,7 @@
   },
   {
     "id": "MTH1028",
-    "question": "$\cot 90^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cot 90^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -365,7 +365,7 @@
   },
   {
     "id": "MTH1029",
-    "question": "$\sec 90^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sec 90^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1",
       "B": "0",
@@ -378,7 +378,7 @@
   },
   {
     "id": "MTH1030",
-    "question": "$\text{cosec } 90^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\text{cosec } 90^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -391,7 +391,7 @@
   },
   {
     "id": "MTH1031",
-    "question": "$\sin 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\sin 120^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "1/2",
       "B": "√3/2",
@@ -404,7 +404,7 @@
   },
   {
     "id": "MTH1032",
-    "question": "$\cos 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\cos 120^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "1/2",
       "B": "-1/2",
@@ -417,12 +417,12 @@
   },
   {
     "id": "MTH1033",
-    "question": "$\tan 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\tan 120^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "√3",
       "B": "-√3",
-      "C": "1/√3",
-      "D": "-1/√3"
+      "C": "1/\\sqrt3",
+      "D": "-1/\\sqrt3"
     },
     "answer": "B",
     "explanation": "tan 120° = tan(180-60) = -tan 60° = -√3।",
@@ -430,11 +430,11 @@
   },
   {
     "id": "MTH1034",
-    "question": "$\cot 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\cot 120^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "-√3",
-      "B": "-1/√3",
-      "C": "1/√3",
+      "B": "-1/\\sqrt3",
+      "C": "1/\\sqrt3",
       "D": "0"
     },
     "answer": "B",
@@ -443,12 +443,12 @@
   },
   {
     "id": "MTH1035",
-    "question": "$\sec 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\sec 120^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "2",
       "B": "-2",
-      "C": "2/√3",
-      "D": "-2/√3"
+      "C": "2/\\sqrt3",
+      "D": "-2/\\sqrt3"
     },
     "answer": "B",
     "explanation": "sec 120° = 1 / cos 120° = 1 / (-1/2) = -2।",
@@ -456,11 +456,11 @@
   },
   {
     "id": "MTH1036",
-    "question": "$\text{cosec } 120^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\text{cosec } 120^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "2",
-      "B": "2/√3",
-      "C": "-2/√3",
+      "B": "2/\\sqrt3",
+      "C": "-2/\\sqrt3",
       "D": "√3/2"
     },
     "answer": "B",
@@ -469,10 +469,10 @@
   },
   {
     "id": "MTH1037",
-    "question": "$\sin 135^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\sin 135^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
-      "A": "1/√2",
-      "B": "-1/√2",
+      "A": "1/\\sqrt2",
+      "B": "-1/\\sqrt2",
       "C": "1/2",
       "D": "√3/2"
     },
@@ -482,10 +482,10 @@
   },
   {
     "id": "MTH1038",
-    "question": "$\cos 135^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\cos 135^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
-      "A": "1/√2",
-      "B": "-1/√2",
+      "A": "1/\\sqrt2",
+      "B": "-1/\\sqrt2",
       "C": "1/2",
       "D": "-1/2"
     },
@@ -495,7 +495,7 @@
   },
   {
     "id": "MTH1039",
-    "question": "$\tan 135^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\tan 135^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1",
       "B": "-1",
@@ -508,7 +508,7 @@
   },
   {
     "id": "MTH1040",
-    "question": "$\cot 135^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cot 135^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1",
       "B": "-1",
@@ -521,7 +521,7 @@
   },
   {
     "id": "MTH1041",
-    "question": "$\sec 135^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\sec 135^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "√2",
       "B": "-√2",
@@ -534,7 +534,7 @@
   },
   {
     "id": "MTH1042",
-    "question": "$\text{cosec } 135^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\text{cosec } 135^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "√2",
       "B": "-√2",
@@ -547,7 +547,7 @@
   },
   {
     "id": "MTH1043",
-    "question": "$\sin 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\sin 150^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "1/2",
       "B": "-1/2",
@@ -560,7 +560,7 @@
   },
   {
     "id": "MTH1044",
-    "question": "$\cos 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\cos 150^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "√3/2",
       "B": "-√3/2",
@@ -573,12 +573,12 @@
   },
   {
     "id": "MTH1045",
-    "question": "$\tan 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\tan 150^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "√3",
       "B": "-√3",
-      "C": "1/√3",
-      "D": "-1/√3"
+      "C": "1/\\sqrt3",
+      "D": "-1/\\sqrt3"
     },
     "answer": "D",
     "explanation": "tan 150° = tan(180-30) = -tan 30° = -1/√3।",
@@ -586,11 +586,11 @@
   },
   {
     "id": "MTH1046",
-    "question": "$\cot 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\cot 150^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "√3",
       "B": "-√3",
-      "C": "1/√3",
+      "C": "1/\\sqrt3",
       "D": "ଅସଂଜ୍ଞାବଦ୍ଧ"
     },
     "answer": "B",
@@ -599,12 +599,12 @@
   },
   {
     "id": "MTH1047",
-    "question": "$\sec 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\sec 150^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "2",
       "B": "-2",
-      "C": "-2/√3",
-      "D": "2/√3"
+      "C": "-2/\\sqrt3",
+      "D": "2/\\sqrt3"
     },
     "answer": "C",
     "explanation": "sec 150° = 1 / cos 150° = -2/√3।",
@@ -612,7 +612,7 @@
   },
   {
     "id": "MTH1048",
-    "question": "$\text{cosec } 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\text{cosec } 150^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "2",
       "B": "-2",
@@ -625,7 +625,7 @@
   },
   {
     "id": "MTH1049",
-    "question": "$\sin 180^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sin 180^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -638,7 +638,7 @@
   },
   {
     "id": "MTH1050",
-    "question": "$\cos 180^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cos 180^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -651,7 +651,7 @@
   },
   {
     "id": "MTH1051",
-    "question": "$\tan 180^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\tan 180^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -664,7 +664,7 @@
   },
   {
     "id": "MTH1052",
-    "question": "$\cot 180^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\cot 180^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -677,7 +677,7 @@
   },
   {
     "id": "MTH1053",
-    "question": "$\sec 180^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\sec 180^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "1",
       "B": "-1",
@@ -690,7 +690,7 @@
   },
   {
     "id": "MTH1054",
-    "question": "$\text{cosec } 180^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\text{cosec } 180^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -703,7 +703,7 @@
   },
   {
     "id": "MTH1055",
-    "question": "$\sin(180^\circ - \theta)$ କାହା ସହ ସମାନ?",
+    "question": "$\\sin(180^\\circ - \\theta)$ କାହା ସହ ସମାନ?",
     "options": {
       "A": "sin θ",
       "B": "-sin θ",
@@ -716,7 +716,7 @@
   },
   {
     "id": "MTH1056",
-    "question": "$\cos(180^\circ - \theta)$ କାହା ସହ ସମାନ?",
+    "question": "$\\cos(180^\\circ - \\theta)$ କାହା ସହ ସମାନ?",
     "options": {
       "A": "cos θ",
       "B": "-cos θ",
@@ -729,7 +729,7 @@
   },
   {
     "id": "MTH1057",
-    "question": "$\tan(180^\circ - \theta)$ କାହା ସହ ସମାନ?",
+    "question": "$\\tan(180^\\circ - \\theta)$ କାହା ସହ ସମାନ?",
     "options": {
       "A": "tan θ",
       "B": "-tan θ",
@@ -742,7 +742,7 @@
   },
   {
     "id": "MTH1058",
-    "question": "ଯଦି $\triangle ABC$ ରେ $\angle B = 90^\circ$, ତେବେ $\sin^2 A + \sin^2 C$ ର ମୂଲ୍ୟ କେତେ?",
+    "question": "ଯଦି $\\triangle ABC$ ରେ $\\angle B = 90^\\circ$, ତେବେ $\\sin^2 A + \\sin^2 C$ ର ମୂଲ୍ୟ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -794,7 +794,7 @@
   },
   {
     "id": "MTH1062",
-    "question": "$\sin^2 30^\circ + \cos^2 30^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sin^2 30^\\circ + \\cos^2 30^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1/2",
       "B": "1",
@@ -807,7 +807,7 @@
   },
   {
     "id": "MTH1063",
-    "question": "$\tan \theta \cdot \cot \theta$ ର ମାନ କେତେ?",
+    "question": "$\\tan \\theta \\cdot \\cot \\theta$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -820,7 +820,7 @@
   },
   {
     "id": "MTH1064",
-    "question": "$\sin(90^\circ + \theta)$ କାହା ସହ ସମାନ?",
+    "question": "$\\sin(90^\\circ + \\theta)$ କାହା ସହ ସମାନ?",
     "options": {
       "A": "sin θ",
       "B": "cos θ",
@@ -833,7 +833,7 @@
   },
   {
     "id": "MTH1065",
-    "question": "$\cos(90^\circ + \theta)$ କାହା ସହ ସମାନ?",
+    "question": "$\\cos(90^\\circ + \\theta)$ କାହା ସହ ସମାନ?",
     "options": {
       "A": "sin θ",
       "B": "-sin θ",
@@ -846,7 +846,7 @@
   },
   {
     "id": "MTH1066",
-    "question": "$\tan(90^\circ + \theta)$ କାହା ସହ ସମାନ?",
+    "question": "$\\tan(90^\\circ + \\theta)$ କାହା ସହ ସମାନ?",
     "options": {
       "A": "cot θ",
       "B": "-cot θ",
@@ -859,10 +859,10 @@
   },
   {
     "id": "MTH1067",
-    "question": "$\sin 120^\circ + \tan 150^\circ \cdot \cos 135^\circ$ ର ସରଳ ମାନ କେତେ?",
+    "question": "$\\sin 120^\\circ + \\tan 150^\\circ \\cdot \\cos 135^\\circ$ ର ସରଳ ମାନ କେତେ?",
     "options": {
-      "A": "(3+√2)/(2√3)",
-      "B": "(√3+√2)/(2√3)",
+      "A": "(3+\\sqrt2)/(2\\sqrt3)",
+      "B": "(\\sqrt3+\\sqrt2)/(2\\sqrt3)",
       "C": "1",
       "D": "0"
     },
@@ -872,7 +872,7 @@
   },
   {
     "id": "MTH1068",
-    "question": "ଯଦି $\sin \theta = \cos \theta$, ତେବେ $\theta$ ର ମାନ କେତେ ($0 \le \theta \le 90$)?",
+    "question": "ଯଦି $\\sin \\theta = \\cos \\theta$, ତେବେ $\\theta$ ର ମାନ କେତେ ($0 \\le \\theta \\le 90$)?",
     "options": {
       "A": "30°",
       "B": "45°",
@@ -885,7 +885,7 @@
   },
   {
     "id": "MTH1069",
-    "question": "$\sec^2 \theta - \tan^2 \theta$ ର ମାନ କେତେ?",
+    "question": "$\\sec^2 \\theta - \\tan^2 \\theta$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -898,7 +898,7 @@
   },
   {
     "id": "MTH1070",
-    "question": "$\text{cosec}^2 \theta - \cot^2 \theta$ ର ମାନ କେତେ?",
+    "question": "$\\text{cosec}^2 \\theta - \\cot^2 \\theta$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -911,12 +911,12 @@
   },
   {
     "id": "MTH1071",
-    "question": "$\sin(180^\circ)$ ର ମାନ କାହା ସହ ସମାନ?",
+    "question": "$\\sin(180^\\circ)$ ର ମାନ କାହା ସହ ସମାନ?",
     "options": {
       "A": "sin 0°",
       "B": "cos 90°",
       "C": "tan 0°",
-      "D": "ଉପରୋକ୍ତ ସମସ୍ତ"
+      "D": "ଉପරୋକ୍ତ ସମସ୍ତ"
     },
     "answer": "D",
     "explanation": "sin 180°, sin 0°, cos 90° ଏବଂ tan 0° ସମସ୍ତଙ୍କ ମାନ 0 ଅଟେ।",
@@ -924,12 +924,12 @@
   },
   {
     "id": "MTH1072",
-    "question": "$\cos(180^\circ)$ ର ମାନ କାହା ସହ ସମାନ?",
+    "question": "$\\cos(180^\\circ)$ ର ମାନ କାହା ସହ ସମାନ?",
     "options": {
       "A": "sin 270°",
       "B": "-cos 0°",
       "C": "-1",
-      "D": "ଉପରୋକ୍ତ ସମସ୍ତ"
+      "D": "ଉପරୋକ୍ତ ସମସ୍ତ"
     },
     "answer": "D",
     "explanation": "ସମସ୍ତଙ୍କ ମୂଲ୍ୟ -1 ଅଟେ।",
@@ -937,20 +937,20 @@
   },
   {
     "id": "MTH1073",
-    "question": "$\tan 150^\circ$ ର ମାନ କେଉଁଟି?",
+    "question": "$\\tan 150^\\circ$ ର ମାନ କେଉଁଟି?",
     "options": {
       "A": "√3",
-      "B": "-1/√3",
-      "C": "1/√3",
+      "B": "-1/\\sqrt3",
+      "C": "1/\\sqrt3",
       "D": "-√3"
     },
     "answer": "B",
-    "explanation": "tan 150° = -tan 30° = -1/√3।",
+    "explanation": "tan 150° = -tan 30° = -1/\\sqrt3।",
     "difficulty": "medium"
   },
   {
     "id": "MTH1074",
-    "question": "$\sin A \cdot \text{cosec } A$ କେତେ?",
+    "question": "$\\sin A \\cdot \\text{cosec } A$ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -963,7 +963,7 @@
   },
   {
     "id": "MTH1075",
-    "question": "$\cos A \cdot \sec A$ କେତେ?",
+    "question": "$\\cos A \\cdot \\sec A$ କେତେ?",
     "options": {
       "A": "1",
       "B": "0",
@@ -976,7 +976,7 @@
   },
   {
     "id": "MTH1076",
-    "question": "$\sin(180^\circ - \theta) \cdot \cos(90^\circ + \theta) + \sin(90^\circ + \theta) \cdot \cos(180^\circ - \theta)$ ର ମାନ କେତେ?",
+    "question": "$\\sin(180^\\circ - \\theta) \\cdot \\cos(90^\\circ + \\theta) + \\sin(90^\\circ + \\theta) \\cdot \\cos(180^\\circ - \\theta)$ ର ମାନ କେତେ?",
     "options": {
       "A": "0",
       "B": "1",
@@ -989,7 +989,7 @@
   },
   {
     "id": "MTH1077",
-    "question": "$\tan 45^\circ + \cot 45^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\tan 45^\\circ + \\cot 45^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1",
       "B": "2",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "MTH1078",
-    "question": "$\sec 60^\circ / \text{cosec } 30^\circ$ ର ମାନ କେତେ?",
+    "question": "$\\sec 60^\\circ / \\text{cosec } 30^\\circ$ ର ମାନ କେତେ?",
     "options": {
       "A": "1",
       "B": "2",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "MTH1079",
-    "question": "$\sin \theta / \cos \theta$ କାହା ସହ ସମାନ?",
+    "question": "$\\sin \\theta / \\cos \\theta$ କାହା ସହ ସମାନ?",
     "options": {
       "A": "cot θ",
       "B": "tan θ",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": "MTH1080",
-    "question": "$\cos \theta / \sin \theta$ କାହା ସହ ସମାନ?",
+    "question": "$\\cos \\theta / \\sin \\theta$ କାହା ସହ ସମାନ?",
     "options": {
       "A": "tan θ",
       "B": "cot θ",

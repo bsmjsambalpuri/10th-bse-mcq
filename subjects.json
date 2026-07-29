@@ -5,75 +5,92 @@
     {
       "id": 1,
       "name": "Odia",
+	  "name_or":"ଓଡ଼ିଆ ସାହିତ୍ୟ",
       "subject_code": "FLO",
       "type": "mandatory",
       "marks": 100,
-      "pass_marks": 33
+      "pass_marks": 33,
+	  "exam_pattern":"Objective- [1 hours]\n***********************\nMCQ :- 1x50= 50 Marks\n\nSubjective- [1.5 hours]\n************************\nଦୀର୍ଘ ଉତ୍ତରମୂଳକ :- 5x2 = 10 Marks\nସରଳାର୍ଥ :- 5x2 = 10 Marks\nପ୍ରବନ୍ଧ:-10x1 = 10 Marks\nପତ୍ର ଲିଖନ :- 5x2 = 10 Marks\nଅନୁଚ୍ଛେଦ :- 2×5 = 10 Marks"
     },
     {
       "id": 2,
       "name": "English",
+	  "name_or":"ଇଂରାଜୀ",
       "subject_code": "SLE",
       "type": "mandatory",
       "marks": 100,
-      "pass_marks": 33
+      "pass_marks": 33,
+	  "exam_pattern":"Objective- [1 hours]\n***********************\nMCQ :- 1x50= 50 Marks\n\nSubjective- [1.5 hours]\n************************\nLong Questions(in 50Words) :- 5x2 = 10 Marks\nShort Questions(in 30Words) :- 2.5x2 = 5 Marks\nReport/Summery Writing:-5x1 = 5 Marks\nEssay :- 10x1 = 10 Marks\nTranslation :- 2×5 = 10 Marks\nLetter Writing:-5x1 = 5 Marks\nPassage:-1x5 = 5 Marks"
     },
     {
       "id": 3,
       "name": "Hindi",
+	  "name_or":"ହିନ୍ଦୀ",
       "subject_code": "TLH",
       "type": "optional",
       "marks": 100,
-      "pass_marks": 33
+      "pass_marks": 33,
+	  "exam_pattern":"Objective- [1 hours]\n***********************\nMCQ :- 1x50= 50 Marks\n\nSubjective- [1.5 hours]\n************************\nदीर्घ प्रश्न:- 5x2 = 10 Marks\nSभावार्थ(in 50Words) :- 5x2 = 10 Marks\nअनुच्छेद:-2×5 = 10 Marks\nअनुवाद :- 2×5 = 10 Marks\nव्याकरण :- 2×5 = 10 Marks"
     },
     {
       "id": 4,
       "name": "Sanskrit",
+	  "name_or":"ସଂସ୍କୃତ",
       "subject_code": "TLS",
       "type": "optional",
       "marks": 100,
-      "pass_marks": 33
+      "pass_marks": 33,
+	  "exam_pattern":"Objective- [1 hours]\n***********************\nMCQ :- 1x50= 50 Marks\n\nSubjective- [1.5 hours]\n************************\nLong Question (Text):- 5x2 = 10 Marks\nLong Question (Poem):- 5x2 = 10 Marks\nଅନୁଚ୍ଛେଦ:-2×5 = 10 Marks\nଅନୁବାଦ :- 2×5 = 10 Marks\nବାକ୍ୟ ଗଠନ :- 2×5 = 10 Marks"
     },
     {
       "id": 5,
       "name": "Mathematics",
+	  "name_or":"ଗଣିତ ",
       "subject_code": "MTH",
       "type": "mandatory",
       "marks": 100,
-      "pass_marks": 33
+      "pass_marks": 33,
+	  "exam_pattern":"Objective- [1 hours]\n***********************\nMCQ :- 1x50= 50 Marks\n\nSubjective- [1.5 hours]\n************************\nLong Question:- 5x10 = 50 Marks"
     },
     {
       "id": 6,
       "name": "Physical Science",
+	  "name_or":"ଭୌତିକ ବିଜ୍ଞାନ",
       "subject_code": "SCP",
       "type": "mandatory",
       "marks": 50,
-      "pass_marks": 17
+      "pass_marks": 17,
+	  "exam_pattern":"Objective- [30 Minutes]\n***********************\nMCQ :- 1x25= 25 Marks\n\nSubjective- [45 Minutes]\n************************\nLong Questions:- 4x2 = 8 Marks\nLong  Questions:- 3x3 = 9 Marks\nShort Questions:-2x4=8 Marks"
     },
     {
       "id": 7,
       "name": "LifeScience",
-      "name": "LifeScience",
+	  "name_or":"ଜୀବ ବିଜ୍ଞାନ",
       "subject_code": "SCL",
       "type": "mandatory",
       "marks": 50,
-      "pass_marks": 17
+      "pass_marks": 17,
+	  "exam_pattern":"Objective- [30 Minutes]\n***********************\nMCQ :- 1x25= 25 Marks\n\nSubjective- [45 Minutes]\n************************\nLong Questions:- 4x2 = 8 Marks\nLong  Questions:- 3x3 = 9 Marks\nShort Questions:-2x4=8 Marks"
     },
     {
       "id": 8,
       "name": "Social Science\n-History",
+	  "name_or":"ଇତିହାସ ଓ ରାଜନୀତି ବିଜ୍ଞାନ",
       "subject_code": "SSH",
       "type": "mandatory",
       "marks": 50,
-      "pass_marks": 17
+      "pass_marks": 17,
+	  "exam_pattern":"Objective- [30 Minutes]\n***********************\nMCQ :- 1x25= 25 Marks\n\nSubjective- [45 Minutes]\n************************\nLong Questions:- 4x2 = 8 Marks\nLong  Questions:- 3x3 = 9 Marks\nShort Questions:-2x4=8 Marks"
     },
     {
       "id": 9,
       "name": "Social Science\n-Geography",
+	  "name_or":"ଭୂଗୋଳ ଓ ଅର୍ଥନୀତି",
       "subject_code": "SSG",
       "type": "mandatory",
       "marks": 50,
-      "pass_marks": 17
+      "pass_marks": 17,
+	  "exam_pattern":"Objective- [30 Minutes]\n***********************\nMCQ :- 1x25= 25 Marks\n\nSubjective- [45 Minutes]\n************************\nLong Questions:- 4x2 = 8 Marks\nLong  Questions:- 3x3 = 9 Marks\nShort Questions:-2x4=8 Marks"
     }
   ]
 }
