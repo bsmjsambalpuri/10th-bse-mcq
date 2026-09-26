@@ -1,0 +1,917 @@
+﻿{
+  "chapter_id": "SLE27",
+  "chapter_name": "At the High School",
+  "questions": [
+    {
+      "id": "SLE2701",
+      "question": "In which state was the Rajkot English School located where Gandhi received his early education?",
+      "options": {
+        "A": "Maharashtra",
+        "B": "Gujarat",
+        "C": "Rajasthan",
+        "D": "Uttar Pradesh"
+      },
+      "answer": "B",
+      "explanation": "Gandhi received his early education at Rajkot English School in the state of Gujarat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2702",
+      "question": "What was Rajkot English School renamed after independence in 1947?",
+      "options": {
+        "A": "Father of the Nation High School",
+        "B": "Rajkot State School",
+        "C": "Mohandas Gandhi High School",
+        "D": "Mahatma Gandhi Vidyalaya"
+      },
+      "answer": "C",
+      "explanation": "After independence in 1947, the school was renamed the 'Mohandas Gandhi High School'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2703",
+      "question": "According to the lead-in, in which subject was Gandhi noted to be weak?",
+      "options": {
+        "A": "Arithmetic",
+        "B": "English",
+        "C": "Geography",
+        "D": "Sanskrit"
+      },
+      "answer": "C",
+      "explanation": "Gandhi was noted to be good at English, fair in Arithmetic, and weak in Geography.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2704",
+      "question": "What was Gandhi's reaction whenever he won prizes and scholarships?",
+      "options": {
+        "A": "He expected them.",
+        "B": "He was astonished.",
+        "C": "He was indifferent.",
+        "D": "He was proud."
+      },
+      "answer": "B",
+      "explanation": "He was astonished whenever he won prizes and scholarships.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2705",
+      "question": "From which chapter of Gandhi's autobiography is this text an extract?",
+      "options": {
+        "A": "Chapter 1",
+        "B": "Chapter 3",
+        "C": "Chapter 5",
+        "D": "Chapter 10"
+      },
+      "answer": "C",
+      "explanation": "The text describes Gandhi's high school days as described in Chapter 5 of his autobiography.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2706",
+      "question": "To whom were the certificates of progress and character sent every year?",
+      "options": {
+        "A": "The Headmaster",
+        "B": "Gandhi himself",
+        "C": "The parents",
+        "D": "The government"
+      },
+      "answer": "C",
+      "explanation": "Certificates of progress and character used to be sent to the parents every year.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2707",
+      "question": "In which standards did Gandhi obtain scholarships of rupees four and ten respectively?",
+      "options": {
+        "A": "Third and Fourth",
+        "B": "Fifth and Sixth",
+        "C": "Sixth and Seventh",
+        "D": "Fourth and Fifth"
+      },
+      "answer": "B",
+      "explanation": "In the fifth and sixth standards, he obtained scholarships of rupees four and ten respectively.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2708",
+      "question": "What did Gandhi thank more than his merit for his achievement in winning scholarships?",
+      "options": {
+        "A": "Hard work",
+        "B": "Good luck",
+        "C": "His teachers",
+        "D": "His father"
+      },
+      "answer": "B",
+      "explanation": "He stated it was an achievement for which he had to thank good luck more than his merit.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2709",
+      "question": "What did Gandhi 'jealously guard' during his school days?",
+      "options": {
+        "A": "His books",
+        "B": "His scholarships",
+        "C": "His character",
+        "D": "His prizes"
+      },
+      "answer": "C",
+      "explanation": "Gandhi wrote, 'But I very jealously guarded my character'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2710",
+      "question": "What would draw tears from Gandhi's eyes?",
+      "options": {
+        "A": "Physical pain",
+        "B": "Hard subjects",
+        "C": "The least little blemish on his character",
+        "D": "Missing his family"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'The least little blemish drew tears from my eyes'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2711",
+      "question": "How did Gandhi feel when he merited or seemed to merit a rebuke from his teacher?",
+      "options": {
+        "A": "Indifferent",
+        "B": "Unbearable",
+        "C": "Angry",
+        "D": "Happy"
+      },
+      "answer": "B",
+      "explanation": "When he merited a rebuke, it was 'unbearable' for him.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2712",
+      "question": "In which standard did Gandhi remember receiving corporal punishment for the first time?",
+      "options": {
+        "A": "Fifth or Sixth",
+        "B": "First or Second",
+        "C": "Seventh",
+        "D": "High School graduation"
+      },
+      "answer": "B",
+      "explanation": "He remembers receiving corporal punishment when he was in the first or second standard.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2713",
+      "question": "Who was the headmaster when Gandhi was in the seventh standard?",
+      "options": {
+        "A": "Krishnashankar Pandya",
+        "B": "Mahmoud",
+        "C": "Dorabji Edulji Gimi",
+        "D": "G.L. Fuentes"
+      },
+      "answer": "C",
+      "explanation": "Dorabji Edulji Gimi was the headmaster then.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2714",
+      "question": "Which activities were made compulsory for the boys of the upper standards by the headmaster?",
+      "options": {
+        "A": "Football and Hockey",
+        "B": "Gymnastics and Cricket",
+        "C": "Wrestling and Yoga",
+        "D": "Sprinting and Long Jump"
+      },
+      "answer": "B",
+      "explanation": "The headmaster made gymnastics and cricket compulsory for the boys of upper standard.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2715",
+      "question": "What was one of the reasons for Gandhi's 'aloofness' from compulsory physical exercises?",
+      "options": {
+        "A": "Laziness",
+        "B": "Weakness",
+        "C": "Shyness",
+        "D": "Arrogance"
+      },
+      "answer": "C",
+      "explanation": "Gandhi mentions, 'My shyness was one of the reasons for this aloofness'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2716",
+      "question": "What false notion did Gandhi have about gymnastics in school?",
+      "options": {
+        "A": "It was only for athletes.",
+        "B": "It had nothing to do with education.",
+        "C": "It was dangerous for health.",
+        "D": "It was a waste of money."
+      },
+      "answer": "B",
+      "explanation": "He had the false notion that gymnastics had nothing to do with education.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2717",
+      "question": "In his later years, Gandhi realized that physical training should have as much place in the curriculum as ______.",
+      "options": {
+        "A": "Social training",
+        "B": "Religious training",
+        "C": "Mental training",
+        "D": "Vocational training"
+      },
+      "answer": "C",
+      "explanation": "He later knew that physical training should have much place in the curriculum as mental training.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2718",
+      "question": "What was Gandhi's keen desire that made him dislike compulsory exercise?",
+      "options": {
+        "A": "To read books",
+        "B": "To serve as nurse to his father",
+        "C": "To play with his friends",
+        "D": "To work and earn money"
+      },
+      "answer": "B",
+      "explanation": "The reason for his dislike was his 'keen desire to serve as nurse to my father'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2719",
+      "question": "What did Gandhi do as soon as the school closed?",
+      "options": {
+        "A": "He went to the playground.",
+        "B": "He would hurry home and begin serving his father.",
+        "C": "He went to the library.",
+        "D": "He attended extra classes."
+      },
+      "answer": "B",
+      "explanation": "As soon as school closed, he would hurry home to serve his father.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2720",
+      "question": "Why did Gandhi reach school late for gymnastics one Saturday afternoon?",
+      "options": {
+        "A": "He fell asleep.",
+        "B": "He had no watch and the clouds deceived him.",
+        "C": "He was stopped by his father.",
+        "D": "He lost his way."
+      },
+      "answer": "B",
+      "explanation": "He had no watch, and the clouds deceived him, leading him to reach school after the boys had left.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2721",
+      "question": "What time was the gymnastics class scheduled for on that particular Saturday?",
+      "options": {
+        "A": "10 o'clock in the morning",
+        "B": "2 o'clock in the afternoon",
+        "C": "4 o'clock in the afternoon",
+        "D": "6 o'clock in the evening"
+      },
+      "answer": "C",
+      "explanation": "He had to come from home to school for gymnastics at four o'clock in the afternoon.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2722",
+      "question": "What was the fine ordered by Mr. Gimi for Gandhi's absence?",
+      "options": {
+        "A": "One or two rupees",
+        "B": "Ten annas",
+        "C": "One or two annas",
+        "D": "Five pesos"
+      },
+      "answer": "C",
+      "explanation": "Mr. Gimi refused to believe him and ordered him to pay a fine of one or two annas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2723",
+      "question": "What was Gandhi 'convicted' of, which deeply pained him?",
+      "options": {
+        "A": "Stealing",
+        "B": "Lying",
+        "C": "Neglecting studies",
+        "D": "Disrespecting teachers"
+      },
+      "answer": "B",
+      "explanation": "He was convicted of lying, which deeply pained him.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2724",
+      "question": "What lesson did Gandhi learn from the incident where he was accused of lying?",
+      "options": {
+        "A": "A man of truth must also be a man of care.",
+        "B": "A man should always carry a watch.",
+        "C": "He should never trust a headmaster.",
+        "D": "Physical exercise is not important."
+      },
+      "answer": "A",
+      "explanation": "Gandhi realized that 'a man of truth must also be a man of care'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2725",
+      "question": "How did Gandhi eventually obtain exemption from physical exercise?",
+      "options": {
+        "A": "By paying a large fine",
+        "B": "His father wrote to the headmaster.",
+        "C": "He became very ill.",
+        "D": "He passed a special exam."
+      },
+      "answer": "B",
+      "explanation": "The exemption was obtained as his father wrote himself to the headmaster saying he wanted Gandhi at home after school.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2726",
+      "question": "Where was Gandhi when he realized that good handwriting is a necessary part of education?",
+      "options": {
+        "A": "Rajkot",
+        "B": "England",
+        "C": "South Africa",
+        "D": "Mumbai"
+      },
+      "answer": "C",
+      "explanation": "When he was in South Africa, he saw the beautiful handwriting of others and felt ashamed of his own.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2727",
+      "question": "According to Gandhi, bad handwriting should be regarded as a sign of ______.",
+      "options": {
+        "A": "Lack of time",
+        "B": "An imperfect education",
+        "C": "High intelligence",
+        "D": "Creative thinking"
+      },
+      "answer": "B",
+      "explanation": "He saw that 'bad handwriting should be regarded as a sign of an imperfect education'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2728",
+      "question": "What art does Gandhi believe children should be taught before learning to write?",
+      "options": {
+        "A": "The art of singing",
+        "B": "The art of drawing",
+        "C": "The art of speaking",
+        "D": "The art of reading"
+      },
+      "answer": "B",
+      "explanation": "Gandhi's opinion was that 'children should first be taught the art of drawing before learning to write'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2729",
+      "question": "Why did Gandhi consider Sanskrit harder than geometry?",
+      "options": {
+        "A": "Geometry was more interesting.",
+        "B": "Sanskrit required everything to be learnt by heart.",
+        "C": "The Sanskrit teacher was lenient.",
+        "D": "He didn't like memorizing shapes."
+      },
+      "answer": "B",
+      "explanation": "He thought in geometry there was nothing to memorise, whereas in Sanskrit 'everything had to be learnt by heart'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2730",
+      "question": "In which standard was the subject of Sanskrit commenced?",
+      "options": {
+        "A": "First standard",
+        "B": "Second standard",
+        "C": "Fourth standard",
+        "D": "Sixth standard"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'This subject was also commenced from the fourth standard'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2731",
+      "question": "How did Gandhi describe the Sanskrit teacher in the text?",
+      "options": {
+        "A": "A kind friend",
+        "B": "A hard taskmaster",
+        "C": "A lenient person",
+        "D": "A man of few words"
+      },
+      "answer": "B",
+      "explanation": "The teacher was a 'hard taskmaster', as Gandhi thought.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2732",
+      "question": "Why was Gandhi tempted to sit in the Persian class?",
+      "options": {
+        "A": "He liked the Persian language.",
+        "B": "The Persian teacher was strict.",
+        "C": "Boys said Persian was very easy.",
+        "D": "He wanted to learn a new script."
+      },
+      "answer": "C",
+      "explanation": "The 'easiness' of Persian as discussed by other boys tempted him.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2733",
+      "question": "What did the Sanskrit teacher remind Gandhi regarding his religious background?",
+      "options": {
+        "A": "He was a prince.",
+        "B": "He was the son of a Vaishnava father.",
+        "C": "He was a leader of the nation.",
+        "D": "He was a student of truth."
+      },
+      "answer": "B",
+      "explanation": "The teacher asked, 'How can you forget that you are the son of a Vaishnava father?'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2734",
+      "question": "Who was the Sanskrit teacher that Gandhi thanked with gratitude in his later life?",
+      "options": {
+        "A": "G.L. Fuentes",
+        "B": "Krishnashankar Pandya",
+        "C": "Dorabji Edulji Gimi",
+        "D": "Lord Eustace Percy"
+      },
+      "answer": "B",
+      "explanation": "Gandhi writes, 'Today I cannot but thank with gratitude of Krishnashankar Pandya'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2735",
+      "question": "Why was the study of Sanskrit important for Gandhi in his later life?",
+      "options": {
+        "A": "To get a job",
+        "B": "To take interest in sacred books",
+        "C": "To travel to England",
+        "D": "To talk to Persian teachers"
+      },
+      "answer": "B",
+      "explanation": "Without that little Sanskrit, he would have 'found it difficult to take any interest in our sacred books'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2736",
+      "question": "What does the word 'rebuke' mean in the context of paragraph 2?",
+      "options": {
+        "A": "A award",
+        "B": "A gift",
+        "C": "An expression of sharp disapproval or criticism",
+        "D": "A physical game"
+      },
+      "answer": "C",
+      "explanation": "In context, a rebuke is criticism from a teacher that Gandhi found unbearable.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2737",
+      "question": "The word 'blemish' in the text refers to a ______.",
+      "options": {
+        "A": "Physical scar",
+        "B": "Moral defect",
+        "C": "New prize",
+        "D": "Hard lesson"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'blemish' as a moral defect.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2738",
+      "question": "What is the meaning of the idiom 'be none the worse' used in paragraph 5?",
+      "options": {
+        "A": "To be very ill",
+        "B": "To be not harmed or affected by something",
+        "C": "To become even better",
+        "D": "To fail an exam"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'be none the worse' as to not be harmed/affected by something.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2739",
+      "question": "What does the term 'notion' mean as used in paragraph 5?",
+      "options": {
+        "A": "A physical object",
+        "B": "An impression or idea",
+        "C": "A type of ink",
+        "D": "A school rule"
+      },
+      "answer": "B",
+      "explanation": "Glossary: notion - an impression, an idea.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2740",
+      "question": "According to the vocabulary section, 'unbearable' is formed by adding which negative prefix to 'bearable'?",
+      "options": {
+        "A": "dis",
+        "B": "mis",
+        "C": "un",
+        "D": "in"
+      },
+      "answer": "C",
+      "explanation": "The prefix 'un' is added to the beginning of 'bearable' to make it 'unbearable'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2741",
+      "question": "Which of these words uses the prefix 'dis' to form its opposite, as shown in the exercises?",
+      "options": {
+        "A": "Believable",
+        "B": "Possible",
+        "C": "Obedient",
+        "D": "Lucky"
+      },
+      "answer": "C",
+      "explanation": "The text gives the example: disobedient = dis + obedient.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2742",
+      "question": "In the sentence 'Before I reached the school, the boys had all left', which event took place first?",
+      "options": {
+        "A": "Gandhi reaching the school",
+        "B": "The boys leaving",
+        "C": "The rain starting",
+        "D": "The bell ringing"
+      },
+      "answer": "B",
+      "explanation": "The Past Perfect 'had all left' indicates the event that took place earlier than the Simple Past 'reached'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2743",
+      "question": "According to the grammar section on conditional clauses, which structure talks about 'impossible, unreal or imaginary events in the past'?",
+      "options": {
+        "A": "Simple Present + Will",
+        "B": "If + had + V-en, would + have + V-en",
+        "C": "Simple Past + Would",
+        "D": "If + V1, S + V1"
+      },
+      "answer": "B",
+      "explanation": "The structure If + S + had not + V-en, S + should/would + have + V-en is used for unreal conditions in the past.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2744",
+      "question": "Fill in the blank with the correct preposition: 'She was deeply ashamed ______ her behavior at the party.'",
+      "options": {
+        "A": "from",
+        "B": "of",
+        "C": "with",
+        "D": "to"
+      },
+      "answer": "B",
+      "explanation": "The exercise uses the preposition 'of' with ashamed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2745",
+      "question": "Fill in the blank: 'Charities are exempted ______ paying tax.'",
+      "options": {
+        "A": "to",
+        "B": "from",
+        "C": "of",
+        "D": "with"
+      },
+      "answer": "B",
+      "explanation": "The glossary and exercises use 'exempt from'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2746",
+      "question": "What does the word 'commence' mean?",
+      "options": {
+        "A": "To end",
+        "B": "To begin or start",
+        "C": "To pause",
+        "D": "To study"
+      },
+      "answer": "B",
+      "explanation": "Glossary: commence - to begin or start.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2747",
+      "question": "Which word from the text means 'severe mental suffering'?",
+      "options": {
+        "A": "Rebuke",
+        "B": "Anguish",
+        "C": "Blemish",
+        "D": "Penalty"
+      },
+      "answer": "B",
+      "explanation": "Glossary: anguish - severe mental suffering.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2748",
+      "question": "Gandhi was noted to be ______ in Arithmetic.",
+      "options": {
+        "A": "Good",
+        "B": "Fair",
+        "C": "Weak",
+        "D": "Bad"
+      },
+      "answer": "B",
+      "explanation": "According to accounts, he was fair in Arithmetic.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2749",
+      "question": "Which nickname for Gandhi was used by his Sanskrit teacher in the role-play dialogue?",
+      "options": {
+        "A": "Bapu",
+        "B": "Moniya",
+        "C": "Mohandas",
+        "D": "Mahatma"
+      },
+      "answer": "B",
+      "explanation": "The Sanskrit teacher addresses him as 'Moniya' or 'Manu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2750",
+      "question": "What is the opposite of 'merit' as mentioned in the vocabulary prefix exercise?",
+      "options": {
+        "A": "Mismerit",
+        "B": "Unmerit",
+        "C": "Demerit",
+        "D": "Immerit"
+      },
+      "answer": "C",
+      "explanation": "The word 'demerit' is formed with the prefix 'de-'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2751",
+      "question": "Gandhi was the 'greatest of our independence movement' and is popularly called the ______.",
+      "options": {
+        "A": "Great Soul",
+        "B": "Father of the Nation",
+        "C": "Lion of Gujarat",
+        "D": "Leader of Leaders"
+      },
+      "answer": "B",
+      "explanation": "He is popularly called the Father of the Nation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2752",
+      "question": "At what age did Gandhi matriculate from Rajkot High School?",
+      "options": {
+        "A": "15",
+        "B": "18",
+        "C": "21",
+        "D": "25"
+      },
+      "answer": "B",
+      "explanation": "Gandhi matriculated from this school in 1887 at the age of 18.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2753",
+      "question": "What did Gandhi have 'no high regard' for during his student life?",
+      "options": {
+        "A": "His teachers",
+        "B": "His character",
+        "C": "His 'ability'",
+        "D": "The school rules"
+      },
+      "answer": "C",
+      "explanation": "The text says, 'Though he did not have any high regard for his 'ability'...'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2754",
+      "question": "In the summary table, what is the main theme of Paragraph 5?",
+      "options": {
+        "A": "Games",
+        "B": "Sanskrit",
+        "C": "Handwriting",
+        "D": "Scholarships"
+      },
+      "answer": "C",
+      "explanation": "Paragraph 5 of the text focuses on Gandhi's views and regrets regarding handwriting.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2755",
+      "question": "What does the word 'lenient' mean?",
+      "options": {
+        "A": "Very strict",
+        "B": "Not strict",
+        "C": "Always angry",
+        "D": "Highly educated"
+      },
+      "answer": "B",
+      "explanation": "Glossary: lenient - not strict.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2756",
+      "question": "Gandhi warns young men and women to understand that good handwriting is a ______ part of education.",
+      "options": {
+        "A": "Useless",
+        "B": "Secondary",
+        "C": "Necessary",
+        "D": "Difficult"
+      },
+      "answer": "C",
+      "explanation": "He warns them to 'understand that good handwriting is a necessary part of education'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2757",
+      "question": "What 'deceived' Gandhi on the Saturday he was late for gymnastics?",
+      "options": {
+        "A": "His friends",
+        "B": "The clouds",
+        "C": "His father",
+        "D": "The school bell"
+      },
+      "answer": "B",
+      "explanation": "Gandhi writes, 'I had no watch, and the cloud deceived me'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2758",
+      "question": "The Sanskrit teacher was 'grieved' because Gandhi ______.",
+      "options": {
+        "A": "Failed the exam",
+        "B": "Sat in the Persian class",
+        "C": "Lost his book",
+        "D": "Was late for class"
+      },
+      "answer": "B",
+      "explanation": "The text says, 'one day I sat in the Persian class. The Sanskrit teacher was grieved'.",
+      "explanation": "B",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2759",
+      "question": "According to Gandhi, children should learn their letters by ______ as he does different objects.",
+      "options": {
+        "A": "Writing",
+        "B": "Observation",
+        "C": "Listening",
+        "D": "Repeating"
+      },
+      "answer": "B",
+      "explanation": "Gandhi suggests, 'Let the child learn his letters by observation'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2760",
+      "question": "What is the meaning of 'sacred'?",
+      "options": {
+        "A": "Scary",
+        "B": "Holy",
+        "C": "Secret",
+        "D": "Old"
+      },
+      "answer": "B",
+      "explanation": "Glossary: sacred - holy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2761",
+      "question": "Which event occurred first in Gandhi's life according to the text?",
+      "options": {
+        "A": "Going to England",
+        "B": "Winning scholarships in the 5th standard",
+        "C": "Seeing beautiful handwriting in South Africa",
+        "D": "Matriculating at age 18"
+      },
+      "answer": "B",
+      "explanation": "Winning scholarships in the 5th standard preceded his matriculation (at 18) and his travel to England/South Africa.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2762",
+      "question": "What does the word 'curriculum' mean?",
+      "options": {
+        "A": "A race track",
+        "B": "A course of study in a school or college",
+        "C": "A type of punishment",
+        "D": "A sports ground"
+      },
+      "answer": "B",
+      "explanation": "Glossary: curriculum - course of study in a school or a college.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2763",
+      "question": "The Persian teacher was described as ______ to the students.",
+      "options": {
+        "A": "Unkind",
+        "B": "Considerate",
+        "C": "Distant",
+        "D": "Strict"
+      },
+      "answer": "B",
+      "explanation": "The boys said the Persian teacher was 'very good and considerate to the students'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2764",
+      "question": "Gandhi writes that 'a sort of ______' was going on between the Sanskrit and Persian teachers.",
+      "options": {
+        "A": "Friendship",
+        "B": "Rivalry",
+        "C": "Agreement",
+        "D": "Partnership"
+      },
+      "answer": "B",
+      "explanation": "The text states, 'There was a sort of rivalry going on between the Sanskrit and the Persian teachers'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2765",
+      "question": "How did Gandhi feel about his teachers at high school?",
+      "options": {
+        "A": "He hated them.",
+        "B": "He enjoyed their affection.",
+        "C": "He was afraid of them.",
+        "D": "He ignored them."
+      },
+      "answer": "B",
+      "explanation": "Gandhi writes, 'I always enjoyed the affection of my teachers'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2766",
+      "question": "Complete the phrase: 'The least little ______ drew tears from my eyes.'",
+      "options": {
+        "A": "Mistake",
+        "B": "Blemish",
+        "C": "Word",
+        "D": "Failure"
+      },
+      "answer": "B",
+      "explanation": "The text uses the word 'blemish' to describe something that upset Gandhi deeply.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2767",
+      "question": "Gandhi considered himself an 'ox of a man' in what sense in his later life?",
+      "options": {
+        "A": "He was very slow.",
+        "B": "He worked like an animal in the fields.",
+        "C": "He was physically huge.",
+        "D": "He was very stubborn."
+      },
+      "answer": "B",
+      "explanation": "The text (quoting from A Letter to God context but applied here in exercise analysis) notes 'Lencho was an ox of a man' means working like an animal.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2768",
+      "question": "Which book is NOT mentioned as one of the leading books by Mahatma Gandhi?",
+      "options": {
+        "A": "The Story of My Experiments with Truth",
+        "B": "Hind Swaraj",
+        "C": "Indian Home Rule",
+        "D": "The Golden Threshold"
+      },
+      "answer": "D",
+      "explanation": "'The Golden Threshold' is by Sarojini Naidu. The others are by Gandhi.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2769",
+      "question": "The headmaster Mr. Gimi was popular because he was a ______.",
+      "options": {
+        "A": "Great athlete",
+        "B": "Disciplinarian",
+        "C": "Rich man",
+        "D": "Prince"
+      },
+      "answer": "B",
+      "explanation": "He was popular as he was a disciplinarian, a man of method and a good teacher.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2770",
+      "question": "What does the word 'retain' mean?",
+      "options": {
+        "A": "To throw away",
+        "B": "To continue to have or possess",
+        "C": "To change frequently",
+        "D": "To learn quickly"
+      },
+      "answer": "B",
+      "explanation": "Glossary: retain - continue to have or possess.",
+      "difficulty": "medium"
+    }
+  ]
+}

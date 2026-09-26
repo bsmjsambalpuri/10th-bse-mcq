@@ -1,6 +1,18 @@
 {
-  "version": 2,
+  "version": 1,
   "files": [
     "notification.json",
+	"chapters.json",
+	"SLE/SLE03.json",
+	"SLE/SLE09.json",
+	"SLE/SLE10.json",
+	"SLE/SLE12.json",
+	"SLE/SLE13.json",
+	"SLE/SLE14.json",
+	"SLE/SLE15.json",
+	"SLE/SLE26.json",
+	"SLE/SLE27.json",
+	"SLE/SLE28.json",
+	"SLE/SLE29.json"
   ]
 }

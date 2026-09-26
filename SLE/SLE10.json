@@ -1,1 +1,916 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE10",
+  "chapter_name": "School’s Goodbye",
+  "questions": [
+    {
+      "id": "SLE1001",
+      "question": "Who is the author of the essay 'School’s Goodbye'?",
+      "options": {
+        "A": "G.L. Fuentes",
+        "B": "Lord Eustace Percy",
+        "C": "Rabindranath Tagore",
+        "D": "Sarojini Naidu"
+      },
+      "answer": "B",
+      "explanation": "The essay is written by Lord Eustace Percy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1002",
+      "question": "What was the former profession of Lord Eustace Percy?",
+      "options": {
+        "A": "Chief Minister",
+        "B": "Governor of Odisha",
+        "C": "Minister of Education in Britain",
+        "D": "A famous poet"
+      },
+      "answer": "C",
+      "explanation": "Lord Eustace Percy was a former Minister of Education in Britain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1003",
+      "question": "To whom is the message in 'School’s Goodbye' primarily addressed?",
+      "options": {
+        "A": "Primary school children",
+        "B": "Teachers only",
+        "C": "School-leaving students",
+        "D": "Parents of students"
+      },
+      "answer": "C",
+      "explanation": "The text is a message to school children about to leave school.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1004",
+      "question": "What does the author desire to send the students before they leave?",
+      "options": {
+        "A": "Money and prizes",
+        "B": "Best wishes for future welfare",
+        "C": "Their final certificates",
+        "D": "New books"
+      },
+      "answer": "B",
+      "explanation": "The text says, 'before you go we desire to send you our best wishes for your future welfare'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1005",
+      "question": "According to the author, when does education finish?",
+      "options": {
+        "A": "After the test examination",
+        "B": "When you leave school",
+        "C": "Never; it must continue",
+        "D": "After getting a job"
+      },
+      "answer": "C",
+      "explanation": "The author hopes students will not 'think that your education is finished' and states you must continue it to succeed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1006",
+      "question": "What is required to 'secure' success in life?",
+      "options": {
+        "A": "Luck and money",
+        "B": "Hard work and continued learning",
+        "C": "A high-paying job",
+        "D": "Influential friends"
+      },
+      "answer": "B",
+      "explanation": "Success 'only comes to those who work hard and continue learning'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1007",
+      "question": "How should a student choose a trade or profession?",
+      "options": {
+        "A": "Quickly",
+        "B": "Based on salary only",
+        "C": "With the greatest care",
+        "D": "By following friends"
+      },
+      "answer": "C",
+      "explanation": "The author advises: 'Choose with the greatest care'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1008",
+      "question": "What type of occupation should students 'avoid as far as you can'?",
+      "options": {
+        "A": "Difficult work",
+        "B": "Any occupation that leads nowhere",
+        "C": "Government jobs",
+        "D": "Manual labor"
+      },
+      "answer": "B",
+      "explanation": "The text says to 'avoid as far as you can any occupation that leads nowhere'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1009",
+      "question": "One should aim at work that has in it the promise of what?",
+      "options": {
+        "A": "An easy life",
+        "B": "An interesting and happy future",
+        "C": "Fame and power",
+        "D": "Summer holidays"
+      },
+      "answer": "B",
+      "explanation": "Students should 'Aim rather at work that has in it the promise of an interesting and happy future'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1010",
+      "question": "Who should a student ask for advice if they are in doubt about their choice of profession?",
+      "options": {
+        "A": "A police officer",
+        "B": "A stranger",
+        "C": "One of their teachers",
+        "D": "A fortune teller"
+      },
+      "answer": "C",
+      "explanation": "The author says, 'do not hesitate to ask advice from one of your teachers'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1011",
+      "question": "Success in life depends largely on ________.",
+      "options": {
+        "A": "New clothes",
+        "B": "Good health",
+        "C": "A fast car",
+        "D": "Living in a city"
+      },
+      "answer": "B",
+      "explanation": "The text states: 'Success in life depends largely on good health'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1012",
+      "question": "Which of these is NOT mentioned as a way to keep the body fit?",
+      "options": {
+        "A": "Cleanliness",
+        "B": "Fresh air",
+        "C": "Regular habits",
+        "D": "Watching TV"
+      },
+      "answer": "D",
+      "explanation": "The text lists 'cleanliness, fresh air, regular habits, and suitable recreations'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1013",
+      "question": "What is the consequence of smoking in youth, according to the author?",
+      "options": {
+        "A": "It makes you look cool.",
+        "B": "It stunts the body and clouds the brain.",
+        "C": "It helps in concentration.",
+        "D": "It increases efficiency."
+      },
+      "answer": "B",
+      "explanation": "The author warns, 'Smoking in your youth stunts the body, and clouds the brain'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1014",
+      "question": "How is 'drink' (alcohol) described in the essay?",
+      "options": {
+        "A": "A necessary social habit",
+        "B": "A source of energy",
+        "C": "The deadly enemy of health and efficiency",
+        "D": "A help for relaxation"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'beware of drink. It is the deadly enemy of health and efficiency'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1015",
+      "question": "What is described as a 'priceless possession'?",
+      "options": {
+        "A": "A gold medal",
+        "B": "A school certificate",
+        "C": "Your character",
+        "D": "Your house"
+      },
+      "answer": "C",
+      "explanation": "The author reminds students, 'your character is a priceless possession'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1016",
+      "question": "Character should be kept ________.",
+      "options": {
+        "A": "Secret",
+        "B": "Untarnished",
+        "C": "In a jar",
+        "D": "Flexible"
+      },
+      "answer": "B",
+      "explanation": "The author says, 'Keep it therefore untarnished'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1017",
+      "question": "How should a student behave toward their rivals?",
+      "options": {
+        "A": "Rudely",
+        "B": "Be fair to them",
+        "C": "Cheat to win",
+        "D": "Ignore them completely"
+      },
+      "answer": "B",
+      "explanation": "The text advises students to be 'fair to your rivals'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1018",
+      "question": "To whom should students be 'kind and helpful'?",
+      "options": {
+        "A": "Only the rich",
+        "B": "All who are weak and suffering",
+        "C": "Only their family members",
+        "D": "Nobody"
+      },
+      "answer": "B",
+      "explanation": "The text says to be 'kind and helpful to all who are weak and suffering'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1019",
+      "question": "Why should gambling be avoided in every form?",
+      "options": {
+        "A": "It is too expensive.",
+        "B": "It is a 'mean game' trying to get something for nothing.",
+        "C": "It takes too much time.",
+        "D": "It is only for old people."
+      },
+      "answer": "B",
+      "explanation": "The author calls gambling a 'mean game trying to get something for nothing and at somebody’s cost'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1020",
+      "question": "What should students make 'provision' for?",
+      "options": {
+        "A": "Winter holidays",
+        "B": "Hard times",
+        "C": "Buying a bike",
+        "D": "Their next party"
+      },
+      "answer": "B",
+      "explanation": "The text says: 'Make provision for hard times'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1021",
+      "question": "What should be avoided in leisure hours?",
+      "options": {
+        "A": "Reading books",
+        "B": "Mere idling",
+        "C": "Hobbies",
+        "D": "Good associations"
+      },
+      "answer": "B",
+      "explanation": "The author says, 'In your leisure hours, avoid mere idling'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1022",
+      "question": "What should fill a student's leisure hours?",
+      "options": {
+        "A": "Loud music",
+        "B": "Sleeping all day",
+        "C": "Interesting hobbies and good books",
+        "D": "Arguments"
+      },
+      "answer": "C",
+      "explanation": "Leisure hours should be filled with 'interesting hobbies, good books, and with companionships... for good'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1023",
+      "question": "Fill in the blank: 'To a large extent, you will be known by the ________ you keep.'",
+      "options": {
+        "A": "money",
+        "B": "company",
+        "C": "books",
+        "D": "grades"
+      },
+      "answer": "B",
+      "explanation": "The text states, 'you will be known by the company you keep'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1024",
+      "question": "A student will be a credit to their family with a sound mind in a ________.",
+      "options": {
+        "A": "sound house",
+        "B": "sound body",
+        "C": "new school",
+        "D": "quiet town"
+      },
+      "answer": "B",
+      "explanation": "The concluding paragraph mentions 'With a sound mind in a sound body'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1025",
+      "question": "What quality refers to 'polite or well-mannered' behavior?",
+      "options": {
+        "A": "Ambitious",
+        "B": "Courteous",
+        "C": "Fair",
+        "D": "Kind"
+      },
+      "answer": "B",
+      "explanation": "The glossary/matching exercise identifies 'courteous' as 'polite or well-mannered'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1026",
+      "question": "What does the word 'untarnished' mean in the context of character?",
+      "options": {
+        "A": "Dark and dirty",
+        "B": "Pure and bright (without any black spot)",
+        "C": "Old and broken",
+        "D": "Strict"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'untarnish' as 'free from / without any black spot'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1027",
+      "question": "What does 'stunt' mean in 'stunts the body'?",
+      "options": {
+        "A": "Help it grow",
+        "B": "Stop something from growing properly",
+        "C": "Make it strong",
+        "D": "Make it fast"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'stunt' as 'to prevent something or somebody from growing properly'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1028",
+      "question": "The term 'sap' in the text means to ________.",
+      "options": {
+        "A": "strengthen",
+        "B": "gradually weaken",
+        "C": "protect",
+        "D": "clean"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'sap' as 'gradually weaken'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1029",
+      "question": "What does 'above all' mean in the text?",
+      "options": {
+        "A": "In the sky",
+        "B": "Most importantly",
+        "C": "On top of the hill",
+        "D": "Before school"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'above all' as 'most importantly'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1030",
+      "question": "What word means 'the health and happiness of people'?",
+      "options": {
+        "A": "Ambition",
+        "B": "Welfare",
+        "C": "Character",
+        "D": "Leisure"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'welfare' as 'the health and happiness of people'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1031",
+      "question": "Which conjunction can be used to join two contrasting statements like 'He is leaving school' and 'He will not forget his school days'?",
+      "options": {
+        "A": "And",
+        "B": "Because",
+        "C": "Although",
+        "D": "So"
+      },
+      "answer": "C",
+      "explanation": "The language section demonstrates using 'although' to join contrasting statements.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1032",
+      "question": "In imperative sentences like 'Avoid gambling', the subject is usually ________.",
+      "options": {
+        "A": "The school",
+        "B": "The teacher",
+        "C": "The implied 'you'",
+        "D": "The nation"
+      },
+      "answer": "C",
+      "explanation": "In imperative sentences 'the subject ‘you’ is usually not expressed'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1033",
+      "question": "What is the imperative form of 'I want you to get up early in the morning'?",
+      "options": {
+        "A": "Getting up early.",
+        "B": "Get up early in the morning.",
+        "C": "You should get up early.",
+        "D": "I am getting up early."
+      },
+      "answer": "B",
+      "explanation": "Imperative sentences omit the subject and express the command directly.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1034",
+      "question": "What is the '-ing' form of 'begin'?",
+      "options": {
+        "A": "Begining",
+        "B": "Beginning",
+        "C": "Begganing",
+        "D": "Beging"
+      },
+      "answer": "B",
+      "explanation": "The verb 'begin' doubles the 'n' in the '-ing' form: beginning.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1035",
+      "question": "The author says leaving school is like saying goodbye to your own ________.",
+      "options": {
+        "A": "Country",
+        "B": "Family",
+        "C": "Enemies",
+        "D": "Job"
+      },
+      "answer": "B",
+      "explanation": "The lead-in says 'it is like saying goodbye to your own family'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1036",
+      "question": "What 'clouds the brain' according to the text?",
+      "options": {
+        "A": "Fresh air",
+        "B": "Smoking",
+        "C": "Drinking water",
+        "D": "Hard work"
+      },
+      "answer": "B",
+      "explanation": "The text explicitly states: 'Smoking... clouds the brain'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1037",
+      "question": "What should students have the courage to stand up for?",
+      "options": {
+        "A": "Their own profit",
+        "B": "What is good, pure and noble",
+        "C": "Their rivals",
+        "D": "Higher prices"
+      },
+      "answer": "B",
+      "explanation": "The author encourages students to 'have courage to stand up for what is good, pure and noble'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1038",
+      "question": "A good citizen should be loyal to the ________ of their nation.",
+      "options": {
+        "A": "enemies",
+        "B": "duties",
+        "C": "gambling",
+        "D": "idlers"
+      },
+      "answer": "B",
+      "explanation": "The author mentions 'loyalty to the duties of your nation'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1039",
+      "question": "What word in the text means 'be on your guard against something'?",
+      "options": {
+        "A": "Sap",
+        "B": "Beware of",
+        "C": "Untarnish",
+        "D": "Stunt"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'beware of' as 'be careful, be on your guard against something'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1040",
+      "question": "What 'exercise over you an influence for good' in your leisure hours?",
+      "options": {
+        "A": "Gambling",
+        "B": "Companionships and associations",
+        "C": "Smoking",
+        "D": "Mere idling"
+      },
+      "answer": "B",
+      "explanation": "The author suggests associations 'calculated to exercise over you an influence for good'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1041",
+      "question": "Success is not easily ________.",
+      "options": {
+        "A": "forgotten",
+        "B": "secured",
+        "C": "ignored",
+        "D": "thrown away"
+      },
+      "answer": "B",
+      "explanation": "The line is 'Success in life is not easily secured'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1042",
+      "question": "What is 'deadly enemy' to efficiency?",
+      "options": {
+        "A": "Books",
+        "B": "Drink",
+        "C": "Cleanliness",
+        "D": "Sleep"
+      },
+      "answer": "B",
+      "explanation": "Alcohol/drink is called 'the deadly enemy of health and efficiency'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1043",
+      "question": "What must you do to succeed in any trade or profession?",
+      "options": {
+        "A": "Stop learning",
+        "B": "Continue your education",
+        "C": "Hire many people",
+        "D": "Only follow rules"
+      },
+      "answer": "B",
+      "explanation": "The text states: 'if you are ambitious to succeed... you must continue your education'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1044",
+      "question": "The author advises students to be ________ to everybody.",
+      "options": {
+        "A": "unfriendly",
+        "B": "considerate",
+        "C": "loyal",
+        "D": "angry"
+      },
+      "answer": "B",
+      "explanation": "The author advises being 'truthful in all things, considerate to everybody'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1045",
+      "question": "What word means 'actively seeking success, wealth, or status'?",
+      "options": {
+        "A": "Courteous",
+        "B": "Ambitious",
+        "C": "Considerate",
+        "D": "Priceless"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'ambitious' as 'actively seeking success, wealth, status etc.'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1046",
+      "question": "The author urges students to be truthful in ________ things.",
+      "options": {
+        "A": "few",
+        "B": "all",
+        "C": "no",
+        "D": "some"
+      },
+      "answer": "B",
+      "explanation": "The text says 'Be truthful in all things'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1047",
+      "question": "Which of these contributes to a 'credit to your family'?",
+      "options": {
+        "A": "Good character and courteous manners",
+        "B": "Gambling and idling",
+        "C": "Smoking in youth",
+        "D": "Leaving school for good"
+      },
+      "answer": "A",
+      "explanation": "The final paragraph links good character and manners to being a credit to the family.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1048",
+      "question": "What is the noun form of 'profess'?",
+      "options": {
+        "A": "Profession",
+        "B": "Professor",
+        "C": "Professable",
+        "D": "Professing"
+      },
+      "answer": "A",
+      "explanation": "The grammar exercises require converting 'profess' into its noun 'profession'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1049",
+      "question": "What happens when you say goodbye to school?",
+      "options": {
+        "A": "You stop learning.",
+        "B": "You move to a wider world.",
+        "C": "You forget your teachers.",
+        "D": "Life becomes easy."
+      },
+      "answer": "B",
+      "explanation": "The text states 'You move out from school to the wider world'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1050",
+      "question": "Which of the following is 'suitable recreation'?",
+      "options": {
+        "A": "Gambling",
+        "B": "A hobby or pastime for health",
+        "C": "Smoking",
+        "D": "Idling"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'recreation' as 'a hobby, amusement, game or pastime'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1051",
+      "question": "Lord Eustace Percy gives advice on how to become good human beings and ________.",
+      "options": {
+        "A": "soldiers",
+        "B": "citizens",
+        "C": "shikaris",
+        "D": "reapers"
+      },
+      "answer": "B",
+      "explanation": "The text mentions telling students how to become good 'human beings and citizens in future'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1052",
+      "question": "What is the '-ing' form of 'gamble'?",
+      "options": {
+        "A": "Gambleing",
+        "B": "Gambling",
+        "C": "Gambbling",
+        "D": "Gambilng"
+      },
+      "answer": "B",
+      "explanation": "The verb 'gamble' drops the 'e' and adds '-ing': gambling.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1053",
+      "question": "Which phrase means 'permanently'?",
+      "options": {
+        "A": "Above all",
+        "B": "For good",
+        "C": "As far as",
+        "D": "As to"
+      },
+      "answer": "B",
+      "explanation": "The matching exercise defines 'for good' as 'permanently'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1054",
+      "question": "How should one be in 'all things' according to the text?",
+      "options": {
+        "A": "Temperate",
+        "B": "Aggressive",
+        "C": "Lazy",
+        "D": "Indifferent"
+      },
+      "answer": "A",
+      "explanation": "The author says, 'Be temperate in all things'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1055",
+      "question": "The author hopes students will not 'think that your ________ is finished'.",
+      "options": {
+        "A": "lunch",
+        "B": "education",
+        "C": "game",
+        "D": "walk"
+      },
+      "answer": "B",
+      "explanation": "The text states: 'hope you will not... think that your education is finished'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1056",
+      "question": "Where was Lord Eustace Percy a Minister of Education?",
+      "options": {
+        "A": "India",
+        "B": "Britain",
+        "C": "Mexico",
+        "D": "Sweden"
+      },
+      "answer": "B",
+      "explanation": "He was a 'former Minister of Education in Britain'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1057",
+      "question": "What word matches 'unselfish, giving thought to the happiness of others'?",
+      "options": {
+        "A": "Considerate",
+        "B": "Ambitious",
+        "C": "Secure",
+        "D": "Courteous"
+      },
+      "answer": "A",
+      "explanation": "The glossary defines 'considerate' as 'unselfish, giving thought to the happiness and comfort of others'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1058",
+      "question": "A sound mind exists in a sound ________.",
+      "options": {
+        "A": "house",
+        "B": "body",
+        "C": "school",
+        "D": "nation"
+      },
+      "answer": "B",
+      "explanation": "The text concludes with the phrase 'With a sound mind in a sound body'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1059",
+      "question": "Fill in the blank: 'Avoid anything that will ________ your health.'",
+      "options": {
+        "A": "help",
+        "B": "sap",
+        "C": "clean",
+        "D": "grow"
+      },
+      "answer": "B",
+      "explanation": "The author warns students to 'Avoid anything that will sap your health'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1060",
+      "question": "What is the noun form of 'educate'?",
+      "options": {
+        "A": "Educator",
+        "B": "Education",
+        "C": "Educational",
+        "D": "Educated"
+      },
+      "answer": "B",
+      "explanation": "The exercise on converting verbs to nouns uses 'educate' to 'education'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1061",
+      "question": "Which of these is a duty of a good citizen mentioned in the exercises?",
+      "options": {
+        "A": "Gambling",
+        "B": "Sacrifice for the nation",
+        "C": "Idling",
+        "D": "Smoking"
+      },
+      "answer": "B",
+      "explanation": "The exercises list 'Sacrifice for the nation' as a duty of a good citizen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1062",
+      "question": "What quality does character give to an individual, making it 'priceless'?",
+      "options": {
+        "A": "Wealth",
+        "B": "Possession",
+        "C": "A silver saffron glowing",
+        "D": "Higher plane of life"
+      },
+      "answer": "B",
+      "explanation": "The author calls character a 'priceless possession'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1063",
+      "question": "Complete the phrase: 'Success in life is not easily ________.'",
+      "options": {
+        "A": "forgotten",
+        "B": "secured",
+        "C": "ignored",
+        "D": "finished"
+      },
+      "answer": "B",
+      "explanation": "The line from the text is: 'Success in life is not easily secured'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1064",
+      "question": "What is the meaning of 'courteous'?",
+      "options": {
+        "A": "Polite or well-mannered",
+        "B": "Angry",
+        "C": "Fast",
+        "D": "Weak"
+      },
+      "answer": "A",
+      "explanation": "The matching exercise defines 'courteous' as 'polite or well-mannered'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1065",
+      "question": "How should students treat the weak and suffering?",
+      "options": {
+        "A": "Be unkind",
+        "B": "Be kind and helpful",
+        "C": "Ignore them",
+        "D": "Tell them to work hard"
+      },
+      "answer": "B",
+      "explanation": "The text says to be 'kind and helpful to all who are weak and suffering'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1066",
+      "question": "A student should seek advice from their ________ if in doubt.",
+      "options": {
+        "A": "rivals",
+        "B": "teachers",
+        "C": "postmaster",
+        "D": "beggars"
+      },
+      "answer": "B",
+      "explanation": "The text advises to 'not hesitate to ask advice from one of your teachers'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1067",
+      "question": "What is the opposite of 'belief' as shown in other chapters but relevant to 'although' grammar?",
+      "options": {
+        "A": "Unbelief",
+        "B": "Disbelief",
+        "C": "Misbelief",
+        "D": "Imbelief"
+      },
+      "answer": "B",
+      "explanation": "The prefix exercise in Chapter 4 shows disbelief = dis + belief.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1068",
+      "question": "The author says students move out to a ________ world.",
+      "options": {
+        "A": "smaller",
+        "B": "wider",
+        "C": "scary",
+        "D": "secret"
+      },
+      "answer": "B",
+      "explanation": "The text mentions moving to the 'wider world'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1069",
+      "question": "What word means 'to make uncertain or confused'?",
+      "options": {
+        "A": "Cloud",
+        "B": "Sap",
+        "C": "Secure",
+        "D": "Welfare"
+      },
+      "answer": "A",
+      "explanation": "The glossary defines 'cloud' as 'to make uncertain or confused'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1070",
+      "question": "What is the final wish of the author for the students?",
+      "options": {
+        "A": "That they win prizes",
+        "B": "That they become 'a real success'",
+        "C": "That they stay at school",
+        "D": "That they become teachers"
+      },
+      "answer": "B",
+      "explanation": "The essay ends by saying with character and loyalty, they will be 'a real success'.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,1 +1,1046 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE03",
+  "chapter_name": "Village Song",
+  "questions": [
+    {
+      "id": "SLE0301",
+      "question": "Who is the poet of 'Village Song'?",
+      "options": {
+        "A": "C.F. Alexander",
+        "B": "Sarojini Naidu",
+        "C": "William Wordsworth",
+        "D": "Rabindranath Tagore"
+      },
+      "answer": "B",
+      "explanation": "The poem 'Village Song' is written by Sarojini Naidu.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0302",
+      "question": "What is Sarojini Naidu popularly known as?",
+      "options": {
+        "A": "The Nightingale of India",
+        "B": "The Bird of Song",
+        "C": "The Freedom Singer",
+        "D": "The Lady of the Lamp"
+      },
+      "answer": "A",
+      "explanation": "Sarojini Naidu was popularly known as The Nightingale of India.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0303",
+      "question": "In which city was Sarojini Naidu born?",
+      "options": {
+        "A": "Mumbai",
+        "B": "Delhi",
+        "C": "Hyderabad",
+        "D": "Kolkata"
+      },
+      "answer": "C",
+      "explanation": "She was born in Hyderabad on February 13, 1879.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0304",
+      "question": "The poem 'Village Song' appeared in which book?",
+      "options": {
+        "A": "Gitanjali",
+        "B": "The Golden Threshold",
+        "C": "Hymn for Children",
+        "D": "My Experiment with Truth"
+      },
+      "answer": "B",
+      "explanation": "The poem appeared in her book titled 'The Golden Threshold'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0305",
+      "question": "Sarojini Naidu was the first Indian woman to become the President of which organization?",
+      "options": {
+        "A": "The Muslim League",
+        "B": "The British Parliament",
+        "C": "The Indian National Congress",
+        "D": "The UN General Assembly"
+      },
+      "answer": "C",
+      "explanation": "She was the first Indian woman to become the President of the Indian National Congress.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0306",
+      "question": "What role did Sarojini Naidu hold in Uttar Pradesh?",
+      "options": {
+        "A": "Chief Minister",
+        "B": "Governor",
+        "C": "Education Minister",
+        "D": "High Court Judge"
+      },
+      "answer": "B",
+      "explanation": "She was the first woman to become the Governor of Uttar Pradesh.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0307",
+      "question": "The poem 'Village Song' is a conversation between which two people?",
+      "options": {
+        "A": "A father and son",
+        "B": "A teacher and student",
+        "C": "A mother and daughter",
+        "D": "Two friends"
+      },
+      "answer": "C",
+      "explanation": "The poem presents the voices of a mother pleading with her daughter and the daughter's response.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0308",
+      "question": "How does the mother affectionately address the girl in the poem?",
+      "options": {
+        "A": "Sweet child",
+        "B": "Golden child",
+        "C": "Honey child",
+        "D": "Dear daughter"
+      },
+      "answer": "C",
+      "explanation": "The mother addresses the girl as 'Honey child, honey child'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0309",
+      "question": "Where is the honey child going?",
+      "options": {
+        "A": "To the town",
+        "B": "To the wild forest",
+        "C": "To her lover's house",
+        "D": "To a wedding"
+      },
+      "answer": "B",
+      "explanation": "The child says, 'to the wild forest I am going'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0310",
+      "question": "What is the girl planning to cast to the breezes?",
+      "options": {
+        "A": "Her flowers",
+        "B": "Her clothes",
+        "C": "Her jewels",
+        "D": "Her books"
+      },
+      "answer": "C",
+      "explanation": "The mother asks, 'Would you cast your jewels all to the breezes blowing?'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0311",
+      "question": "What has the mother fed the daughter with?",
+      "options": {
+        "A": "Sweets and honey",
+        "B": "Golden grain",
+        "C": "Fruits and milk",
+        "D": "Rice and bread"
+      },
+      "answer": "B",
+      "explanation": "The mother asks, 'Would you leave the mother who on golden grain has fed you?'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0312",
+      "question": "What does 'golden grain' refer to in the poem?",
+      "options": {
+        "A": "Actual gold pieces",
+        "B": "Delicate dishes",
+        "C": "Corn fields",
+        "D": "Bird seed"
+      },
+      "answer": "B",
+      "explanation": "According to the glossary, 'golden grain' refers to delicate dishes.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0313",
+      "question": "Who is riding forth to wed the girl?",
+      "options": {
+        "A": "A prince",
+        "B": "Her lover",
+        "C": "A merchant",
+        "D": "A soldier"
+      },
+      "answer": "B",
+      "explanation": "The mother mentions 'the lover who is riding forth to wed you'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0314",
+      "question": "Where are the champa buds blowing in the forest?",
+      "options": {
+        "A": "On the ground",
+        "B": "By the river",
+        "C": "Upon the champa boughs",
+        "D": "In the meadows"
+      },
+      "answer": "C",
+      "explanation": "The child says, 'Where upon the champa boughs the champa buds are blowing'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0315",
+      "question": "Which bird is mentioned as haunting the river-isles?",
+      "options": {
+        "A": "Cuckoo",
+        "B": "Nightingale",
+        "C": "Koil",
+        "D": "Sparrow"
+      },
+      "answer": "C",
+      "explanation": "The poem mentions 'the koil-haunted river-isles'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0316",
+      "question": "What flowers are said to glisten in the river-isles?",
+      "options": {
+        "A": "Roses",
+        "B": "Lotus lilies",
+        "C": "Jasmine",
+        "D": "Sunflowers"
+      },
+      "answer": "B",
+      "explanation": "The child mentions 'river-isles where lotus lilies glisten'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0317",
+      "question": "Whose voices are calling the girl in the forest?",
+      "options": {
+        "A": "The birds",
+        "B": "The fairy folk",
+        "C": "The trees",
+        "D": "The wild animals"
+      },
+      "answer": "B",
+      "explanation": "The child says, 'The voices of the fairy folk are calling me'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0318",
+      "question": "What is the mother's view of the world?",
+      "options": {
+        "A": "It is full of sorrow",
+        "B": "It is full of pleasure",
+        "C": "It is full of work",
+        "D": "It is full of danger"
+      },
+      "answer": "B",
+      "explanation": "The mother tells the child, 'the world is full of pleasure'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0319",
+      "question": "Which of these is NOT mentioned by the mother as a pleasure of the world?",
+      "options": {
+        "A": "Bridal-songs",
+        "B": "Cradle-songs",
+        "C": "Forest-notes",
+        "D": "Sandal-scented leisure"
+      },
+      "answer": "C",
+      "explanation": "Bridal-songs, cradle-songs, and sandal-scented leisure are worldly pleasures. Forest-notes belong to nature.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0320",
+      "question": "What color are the bridal robes described as?",
+      "options": {
+        "A": "Red and Gold",
+        "B": "Silver and Saffron",
+        "C": "White and Blue",
+        "D": "Pink and Yellow"
+      },
+      "answer": "B",
+      "explanation": "The poem states, 'Your bridal robes are in the loom, silver and saffron glowing'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0321",
+      "question": "Where are the bridal cakes being prepared?",
+      "options": {
+        "A": "In the oven",
+        "B": "On the hearth",
+        "C": "In the kitchen",
+        "D": "On the table"
+      },
+      "answer": "B",
+      "explanation": "The mother says, 'Your bridal cakes are on the hearth'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0322",
+      "question": "According to the girl, bridal-songs and cradle-songs have cadences of what?",
+      "options": {
+        "A": "Joy",
+        "B": "Love",
+        "C": "Sorrow",
+        "D": "Hope"
+      },
+      "answer": "C",
+      "explanation": "The girl says, 'The bridal-songs and cradle-songs have cadences of sorrow'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0323",
+      "question": "What metaphor does the girl use for happiness today?",
+      "options": {
+        "A": "The blooming buds",
+        "B": "The laughter of the sun",
+        "C": "The glistening lily",
+        "D": "The silver robes"
+      },
+      "answer": "B",
+      "explanation": "She speaks of 'The laughter of the sun to-day'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0324",
+      "question": "What does 'the wind of death' represent in the poem?",
+      "options": {
+        "A": "Physical wind",
+        "B": "Loss or sorrow",
+        "C": "A winter storm",
+        "D": "The fairy folk"
+      },
+      "answer": "B",
+      "explanation": "According to the glossary, 'wind of death' means loss or sorrow.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0325",
+      "question": "The girl thinks which of the following sounds 'far sweeter'?",
+      "options": {
+        "A": "Cradle-songs",
+        "B": "Bridal-songs",
+        "C": "Forest-notes",
+        "D": "Voices of the village"
+      },
+      "answer": "C",
+      "explanation": "The child says, 'Far sweeter sound the forest-notes where forest-streams are falling'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0326",
+      "question": "What is the girl's final decision about staying?",
+      "options": {
+        "A": "She will stay for her mother",
+        "B": "She cannot stay",
+        "C": "She will wait for her lover",
+        "D": "She will go after the wedding"
+      },
+      "answer": "B",
+      "explanation": "She says, 'O mother mine, I cannot stay'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0327",
+      "question": "The poem 'Village Song' is categorized as what type of poetry?",
+      "options": {
+        "A": "Epic poetry",
+        "B": "Folk poetry",
+        "C": "Satirical poetry",
+        "D": "Dramatic monologue"
+      },
+      "answer": "B",
+      "explanation": "India has a long tradition of folk poetry... Sarojini Naidu has captured all these qualities in her poems.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0328",
+      "question": "Folk-lyrics often draw their imagery from what?",
+      "options": {
+        "A": "Ancient mythology",
+        "B": "Scientific facts",
+        "C": "Everyday scenes and sights",
+        "D": "Foreign lands"
+      },
+      "answer": "C",
+      "explanation": "The vocabulary and imagery of folk-lyrics are drawn from everyday scenes and sights.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0329",
+      "question": "Which of these is NOT a characteristic of folk poetry mentioned in the notes?",
+      "options": {
+        "A": "Simplicity",
+        "B": "Complex metrical structures",
+        "C": "Directness",
+        "D": "Nurtured by wandering minstrels"
+      },
+      "answer": "B",
+      "explanation": "Folk poetry is characterized by simplicity, directness, and being nurtured by wandering minstrels.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0330",
+      "question": "In the context of the poem, what does 'sandal-scented leisure' refer to?",
+      "options": {
+        "A": "A type of perfume",
+        "B": "Worldly comfort and enjoyment",
+        "C": "Walking in a sandal forest",
+        "D": "Cleaning the house with sandalwood"
+      },
+      "answer": "B",
+      "explanation": "The mother uses it to describe the pleasures of the worldly life she wants her daughter to enjoy.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0331",
+      "question": "What is the tone of the mother's appeal to her daughter?",
+      "options": {
+        "A": "Angry",
+        "B": "Pleading/Affectionate",
+        "C": "Indifferent",
+        "D": "Commanding"
+      },
+      "answer": "B",
+      "explanation": "The mother addresses her affectionately as 'Honey child' and pleads with her to wait.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0332",
+      "question": "The girl in the poem wishes to remain what?",
+      "options": {
+        "A": "A queen",
+        "B": "A bride",
+        "C": "A child",
+        "D": "A poet"
+      },
+      "answer": "C",
+      "explanation": "The daughter wishes to run off to the forest and remain a child.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0333",
+      "question": "What does the word 'whither' mean in the first line?",
+      "options": {
+        "A": "Why",
+        "B": "Where",
+        "C": "When",
+        "D": "Who"
+      },
+      "answer": "B",
+      "explanation": "'Whither' is an old-fashioned word meaning 'to what place' or 'where'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0334",
+      "question": "What is the rhyme scheme of the first stanza of the poem?",
+      "options": {
+        "A": "ABAB",
+        "B": "AABB",
+        "C": "ABBA",
+        "D": "ABCD"
+      },
+      "answer": "B",
+      "explanation": "Going/blowing and fed you/wed you are rhyming pairs at the end of lines.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0335",
+      "question": "What is a 'cradle song'?",
+      "options": {
+        "A": "A marriage song",
+        "B": "A lullaby",
+        "C": "A funeral song",
+        "D": "A folk dance"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'cradle songs' as a lullaby.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0336",
+      "question": "What does 'cadence' mean in the context of the poem?",
+      "options": {
+        "A": "A type of dance",
+        "B": "A rhythmic flow or pace",
+        "C": "A musical instrument",
+        "D": "A forest creature"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'cadence' as rhythm or pace.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0337",
+      "question": "The daughter is 'grieving' her lover by doing what?",
+      "options": {
+        "A": "Fighting with him",
+        "B": "Marrying someone else",
+        "C": "Running away before the wedding",
+        "D": "Not wearing her jewels"
+      },
+      "answer": "C",
+      "explanation": "By leaving for the forest, she is leaving the lover who is coming to wed her.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0338",
+      "question": "What 'folk' does the girl mention multiple times?",
+      "options": {
+        "A": "Village folk",
+        "B": "Common folk",
+        "C": "Fairy folk",
+        "D": "Working folk"
+      },
+      "answer": "C",
+      "explanation": "She mentions 'voices of the fairy folk' and 'the fairy-folk are calling'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0339",
+      "question": "In the poem, 'laughter of the Sun' symbolizes:",
+      "options": {
+        "A": "A hot summer day",
+        "B": "Happiness and the pleasure of living",
+        "C": "The end of the world",
+        "D": "The setting sun"
+      },
+      "answer": "B",
+      "explanation": "The glossary identifies 'laughter of Sun' as happiness or the pleasure of living.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0340",
+      "question": "How many questions does the mother ask in the first stanza?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "answer": "D",
+      "explanation": "The first four lines of the poem each contain a question for the daughter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0341",
+      "question": "Which of these pairs are the 'rhyming words' in the second stanza?",
+      "options": {
+        "A": "Going / blowing",
+        "B": "Glisten / listen",
+        "C": "Pleasure / leisure",
+        "D": "Sorrow / tomorrow"
+      },
+      "answer": "B",
+      "explanation": "The second stanza rhymes 'going' with 'blowing' and 'glisten' with 'listen'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0342",
+      "question": "What part of nature is specifically described as 'falling'?",
+      "options": {
+        "A": "Champa buds",
+        "B": "Lotus lilies",
+        "C": "Forest-streams",
+        "D": "Jewels"
+      },
+      "answer": "C",
+      "explanation": "The poem mentions 'where forest-streams are falling'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0343",
+      "question": "What is the girl's main reason for refusing the wedding?",
+      "options": {
+        "A": "She hates her lover",
+        "B": "She finds the forest's call irresistible",
+        "C": "She is not old enough",
+        "D": "She wants to live in the city"
+      },
+      "answer": "B",
+      "explanation": "The girl finds the call of nature and the fairy folk irresistible compared to worldly pleasures.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0344",
+      "question": "The 'saffron' color in the robes likely represents what?",
+      "options": {
+        "A": "Sorrow",
+        "B": "A traditional wedding color in India",
+        "C": "The color of the forest",
+        "D": "The color of the koil"
+      },
+      "answer": "B",
+      "explanation": "Saffron is a traditional, festive color used in Indian weddings and robes.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0345",
+      "question": "How does the poem characterize the pleasures of the world vs. nature?",
+      "options": {
+        "A": "Worldly joys are permanent",
+        "B": "Worldly joys are mixed with sorrow; nature is pure",
+        "C": "Nature is scary; the world is safe",
+        "D": "Both are equally boring"
+      },
+      "answer": "B",
+      "explanation": "The daughter claims worldly songs have 'cadences of sorrow' while forest notes are 'far sweeter'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0346",
+      "question": "Which sense is primarily appealed to by 'sandal-scented leisure'?",
+      "options": {
+        "A": "Sight",
+        "B": "Hearing",
+        "C": "Smell",
+        "D": "Touch"
+      },
+      "answer": "C",
+      "explanation": "'Scented' relates to the sense of smell.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0347",
+      "question": "The term 'Child prodigy' in the author's bio means she was:",
+      "options": {
+        "A": "Very poor as a child",
+        "B": "Exceptionally talented at a young age",
+        "C": "A difficult child",
+        "D": "Always sick as a child"
+      },
+      "answer": "B",
+      "explanation": "Sarojini Naidu is described as a 'child prodigy' for her early literary success.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0348",
+      "question": "The mother asks if the daughter will 'leave the mother who on _______ grain has fed you'.",
+      "options": {
+        "A": "Silver",
+        "B": "Golden",
+        "C": "Saffron",
+        "D": "Sweet"
+      },
+      "answer": "B",
+      "explanation": "The line is 'mother who on golden grain has fed you'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0349",
+      "question": "Where does the mother say the 'bridal cakes' are?",
+      "options": {
+        "A": "In the loom",
+        "B": "On the hearth",
+        "C": "In the wild forest",
+        "D": "By the river-isles"
+      },
+      "answer": "B",
+      "explanation": "The poem says, 'Your bridal cakes are on the hearth'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0350",
+      "question": "What is 'blowing' in the wild forest according to the child?",
+      "options": {
+        "A": "Wind",
+        "B": "Champa buds",
+        "C": "Fairy voices",
+        "D": "River water"
+      },
+      "answer": "B",
+      "explanation": "The line is 'the champa buds are blowing'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0351",
+      "question": "Which word from the poem rhymes with 'leisure'?",
+      "options": {
+        "A": "Loom",
+        "B": "Hearth",
+        "C": "Pleasure",
+        "D": "Sorrow"
+      },
+      "answer": "C",
+      "explanation": "'Pleasure' and 'leisure' rhyme in the third stanza.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0352",
+      "question": "According to the girl, what is 'tomorrow'?",
+      "options": {
+        "A": "The laughter of the sun",
+        "B": "The wind of death",
+        "C": "The bridal feast",
+        "D": "The forest notes"
+      },
+      "answer": "B",
+      "explanation": "She says, 'the wind of death to-morrow'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0353",
+      "question": "What musical instruments are mentioned in the notes on folk poetry?",
+      "options": {
+        "A": "Piano and Violin",
+        "B": "Guitar and Drums",
+        "C": "Drums, gongs, and cymbals",
+        "D": "Flute only"
+      },
+      "answer": "C",
+      "explanation": "While discussing folk traditions, instruments like drums, gongs and cymbals are mentioned.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0354",
+      "question": "The girl refers to her mother as 'Mother ______' in the second stanza.",
+      "options": {
+        "A": "Dear",
+        "B": "Mine",
+        "C": "Sweet",
+        "D": "Honey"
+      },
+      "answer": "B",
+      "explanation": "The line begins 'Mother mine, to the wild forest I am going'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0355",
+      "question": "Why does the mother ask if the girl will 'cast your jewels all to the breezes'?",
+      "options": {
+        "A": "She thinks they are garbage",
+        "B": "She is worried about the girl wasting valuable wedding items",
+        "C": "She wants the girl to give them to the poor",
+        "D": "She is playing a game"
+      },
+      "answer": "B",
+      "explanation": "The mother is trying to dissuade the girl from leaving by reminding her of her wedding preparations.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0356",
+      "question": "What is the primary theme of the 'Village Song'?",
+      "options": {
+        "A": "The joy of Indian weddings",
+        "B": "The conflict between worldly ties and the call of nature",
+        "C": "The importance of obedience to parents",
+        "D": "The beauty of champa flowers"
+      },
+      "answer": "B",
+      "explanation": "The poem contrasts the mother's worldly concerns with the daughter's spiritual/natural longing.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0357",
+      "question": "How many times does the mother use the phrase 'Honey child' in the whole poem?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "answer": "B",
+      "explanation": "It appears twice in stanza 1 and twice in stanza 3.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0358",
+      "question": "In line 11, 'Your bridal robes are in the ____'.",
+      "options": {
+        "A": "Hearth",
+        "B": "Loom",
+        "C": "Forest",
+        "D": "Lane"
+      },
+      "answer": "B",
+      "explanation": "The line is 'Your bridal robes are in the loom'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0359",
+      "question": "The daughter claims she 'cannot _____' because the fairy-folk are calling.",
+      "options": {
+        "A": "Go",
+        "B": "Stay",
+        "C": "Wed",
+        "D": "Sing"
+      },
+      "answer": "B",
+      "explanation": "The line is 'O mother mine, I cannot stay'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0360",
+      "question": "What type of 'dishes' does 'golden grain' imply?",
+      "options": {
+        "A": "Expensive ones",
+        "B": "Delicate and nutritious ones",
+        "C": "Spicy ones",
+        "D": "Yellow colored ones"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines it as 'delicate dishes'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0361",
+      "question": "What is 'glistening' in the river-isles?",
+      "options": {
+        "A": "The water",
+        "B": "Lotus lilies",
+        "C": "Jewels",
+        "D": "The sun"
+      },
+      "answer": "B",
+      "explanation": "The child mentions 'where lotus lilies glisten'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0362",
+      "question": "The koil is a song-bird of what color?",
+      "options": {
+        "A": "Yellow",
+        "B": "Green",
+        "C": "Black",
+        "D": "Blue"
+      },
+      "answer": "C",
+      "explanation": "The glossary defines a koil as 'a song-bird, black in colour'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0363",
+      "question": "What rhyme matches 'sorrow' in the final stanza?",
+      "options": {
+        "A": "Falling",
+        "B": "Tomorrow",
+        "C": "Calling",
+        "D": "Stay"
+      },
+      "answer": "B",
+      "explanation": "'Sorrow' and 'tomorrow' rhyme in the final stanza.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0364",
+      "question": "Who is 'riding forth' in the first stanza?",
+      "options": {
+        "A": "The fairy folk",
+        "B": "The breezes",
+        "C": "The lover",
+        "D": "The minstrels"
+      },
+      "answer": "C",
+      "explanation": "The mother mentions 'the lover who is riding forth to wed you'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0365",
+      "question": "What does the girl find 'far sweeter' than bridal-songs?",
+      "options": {
+        "A": "Jewels",
+        "B": "Golden grain",
+        "C": "Forest-notes",
+        "D": "Sandal-scented leisure"
+      },
+      "answer": "C",
+      "explanation": "She says, 'Far sweeter sound the forest-notes'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0366",
+      "question": "The daughter's decision is described in the Lead-in as refusing to:",
+      "options": {
+        "A": "Work",
+        "B": "Study",
+        "C": "Get married",
+        "D": "Eat"
+      },
+      "answer": "C",
+      "explanation": "The Lead-in says 'a young girl does not wish to get married'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0367",
+      "question": "Which adjective describes the forest in the poem?",
+      "options": {
+        "A": "Dark",
+        "B": "Wild",
+        "C": "Scary",
+        "D": "Silent"
+      },
+      "answer": "B",
+      "explanation": "The girl says, 'to the wild forest I am going'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0368",
+      "question": "Where does the daughter say her 'home' is in the 'The Flower-School' chapter summary?",
+      "options": {
+        "A": "In the sky",
+        "B": "Underground",
+        "C": "In the forest",
+        "D": "On the hearth"
+      },
+      "answer": "A",
+      "explanation": "Note: This question refers to the 'Flower-School' source content on page 68, while 'Village Song' is the main topic. However, in 'Village Song', she goes to the forest.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0369",
+      "question": "In stanza 3, what describes 'leisure'?",
+      "options": {
+        "A": "Sandal-scented",
+        "B": "Silver and saffron",
+        "C": "Golden",
+        "D": "Sweet"
+      },
+      "answer": "A",
+      "explanation": "The mother speaks of 'sandal- scented leisure'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0370",
+      "question": "What are the 'champa buds' doing?",
+      "options": {
+        "A": "Glistening",
+        "B": "Blowing",
+        "C": "Falling",
+        "D": "Calling"
+      },
+      "answer": "B",
+      "explanation": "The child says 'the champa buds are blowing'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0371",
+      "question": "What does 'hearth' mean in line 12?",
+      "options": {
+        "A": "Heart",
+        "B": "The floor of a fireplace",
+        "C": "A wedding altar",
+        "D": "A large pot"
+      },
+      "answer": "B",
+      "explanation": "A hearth is the part of the fireplace where cakes would be baked/heated.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0372",
+      "question": "The girl's heart goes 'thud-thud' for whom in another poem in the book?",
+      "options": {
+        "A": "Her mother",
+        "B": "Lorraine",
+        "C": "The fairy folk",
+        "D": "Her grandmother"
+      },
+      "answer": "B",
+      "explanation": "This detail is from the poem 'From the Formalin Jar' on page 89, referring to Vicky's heart for Lorraine.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0373",
+      "question": "Which bird song is described as 'haunting' the river-isles?",
+      "options": {
+        "A": "Nightingale",
+        "B": "Koil",
+        "C": "Sparrow",
+        "D": "Peacock"
+      },
+      "answer": "B",
+      "explanation": "The text says 'koil-haunted river-isles'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0374",
+      "question": "In 'Village Song', bridal-songs and cradle-songs are compared to what sounds of nature?",
+      "options": {
+        "A": "Thunder",
+        "B": "Forest-notes",
+        "C": "Bird song",
+        "D": "Wind blowing"
+      },
+      "answer": "B",
+      "explanation": "The girl compares them to 'forest-notes' and finds the latter sweeter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0375",
+      "question": "What color glowing is mentioned for the 'bridal robes'?",
+      "options": {
+        "A": "Gold",
+        "B": "Silver and Saffron",
+        "C": "Red",
+        "D": "White"
+      },
+      "answer": "B",
+      "explanation": "The line is 'silver and saffron glowing'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0376",
+      "question": "How many stanzas are there in the poem 'Village Song'?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "answer": "B",
+      "explanation": "The text provided shows four distinct stanzas of dialogue.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0377",
+      "question": "What is 'on the hearth'?",
+      "options": {
+        "A": "Bridal robes",
+        "B": "Jewels",
+        "C": "Bridal cakes",
+        "D": "Champa buds"
+      },
+      "answer": "C",
+      "explanation": "The mother says 'Your bridal cakes are on the hearth'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0378",
+      "question": "In stanza 2, 'the voices of the ______ are calling me'.",
+      "options": {
+        "A": "River-isles",
+        "B": "Fairy folk",
+        "C": "Village people",
+        "D": "Forest animals"
+      },
+      "answer": "B",
+      "explanation": "The child says 'The voices of the fairy folk are calling me'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0379",
+      "question": "What does 'mine' indicate in the address 'Mother mine'?",
+      "options": {
+        "A": "An explosion",
+        "B": "Ownership / My mother",
+        "C": "A place for digging",
+        "D": "I want something"
+      },
+      "answer": "B",
+      "explanation": "'Mother mine' is a poetic way of saying 'My mother'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0380",
+      "question": "Which word from the poem rhymes with 'falling'?",
+      "options": {
+        "A": "Blowing",
+        "B": "Calling",
+        "C": "Glisten",
+        "D": "Going"
+      },
+      "answer": "B",
+      "explanation": "In the final stanza, 'falling' rhymes with 'calling'.",
+      "difficulty": "easy"
+    }
+  ]
+}

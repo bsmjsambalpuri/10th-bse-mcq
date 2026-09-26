@@ -1,1 +1,1047 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE12",
+  "chapter_name": "THE BEGGAR",
+  "questions": [
+    {
+      "id": "SLE1201",
+      "question": "Who is the author of the story 'The Beggar'?",
+      "options": {
+        "A": "G.L. Fuentes",
+        "B": "Anton Chekhov",
+        "C": "Ruskin Bond",
+        "D": "Leo Tolstoy"
+      },
+      "answer": "B",
+      "explanation": "The story 'The Beggar' is written by the famous Russian writer Anton Chekhov.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1202",
+      "question": "What is the name of the advocate in the story?",
+      "options": {
+        "A": "Lushkoff",
+        "B": "Sergei",
+        "C": "Olga",
+        "D": "Ivan"
+      },
+      "answer": "B",
+      "explanation": "The advocate who confronts the beggar is named Sergei.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1203",
+      "question": "At the beginning of the story, what does the beggar claim was his profession for eight years?",
+      "options": {
+        "A": "Student",
+        "B": "Village school teacher",
+        "C": "Choir singer",
+        "D": "Notary"
+      },
+      "answer": "B",
+      "explanation": "The beggar tells Sergei, 'For eight years I was a village school teacher'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1204",
+      "question": "Why did the beggar claim he lost his job as a teacher?",
+      "options": {
+        "A": "Drunkenness",
+        "B": "Intrigues",
+        "C": "Poor performance",
+        "D": "The school closed"
+      },
+      "answer": "B",
+      "explanation": "He claimed he lost his place through 'intrigues'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1205",
+      "question": "What colour was the beggar's ragged overcoat?",
+      "options": {
+        "A": "Black",
+        "B": "Blue",
+        "C": "Fawn-coloured",
+        "D": "Grey"
+      },
+      "answer": "C",
+      "explanation": "The text describes his overcoat as 'ragged, fawn-coloured'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1206",
+      "question": "In which province did the beggar claim to have an offer of a position?",
+      "options": {
+        "A": "Moscow",
+        "B": "Kaluga",
+        "C": "Lucknow",
+        "D": "Batesar"
+      },
+      "answer": "B",
+      "explanation": "He claimed to have an offer in the province of Kaluga.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1207",
+      "question": "What specific detail about the beggar's footwear helped Sergei remember him?",
+      "options": {
+        "A": "He was barefoot.",
+        "B": "He wore shiny black boots.",
+        "C": "One overshoe was high and the other low.",
+        "D": "He wore red sandals."
+      },
+      "answer": "C",
+      "explanation": "Sergei's eyes fell on the overshoes, 'one of which was high and the other low'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1208",
+      "question": "Where did Sergei claim to have met the beggar two days prior?",
+      "options": {
+        "A": "At the theatre",
+        "B": "In Sadovya Street",
+        "C": "Near the church",
+        "D": "In the woodshed"
+      },
+      "answer": "B",
+      "explanation": "Sergei says, 'it seems to me I met you the day before yesterday in Sadovya Street'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1209",
+      "question": "When Sergei first met him in Sadovya Street, what did the beggar pretend to be?",
+      "options": {
+        "A": "A teacher",
+        "B": "An expelled student",
+        "C": "A wounded soldier",
+        "D": "A cook"
+      },
+      "answer": "B",
+      "explanation": "In their previous meeting, the beggar told Sergei he was a student who had been expelled.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1210",
+      "question": "What was the beggar's actual previous job before becoming a beggar?",
+      "options": {
+        "A": "He was a notary.",
+        "B": "He sang in a Russian choir.",
+        "C": "He was a carpenter.",
+        "D": "He worked for the police."
+      },
+      "answer": "B",
+      "explanation": "The beggar eventually confesses, 'Formerly I sang in a Russian choir'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1211",
+      "question": "Why was the beggar sent away from the Russian choir?",
+      "options": {
+        "A": "Lack of talent",
+        "B": "Drunkenness",
+        "C": "Old age",
+        "D": "The choir disbanded"
+      },
+      "answer": "B",
+      "explanation": "He admits he was 'sent away for drunkenness'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1212",
+      "question": "What does 'swindling' mean according to the glossary?",
+      "options": {
+        "A": "Helping someone",
+        "B": "Cheating a person of money",
+        "C": "Singing in a choir",
+        "D": "Working hard"
+      },
+      "answer": "B",
+      "explanation": "The glossary defines 'swindling' as cheating a person of money.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1213",
+      "question": "What work did Sergei first offer the beggar?",
+      "options": {
+        "A": "Copying letters",
+        "B": "Chopping wood",
+        "C": "Shovelling snow",
+        "D": "Cooking meals"
+      },
+      "answer": "B",
+      "explanation": "Sergei asks, 'How would you like to chop wood for me?'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1214",
+      "question": "Who was Olga in the story?",
+      "options": {
+        "A": "Sergei's wife",
+        "B": "Sergei's cook",
+        "C": "The beggar's daughter",
+        "D": "A school teacher"
+      },
+      "answer": "B",
+      "explanation": "Sergei calls his cook, Olga, to take the beggar to the woodshed.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1215",
+      "question": "The beggar is described as a 'scarecrow'. What does this imply?",
+      "options": {
+        "A": "He was very scary.",
+        "B": "He looked thin, ragged, and pathetic.",
+        "C": "He was a farmer.",
+        "D": "He was very tall."
+      },
+      "answer": "B",
+      "explanation": "The term 'scarecrow of a beggar' refers to his ragged and unhealthy physical appearance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1216",
+      "question": "What had 'undermined' the beggar's strength, making him unhealthy?",
+      "options": {
+        "A": "Hunger",
+        "B": "Vodka",
+        "C": "Hard labour",
+        "D": "Cold weather"
+      },
+      "answer": "B",
+      "explanation": "The text states his strength had been 'undermined by vodka'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1217",
+      "question": "What does the word 'perplexities' mean in the context of the beggar's reaction?",
+      "options": {
+        "A": "Happiness",
+        "B": "Confusion or uncertainty",
+        "C": "Anger",
+        "D": "Determination"
+      },
+      "answer": "B",
+      "explanation": "He shrugged his shoulders 'as if in perplexity' (confusion) when asked to work.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1218",
+      "question": "How did Olga treat the beggar when they first went to the woodshed?",
+      "options": {
+        "A": "She was very kind.",
+        "B": "She glared wrathfully and shoved him.",
+        "C": "She ignored him.",
+        "D": "She gave him food."
+      },
+      "answer": "B",
+      "explanation": "Olga 'glared wrathfully... shoved him aside with her elbow... and angrily banged the door'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1219",
+      "question": "How much was the beggar paid the first time he finished chopping wood?",
+      "options": {
+        "A": "Ten copecks",
+        "B": "Half a rouble",
+        "C": "A whole rouble",
+        "D": "Thirty-five roubles"
+      },
+      "answer": "B",
+      "explanation": "Sergei tells Olga, 'Give him half a rouble'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1220",
+      "question": "On what day of the month did the beggar usually appear to work?",
+      "options": {
+        "A": "Every Monday",
+        "B": "The first day of each month",
+        "C": "Every Sunday",
+        "D": "The last day of the month"
+      },
+      "answer": "B",
+      "explanation": "Sergei suggested he could 'come back and cut wood on the first day of each month'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1221",
+      "question": "Which of these was NOT a task the beggar did at Sergei's yard?",
+      "options": {
+        "A": "Shovel snow",
+        "B": "Put the wood-shed in order",
+        "C": "Cook dinner",
+        "D": "Beat dust out of rugs"
+      },
+      "answer": "C",
+      "explanation": "The tasks mentioned are shovelling snow, ordering the shed, and beating rugs. Cooking was Olga's job.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1222",
+      "question": "What is a 'rouble'?",
+      "options": {
+        "A": "A tool for chopping wood",
+        "B": "The basic unit of Russian currency",
+        "C": "A type of vodka",
+        "D": "A light brown overcoat"
+      },
+      "answer": "B",
+      "explanation": "Roubles and copecks are the Russian currency units mentioned throughout the story.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1223",
+      "question": "What is the name of the beggar revealed to be?",
+      "options": {
+        "A": "Sergei",
+        "B": "Lushkoff",
+        "C": "Mahmoud",
+        "D": "Anton"
+      },
+      "answer": "B",
+      "explanation": "When Sergei asks for his name, he replies, 'Lushkoff'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1224",
+      "question": "Why did Sergei send Lushkoff to his friend with a letter?",
+      "options": {
+        "A": "To get more wood",
+        "B": "To give him some copying to do",
+        "C": "To help him move furniture",
+        "D": "To buy more vodka"
+      },
+      "answer": "B",
+      "explanation": "Sergei offers him 'cleaner employment' involving 'copying'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1225",
+      "question": "How many years passed before Sergei saw Lushkoff again after the copying job?",
+      "options": {
+        "A": "Six months",
+        "B": "One year",
+        "C": "Two years",
+        "D": "Five years"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'Two years went by'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1226",
+      "question": "Where did Sergei meet Lushkoff after two years?",
+      "options": {
+        "A": "At the post office",
+        "B": "At the ticket window of a theatre",
+        "C": "In Sadovya Street",
+        "D": "In a Russian choir"
+      },
+      "answer": "B",
+      "explanation": "Sergei was 'standing at the ticket window of a theatre' when he noticed Lushkoff.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1227",
+      "question": "What was Lushkoff wearing when he met Sergei at the theatre?",
+      "options": {
+        "A": "A ragged fawn coat",
+        "B": "A coat with a curly fur collar and a sealskin cap",
+        "C": "A teacher's uniform",
+        "D": "A student's gown"
+      },
+      "answer": "B",
+      "explanation": "Lushkoff was now dressed well, with a 'coat collar of curly fur and a worn sealskin cap'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1228",
+      "question": "What was Lushkoff's profession when he met Sergei at the theatre?",
+      "options": {
+        "A": "Teacher",
+        "B": "Advocate",
+        "C": "Notary",
+        "D": "Choir director"
+      },
+      "answer": "C",
+      "explanation": "Lushkoff tells Sergei, 'I am a notary now'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1229",
+      "question": "How much was Lushkoff being paid a month as a notary?",
+      "options": {
+        "A": "Half a rouble",
+        "B": "Ten roubles",
+        "C": "Thirty-five roubles",
+        "D": "A hundred pesos"
+      },
+      "answer": "C",
+      "explanation": "He says he is 'paid thirty-five roubles a month'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1230",
+      "question": "Sergei calls Lushkoff his '________' because he helped him find the right path.",
+      "options": {
+        "A": "Brother",
+        "B": "Friend",
+        "C": "Godson",
+        "D": "Partner"
+      },
+      "answer": "C",
+      "explanation": "Sergei says, 'You see, you are my godson, in a sense'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1231",
+      "question": "According to Lushkoff, who actually saved him and set him right?",
+      "options": {
+        "A": "Sergei",
+        "B": "Olga",
+        "C": "The choir director",
+        "D": "The theatre owner"
+      },
+      "answer": "B",
+      "explanation": "Lushkoff explicitly states, 'it was your cook, Olga, who saved me'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1232",
+      "question": "How did Olga help Lushkoff in the woodshed?",
+      "options": {
+        "A": "She gave him money.",
+        "B": "She chopped all the wood for him.",
+        "C": "She taught him how to sing.",
+        "D": "She bought him a new coat."
+      },
+      "answer": "B",
+      "explanation": "Lushkoff reveals, 'she used to chop the wood for me... I did not chop one single stick of wood for you'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1233",
+      "question": "What made Lushkoff stop drinking?",
+      "options": {
+        "A": "Sergei's threats",
+        "B": "The fear of prison",
+        "C": "Olga's words and noble deeds",
+        "D": "He ran out of money"
+      },
+      "answer": "C",
+      "explanation": "He says, 'owing to her words and noble deeds, a change took place in my heart; she set me right'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1234",
+      "question": "What does the word 'mendicant' mean?",
+      "options": {
+        "A": "Advocate",
+        "B": "Beggar",
+        "C": "Teacher",
+        "D": "Soldier"
+      },
+      "answer": "B",
+      "explanation": "The glossary identifies 'mendicant' as a synonym for beggar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1235",
+      "question": "What is a 'copeck'?",
+      "options": {
+        "A": "A large rouble",
+        "B": "A small Russian coin",
+        "C": "A type of hat",
+        "D": "A winter task"
+      },
+      "answer": "B",
+      "explanation": "Glossary: copeck - Russian coin equal to 1/100 of a rouble.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1236",
+      "question": "What does 'billet' refer to in the story?",
+      "options": {
+        "A": "A letter",
+        "B": "A thick piece of wood",
+        "C": "A theatre ticket",
+        "D": "A coin"
+      },
+      "answer": "B",
+      "explanation": "Glossary: billet - a thick piece of wood.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1237",
+      "question": "What is a 'waif'?",
+      "options": {
+        "A": "A wealthy person",
+        "B": "A homeless person",
+        "C": "A cook",
+        "D": "A singer"
+      },
+      "answer": "B",
+      "explanation": "Glossary: waif - a homeless person.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1238",
+      "question": "Lushkoff calls Olga a 'good and ________ woman'.",
+      "options": {
+        "A": "Angry",
+        "B": "Noble",
+        "C": "Rich",
+        "D": "Lazy"
+      },
+      "answer": "B",
+      "explanation": "He says, 'God bless that good and noble woman!'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1239",
+      "question": "When Lushkoff was helping Sergei move, how did he behave?",
+      "options": {
+        "A": "He was happy and talkative.",
+        "B": "He was sober, gloomy, and silent.",
+        "C": "He was drunk and singing.",
+        "D": "He worked very hard."
+      },
+      "answer": "B",
+      "explanation": "During the move, 'the waif was sober, gloomy, and silent. He hardly touched the furniture'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1240",
+      "question": "Why did Sergei get angry and threaten the beggar with the police?",
+      "options": {
+        "A": "Because the beggar stole his watch.",
+        "B": "Because the beggar was being dishonest and lying about his past.",
+        "C": "Because the beggar refused to work.",
+        "D": "Because the beggar was singing too loudly."
+      },
+      "answer": "B",
+      "explanation": "Sergei cried 'This is swindling!' after catching the beggar in a lie.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1241",
+      "question": "What does the word 'anguish' mean in the context of Lushkoff being accused of lying?",
+      "options": {
+        "A": "Laughter",
+        "B": "Severe mental suffering",
+        "C": "Hunger",
+        "D": "Excitement"
+      },
+      "answer": "B",
+      "explanation": "Glossary: anguish - severe mental suffering.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1242",
+      "question": "Lushkoff says Olga used to call him a '________' (meaning a habitual drunkard).",
+      "options": {
+        "A": "Copeck",
+        "B": "Sot",
+        "C": "Waif",
+        "D": "Billet"
+      },
+      "answer": "B",
+      "explanation": "Glossary: sot - a habitual drunkard. He quotes her saying, 'Oh, you sot, you!'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1243",
+      "question": "Sergei felt 'sorry and ashamed' for setting the beggar to '________ labour'.",
+      "options": {
+        "A": "Difficult",
+        "B": "Menial",
+        "C": "Scientific",
+        "D": "Royal"
+      },
+      "answer": "B",
+      "explanation": "He felt bad for making a sick, drunken man do 'menial labour' in the cold.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1244",
+      "question": "According to the story, 'a man of truth must also be a man of ________'.",
+      "options": {
+        "A": "Money",
+        "B": "Care",
+        "C": "Strength",
+        "D": "Music"
+      },
+      "answer": "B",
+      "explanation": "Sergei notes that 'a man of truth must also be a man of care'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1245",
+      "question": "What does 'roasting' mean in the context of Sergei scolding Lushkoff?",
+      "options": {
+        "A": "Cooking over fire",
+        "B": "A severe scolding",
+        "C": "A celebration",
+        "D": "Chopping wood"
+      },
+      "answer": "B",
+      "explanation": "Glossary: roasting - (here) scolding. Lushkoff asks, 'Do you remember what a roasting I gave you?'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1246",
+      "question": "Lushkoff paid for his theatre seat in ________ coins.",
+      "options": {
+        "A": "Gold",
+        "B": "Silver",
+        "C": "Copper",
+        "D": "Chocolate"
+      },
+      "answer": "C",
+      "explanation": "He asked for a seat in the gallery and 'paid for it in copper coins'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1247",
+      "question": "Which specific street is mentioned where Sergei previously met the beggar?",
+      "options": {
+        "A": "Oxford Street",
+        "B": "Sadovya Street",
+        "C": "Main Street",
+        "D": "Wall Street"
+      },
+      "answer": "B",
+      "explanation": "The street was 'Sadovya Street'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1248",
+      "question": "Lushkoff says, 'By flying to your ________ I dragged myself out of a pit.'",
+      "options": {
+        "A": "Money",
+        "B": "Protection",
+        "C": "Woodshed",
+        "D": "Kitchen"
+      },
+      "answer": "B",
+      "explanation": "Lushkoff attributes his recovery to Sergei's protection.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1249",
+      "question": "What does 'taken aback' mean in the sentence 'mumbled the beggar, taken aback'?",
+      "options": {
+        "A": "Happy",
+        "B": "Surprised or shocked",
+        "C": "Turned around",
+        "D": "Brought back home"
+      },
+      "answer": "B",
+      "explanation": "The context implies the beggar was surprised to be caught in a lie.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1250",
+      "question": "Olga told Lushkoff that he would 'burn in ________'.",
+      "options": {
+        "A": "The sun",
+        "B": "Hell",
+        "C": "A furnace",
+        "D": "The woodshed"
+      },
+      "answer": "B",
+      "explanation": "Olga scolded him saying, 'You drunkard! You will burn in hell'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1251",
+      "question": "What is the meaning of 'fiction' in the story?",
+      "options": {
+        "A": "Fact",
+        "B": "Imaginary story",
+        "C": "Religious song",
+        "D": "Legal paper"
+      },
+      "answer": "B",
+      "explanation": "Glossary: fiction - imaginary story.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1252",
+      "question": "Lushkoff says, 'I shall be ________ to you to my dying day'.",
+      "options": {
+        "A": "Angry",
+        "B": "Indebted",
+        "C": "Unfriendly",
+        "D": "A teacher"
+      },
+      "answer": "B",
+      "explanation": "He expresses deep gratitude to Sergei.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1253",
+      "question": "Lushkoff's change of heart was triggered by Olga's '________ deeds'.",
+      "options": {
+        "A": "Cruel",
+        "B": "Noble",
+        "C": "Funny",
+        "D": "Fast"
+      },
+      "answer": "B",
+      "explanation": "He credits her 'noble deeds' for the change in his heart.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1254",
+      "question": "What is the tone of Olga's scolding according to Lushkoff?",
+      "options": {
+        "A": "Hateful",
+        "B": "Sorrowful and miserable (she shed tears)",
+        "C": "Indifferent",
+        "D": "Joyful"
+      },
+      "answer": "B",
+      "explanation": "Lushkoff notes how many tears she shed for his sake while scolding him.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1255",
+      "question": "What 'instrument' for chopping wood did Olga fling at Lushkoff's feet?",
+      "options": {
+        "A": "Hammer",
+        "B": "Axe",
+        "C": "Sickle",
+        "D": "Saw"
+      },
+      "answer": "B",
+      "explanation": "Olga 'flung down an axe at his feet'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1256",
+      "question": "What word means 'wearing old torn clothes'?",
+      "options": {
+        "A": "Fawn",
+        "B": "Ragged",
+        "C": "Sumptuous",
+        "D": "Clean"
+      },
+      "answer": "B",
+      "explanation": "Glossary: ragged - wearing old torn clothes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1257",
+      "question": "Sergei was an 'advocate'. What does that mean?",
+      "options": {
+        "A": "A cook",
+        "B": "A lawyer",
+        "C": "A beggar",
+        "D": "A teacher"
+      },
+      "answer": "B",
+      "explanation": "An advocate is another word for a lawyer.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1258",
+      "question": "What is the meaning of the word 'intrigue'?",
+      "options": {
+        "A": "A school",
+        "B": "A secret plot or plan",
+        "C": "A Russian coin",
+        "D": "A type of song"
+      },
+      "answer": "B",
+      "explanation": "Glossary: intrigue - a secret plot / plan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1259",
+      "question": "What is 'vodka' described as in the glossary?",
+      "options": {
+        "A": "A soft drink",
+        "B": "A colourless strong alcoholic drink",
+        "C": "A type of food",
+        "D": "Russian tea"
+      },
+      "answer": "B",
+      "explanation": "Glossary: vodka - a colourless strong alcoholic drink.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1260",
+      "question": "Lushkoff's face at the theater was 'near the ________' of Sergei when he mumbled goodbye.",
+      "options": {
+        "A": "Ear",
+        "B": "Ticket window",
+        "C": "Face",
+        "D": "Hand"
+      },
+      "answer": "C",
+      "explanation": "Wait, the source says 'With his face near the tiger’s' in a different story. For 'The Beggar', Lushkoff 'bowed and departed' after the bell.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1261",
+      "question": "In the story 'The Beggar', Sergei is ________ when he finds out Lushkoff is a notary.",
+      "options": {
+        "A": "Angry",
+        "B": "Delighted",
+        "C": "Sad",
+        "D": "Confused"
+      },
+      "answer": "B",
+      "explanation": "Sergei says, 'I am delighted for your sake. I am very very glad, Lushkoff'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1262",
+      "question": "How did Lushkoff's eyes look when he was a beggar?",
+      "options": {
+        "A": "Bright and clear",
+        "B": "Dull and drunken",
+        "C": "Angry",
+        "D": "Blue"
+      },
+      "answer": "B",
+      "explanation": "The text describes his 'dull, drunken eyes'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1263",
+      "question": "What 'red spot' was visible on the beggar's face?",
+      "options": {
+        "A": "On his forehead",
+        "B": "On either cheek",
+        "C": "On his nose",
+        "D": "On his chin"
+      },
+      "answer": "B",
+      "explanation": "The text mentions 'the red spot on either cheek'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1264",
+      "question": "What is the meaning of 'suppliant'?",
+      "options": {
+        "A": "A person making a humble request",
+        "B": "A person who is very rich",
+        "C": "A Russian singer",
+        "D": "A wood cutter"
+      },
+      "answer": "A",
+      "explanation": "Glossary: suppliant - a person making humble request.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1265",
+      "question": "Lushkoff claimed he was 'obliged to by ________' to ask for help.",
+      "options": {
+        "A": "Lies",
+        "B": "Circumstances",
+        "C": "Olga",
+        "D": "The choir"
+      },
+      "answer": "B",
+      "explanation": "He says, 'I am obliged to by circumstances'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1266",
+      "question": "Sergei's face 'flushed' with what emotion when he caught Lushkoff lying?",
+      "options": {
+        "A": "Joy",
+        "B": "Disgust",
+        "C": "Surprise",
+        "D": "Fear"
+      },
+      "answer": "B",
+      "explanation": "The text says, 'Sergei flushed and turned... with an expression of disgust'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1267",
+      "question": "What does 'flush' mean in the glossary?",
+      "options": {
+        "A": "To clean with water",
+        "B": "To become red",
+        "C": "To sing loudly",
+        "D": "To cut wood"
+      },
+      "answer": "B",
+      "explanation": "Glossary: flush - become red.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1268",
+      "question": "Lushkoff says, 'No one will give me anything when I tell the ________'.",
+      "options": {
+        "A": "Lie",
+        "B": "Truth",
+        "C": "Fiction",
+        "D": "Address"
+      },
+      "answer": "B",
+      "explanation": "Lushkoff admits he lies because no one helps him when he is honest about his drinking.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1269",
+      "question": "Sergei felt Lushkoff had been '________ by his own words'.",
+      "options": {
+        "A": "Saved",
+        "B": "Trapped",
+        "C": "Excited",
+        "D": "Helped"
+      },
+      "answer": "B",
+      "explanation": "The beggar consented to work because he had been 'trapped by his own words' after being caught in a lie.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1270",
+      "question": "What does 'menial' labour refer to?",
+      "options": {
+        "A": "Highly skilled work",
+        "B": "Low-status work (like wood chopping)",
+        "C": "Work in a choir",
+        "D": "Working as an advocate"
+      },
+      "answer": "B",
+      "explanation": "Sergei refers to the physical chores as 'menial labour'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1271",
+      "question": "What is the meaning of 'feebly' in 'tapped it feebly with the axe'?",
+      "options": {
+        "A": "Strongly",
+        "B": "Weakly",
+        "C": "Quickly",
+        "D": "Happily"
+      },
+      "answer": "B",
+      "explanation": "Lushkoff was physically weak and tapped the wood without much force.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1272",
+      "question": "How much could Lushkoff earn for other tasks like beating rugs?",
+      "options": {
+        "A": "Ten pesos",
+        "B": "Twenty to forty copecks",
+        "C": "A rouble",
+        "D": "Five copecks"
+      },
+      "answer": "B",
+      "explanation": "The text says, 'Every time he received from twenty to forty copecks'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1273",
+      "question": "What piece of clothing was once sent out to Lushkoff at Sergei's yard?",
+      "options": {
+        "A": "A sealskin cap",
+        "B": "A pair of old trousers",
+        "C": "A fawn overcoat",
+        "D": "A choir uniform"
+      },
+      "answer": "B",
+      "explanation": "The text states, 'once, even a pair of old trousers was sent out to him'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1274",
+      "question": "Lushkoff 'sinks into the ground' metaphorically because of what?",
+      "options": {
+        "A": "Sergei's scolding (roasting)",
+        "B": "The cold snow",
+        "C": "Heavy furniture",
+        "D": "Olga's axe"
+      },
+      "answer": "A",
+      "explanation": "Sergei says, 'I nearly had you sinking into the ground... that day' during the scolding.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1275",
+      "question": "What is the meaning of 'indebted'?",
+      "options": {
+        "A": "Angry at someone",
+        "B": "Owing gratitude to someone",
+        "C": "Dead",
+        "D": "Rich"
+      },
+      "answer": "B",
+      "explanation": "Lushkoff says he will be 'indebted' to Sergei for the rest of his life.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1276",
+      "question": "Olga would sit down and '________' while looking at Lushkoff's face.",
+      "options": {
+        "A": "Laugh",
+        "B": "Weep",
+        "C": "Sing",
+        "D": "Eat"
+      },
+      "answer": "B",
+      "explanation": "Lushkoff recalls how Olga would 'look into my face and weep'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1277",
+      "question": "Lushkoff says, 'she set me ________ and I shall never forget it'.",
+      "options": {
+        "A": "Free",
+        "B": "Right",
+        "C": "Down",
+        "D": "Aside"
+      },
+      "answer": "B",
+      "explanation": "He credits Olga for setting him on the right path.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1278",
+      "question": "In the theatre, Lushkoff timidly asked for a seat in the ________.",
+      "options": {
+        "A": "Front row",
+        "B": "Gallery",
+        "C": "Balcony",
+        "D": "Box"
+      },
+      "answer": "B",
+      "explanation": "He 'timidly asked the ticket seller for a seat in the gallery'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1279",
+      "question": "What 'signal' indicated it was time for Lushkoff to enter the theatre?",
+      "options": {
+        "A": "A whistle",
+        "B": "The bell",
+        "C": "A shout",
+        "D": "The lights dimmed"
+      },
+      "answer": "B",
+      "explanation": "He says, 'However, it is time to go now; there goes the bell'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1280",
+      "question": "What is the central theme of 'The Beggar'?",
+      "options": {
+        "A": "How to chop wood efficiently",
+        "B": "The power of kindness and noble deeds in transforming a life",
+        "C": "The history of the Russian choir",
+        "D": "The benefits of becoming a notary"
+      },
+      "answer": "B",
+      "explanation": "The story shows how Olga's selfless sacrifice and pity actually changed Lushkoff's heart.",
+      "difficulty": "medium"
+    }
+  ]
+}
+```

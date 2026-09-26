@@ -1,1 +1,916 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE13",
+  "chapter_name": "THE VILLAGE JUDGE",
+  "questions": [
+    {
+      "id": "SLE1301",
+      "question": "Who is the author of the story 'The Village Judge'?",
+      "options": {
+        "A": "Anton Chekhov",
+        "B": "Prem Chand",
+        "C": "Ruskin Bond",
+        "D": "Leo Tolstoy"
+      },
+      "answer": "B",
+      "explanation": "The story 'The Village Judge' is written by Prem Chand.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1302",
+      "question": "Who were the two 'great friends' mentioned at the beginning of the story?",
+      "options": {
+        "A": "Jumman Sheikh and Samjhoo Sahu",
+        "B": "Algu Chaudhuri and Samjhoo Sahu",
+        "C": "Jumman Sheikh and Algu Chaudhuri",
+        "D": "Kariman and the old aunt"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'Jumman Sheikh and Algu Chaudhuri were great friends'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1303",
+      "question": "What did Jumman's old aunt possess that Jumman wanted?",
+      "options": {
+        "A": "A pair of bullocks",
+        "B": "A small piece of property",
+        "C": "Gold jewelry",
+        "D": "An ekka"
+      },
+      "answer": "B",
+      "explanation": "Jumman's aunt had a small piece of property which she was persuaded to transfer to his name.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1304",
+      "question": "How was the aunt treated before the property was transferred to Jumman?",
+      "options": {
+        "A": "With harshness and rudeness",
+        "B": "With great kindness and respect",
+        "C": "She was ignored completely",
+        "D": "She was made to work in the fields"
+      },
+      "answer": "B",
+      "explanation": "So long as the property was not transferred, the aunt was treated with great kindness and respect.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1305",
+      "question": "Who was Jumman's wife?",
+      "options": {
+        "A": "Olga",
+        "B": "Kariman",
+        "C": "Sarojini",
+        "D": "Algu's wife"
+      },
+      "answer": "B",
+      "explanation": "Jumman's wife is named Kariman in the story.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1306",
+      "question": "What happened to the treatment of the aunt after the property was transferred?",
+      "options": {
+        "A": "It became even better",
+        "B": "All kindness vanished",
+        "C": "She was given a monthly allowance",
+        "D": "She was asked to leave the village"
+      },
+      "answer": "B",
+      "explanation": "When the property was transferred, all kindness vanished and Jumman and his wife became harsh and rude.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1307",
+      "question": "What did the aunt request from Jumman when she could no longer bear the harsh treatment?",
+      "options": {
+        "A": "The property back",
+        "B": "Some money to cook and eat separately",
+        "C": "A new house",
+        "D": "A pair of bullocks"
+      },
+      "answer": "B",
+      "explanation": "She told Jumman, 'You should give me some money. I shall cook and eat separately'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1308",
+      "question": "What was Jumman's rude reply to his aunt's request for money?",
+      "options": {
+        "A": "I have no money.",
+        "B": "Money does not grow on trees here.",
+        "C": "Ask Algu for money.",
+        "D": "Go to the panchayat."
+      },
+      "answer": "B",
+      "explanation": "Jumman replied rudely, 'Money does not grow on trees here'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1309",
+      "question": "What did the aunt threaten to do after Jumman's rude reply?",
+      "options": {
+        "A": "Sell the property",
+        "B": "Call a panchayat",
+        "C": "Leave the house",
+        "D": "Poison the bullocks"
+      },
+      "answer": "B",
+      "explanation": "The aunt grew angry and threatened to call a panchayat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1310",
+      "question": "How did Jumman react to the threat of a panchayat?",
+      "options": {
+        "A": "He was frightened.",
+        "B": "He welcomed it, saying he hated daily quarrels.",
+        "C": "He apologized to his aunt.",
+        "D": "He tried to stop her from going."
+      },
+      "answer": "B",
+      "explanation": "Jumman said, 'Certainly, have a panchayat by all means... I hate these daily quarrels myself'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1311",
+      "question": "What did the aunt use for support while running from village to village?",
+      "options": {
+        "A": "A crutch",
+        "B": "A stick",
+        "C": "A walker",
+        "D": "Her grandson"
+      },
+      "answer": "B",
+      "explanation": "She ran from village to village with a stick in her hand to support her.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1312",
+      "question": "Did most people in the village offer comfort to the old woman?",
+      "options": {
+        "A": "Yes, everyone helped.",
+        "B": "No, most did not hear her story with care or offer comfort.",
+        "C": "They gave her money instead.",
+        "D": "They told her to go to the police."
+      },
+      "answer": "B",
+      "explanation": "Most people did not hear the story with care and attention and did not offer her any comfort.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1313",
+      "question": "Why did Algu initially say he would not 'open his mouth' at the panchayat?",
+      "options": {
+        "A": "He was afraid of the aunt.",
+        "B": "Jumman was his old friend.",
+        "C": "He was not a member of the panchayat.",
+        "D": "He didn't know the case."
+      },
+      "answer": "B",
+      "explanation": "Algu said, 'Jumman is an old friend of mine. I cannot quarrel with him'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1314",
+      "question": "What question did the aunt ask Algu that 'echoed in his heart'?",
+      "options": {
+        "A": "Will you give me money?",
+        "B": "Will you hesitate to say the honest thing because you fear a quarrel?",
+        "C": "Are you really Jumman's friend?",
+        "D": "Can you be the Chief Judge?"
+      },
+      "answer": "B",
+      "explanation": "The aunt asked, 'Son, will you hesitate to say the honest thing, because you fear a quarrel?' and these words echoed in his heart.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1315",
+      "question": "Where did the panchayat meet?",
+      "options": {
+        "A": "In a temple",
+        "B": "Under a tree",
+        "C": "At Jumman's house",
+        "D": "In the town hall"
+      },
+      "answer": "B",
+      "explanation": "The panchayat met under a tree one evening.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1316",
+      "question": "Who did the old woman name as the Chief Judge?",
+      "options": {
+        "A": "Jumman Sheikh",
+        "B": "Algu Chaudhuri",
+        "C": "Samjhoo Sahu",
+        "D": "One of the village elders"
+      },
+      "answer": "B",
+      "explanation": "She said, 'Do you accept Algu Chaudhuri? I name him as Chief Judge'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1317",
+      "question": "How did Jumman feel when Algu was named Chief Judge?",
+      "options": {
+        "A": "He was angry.",
+        "B": "He was overjoyed but hid it.",
+        "C": "He was worried.",
+        "D": "He was indifferent."
+      },
+      "answer": "B",
+      "explanation": "Jumman was overjoyed, but he hid his feelings and replied: 'Let it be Algu Chaudhuri'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1318",
+      "question": "According to the aunt, who lives in the heart of the panch?",
+      "options": {
+        "A": "The villagers",
+        "B": "God",
+        "C": "The Chief Judge",
+        "D": "The property owner"
+      },
+      "answer": "B",
+      "explanation": "The aunt said, 'God lives in the heart of the panch'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1319",
+      "question": "The aunt said that nobody can sell his ________ for friendship.",
+      "options": {
+        "A": "Property",
+        "B": "Conscience",
+        "C": "Bullocks",
+        "D": "Honesty"
+      },
+      "answer": "B",
+      "explanation": "The aunt replied gravely: 'Son, nobody can sell his conscience for friendship'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1320",
+      "question": "Why was Jumman confident of winning initially?",
+      "options": {
+        "A": "His case was very strong.",
+        "B": "He thought Algu's talk about being fair was mere show for his friend.",
+        "C": "He had bribed the panchayat.",
+        "D": "The aunt had no papers."
+      },
+      "answer": "B",
+      "explanation": "He imagined that Algu’s talk was mere show.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1321",
+      "question": "What did Algu do that Jumman found hard to answer?",
+      "options": {
+        "A": "He shouted at him.",
+        "B": "He started asking questions.",
+        "C": "He brought in the police.",
+        "D": "He looked at him with disgust."
+      },
+      "answer": "B",
+      "explanation": "Algu Chaudhuri started asking questions which Jumman found hard to answer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1322",
+      "question": "What was the final judgement given by Algu in the first panchayat?",
+      "options": {
+        "A": "Jumman should get the property back.",
+        "B": "Jumman should pay his aunt a monthly allowance.",
+        "C": "The aunt should leave the village.",
+        "D": "Algu and Jumman should no longer be friends."
+      },
+      "answer": "B",
+      "explanation": "The decision was that 'aunt should have a monthly allowance'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1323",
+      "question": "What was the consequence if Jumman refused to pay the monthly expenses?",
+      "options": {
+        "A": "He would go to jail.",
+        "B": "The property should be returned to the aunt.",
+        "C": "He would be expelled from the village.",
+        "D": "He would have to pay a fine of a hundred pesos."
+      },
+      "answer": "B",
+      "explanation": "Algu said, 'If you do not agree to pay the monthly expenses, then the property should be returned to her'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1324",
+      "question": "How did the judgement affect the friendship between Jumman and Algu?",
+      "options": {
+        "A": "It made them better friends.",
+        "B": "It broke up their friendship.",
+        "C": "It had no effect.",
+        "D": "They became business partners."
+      },
+      "answer": "B",
+      "explanation": "The text states, 'It broke up the friendship between Jumman and Algu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1325",
+      "question": "What did Jumman begin to think of after the first panchayat?",
+      "options": {
+        "A": "Returning the property",
+        "B": "Taking revenge",
+        "C": "Moving to Lucknow",
+        "D": "Buying bullocks"
+      },
+      "answer": "B",
+      "explanation": "Jumman began to think of taking revenge.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1326",
+      "question": "Where had Algu bought his beautiful pair of bullocks from?",
+      "options": {
+        "A": "Dehra",
+        "B": "Batesar",
+        "C": "Kaluga",
+        "D": "Lucknow"
+      },
+      "answer": "B",
+      "explanation": "Algu had bought a pair of bullocks from the fair at Batesar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1327",
+      "question": "What happened to one of Algu's bullocks?",
+      "options": {
+        "A": "It was stolen.",
+        "B": "It happened to die a month after the panchayat.",
+        "C": "It was sold to Samjhoo Sahu immediately.",
+        "D": "It ran away to the hills."
+      },
+      "answer": "B",
+      "explanation": "One of these bullocks happened to die only a month after Jumman’s panchayat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1328",
+      "question": "What did Jumman say when he heard about the death of Algu's bullock?",
+      "options": {
+        "A": "I am so sorry.",
+        "B": "This is punishment for his deception.",
+        "C": "I will buy the other one.",
+        "D": "God is not fair."
+      },
+      "answer": "B",
+      "explanation": "Jumman exclaimed among friends, 'This is punishment for his deception'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1329",
+      "question": "What did Algu suspect regarding the death of his bullock?",
+      "options": {
+        "A": "It died of pneumonia.",
+        "B": "Jumman had poisoned it.",
+        "C": "It was old and sick.",
+        "D": "Sahu had overworked it."
+      },
+      "answer": "B",
+      "explanation": "Algu suspected that Jumman had poisoned his bullock.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1330",
+      "question": "Who was Samjhoo Sahu?",
+      "options": {
+        "A": "A village elder",
+        "B": "An ekka driver in the village",
+        "C": "Jumman's brother",
+        "D": "A wood cutter"
+      },
+      "answer": "B",
+      "explanation": "Samjhoo Sahu was a person in the village who used to drive an ekka.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1331",
+      "question": "What items did Samjhoo Sahu carry to the town market?",
+      "options": {
+        "A": "Salt and oil",
+        "B": "Ghee and sugar",
+        "C": "Bullocks and carts",
+        "D": "Raw mutton and cod liver oil"
+      },
+      "answer": "B",
+      "explanation": "He would carry ghee and sugar to the town market.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1332",
+      "question": "What items did Samjhoo Sahu bring back from the town to sell in the village?",
+      "options": {
+        "A": "Ghee and sugar",
+        "B": "Salt and oil",
+        "C": "Cotton and wood",
+        "D": "Fruit and bread"
+      },
+      "answer": "B",
+      "explanation": "He would return from there with a lot of salt and oil to sell in the village.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1333",
+      "question": "How much time did Sahu promise to pay the price of the bullock to Algu?",
+      "options": {
+        "A": "One week",
+        "B": "A month's time",
+        "C": "One year",
+        "D": "Three days"
+      },
+      "answer": "B",
+      "explanation": "Sahu promised to pay off the price in a month’s time.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1334",
+      "question": "How many trips a day did Sahu begin making with the new bullock?",
+      "options": {
+        "A": "One",
+        "B": "Three to four",
+        "C": "Ten",
+        "D": "Two"
+      },
+      "answer": "B",
+      "explanation": "Samjhoo Sahu began making three to four trips per day.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1335",
+      "question": "What did Sahu neglect while overworking the bullock?",
+      "options": {
+        "A": "Its name",
+        "B": "Giving it fodder or water",
+        "C": "Cleaning the ekka",
+        "D": "His own health"
+      },
+      "answer": "B",
+      "explanation": "He worried neither about giving it fodder nor water.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1336",
+      "question": "What phrase describes the bullock's physical state after a month with Sahu?",
+      "options": {
+        "A": "A well-fed tiger",
+        "B": "A mere bag of skin and bones",
+        "C": "A strong and stout animal",
+        "D": "Full of life and vigour"
+      },
+      "answer": "B",
+      "explanation": "Within a month the bullock became a 'mere bag of skin and bones'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1337",
+      "question": "What happened during the fourth trip one evening?",
+      "options": {
+        "A": "Sahu sold the bullock.",
+        "B": "The bullock fell down and never rose again.",
+        "C": "Jumman poisoned the bullock.",
+        "D": "Algu took the bullock back."
+      },
+      "answer": "B",
+      "explanation": "The bullock made a last effort, but fell down on the ground, never to rise again.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1338",
+      "question": "What did Sahu use to hit the tired bullock?",
+      "options": {
+        "A": "An axe",
+        "B": "A whip",
+        "C": "A stick",
+        "D": "His fists"
+      },
+      "answer": "B",
+      "explanation": "Sahuji whipped it with the greatest cruelty.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1339",
+      "question": "Why did Sahu and his wife refuse to pay Algu for the bullock?",
+      "options": {
+        "A": "They had no money.",
+        "B": "They claimed Algu gave them a 'dying bullock'.",
+        "C": "Algu hadn't asked for the money.",
+        "D": "Jumman told them not to pay."
+      },
+      "answer": "B",
+      "explanation": "Both said angrily, 'He gave us a dying bullock and now wants the price for it'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1340",
+      "question": "What was the price Algu asked for his bullock?",
+      "options": {
+        "A": "Seventy pesos",
+        "B": "One hundred and fifty rupees",
+        "C": "Thirty-five roubles",
+        "D": "Ten annas"
+      },
+      "answer": "B",
+      "explanation": "Algu worried about losing 'a hundred and fifty rupees'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1341",
+      "question": "Who helped Samjhoo Sahu against Algu?",
+      "options": {
+        "A": "The village elders",
+        "B": "Algu's many enemies",
+        "C": "The aunt",
+        "D": "The police"
+      },
+      "answer": "B",
+      "explanation": "Algu had many enemies. They too gathered and helped Sahuji.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1342",
+      "question": "When did the second panchayat meet?",
+      "options": {
+        "A": "A year later",
+        "B": "Three days after the dispute",
+        "C": "The next month",
+        "D": "Immediately"
+      },
+      "answer": "B",
+      "explanation": "Three days after this, the panchayat again met under the same tree.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1343",
+      "question": "Who did Samjhoo Sahu choose as the panch for his case?",
+      "options": {
+        "A": "Algu Chaudhuri",
+        "B": "Jumman Sheikh",
+        "C": "His wife",
+        "D": "A stranger"
+      },
+      "answer": "B",
+      "explanation": "Samjhoo thundered: 'Jumman Sheikh on my behalf'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1344",
+      "question": "What realization came over Jumman when he became the judge?",
+      "options": {
+        "A": "He could finally take his revenge.",
+        "B": "Whatever he says will be the voice of God and he must stick to truth.",
+        "C": "He should help Sahu win.",
+        "D": "He should return the property to his aunt."
+      },
+      "answer": "B",
+      "explanation": "Jumman thought, 'Whatever I say now will be the voice of God. I should stick to the truth'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1345",
+      "question": "What was Jumman's decision in the second panchayat?",
+      "options": {
+        "A": "Sahu should not pay anything.",
+        "B": "Samjhoo ought to pay the full price of the bullock.",
+        "C": "Algu should pay Sahu a fine.",
+        "D": "The bullock was already dying."
+      },
+      "answer": "B",
+      "explanation": "Jumman gave the decision: 'Samjhoo ought to pay the full price of the bullock'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1346",
+      "question": "According to Jumman, why did the bullock die?",
+      "options": {
+        "A": "Because it was poisoned.",
+        "B": "Because it was driven too hard and not fed properly.",
+        "C": "Because it was old.",
+        "D": "Because of pneumonia."
+      },
+      "answer": "B",
+      "explanation": "Jumman stated, 'The bullock died only because it was driven too hard and no proper arrangement was made to feed it'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1347",
+      "question": "What did Algu shout after hearing the second judgement?",
+      "options": {
+        "A": "I have won!",
+        "B": "Long live the God that is the panch!",
+        "C": "Down with Sahu!",
+        "D": "Jumman is still my enemy."
+      },
+      "answer": "B",
+      "explanation": "Algu gave a loud cheer: 'Long live the God that is the panch!'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1348",
+      "question": "What did Jumman do after the panchayat session ended?",
+      "options": {
+        "A": "He ran away.",
+        "B": "He approached Algu and embraced him.",
+        "C": "He demanded money from Sahu.",
+        "D": "He went to see his aunt."
+      },
+      "answer": "B",
+      "explanation": "Jumman approached Algu and embraced him.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1349",
+      "question": "Jumman said that after Algu's first decision, he had become his ________.",
+      "options": {
+        "A": "Best friend",
+        "B": "Mortal enemy",
+        "C": "Village judge",
+        "D": "Partner"
+      },
+      "answer": "B",
+      "explanation": "Jumman admitted, 'After you gave your decision, I had become your mortal enemy'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1350",
+      "question": "What 'washed away the dust' in Algu and Jumman's eyes?",
+      "options": {
+        "A": "The river water",
+        "B": "Their tears",
+        "C": "A downpour",
+        "D": "Fresh air"
+      },
+      "answer": "B",
+      "explanation": "The text says, 'The tears washed away all the dust in their eyes'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1351",
+      "question": "What does the word 'Panch' refer to in the story?",
+      "options": {
+        "A": "A unit of money",
+        "B": "The village judge/council members",
+        "C": "A type of bullock",
+        "D": "A stick used for support"
+      },
+      "answer": "B",
+      "explanation": "The 'panch' are the members of the village council or the judges.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1352",
+      "question": "What is the meaning of 'trust' in the glossary?",
+      "options": {
+        "A": "To lie",
+        "B": "To have faith in",
+        "C": "To sell property",
+        "D": "To take revenge"
+      },
+      "answer": "B",
+      "explanation": "Glossary: Trust - to have faith in.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1353",
+      "question": "What does 'persuade' mean?",
+      "options": {
+        "A": "To force someone",
+        "B": "To convince",
+        "C": "To argue",
+        "D": "To ignore"
+      },
+      "answer": "B",
+      "explanation": "Glossary: Persuade - to convince.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1354",
+      "question": "The word 'deception' means:",
+      "options": {
+        "A": "Honesty",
+        "B": "Misleading",
+        "C": "Kindness",
+        "D": "Revenge"
+      },
+      "answer": "B",
+      "explanation": "Glossary: deception - misleading.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1355",
+      "question": "What is 'fodder'?",
+      "options": {
+        "A": "A village judge",
+        "B": "Food for animals",
+        "C": "A type of cart",
+        "D": "A unit of currency"
+      },
+      "answer": "B",
+      "explanation": "Glossary: fodder - food for animals.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1356",
+      "question": "The term 'mortal' refers to something that ________.",
+      "options": {
+        "A": "Lives forever",
+        "B": "Must die or cannot live forever",
+        "C": "Is very strong",
+        "D": "Is made of gold"
+      },
+      "answer": "B",
+      "explanation": "Glossary: mortal - which must die or cannot live for ever.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1357",
+      "question": "The aunt had been treated with 'great ________' until the property was transferred.",
+      "options": {
+        "A": "Cruelty",
+        "B": "Kindness and respect",
+        "C": "Disdain",
+        "D": "Disgust"
+      },
+      "answer": "B",
+      "explanation": "The aunt had been treated with great kindness and respect.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1358",
+      "question": "What did the aunt mean by 'Separately' when talking about cooking?",
+      "options": {
+        "A": "In a different village",
+        "B": "Cooking her own food apart from Jumman's family",
+        "C": "In the woodshed",
+        "D": "With Algu"
+      },
+      "answer": "B",
+      "explanation": "She requested money to cook and eat separately from Jumman's family.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1359",
+      "question": "Why did Jumman want a decision from the panchayat himself?",
+      "options": {
+        "A": "He wanted to apologize.",
+        "B": "He hated daily quarrels.",
+        "C": "He wanted more property.",
+        "D": "He wanted to move to town."
+      },
+      "answer": "B",
+      "explanation": "Jumman said, 'I also would like a decision. I hate these daily quarrels myself'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1360",
+      "question": "How did Algu feel after the old woman left his house initially?",
+      "options": {
+        "A": "Happy",
+        "B": "Troubled, as her words echoed in his heart",
+        "C": "Angry at Jumman",
+        "D": "Indifferent"
+      },
+      "answer": "B",
+      "explanation": "Her words continued to echo in his heart.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1361",
+      "question": "In the first panchayat, whom did Jumman address angrily, saying 'It is your show'?",
+      "options": {
+        "A": "Algu",
+        "B": "His aunt",
+        "C": "The elders",
+        "D": "Kariman"
+      },
+      "answer": "B",
+      "explanation": "Jumman answered his aunt angrily, 'It is your show. Have anyone you like'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1362",
+      "question": "What is an 'ekka' as mentioned in Part III?",
+      "options": {
+        "A": "A unit of weight",
+        "B": "A horse-drawn cart",
+        "C": "A type of bullock",
+        "D": "A village house"
+      },
+      "answer": "B",
+      "explanation": "Samjhoo Sahu used to drive an 'ekka' to the town.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1363",
+      "question": "Why did Samjhoo Sahu buy the bullock from Algu?",
+      "options": {
+        "A": "To help Algu",
+        "B": "He thought he could make three trips a day easily with it",
+        "C": "His own bullock had died",
+        "D": "Jumman told him to"
+      },
+      "answer": "B",
+      "explanation": "He thought if he had this bullock, he could make three trips a day easily.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1364",
+      "question": "Samjhoo Sahu put a '________ load' on the bullock during the fateful fourth trip.",
+      "options": {
+        "A": "Light",
+        "B": "Double",
+        "C": "Triple",
+        "D": "Half"
+      },
+      "answer": "B",
+      "explanation": "One evening Sahuji put a double load on it during the fourth trip.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1365",
+      "question": "In the second panchayat, Algu told Sahu to have 'his own ________' for the panch.",
+      "options": {
+        "A": "Choice",
+        "B": "Money",
+        "C": "Time",
+        "D": "Friend"
+      },
+      "answer": "A",
+      "explanation": "Algu replied : 'Let Sahu have his own choice'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1366",
+      "question": "What 'voice' did Jumman feel he represented as a judge?",
+      "options": {
+        "A": "Voice of the villagers",
+        "B": "Voice of God",
+        "C": "Voice of Sahu",
+        "D": "Voice of his family"
+      },
+      "answer": "B",
+      "explanation": "Jumman thought, 'Whatever I say now will be the voice of God'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1367",
+      "question": "What is the central theme of 'The Village Judge'?",
+      "options": {
+        "A": "How to raise bullocks",
+        "B": "The impartiality of justice and that the voice of the panch is the voice of God",
+        "C": "The history of Indian villages",
+        "D": "How to manage property"
+      },
+      "answer": "B",
+      "explanation": "The story emphasizes that the 'God lives in the heart of the panch' and justice must be impartial regardless of friendship or enmity.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1368",
+      "question": "Who thundered 'Jumman Sheikh on my behalf'?",
+      "options": {
+        "A": "Algu Chaudhuri",
+        "B": "Samjhoo Sahu",
+        "C": "The aunt",
+        "D": "Kariman"
+      },
+      "answer": "B",
+      "explanation": "Samjhoo stood up and thundered : 'Jumman Sheikh on my behalf'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1369",
+      "question": "What was the 'total loss' that Algu faced according to Sahu?",
+      "options": {
+        "A": "His property",
+        "B": "The dead bullock",
+        "C": "His friendship with Jumman",
+        "D": "The money owed to the aunt"
+      },
+      "answer": "B",
+      "explanation": "Sahu claimed Algu gave him a dying bullock, and thus refused to pay for the loss.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1370",
+      "question": "The tears of Algu and Jumman '________ away all the dust in their eyes'.",
+      "options": {
+        "A": "Cleaned",
+        "B": "Washed",
+        "C": "Blew",
+        "D": "Cleared"
+      },
+      "answer": "B",
+      "explanation": "The text uses the phrase 'The tears washed away all the dust in their eyes'.",
+      "difficulty": "easy"
+    }
+  ]
+}

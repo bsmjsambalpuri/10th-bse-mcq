@@ -1,0 +1,1046 @@
+﻿{
+  "chapter_id": "SLE28",
+  "chapter_name": "Festivals of North-East India",
+  "questions": [
+    {
+      "id": "SLE2801",
+      "question": "Which state is geographically NOT a contiguous part of the North-East region?",
+      "options": {
+        "A": "Assam",
+        "B": "Manipur",
+        "C": "Sikkim",
+        "D": "Tripura"
+      },
+      "answer": "C",
+      "explanation": "Sikkim is geographically not a contiguous part of the North-East region and is separated by the Siligudi corridor.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2802",
+      "question": "What is the common description for the seven contiguous states of North-East India?",
+      "options": {
+        "A": "The Land of Eight States",
+        "B": "The Land of Seven Sisters",
+        "C": "The Eastern Paradise",
+        "D": "The Seven Wonders"
+      },
+      "answer": "B",
+      "explanation": "The contiguous seven states are commonly described as the 'Land of Seven Sisters'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2803",
+      "question": "Sikkim plays the role of being a ________ to the 'Seven Sisters'.",
+      "options": {
+        "A": "Father",
+        "B": "Little brother",
+        "C": "Cousin",
+        "D": "Guardian"
+      },
+      "answer": "B",
+      "explanation": "Sikkim has taken up the role of being a little brother to the amazing seven sisters.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2804",
+      "question": "Most of the festivals celebrated in the North-East are based on which activity?",
+      "options": {
+        "A": "Warfare",
+        "B": "Commerce",
+        "C": "Agriculture",
+        "D": "Fishery"
+      },
+      "answer": "C",
+      "explanation": "Many of the festivals in North-East India are based on agriculture.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2805",
+      "question": "Which major cultural festivals are celebrated in a series of three in Assam?",
+      "options": {
+        "A": "Losar",
+        "B": "Bihu",
+        "C": "Wangala",
+        "D": "Mopin"
+      },
+      "answer": "B",
+      "explanation": "Bihus are among the major cultural festivals of Assam and consist of a series of three prominent festivals.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2806",
+      "question": "Rongali Bihu is also known by which other name?",
+      "options": {
+        "A": "Kaati Bihu",
+        "B": "Magh Bihu",
+        "C": "Bohag Bihu",
+        "D": "Kaati Bihu"
+      },
+      "answer": "C",
+      "explanation": "Rongali Bihu is also known as Bohag Bihu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2807",
+      "question": "When is Rongali Bihu celebrated?",
+      "options": {
+        "A": "Mid-January",
+        "B": "Mid-April",
+        "C": "Mid-October",
+        "D": "Mid-July"
+      },
+      "answer": "B",
+      "explanation": "Rongali Bihu is celebrated in mid-April.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2808",
+      "question": "Which Bihu marks the start of the New Year in Assam?",
+      "options": {
+        "A": "Kongali Bihu",
+        "B": "Bhogali Bihu",
+        "C": "Rongali Bihu",
+        "D": "Magh Bihu"
+      },
+      "answer": "C",
+      "explanation": "Rongali Bihu marks the start of a New Year in Assam.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2809",
+      "question": "Kongali Bihu is celebrated when the fields are lush but the ________ are empty.",
+      "options": {
+        "A": "Houses",
+        "B": "Barns",
+        "C": "Pockets",
+        "D": "Rivers"
+      },
+      "answer": "B",
+      "explanation": "Kongali Bihu is celebrated in mid-October when the fields are lush but the barns are empty.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2810",
+      "question": "What is the alternative name for Kongali Bihu?",
+      "options": {
+        "A": "Bohag Bihu",
+        "B": "Kaati Bihu",
+        "C": "Magh Bihu",
+        "D": "Losar"
+      },
+      "answer": "B",
+      "explanation": "Kongali Bihu is also called Kaati Bihu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2811",
+      "question": "What do people do during Kongali Bihu to guide souls to heaven?",
+      "options": {
+        "A": "Sing songs",
+        "B": "Dance briskly",
+        "C": "Light lamps",
+        "D": "Beat drums"
+      },
+      "answer": "C",
+      "explanation": "On Kongali Bihu, people light lamps and pray to God to guide souls to heaven.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2812",
+      "question": "Which Bihu is a thanksgiving festival observed in mid-January?",
+      "options": {
+        "A": "Rongali Bihu",
+        "B": "Kongali Bihu",
+        "C": "Bhogali Bihu",
+        "D": "Kaati Bihu"
+      },
+      "answer": "C",
+      "explanation": "Bhogali Bihu, also called Magh Bihu, is observed in mid-January as a thanksgiving.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2813",
+      "question": "Bhogali Bihu symbolises the end of the ________.",
+      "options": {
+        "A": "Sowing season",
+        "B": "Winter season",
+        "C": "Harvest season",
+        "D": "Year"
+      },
+      "answer": "C",
+      "explanation": "The Bhogali Bihu festival symbolises the end of the harvest season.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2814",
+      "question": "The Bihu dance is characterized by which movements?",
+      "options": {
+        "A": "Slow and steady",
+        "B": "Brisk steps and hand movement",
+        "C": "Standing still",
+        "D": "Jumping high"
+      },
+      "answer": "B",
+      "explanation": "The Bihu dance is performed with brisk steps and hand movement.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2815",
+      "question": "What is the 'pepa' in Assamese culture?",
+      "options": {
+        "A": "A type of drum",
+        "B": "A wind instrument made of buffalo horn",
+        "C": "A traditional dress",
+        "D": "A kind of cymbal"
+      },
+      "answer": "B",
+      "explanation": "The pepa is a wind instrument made of buffalo horn used in Bihu celebrations.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2816",
+      "question": "Which instrument is described as being similar to a drum in Bihu?",
+      "options": {
+        "A": "Cymbal",
+        "B": "Bamboo clapper",
+        "C": "Dhol",
+        "D": "Pepa"
+      },
+      "answer": "C",
+      "explanation": "The dhol is similar to a drum and used during the Bihu dance.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2817",
+      "question": "Arunachal Pradesh is known for its lush green paddy fields and _________ mountains.",
+      "options": {
+        "A": "Snow-capped",
+        "B": "Pine clad",
+        "C": "Volcanic",
+        "D": "Dry"
+      },
+      "answer": "B",
+      "explanation": "Arunachal Pradesh features lush green paddy fields and pine clad mountains.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2818",
+      "question": "Which is the most important New Year festival in certain areas of Arunachal Pradesh?",
+      "options": {
+        "A": "Mopin",
+        "B": "Losar",
+        "C": "Popir",
+        "D": "Ziro"
+      },
+      "answer": "B",
+      "explanation": "The new-year festival, Losar, is the most important festival in certain areas of Arunachal Pradesh.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2819",
+      "question": "Mopin is the harvest festival of which tribe?",
+      "options": {
+        "A": "Garo",
+        "B": "Galo",
+        "C": "Naga",
+        "D": "Mizo"
+      },
+      "answer": "B",
+      "explanation": "Mopin is the harvest festival of the Galo tribe in Arunachal Pradesh.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2820",
+      "question": "Which goddess is worshipped during the Mopin festival?",
+      "options": {
+        "A": "Goddess Durga",
+        "B": "Goddess Mopin",
+        "C": "Goddess Lakshmi",
+        "D": "Goddess Saraswati"
+      },
+      "answer": "B",
+      "explanation": "During Mopin, people worship goddess Mopin to drive away evil spirits.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2821",
+      "question": "What is 'Popir'?",
+      "options": {
+        "A": "A traditional dish",
+        "B": "An indigenous folk dance",
+        "C": "A musical instrument",
+        "D": "A New Year festival"
+      },
+      "answer": "B",
+      "explanation": "Popir is an indigenous folk dance performed by young women during Mopin.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2822",
+      "question": "In which month is the Ziro Festival of Music held?",
+      "options": {
+        "A": "January",
+        "B": "April",
+        "C": "September",
+        "D": "December"
+      },
+      "answer": "C",
+      "explanation": "The Ziro festival of music is held at Ziro in September every year.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2823",
+      "question": "The Ziro Festival features how many indie bands from across the world?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "50"
+      },
+      "answer": "C",
+      "explanation": "The music congregation features a combination of 30 indie bands and top folk acts.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2824",
+      "question": "Which Manipuri festival revives relationships between married girls and their parents?",
+      "options": {
+        "A": "Cheiraoba",
+        "B": "Ningol Chakouba",
+        "C": "Losar",
+        "D": "Karachi Puja"
+      },
+      "answer": "B",
+      "explanation": "Ningol Chakouba binds and revives the relationships between married girls and their parents.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2825",
+      "question": "What do villagers in Manipur do as part of the Cheiraoba ritual?",
+      "options": {
+        "A": "Swim in the river",
+        "B": "Climb hilltops",
+        "C": "Cut trees",
+        "D": "Stay indoors"
+      },
+      "answer": "B",
+      "explanation": "As part of Cheiraoba, villagers climb the nearest hilltops to help them rise to a higher plane in life.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2826",
+      "question": "Cheiraoba is the New Year festival of which state?",
+      "options": {
+        "A": "Assam",
+        "B": "Manipur",
+        "C": "Mizoram",
+        "D": "Nagaland"
+      },
+      "answer": "B",
+      "explanation": "Cheiraoba is the Manipur new-year festival celebrated in April.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2827",
+      "question": "What is Chapchar Kut commonly known as in Mizoram?",
+      "options": {
+        "A": "Winter Festival",
+        "B": "Summer Festival",
+        "C": "Spring Festival",
+        "D": "Autumn Festival"
+      },
+      "answer": "C",
+      "explanation": "The Spring Festival or Chapchar Kut is an important occasion in Mizoram.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2828",
+      "question": "Which of these is NOT mentioned as adding to the festive air of Chapchar Kut?",
+      "options": {
+        "A": "Drums",
+        "B": "Gongs",
+        "C": "Cymbals",
+        "D": "Pepa"
+      },
+      "answer": "D",
+      "explanation": "Drums, gongs, and cymbals are mentioned for Chapchar Kut; the pepa is Assamese.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2829",
+      "question": "The Wangala festival is also known as the ___________ festival.",
+      "options": {
+        "A": "Hundred-drum",
+        "B": "Spring",
+        "C": "New Year",
+        "D": "Flower"
+      },
+      "answer": "A",
+      "explanation": "Wangala is also known as the Hundred-drum Festival.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2830",
+      "question": "Which tribe in Meghalaya celebrates the Wangala festival?",
+      "options": {
+        "A": "Galo",
+        "B": "Garo",
+        "C": "Khasi",
+        "D": "Mizo"
+      },
+      "answer": "B",
+      "explanation": "Wangala is the most important festival celebrated by the Garos in Meghalaya.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2831",
+      "question": "In which month is the Wangala harvest festival celebrated?",
+      "options": {
+        "A": "April",
+        "B": "July",
+        "C": "November",
+        "D": "December"
+      },
+      "answer": "C",
+      "explanation": "The Wangala harvest festival is celebrated in November.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2832",
+      "question": "The Wangala dance features two parallel lines of which people?",
+      "options": {
+        "A": "Children only",
+        "B": "Priests and villagers",
+        "C": "Men and women",
+        "D": "Dancers and musicians"
+      },
+      "answer": "C",
+      "explanation": "The dance has two parallel lines – one of men and the other of women.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2833",
+      "question": "How many gods are worshipped during Karachi Puja of Tripura?",
+      "options": {
+        "A": "One",
+        "B": "Seven",
+        "C": "Fourteen",
+        "D": "Ten"
+      },
+      "answer": "C",
+      "explanation": "Karachi Puja is marked by worshipping fourteen gods.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2834",
+      "question": "Where does Karachi Puja take place?",
+      "options": {
+        "A": "Shillong",
+        "B": "Itanagar",
+        "C": "Old Agartala",
+        "D": "Aizawl"
+      },
+      "answer": "C",
+      "explanation": "The festival takes place in old Agartala or Puran Heveli.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2835",
+      "question": "Karachi Puja is celebrated as per the instructions of which deity?",
+      "options": {
+        "A": "Lord Brahma",
+        "B": "Lord Vishnu",
+        "C": "Lord Shiva",
+        "D": "Lord Buddha"
+      },
+      "answer": "C",
+      "explanation": "They worship fourteen gods as instructed by Lord Shiva.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2836",
+      "question": "Dances in Tripura often represent activities like hunting and ________.",
+      "options": {
+        "A": "Farming",
+        "B": "Food-gathering",
+        "C": "Fishing",
+        "D": "Weaving"
+      },
+      "answer": "B",
+      "explanation": "Many dances in Tripura represent hunting, food-gathering, and other activities.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2837",
+      "question": "Songs and dances in Nagaland festivals help in preserving what?",
+      "options": {
+        "A": "Written books",
+        "B": "Modern laws",
+        "C": "Oral history",
+        "D": "Foreign languages"
+      },
+      "answer": "C",
+      "explanation": "Celebration of these festivals is an effective means of preserving and passing down their oral history.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2838",
+      "question": "Which Naga festival is celebrated mainly after the sowing season?",
+      "options": {
+        "A": "Hornbill",
+        "B": "Moastu",
+        "C": "Losar",
+        "D": "Saga Dawa"
+      },
+      "answer": "B",
+      "explanation": "A major Naga festival is Moastu, celebrated mainly after the sowing season.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2839",
+      "question": "Naga headgear is often decorated with feathers and __________.",
+      "options": {
+        "A": "Tiger claws",
+        "B": "Wild boar tusks",
+        "C": "Elephant bones",
+        "D": "Goat horns"
+      },
+      "answer": "B",
+      "explanation": "Headgear is decorated with feathers and wild boar tusks.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2840",
+      "question": "Which state's most admired bird is the Hornbill?",
+      "options": {
+        "A": "Assam",
+        "B": "Mizoram",
+        "C": "Nagaland",
+        "D": "Manipur"
+      },
+      "answer": "C",
+      "explanation": "The Hornbill is Nagaland's most admired bird.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2841",
+      "question": "How long is the Hornbill Festival?",
+      "options": {
+        "A": "3 days",
+        "B": "7 days",
+        "C": "10 days",
+        "D": "1 month"
+      },
+      "answer": "C",
+      "explanation": "The Hornbill festival is a 10-day long event.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2842",
+      "question": "The Hornbill festival showcases the cultural heritage of how many tribes?",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "20",
+        "D": "32"
+      },
+      "answer": "B",
+      "explanation": "The event showcases the cultural heritage of 16 tribes.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2843",
+      "question": "What do men show off during the Hornbill festival dance?",
+      "options": {
+        "A": "Farming skills",
+        "B": "Cooking skills",
+        "C": "Hunting and warring skills",
+        "D": "Building skills"
+      },
+      "answer": "C",
+      "explanation": "Men in warrior costume show off their hunting and warring skills.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2844",
+      "question": "Sikkim festivals are celebrated as per which calendar?",
+      "options": {
+        "A": "Solar calendar",
+        "B": "Gregorian calendar",
+        "C": "Buddhist calendar",
+        "D": "Hindu calendar"
+      },
+      "answer": "C",
+      "explanation": "Sikkim festivals are celebrated as per the Buddhist calendar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2845",
+      "question": "Saga Dawa commemorates which three events of Lord Buddha's life?",
+      "options": {
+        "A": "Birth, marriage, and death",
+        "B": "Birth, enlightenment, and death",
+        "C": "Childhood, kingship, and death",
+        "D": "Travel, teaching, and death"
+      },
+      "answer": "B",
+      "explanation": "Saga Dawa commemorates the birth, enlightenment and death of Lord Buddha.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2846",
+      "question": "When is Saga Dawa celebrated?",
+      "options": {
+        "A": "Full moon day in May/June",
+        "B": "New moon day in February",
+        "C": "Mid-April",
+        "D": "December 25th"
+      },
+      "answer": "A",
+      "explanation": "Saga Dawa is celebrated on the full moon day in the Tibetan lunar month between May and June.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2847",
+      "question": "In which festival do people visit monasteries and offer butter lamps?",
+      "options": {
+        "A": "Losar",
+        "B": "Saga Dawa",
+        "C": "Bihu",
+        "D": "Wangala"
+      },
+      "answer": "B",
+      "explanation": "During Saga Dawa, people visit monasteries and offer prayers, incense sticks and butter lamps.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2848",
+      "question": "Which Sikkim festival is celebrated at the end of the harvest season with the Chaam dance?",
+      "options": {
+        "A": "Losoong",
+        "B": "Saga Dawa",
+        "C": "Losar",
+        "D": "Tihaar"
+      },
+      "answer": "A",
+      "explanation": "Losoong is celebrated at the end of the harvest season with the Chaam dance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2849",
+      "question": "What do locals wear while performing the Chaam dance?",
+      "options": {
+        "A": "Plain white robes",
+        "B": "Brightly coloured masks",
+        "C": "Warrior helmets",
+        "D": "Simple headbands"
+      },
+      "answer": "B",
+      "explanation": "Locals wearing brightly coloured masks perform the Chaam dance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2850",
+      "question": "Which contest is held during the Losoong festival celebrations?",
+      "options": {
+        "A": "Wrestling",
+        "B": "Swimming",
+        "C": "Archery",
+        "D": "Cricket"
+      },
+      "answer": "C",
+      "explanation": "An archery contest is held during the Losoong celebrations.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2851",
+      "question": "Losar is the Tibetan ________ festival.",
+      "options": {
+        "A": "Harvest",
+        "B": "Spring",
+        "C": "New Year",
+        "D": "Light"
+      },
+      "answer": "C",
+      "explanation": "Tibetan New Year, Losar, is marked with immense joy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2852",
+      "question": "Which Sikkim festival is similar to Diwali?",
+      "options": {
+        "A": "Saga Dawa",
+        "B": "Tihaar",
+        "C": "Losoong",
+        "D": "Losar"
+      },
+      "answer": "B",
+      "explanation": "Tihaar is the festival of light, somewhat like Diwali.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2853",
+      "question": "The festivals help bring out the natural ________ of the people.",
+      "options": {
+        "A": "Dislike",
+        "B": "Talent",
+        "C": "Sorrow",
+        "D": "Fear"
+      },
+      "answer": "B",
+      "explanation": "Celebrations help bring out the natural talent of the people.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2854",
+      "question": "What does the word 'contiguous' mean?",
+      "options": {
+        "A": "Far away",
+        "B": "Touching or sharing boundaries",
+        "C": "Isolated",
+        "D": "Underground"
+      },
+      "answer": "B",
+      "explanation": "Glossary: contiguous - touching, sharing the boundaries with others.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2855",
+      "question": "What is the meaning of 'brisk' in the context of Bihu dance?",
+      "options": {
+        "A": "Slow",
+        "B": "Quick and energetic",
+        "C": "Graceful",
+        "D": "Clumsy"
+      },
+      "answer": "B",
+      "explanation": "Glossary: brisk - quick and energetic.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2856",
+      "question": "What does 'picturesque' mean?",
+      "options": {
+        "A": "Ugly",
+        "B": "Very attractive or charming to look at",
+        "C": "Dark and scary",
+        "D": "Modern"
+      },
+      "answer": "B",
+      "explanation": "Glossary: picturesque - a place very attractive or charming to look at.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2857",
+      "question": "The term 'sumptuous' used for Manipuri feasts means:",
+      "options": {
+        "A": "Poor",
+        "B": "Very rich and with a lot of variety",
+        "C": "Bitter tasting",
+        "D": "Quickly eaten"
+      },
+      "answer": "B",
+      "explanation": "Glossary: sumptuous - very rich and with a lot of variety.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2858",
+      "question": "What is 'oral history'?",
+      "options": {
+        "A": "History found in books",
+        "B": "Historical information not written but passed on by people",
+        "C": "History of medicine",
+        "D": "History of languages"
+      },
+      "answer": "B",
+      "explanation": "Glossary: oral history - collection of historical information not written but passed on by people.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2859",
+      "question": "Which of these is a percussion instrument made with bamboo boards?",
+      "options": {
+        "A": "Cymbal",
+        "B": "Bamboo clapper",
+        "C": "Dhol",
+        "D": "Pepa"
+      },
+      "answer": "B",
+      "explanation": "Glossary: bamboo clapper - a percussion instrument made with boards of bamboo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2860",
+      "question": "Assam is blessed with the mighty River ________.",
+      "options": {
+        "A": "Ganges",
+        "B": "Brahmaputra",
+        "C": "Yamuna",
+        "D": "Godavari"
+      },
+      "answer": "B",
+      "explanation": "Blessed with lush greenery and the mighty River Brahmaputra.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2861",
+      "question": "People pray during Bihu for a ________ harvest season.",
+      "options": {
+        "A": "Failing",
+        "B": "Thriving",
+        "C": "Short",
+        "D": "Late"
+      },
+      "answer": "B",
+      "explanation": "People pray to God for a thriving harvest season.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2862",
+      "question": "Arunachal Pradesh lies farther ________ in the mountain region of the Himalayas.",
+      "options": {
+        "A": "South",
+        "B": "East",
+        "C": "North",
+        "D": "West"
+      },
+      "answer": "C",
+      "explanation": "Lying farther north in the mountain region of the Himalayas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2863",
+      "question": "What do people do with 'the old' during Losar?",
+      "options": {
+        "A": "Keep it",
+        "B": "Sell it",
+        "C": "Discard it",
+        "D": "Repair it"
+      },
+      "answer": "C",
+      "explanation": "People clean their homes and discard the old to bring in the New Year.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2864",
+      "question": "Which of these states is NOT among the 'Land of Seven Sisters'?",
+      "options": {
+        "A": "Mizoram",
+        "B": "Nagaland",
+        "C": "Sikkim",
+        "D": "Tripura"
+      },
+      "answer": "C",
+      "explanation": "Sikkim is not included in the 'Land of Seven Sisters'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2865",
+      "question": "In Wangala, men ________ while the lines move forward.",
+      "options": {
+        "A": "Sing",
+        "B": "Beat the drums",
+        "C": "Blow horns",
+        "D": "Climb hills"
+      },
+      "answer": "B",
+      "explanation": "While the men beat the drums, the lines move forward together.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2866",
+      "question": "Karachi Puja takes place in which month?",
+      "options": {
+        "A": "April",
+        "B": "July",
+        "C": "September",
+        "D": "November"
+      },
+      "answer": "B",
+      "explanation": "The festival takes place in the month of July.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2867",
+      "question": "A temple in Tripura houses how many deities?",
+      "options": {
+        "A": "10",
+        "B": "14",
+        "C": "16",
+        "D": "20"
+      },
+      "answer": "B",
+      "explanation": "There is a temple that houses 14 deities.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2868",
+      "question": "Songs and dances form the ________ of Nagaland festivals.",
+      "options": {
+        "A": "Beginning",
+        "B": "Soul",
+        "C": "End",
+        "D": "Noise"
+      },
+      "answer": "B",
+      "explanation": "Songs and Dances form the soul of these festivals.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2869",
+      "question": "The Hornbill festival is held in which month?",
+      "options": {
+        "A": "September",
+        "B": "October",
+        "C": "December",
+        "D": "January"
+      },
+      "answer": "C",
+      "explanation": "The event is held in December every year.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2870",
+      "question": "Which animal's sacrifice is mentioned in Karachi Puja?",
+      "options": {
+        "A": "Goat",
+        "B": "Chicken",
+        "C": "Animal sacrifice (general)",
+        "D": "Cow"
+      },
+      "answer": "C",
+      "explanation": "Karachi Puja is marked by animal sacrifice.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2871",
+      "question": "Which state has 'picture-perfect paddy fields' according to the text?",
+      "options": {
+        "A": "Assam",
+        "B": "Arunachal Pradesh",
+        "C": "Manipur",
+        "D": "Mizoram"
+      },
+      "answer": "B",
+      "explanation": "Arunachal Pradesh is one of India's most remote locations with lush green paddy fields.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2872",
+      "question": "In 'Land of Seven Sisters', there is ________ on each other.",
+      "options": {
+        "A": "Independence",
+        "B": "Interdependence",
+        "C": "Disconnection",
+        "D": "Conflict"
+      },
+      "answer": "B",
+      "explanation": "They are described as 'Land of Seven Sisters' because of their interdependence.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2873",
+      "question": "The Bihu songs have been handed down through many ________.",
+      "options": {
+        "A": "Books",
+        "B": "Generations",
+        "C": "Years",
+        "D": "Centuries"
+      },
+      "answer": "B",
+      "explanation": "The songs have been handed down through many generations.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2874",
+      "question": "Which term means 'wonderful' or 'very surprising'?",
+      "options": {
+        "A": "Amazing",
+        "B": "Diverse",
+        "C": "Lush",
+        "D": "Sumptuous"
+      },
+      "answer": "A",
+      "explanation": "Glossary: amazing - wonderful.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2875",
+      "question": "Which term means 'religious rites'?",
+      "options": {
+        "A": "Culture",
+        "B": "Ritual",
+        "C": "Heritage",
+        "D": "Oral history"
+      },
+      "answer": "B",
+      "explanation": "Glossary: ritual - religious rites.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2876",
+      "question": "The word 'commemorate' means:",
+      "options": {
+        "A": "To forget",
+        "B": "To remind people of an important person or event",
+        "C": "To celebrate everyday",
+        "D": "To travel far"
+      },
+      "answer": "B",
+      "explanation": "Glossary: commemorate - to remind people of an important person or event from the past.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2877",
+      "question": "Which Sikkim festival usually takes place in February?",
+      "options": {
+        "A": "Saga Dawa",
+        "B": "Losoong",
+        "C": "Losar",
+        "D": "Tihaar"
+      },
+      "answer": "C",
+      "explanation": "Losar is usually held in February.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2878",
+      "question": "Festivals in the seven states offer thanks to gods for harvest or ________.",
+      "options": {
+        "A": "Rain",
+        "B": "Prosperity",
+        "C": "Health",
+        "D": "Victory"
+      },
+      "answer": "B",
+      "explanation": "People offer thanks to the gods for a good harvest or prosperity.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2879",
+      "question": "Festivals also help ask for protection against ________.",
+      "options": {
+        "A": "Enemies",
+        "B": "Calamities",
+        "C": "Animals",
+        "D": "Winter"
+      },
+      "answer": "B",
+      "explanation": "People offer thanks... or ask for protection against calamities.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2880",
+      "question": "North-East India is a place of ________ cultures.",
+      "options": {
+        "A": "Identical",
+        "B": "Diverse",
+        "C": "Single",
+        "D": "Boring"
+      },
+      "answer": "B",
+      "explanation": "The north-eastern regions of India is a place of diverse cultures.",
+      "difficulty": "easy"
+    }
+  ]
+}

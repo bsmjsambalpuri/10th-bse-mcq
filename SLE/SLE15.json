@@ -1,1 +1,656 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE15",
+  "chapter_name": "A GREAT SON OF INDIA",
+  "questions": [
+    {
+      "id": "SLE1501",
+      "question": "Who is the speaker of the speech 'A Great Son of India'?",
+      "options": {
+        "A": "Swami Vivekananda",
+        "B": "Dr. Sarvapalli Radhakrishnan",
+        "C": "Shri Ramakrishna",
+        "D": "Mahatma Gandhi"
+      },
+      "answer": "B",
+      "explanation": "The speech was delivered by Dr. Sarvapalli Radhakrishnan, a great teacher and philosopher.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1502",
+      "question": "On which occasion was this speech delivered?",
+      "options": {
+        "A": "The independence of India",
+        "B": "The 92nd birth day of Swami Vivekananda",
+        "C": "The opening of a new school",
+        "D": "The anniversary of the Upanisads"
+      },
+      "answer": "B",
+      "explanation": "Dr. Radhakrishnan speaks about the saint on his 92nd birth day.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1503",
+      "question": "Swami Vivekananda is known for carrying the teachings of which ancient texts to the world?",
+      "options": {
+        "A": "The Puranas",
+        "B": "The Upanisads",
+        "C": "The Jatakas",
+        "D": "The Epics"
+      },
+      "answer": "B",
+      "explanation": "He carried the teachings of the Upanisads to the people of the world.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1504",
+      "question": "Vivekananda was one of the great leaders of the ________.",
+      "options": {
+        "A": "Green Revolution",
+        "B": "Indian Renaissance",
+        "C": "French Revolution",
+        "D": "Industrial Revolution"
+      },
+      "answer": "B",
+      "explanation": "The speaker identifies him as one of the great leaders of the Indian Renaissance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1505",
+      "question": "What did Vivekananda interpret for the world?",
+      "options": {
+        "A": "Modern technology",
+        "B": "India's religious consciousness",
+        "C": "The history of the British Empire",
+        "D": "European philosophy"
+      },
+      "answer": "B",
+      "explanation": "He interpreted for us and the world India's religious consciousness, which are the treasures of her past.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1506",
+      "question": "Who was Swami Vivekananda's 'great Master'?",
+      "options": {
+        "A": "Dr. Radhakrishnan",
+        "B": "Shri Ramakrishna",
+        "C": "Gautama Buddha",
+        "D": "Lord Shiva"
+      },
+      "answer": "B",
+      "explanation": "His writings and speeches were fortified by the sayings of his great Master, Shri Ramakrishna.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1507",
+      "question": "What are the two dominant features of the modern age according to the speech?",
+      "options": {
+        "A": "War and peace",
+        "B": "Science and democracy",
+        "C": "Poverty and wealth",
+        "D": "Religion and tradition"
+      },
+      "answer": "B",
+      "explanation": "The two dominant features of our age are science and democracy.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1508",
+      "question": "According to the speaker, educated people cannot accept faith without ________.",
+      "options": {
+        "A": "A teacher",
+        "B": "Rational evidence",
+        "C": "Money",
+        "D": "Ancient books"
+      },
+      "answer": "B",
+      "explanation": "Educated people cannot be asked to accept deliverances of faith without rational evidence.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1509",
+      "question": "Religions practised today often seem unscientific and ________.",
+      "options": {
+        "A": "Undemocratic",
+        "B": "Unpopular",
+        "C": "Unfair",
+        "D": "Uncommon"
+      },
+      "answer": "A",
+      "explanation": "The 'eclipse of religion' occurs because they seem both unscientific and undemocratic.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1510",
+      "question": "What is described as the 'most obvious fact of life'?",
+      "options": {
+        "A": "Happiness",
+        "B": "Transience",
+        "C": "Wealth",
+        "D": "Success"
+      },
+      "answer": "B",
+      "explanation": "The speaker states that the most obvious fact of life is its transience, meaning everything passes away.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1511",
+      "question": "What symbolizes time in India's tradition?",
+      "options": {
+        "A": "Sunrise and sunset",
+        "B": "Birth and death",
+        "C": "Summer and winter",
+        "D": "Growth and decay"
+      },
+      "answer": "B",
+      "explanation": "Time is symbolized in India's tradition by birth and death.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1512",
+      "question": "Great civilizations are subject to the law of ________.",
+      "options": {
+        "A": "Nature",
+        "B": "Time",
+        "C": "The King",
+        "D": "Money"
+      },
+      "answer": "B",
+      "explanation": "The text notes that great civilizations are subject to the law of time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1513",
+      "question": "The feelings of dread and anxiety bear witness to what?",
+      "options": {
+        "A": "The end of the world",
+        "B": "The world beyond",
+        "C": "Human weakness",
+        "D": "Mental illness"
+      },
+      "answer": "B",
+      "explanation": "These feelings and the precariousness of the world bear witness to the world beyond.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1514",
+      "question": "According to the great thinkers, the world is an expression of ________.",
+      "options": {
+        "A": "Nothingness",
+        "B": "A Beyond",
+        "C": "Science",
+        "D": "History"
+      },
+      "answer": "B",
+      "explanation": "Thinkers concluded there is a Beyond of which all this world is the expression.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1515",
+      "question": "What are the Vedas, according to the registers mentioned in the text?",
+      "options": {
+        "A": "History books",
+        "B": "Registers of spiritual experiences",
+        "C": "Legal codes",
+        "D": "Scientific journals"
+      },
+      "answer": "B",
+      "explanation": "The Vedas are described as the registers of the spiritual experiences of the great seers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1516",
+      "question": "Vivekananda said the Vedas mean the 'accumulated treasure of ________ discovered by different persons'.",
+      "options": {
+        "A": "Gold coins",
+        "B": "Spiritual laws",
+        "C": "Ancient stories",
+        "D": "Magic spells"
+      },
+      "answer": "B",
+      "explanation": "He defined them as the accumulated treasure of spiritual laws.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1517",
+      "question": "For Vivekananda, religion is defined as ________.",
+      "options": {
+        "A": "Doctrine",
+        "B": "Yoga",
+        "C": "Orthodoxy",
+        "D": "Ritual"
+      },
+      "answer": "B",
+      "explanation": "For Vivekananda religion is Yoga, which means personal change and integration.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1518",
+      "question": "Vivekananda wrote books on Jnana Yoga, Bhakti Yoga, Karma Yoga and ________.",
+      "options": {
+        "A": "Hatha Yoga",
+        "B": "Raja Yoga",
+        "C": "Surya Yoga",
+        "D": "Mantra Yoga"
+      },
+      "answer": "B",
+      "explanation": "The text lists Jnana, Raja, Bhakti, and Karma Yoga as his subjects.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1519",
+      "question": "What is 'religious conceit' according to the speaker?",
+      "options": {
+        "A": "Humility",
+        "B": "Intolerance",
+        "C": "Faith",
+        "D": "Secularism"
+      },
+      "answer": "B",
+      "explanation": "Intolerance is an expression of religious conceit and not humility.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1520",
+      "question": "Why does the speaker say we are 'secular'?",
+      "options": {
+        "A": "We are indifferent to religion.",
+        "B": "We regard all religions as sacred.",
+        "C": "We have no religion.",
+        "D": "We follow only science."
+      },
+      "answer": "B",
+      "explanation": "We are secular because we regard all religions as sacred and believe in freedom of conscience.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1521",
+      "question": "Secularism requires us to do what regarding other religions?",
+      "options": {
+        "A": "Tolerate them only",
+        "B": "Understand and love them",
+        "C": "Ignore them",
+        "D": "Convert them"
+      },
+      "answer": "B",
+      "explanation": "Secularism requires us not merely to tolerate, but to understand and love other religions.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1522",
+      "question": "Vivekananda felt miserable about which issue in India?",
+      "options": {
+        "A": "Poor schools",
+        "B": "Backwardness and obscurantism",
+        "C": "Lack of technology",
+        "D": "Climate change"
+      },
+      "answer": "B",
+      "explanation": "He felt miserable about India's backwardness and how religion was confused with obscurantism and superstition.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1523",
+      "question": "Vivekananda protested vehemently against the abuse of religion regarding ________.",
+      "options": {
+        "A": "Taxes",
+        "B": "Touchability and untouchability",
+        "C": "Pilgrimages",
+        "D": "Building temples"
+      },
+      "answer": "B",
+      "explanation": "He protested against our insistence on touchability and untouchability.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1524",
+      "question": "What is 'antar-jyoti'?",
+      "options": {
+        "A": "A type of lamp",
+        "B": "The inner light/Divine in us",
+        "C": "A religious book",
+        "D": "The sun"
+      },
+      "answer": "B",
+      "explanation": "Antar-jyoti is the light which lighteth every man that cometh into the world, reflecting the Divine within.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1525",
+      "question": "What are the ultimate tests of true religions?",
+      "options": {
+        "A": "Praising the King",
+        "B": "Recognition of truth and reconciliation with human beings",
+        "C": "Having the most money",
+        "D": "Reading the most books"
+      },
+      "answer": "B",
+      "explanation": "The ultimate tests are recognition of truth and reconciliation with human beings.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1526",
+      "question": "Vivekananda raises work to the level of ________.",
+      "options": {
+        "A": "Business",
+        "B": "Worship",
+        "C": "Burden",
+        "D": "History"
+      },
+      "answer": "B",
+      "explanation": "He raises work to the level of worship.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1527",
+      "question": "We should seek salvation through the ________.",
+      "options": {
+        "A": "Isolation in mountains",
+        "B": "Service of God in man",
+        "C": "Study of science only",
+        "D": "Worship of fire"
+      },
+      "answer": "B",
+      "explanation": "Vivekananda exhorted us to seek salvation through the service of God in man.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1528",
+      "question": "Establishing a spiritual religion can bring society nearer to ________.",
+      "options": {
+        "A": "The town",
+        "B": "Ramrajya",
+        "C": "The Renaissance",
+        "D": "England"
+      },
+      "answer": "B",
+      "explanation": "Establishing such a religion brings society nearer to Ramrajya or the Kingdom of God.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1529",
+      "question": "The term 'Renaissance' means ________.",
+      "options": {
+        "A": "Old age",
+        "B": "Rebirth or reawakening",
+        "C": "Science",
+        "D": "Democracy"
+      },
+      "answer": "B",
+      "explanation": "Glossary: renaissance - rebirth/reawakening of art, culture etc..",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1530",
+      "question": "What does the word 'transience' mean?",
+      "options": {
+        "A": "Lasting forever",
+        "B": "Lasting for a short time",
+        "C": "Very expensive",
+        "D": "Strong and powerful"
+      },
+      "answer": "B",
+      "explanation": "Glossary: transience - lasting for a short time.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1531",
+      "question": "What is 'ahimsa' according to the text?",
+      "options": {
+        "A": "A type of yoga",
+        "B": "Renunciation of hatred",
+        "C": "A religious register",
+        "D": "A political party"
+      },
+      "answer": "B",
+      "explanation": "To overcome enemies we must possess ahimsa, or renunciation of hatred.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1532",
+      "question": "The speaker distributed prizes for which competitions?",
+      "options": {
+        "A": "Math and Science",
+        "B": "Recitation and speech",
+        "C": "Cricket and Football",
+        "D": "Dancing and singing"
+      },
+      "answer": "B",
+      "explanation": "Dr. Radhakrishnan mentions distributing prizes for recitation and speech competitions.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1533",
+      "question": "Vivekananda prepared us for the new age of ________.",
+      "options": {
+        "A": "Technology",
+        "B": "Freedom",
+        "C": "Discovery",
+        "D": "Ancient wisdom"
+      },
+      "answer": "B",
+      "explanation": "His life and teachings prepared us for the new age of freedom.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1534",
+      "question": "Any religion which supports ________ cannot commend itself to us today.",
+      "options": {
+        "A": "Peace",
+        "B": "Exploitation",
+        "C": "Knowledge",
+        "D": "Humility"
+      },
+      "answer": "B",
+      "explanation": "A religion which divides man or supports privileges, exploitation, or wars cannot commend itself.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1535",
+      "question": "Everything in this world ________, including the painted picture and carved stone.",
+      "options": {
+        "A": "Grows",
+        "B": "Passes away",
+        "C": "Stays forever",
+        "D": "Changes color"
+      },
+      "answer": "B",
+      "explanation": "The text lists things that pass away, such as the written word, painted picture, and carved stone.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1536",
+      "question": "What is the consequence of the sun aging and altering?",
+      "options": {
+        "A": "The earth becomes colder.",
+        "B": "The earth may become unfit for human habitation.",
+        "C": "The moon will disappear.",
+        "D": "Time will stop."
+      },
+      "answer": "B",
+      "explanation": "The earth may one day become unfit for human habitation as the sun ages and alters.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1537",
+      "question": "Our acts, thoughts, and deeds of heroism are part of ________.",
+      "options": {
+        "A": "The Beyond",
+        "B": "History",
+        "C": "Yoga",
+        "D": "Ramrajya"
+      },
+      "answer": "B",
+      "explanation": "They are part of history, of becoming, or process.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1538",
+      "question": "Which ancient texts provide logical arguments and experiences of men bearing witness to the Supreme?",
+      "options": {
+        "A": "The Vedas only",
+        "B": "The Upanisads",
+        "C": "The Quran",
+        "D": "The Bible"
+      },
+      "answer": "B",
+      "explanation": "The Upanisads mention logical arguments and experiences of men bearing witness to the reality of the Supreme.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1539",
+      "question": "Vivekananda said, 'By the Vedas no ________ are meant.'",
+      "options": {
+        "A": "Songs",
+        "B": "Books",
+        "C": "Laws",
+        "D": "Teachers"
+      },
+      "answer": "B",
+      "explanation": "He stated that by the Vedas no books are meant.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1540",
+      "question": "Yoga involves reconditioning of one's ________.",
+      "options": {
+        "A": "House",
+        "B": "Nature",
+        "C": "Clothes",
+        "D": "History"
+      },
+      "answer": "B",
+      "explanation": "Religion as Yoga is the reconditioning of one’s nature.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1541",
+      "question": "According to the speaker, what is 'religious conceit'?",
+      "options": {
+        "A": "Humility",
+        "B": "Intolerance",
+        "C": "Yoga",
+        "D": "Secularism"
+      },
+      "answer": "B",
+      "explanation": "Intolerance is an expression of religious conceit.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1542",
+      "question": "Vivekananda suggested praying in mosques and kneeling to the ________.",
+      "options": {
+        "A": "Stars",
+        "B": "Cross of the Christian",
+        "C": "Sun",
+        "D": "King"
+      },
+      "answer": "B",
+      "explanation": "He said Hindus unite with every religion, including praying in mosques and kneeling to the Cross.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1543",
+      "question": "What term means 'the practice of opposing enlightenment'?",
+      "options": {
+        "A": "Renaissance",
+        "B": "Obscurantism",
+        "C": "Yoga",
+        "D": "Democracy"
+      },
+      "answer": "B",
+      "explanation": "Glossary: obscurantism - the practice of opposing enlightenment.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1544",
+      "question": "What is described as 'operative and alive' within us?",
+      "options": {
+        "A": "History",
+        "B": "The Divine",
+        "C": "Science",
+        "D": "Democracy"
+      },
+      "answer": "B",
+      "explanation": "The great principle of our religion is that the Divine is in us, operative and alive.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1545",
+      "question": "The 'light which lighteth every man' refers to ________.",
+      "options": {
+        "A": "Butter lamps",
+        "B": "Antar-jyoti",
+        "C": "The setting sun",
+        "D": "Incense sticks"
+      },
+      "answer": "B",
+      "explanation": "This light is called antar-jyoti and cannot be put out.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1546",
+      "question": "What is the end goal of man, according to the text?",
+      "options": {
+        "A": "Becoming rich",
+        "B": "Union with the Divine",
+        "C": "Living forever",
+        "D": "Winning prizes"
+      },
+      "answer": "B",
+      "explanation": "The end of man consists in attaining union with the Divine.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1547",
+      "question": "What is 'ahimsa' defined as in the context of overcoming enemies?",
+      "options": {
+        "A": "Warfare",
+        "B": "Renunciation of hatred",
+        "C": "Religious doctrine",
+        "D": "Silent prayer"
+      },
+      "answer": "B",
+      "explanation": "Ahimsa is the renunciation of hatred which surpasses enmity.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1548",
+      "question": "Spiritual religion should transcend ________ organizations.",
+      "options": {
+        "A": "Political",
+        "B": "Ecclesiastical",
+        "C": "Scientific",
+        "D": "Agricultural"
+      },
+      "answer": "B",
+      "explanation": "Spiritual religion transcends ecclesiastical organizations.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1549",
+      "question": "What does 'vehemently' mean in the glossary?",
+      "options": {
+        "A": "Weakly",
+        "B": "Strongly / forcefully",
+        "C": "Quickly",
+        "D": "Silently"
+      },
+      "answer": "B",
+      "explanation": "Glossary: vehemently - strongly / forcefully.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1550",
+      "question": "Whose experience influenced Vivekananda's views on secularism?",
+      "options": {
+        "A": "Dr. Radhakrishnan",
+        "B": "Shri Ramakrishna",
+        "C": "Mahatma Gandhi",
+        "D": "The King"
+      },
+      "answer": "B",
+      "explanation": "Bearing in mind Shri Ramakrishna’s experience, Vivekananda spoke about uniting with every religion.",
+      "difficulty": "medium"
+    }
+  ]
+}

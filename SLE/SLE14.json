@@ -1,1 +1,916 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE14",
+  "chapter_name": "A GRAIN AS BIG AS A HEN’S EGG",
+  "questions": [
+    {
+      "id": "SLE1401",
+      "question": "Who is the author of the story 'A Grain as big as a Hen’s Egg'?",
+      "options": {
+        "A": "Anton Chekhov",
+        "B": "Leo Tolstoy",
+        "C": "Prem Chand",
+        "D": "Ruskin Bond"
+      },
+      "answer": "B",
+      "explanation": "The story is written by the famous Russian author Leo Tolstoy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1402",
+      "question": "Where did the children find the strange object at the beginning of the story?",
+      "options": {
+        "A": "In a cornfield",
+        "B": "In a ravine",
+        "C": "In a king's palace",
+        "D": "Under a banyan tree"
+      },
+      "answer": "B",
+      "explanation": "One day some children found the object in a ravine.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1403",
+      "question": "What was the strange object shaped like?",
+      "options": {
+        "A": "A silver coin",
+        "B": "A grain of corn",
+        "C": "A bird's wing",
+        "D": "A small stone"
+      },
+      "answer": "B",
+      "explanation": "The children found a thing shaped like a grain of corn.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1404",
+      "question": "What size was the object found in the ravine?",
+      "options": {
+        "A": "As small as a pea",
+        "B": "As large as a hen's egg",
+        "C": "As big as a football",
+        "D": "Like a new silver coin"
+      },
+      "answer": "B",
+      "explanation": "The grain of corn was as large as a hen’s egg.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1405",
+      "question": "What physical feature did the object have down its middle?",
+      "options": {
+        "A": "A hole",
+        "B": "A groove",
+        "C": "A red spot",
+        "D": "A signature"
+      },
+      "answer": "B",
+      "explanation": "The object had a groove down the middle.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1406",
+      "question": "How much did the traveller pay the children for the object?",
+      "options": {
+        "A": "A rouble",
+        "B": "A penny",
+        "C": "Ten copecks",
+        "D": "A hundred pesos"
+      },
+      "answer": "B",
+      "explanation": "A traveller passing by bought it from the children for a penny.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1407",
+      "question": "To whom did the traveller sell the object as a curiosity?",
+      "options": {
+        "A": "To a merchant",
+        "B": "To the King",
+        "C": "To a wise man",
+        "D": "To a postmaster"
+      },
+      "answer": "B",
+      "explanation": "The traveller took it to town and sold it to the king as a curiosity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1408",
+      "question": "What did the King tell his wise men to find out?",
+      "options": {
+        "A": "Who the children were",
+        "B": "What the thing was",
+        "C": "How much it cost",
+        "D": "If it could be eaten"
+      },
+      "answer": "B",
+      "explanation": "The King called his wise men and told them to find out what the thing was.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1409",
+      "question": "How did everyone finally realize the object was a grain of corn?",
+      "options": {
+        "A": "A wise man cut it open",
+        "B": "A hen pecked at it until she made a hole",
+        "C": "The King tasted it",
+        "D": "A peasant recognized it"
+      },
+      "answer": "B",
+      "explanation": "While it was on a window-sill, a hen pecked a hole in it, revealing it was a grain of corn.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1410",
+      "question": "Were the learned men able to find information about such large corn in their books?",
+      "options": {
+        "A": "Yes, in ancient history books",
+        "B": "No, they found nothing about it",
+        "C": "They found it in a geography book",
+        "D": "They found it in a religious text"
+      },
+      "answer": "B",
+      "explanation": "The learned men searched their books but could find nothing about it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1411",
+      "question": "What did the learned men suggest the King should do to get answers?",
+      "options": {
+        "A": "Ask the children again",
+        "B": "Ask the peasants",
+        "C": "Consult with other kings",
+        "D": "Plant the grain"
+      },
+      "answer": "B",
+      "explanation": "They suggested asking the peasants who may have heard about it from their fathers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1412",
+      "question": "How was the first peasant who came to the King described physically?",
+      "options": {
+        "A": "Young and strong",
+        "B": "Old, bent, ashy pale, and toothless",
+        "C": "Tall and smartly dressed",
+        "D": "Full of life and vigour"
+      },
+      "answer": "B",
+      "explanation": "The first peasant was old, bent, ashy pale, and toothless.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1413",
+      "question": "How many crutches did the first old peasant use to walk?",
+      "options": {
+        "A": "None",
+        "B": "One",
+        "C": "Two",
+        "D": "A stick"
+      },
+      "answer": "C",
+      "explanation": "He managed with the help of two crutches to totter into the King’s presence.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1414",
+      "question": "What was the King's primary question to the first peasant?",
+      "options": {
+        "A": "Where do you live?",
+        "B": "Where such grain as this grew?",
+        "C": "How old are you?",
+        "D": "Why are you using crutches?"
+      },
+      "answer": "B",
+      "explanation": "The King asked if he could tell where such grain as this grew.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1415",
+      "question": "The first peasant could hardly ________ the grain when shown by the King.",
+      "options": {
+        "A": "Taste",
+        "B": "See",
+        "C": "Hold",
+        "D": "Smell"
+      },
+      "answer": "B",
+      "explanation": "The King showed him the grain, but the old man could hardly see it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1416",
+      "question": "The first peasant was so ________ that he could hardly hear the King.",
+      "options": {
+        "A": "Blind",
+        "B": "Deaf",
+        "C": "Sick",
+        "D": "Tired"
+      },
+      "answer": "B",
+      "explanation": "The old man was so deaf that he could hardly hear what the King said.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1417",
+      "question": "What was the first peasant’s final answer regarding the grain?",
+      "options": {
+        "A": "He grew it last year.",
+        "B": "He never sowed nor reaped any like it.",
+        "C": "He bought it in the town market.",
+        "D": "It belonged to the King."
+      },
+      "answer": "B",
+      "explanation": "He answered that he never sowed or reaped any like it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1418",
+      "question": "Who did the first peasant suggest the King should ask?",
+      "options": {
+        "A": "His son",
+        "B": "His father",
+        "C": "The wise men",
+        "D": "The traveller"
+      },
+      "answer": "B",
+      "explanation": "He suggested asking his father, who may have heard where such grain grew.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1419",
+      "question": "How did the second peasant (the father of the first) come to the King?",
+      "options": {
+        "A": "With two crutches",
+        "B": "Walking with one crutch",
+        "C": "Walking easily without help",
+        "D": "Being carried by servants"
+      },
+      "answer": "B",
+      "explanation": "The father came walking with one crutch.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1420",
+      "question": "Was the second peasant able to see the grain better than his son?",
+      "options": {
+        "A": "No, he was blind.",
+        "B": "Yes, he was still able to see and took a good look at it.",
+        "C": "He used a magnifying glass.",
+        "D": "He recognized it by smell only."
+      },
+      "answer": "B",
+      "explanation": "The old peasant was still able to see and took a good look at the grain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1421",
+      "question": "Regarding buying corn, what did the second peasant say about his time?",
+      "options": {
+        "A": "Corn was very expensive.",
+        "B": "Money was not yet in use.",
+        "C": "They bought corn from foreign countries.",
+        "D": "He only bought small grains."
+      },
+      "answer": "B",
+      "explanation": "He said he never bought any because 'in my time money was not yet in use'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1422",
+      "question": "According to the second peasant, how did people get corn in his time?",
+      "options": {
+        "A": "They traded gold for it.",
+        "B": "Every one grew his own corn and shared if needed.",
+        "C": "The King provided it to everyone.",
+        "D": "They found it in ravines."
+      },
+      "answer": "B",
+      "explanation": "He noted everyone grew their own and shared with one another when needed.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1423",
+      "question": "How did the corn in the second peasant's time compare to modern corn?",
+      "options": {
+        "A": "It was smaller.",
+        "B": "It was larger and yielded more flour.",
+        "C": "It tasted bitter.",
+        "D": "It was the exact same size."
+      },
+      "answer": "B",
+      "explanation": "He said theirs was 'larger and yielded more flour' than present-day grain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1424",
+      "question": "Who did the second peasant suggest the King should ask next?",
+      "options": {
+        "A": "His grandfather",
+        "B": "His father",
+        "C": "The children",
+        "D": "The wise men"
+      },
+      "answer": "B",
+      "explanation": "He said, 'You had better ask him,' referring to his own father.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1425",
+      "question": "How did the third peasant (the grandfather of the first) enter the King’s presence?",
+      "options": {
+        "A": "With two crutches",
+        "B": "With one crutch",
+        "C": "Walking easily and without crutches",
+        "D": "Crawling on his hands"
+      },
+      "answer": "C",
+      "explanation": "He entered walking easily and without crutches.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1426",
+      "question": "What was the physical condition of the third peasant (the oldest one)?",
+      "options": {
+        "A": "His eyes were clear and hearing was good.",
+        "B": "He was ashy pale and toothless.",
+        "C": "He was deaf and blind.",
+        "D": "He was very sick and needed help."
+      },
+      "answer": "A",
+      "explanation": "His eye was clear, his hearing good, and he spoke distinctly.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1427",
+      "question": "What did the oldest grandfather do to identify the grain?",
+      "options": {
+        "A": "He weighed it.",
+        "B": "He bit a piece off and tasted it.",
+        "C": "He read a book about it.",
+        "D": "He asked his son."
+      },
+      "answer": "B",
+      "explanation": "He took the grain, bit a piece off, and tasted it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1428",
+      "question": "What was the oldest grandfather’s reaction to the grain?",
+      "options": {
+        "A": "He was puzzled.",
+        "B": "He said it’s the very same kind they used to grow.",
+        "C": "He said it was poisonous.",
+        "D": "He didn't recognize it at all."
+      },
+      "answer": "B",
+      "explanation": "He added, 'It’s the very same kind'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1429",
+      "question": "Where did corn like this grow, according to the oldest grandfather?",
+      "options": {
+        "A": "Only in the King's garden",
+        "B": "Everywhere in his time",
+        "C": "In a secret ravine",
+        "D": "Across the sea"
+      },
+      "answer": "B",
+      "explanation": "He replied that corn like this 'used to grow everywhere in my time'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1430",
+      "question": "The oldest grandfather said no one thought of such a 'sin' as what?",
+      "options": {
+        "A": "Killing animals",
+        "B": "Buying or selling bread",
+        "C": "Talking to the King",
+        "D": "Using crutches"
+      },
+      "answer": "B",
+      "explanation": "He answered that no one thought of such a sin as buying or selling bread.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1431",
+      "question": "How did the oldest grandfather describe his 'field'?",
+      "options": {
+        "A": "It was a small plot behind his house.",
+        "B": "It was God’s earth; wherever he ploughed was his field.",
+        "C": "He bought it from the King.",
+        "D": "He inherited it from his father."
+      },
+      "answer": "B",
+      "explanation": "He said his field was God’s earth and wherever he ploughed was his field.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1432",
+      "question": "In the oldest grandfather’s time, what was the only thing men called their own?",
+      "options": {
+        "A": "The land",
+        "B": "The corn",
+        "C": "Labour",
+        "D": "Money"
+      },
+      "answer": "C",
+      "explanation": "He stated, 'Labour was the only thing men called their own'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1433",
+      "question": "What was the King's first 'extra' question to the grandfather?",
+      "options": {
+        "A": "How can I grow this corn?",
+        "B": "Why did the earth bear such grain then and has ceased to do so now?",
+        "C": "Where is the ravine located?",
+        "D": "Who sold you the corn?"
+      },
+      "answer": "B",
+      "explanation": "The King asked why the earth stopped bearing such grain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1434",
+      "question": "What was the King's second 'extra' question to the grandfather?",
+      "options": {
+        "A": "Why do your grandson and son need crutches while you do not?",
+        "B": "How many sons do you have?",
+        "C": "What is the secret to your clear hearing?",
+        "D": "Can I have some of your seeds?"
+      },
+      "answer": "A",
+      "explanation": "The King asked why the younger generations needed crutches while the oldest did not.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1435",
+      "question": "What reason did the grandfather give for why things had changed?",
+      "options": {
+        "A": "Because of bad weather",
+        "B": "Because men have ceased to live by their own labour",
+        "C": "Because the King took all the land",
+        "D": "Because there were too many people"
+      },
+      "answer": "B",
+      "explanation": "He said it was because men stopped living by their own labour and started depending on others.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1436",
+      "question": "The grandfather said they 'coveted not what ________ had produced'.",
+      "options": {
+        "A": "The King",
+        "B": "Other [people]",
+        "C": "Nature",
+        "D": "God"
+      },
+      "answer": "B",
+      "explanation": "The text says they 'coveted not what other had produced'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1437",
+      "question": "What does the word 'ravine' mean?",
+      "options": {
+        "A": "A large field",
+        "B": "A very deep narrow valley",
+        "C": "A type of corn",
+        "D": "A bird's nest"
+      },
+      "answer": "B",
+      "explanation": "Glossary: ravine - a very deep narrow valley.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1438",
+      "question": "What is the meaning of 'pondered'?",
+      "options": {
+        "A": "Walked slowly",
+        "B": "Thought carefully",
+        "C": "Ate quickly",
+        "D": "Sowed seeds"
+      },
+      "answer": "B",
+      "explanation": "Glossary: pondered - thought carefully.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1439",
+      "question": "The word 'totter' means to ________.",
+      "options": {
+        "A": "Run fast",
+        "B": "Walk in an unsteady way",
+        "C": "Speak clearly",
+        "D": "Eat corn"
+      },
+      "answer": "B",
+      "explanation": "Glossary: totter - to walk in unsteady way.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1440",
+      "question": "What is the meaning of 'coveted'?",
+      "options": {
+        "A": "Grown in a field",
+        "B": "Strong desire to have something that belongs to others",
+        "C": "Given as a gift",
+        "D": "Found in a ravine"
+      },
+      "answer": "B",
+      "explanation": "Glossary: coveted - strong desire to have something that belongs to others.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1441",
+      "question": "What does 'ashy pale' describe in the glossary?",
+      "options": {
+        "A": "Strong",
+        "B": "Unhealthy",
+        "C": "Happy",
+        "D": "Young"
+      },
+      "answer": "B",
+      "explanation": "Glossary: ashy pale - unhealthy.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1442",
+      "question": "Which phrase in the glossary means 'are attracted to / liked to'?",
+      "options": {
+        "A": "Pondered",
+        "B": "Have taken to",
+        "C": "Thrash",
+        "D": "Totter"
+      },
+      "answer": "B",
+      "explanation": "Glossary: have taken to - are attracted to / liked to.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1443",
+      "question": "How did the wise men first find out that the curiosity was corn?",
+      "options": {
+        "A": "They used a microscope.",
+        "B": "A hen pecked a hole in it.",
+        "C": "They read it in an ancient book.",
+        "D": "A peasant told them immediately."
+      },
+      "answer": "B",
+      "explanation": "A hen flew in and pecked at it until she made a hole.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1444",
+      "question": "The first peasant needed ________ crutches, the second needed ________, and the third needed ________.",
+      "options": {
+        "A": "one, two, none",
+        "B": "two, one, none",
+        "C": "none, one, two",
+        "D": "two, none, one"
+      },
+      "answer": "B",
+      "explanation": "Text: grandson walks with two, son with one, you [grandfather] with none.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1445",
+      "question": "What unit of money was the object sold for to the traveller?",
+      "options": {
+        "A": "A copeck",
+        "B": "A penny",
+        "C": "A rouble",
+        "D": "A rupee"
+      },
+      "answer": "B",
+      "explanation": "A traveller bought it for a penny.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1446",
+      "question": "Why were the grains in the grandfather’s time so large?",
+      "options": {
+        "A": "They used modern fertilizers.",
+        "B": "People lived according to God’s law and their own labour.",
+        "C": "The King ordered them to be that size.",
+        "D": "They grew in ravines."
+      },
+      "answer": "B",
+      "explanation": "The grandfather explained that they lived according to God's law and by their own labour.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1447",
+      "question": "Which peasant had bright eyes and sound teeth?",
+      "options": {
+        "A": "The first peasant",
+        "B": "The second peasant",
+        "C": "The third peasant (the grandfather)",
+        "D": "None of them"
+      },
+      "answer": "C",
+      "explanation": "The King noted the oldest peasant had bright eyes, sound teeth, and clear speech.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1448",
+      "question": "The grandfather said that in his time, 'land was ________'.",
+      "options": {
+        "A": "Expensive",
+        "B": "Free",
+        "C": "Private",
+        "D": "Small"
+      },
+      "answer": "B",
+      "explanation": "He said, 'Land was free'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1449",
+      "question": "What does 'thrash' mean in the glossary?",
+      "options": {
+        "A": "To plant",
+        "B": "To beat repeatedly",
+        "C": "To throw away",
+        "D": "To buy corn"
+      },
+      "answer": "B",
+      "explanation": "Glossary: thrash - to beat repeatedly.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1450",
+      "question": "What 'sin' did the people of the past avoid, according to the oldest man?",
+      "options": {
+        "A": "Using crutches",
+        "B": "Buying or selling bread",
+        "C": "Talking to the King",
+        "D": "Ploughing fields"
+      },
+      "answer": "B",
+      "explanation": "He stated that 'no one ever thought of such a sin as buying or selling bread'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1451",
+      "question": "Where was the object kept when the hen found it?",
+      "options": {
+        "A": "In a ravine",
+        "B": "On a window-sill",
+        "C": "In the King's hand",
+        "D": "In a book"
+      },
+      "answer": "B",
+      "explanation": "The thing was lying on a window-sill when the hen pecked it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1452",
+      "question": "How did the grandfather describe his young days regarding corn?",
+      "options": {
+        "A": "They were always hungry.",
+        "B": "He lived on corn like this and fed others on it.",
+        "C": "They only had small grains.",
+        "D": "They never grew corn."
+      },
+      "answer": "B",
+      "explanation": "He said he lived on corn like that and fed others on it.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1453",
+      "question": "What is 'God’s earth' according to the grandfather?",
+      "options": {
+        "A": "A specific holy site",
+        "B": "His field",
+        "C": "The King's palace",
+        "D": "The ravine"
+      },
+      "answer": "B",
+      "explanation": "He said, 'My field was God’s earth'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1454",
+      "question": "Which old man had to 'felt it with his hands' because he couldn't see well?",
+      "options": {
+        "A": "The first peasant",
+        "B": "The second peasant",
+        "C": "The third peasant",
+        "D": "The King"
+      },
+      "answer": "A",
+      "explanation": "The first old man could hardly see it, so he felt it with his hands.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1455",
+      "question": "What did the King call his learned men to do after the hen pecked the hole?",
+      "options": {
+        "A": "Kill the hen",
+        "B": "Find out when and where such corn had grown",
+        "C": "Cook the corn",
+        "D": "Give more money to the traveller"
+      },
+      "answer": "B",
+      "explanation": "He ordered them to find out when and where such corn grew.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1456",
+      "question": "In the story, 'money was not yet in use' during the time of ________.",
+      "options": {
+        "A": "The King",
+        "B": "The first peasant",
+        "C": "The second peasant and his father",
+        "D": "The traveller"
+      },
+      "answer": "C",
+      "explanation": "The second peasant says money was not in use in his time.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1457",
+      "question": "What was the grandfather’s final comment on why modern life is worse?",
+      "options": {
+        "A": "The weather is too hot.",
+        "B": "Men have taken to depending on the labour of others.",
+        "C": "The King is not good.",
+        "D": "The soil has become salty."
+      },
+      "answer": "B",
+      "explanation": "He said things are so because men stopped living by their own labor and depend on others.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1458",
+      "question": "What is the meaning of 'distinctly' as used in 'he spoke distinctly'?",
+      "options": {
+        "A": "Loudly",
+        "B": "Clearly",
+        "C": "Quickly",
+        "D": "Sadly"
+      },
+      "answer": "B",
+      "explanation": "The context implies clear and easy-to-understand speech.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1459",
+      "question": "How did the second peasant recognize that his own father would know more?",
+      "options": {
+        "A": "He was told by the King.",
+        "B": "He heard his father say the grain in his time was even larger.",
+        "C": "He read it in a book.",
+        "D": "He saw it in a dream."
+      },
+      "answer": "B",
+      "explanation": "He said he heard his father say the grain grew larger and yielded more flour in his time.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1460",
+      "question": "The grandfather's field belonged to whom, according to him?",
+      "options": {
+        "A": "His father",
+        "B": "The King",
+        "C": "No man (it was God’s earth)",
+        "D": "The town"
+      },
+      "answer": "C",
+      "explanation": "He said land was free and a thing no man called his own.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1461",
+      "question": "What was the 'curiosity' in the story?",
+      "options": {
+        "A": "The traveller",
+        "B": "The large grain of corn",
+        "C": "The King's wise men",
+        "D": "The ravine"
+      },
+      "answer": "B",
+      "explanation": "The traveller sold the grain to the King as a curiosity.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1462",
+      "question": "The first old peasant came to the King ________ into his presence.",
+      "options": {
+        "A": "running",
+        "B": "tottering",
+        "C": "dancing",
+        "D": "flying"
+      },
+      "answer": "B",
+      "explanation": "The text says he used crutches to 'totter into the King’s presence'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1463",
+      "question": "The King was 'much ________' when the wise men told him it was corn.",
+      "options": {
+        "A": "Angry",
+        "B": "Surprised",
+        "C": "Bored",
+        "D": "Greedy"
+      },
+      "answer": "B",
+      "explanation": "The King was much surprised at this revelation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1464",
+      "question": "What does 'yielded' mean in 'yielded more flour'?",
+      "options": {
+        "A": "Destroyed",
+        "B": "Produced",
+        "C": "Bought",
+        "D": "Lost"
+      },
+      "answer": "B",
+      "explanation": "In this context, yield means to produce a crop or product.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1465",
+      "question": "The oldest peasant bit a piece off the grain and ________ it.",
+      "options": {
+        "A": "Spat",
+        "B": "Tasted",
+        "C": "Threw",
+        "D": "Planted"
+      },
+      "answer": "B",
+      "explanation": "He bit a piece off and tasted it to identify it.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE1466",
+      "question": "What happened to the first peasant’s teeth?",
+      "options": {
+        "A": "They were gold.",
+        "B": "He was toothless.",
+        "C": "They were very sharp.",
+        "D": "He only had one tooth."
+      },
+      "answer": "B",
+      "explanation": "The first peasant is described as 'ashy pale and toothless'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1467",
+      "question": "The grandfather said: 'Each man had corn ________ of his own'.",
+      "options": {
+        "A": "none",
+        "B": "enough",
+        "C": "little",
+        "D": "too much"
+      },
+      "answer": "B",
+      "explanation": "He said they knew nothing of money because each man had enough corn of his own.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1468",
+      "question": "According to the moral of the story, why do we need crutches today?",
+      "options": {
+        "A": "Because the earth is bad.",
+        "B": "Because we depend on others' labor and not our own.",
+        "C": "Because corn is smaller.",
+        "D": "Because of accidents."
+      },
+      "answer": "B",
+      "explanation": "The oldest man attributed the physical decline to the loss of self-reliance and labor.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE1469",
+      "question": "What did the oldest man say about 'sin'?",
+      "options": {
+        "A": "Crutches are a sin.",
+        "B": "Buying or selling bread is a sin.",
+        "C": "Eating too much corn is a sin.",
+        "D": "Talking to the King is a sin."
+      },
+      "answer": "B",
+      "explanation": "He said 'no one ever thought of such a sin as buying or selling bread'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE1470",
+      "question": "The story 'A Grain as big as a Hen’s Egg' suggests that the past was ________ than the present.",
+      "options": {
+        "A": "More complicated",
+        "B": "Simpler and more self-reliant",
+        "C": "Worse and more dangerous",
+        "D": "Exactly the same"
+      },
+      "answer": "B",
+      "explanation": "The story highlights the self-reliance, health, and simplicity of the past generations.",
+      "difficulty": "medium"
+    }
+  ]
+}

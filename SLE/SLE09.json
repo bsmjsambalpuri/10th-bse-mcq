@@ -1,1 +1,1046 @@
-﻿{"questions":[]}
+﻿{
+  "chapter_id": "SLE09",
+  "chapter_name": "Air Pollution – A Hidden Menace",
+  "questions": [
+    {
+      "id": "SLE0901",
+      "question": "What tragic industrial accident took place at Bhopal in 1984?",
+      "options": {
+        "A": "Fire in a factory",
+        "B": "Deadly gas escape from a chemical plant",
+        "C": "Nuclear meltdown",
+        "D": "Oil spill"
+      },
+      "answer": "B",
+      "explanation": "The text mentions a 'tragic industrial accident' at Bhopal where 'deadly gas' escaped into the atmosphere.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0902",
+      "question": "On which date did the Bhopal Gas Tragedy occur?",
+      "options": {
+        "A": "3 December, 1984",
+        "B": "15 August, 1947",
+        "C": "2 October, 1869",
+        "D": "30 January, 1948"
+      },
+      "answer": "A",
+      "explanation": "The industrial accident occurred at Bhopal on 3 December, 1984.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0903",
+      "question": "Which company operated the chemical plant in Bhopal in 1984?",
+      "options": {
+        "A": "Tata Motors",
+        "B": "Union Carbide",
+        "C": "NIMHANS",
+        "D": "The Indian Express"
+      },
+      "answer": "B",
+      "explanation": "The gas escaped from a chemical plant operated by Union Carbide.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0904",
+      "question": "How many local residents were killed by the gas leak in Bhopal?",
+      "options": {
+        "A": "Over 1000",
+        "B": "Over 4000",
+        "C": "Over 152,000",
+        "D": "Exactly 5315"
+      },
+      "answer": "B",
+      "explanation": "The leak killed over 4000 local residents.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0905",
+      "question": "What happened to a large section of the surviving population in Bhopal?",
+      "options": {
+        "A": "They became rich.",
+        "B": "They were rendered blind and crippled.",
+        "C": "They moved to Sweden.",
+        "D": "They became doctors."
+      },
+      "answer": "B",
+      "explanation": "The gas leak rendered blind and crippled a large section of the surviving population.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0906",
+      "question": "How long can a man typically live without food?",
+      "options": {
+        "A": "A day",
+        "B": "A week",
+        "C": "A month",
+        "D": "A year"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'A man can live without food for a month'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0907",
+      "question": "How long can a man live without water?",
+      "options": {
+        "A": "A month",
+        "B": "Two or three days",
+        "C": "Ten minutes",
+        "D": "Seven days"
+      },
+      "answer": "B",
+      "explanation": "A man can live without water for 'two or three days'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0908",
+      "question": "How long can a man live without breathing?",
+      "options": {
+        "A": "A hour",
+        "B": "A day",
+        "C": "Even for a minute (he cannot)",
+        "D": "Five minutes"
+      },
+      "answer": "C",
+      "explanation": "The text states he 'cannot live without breathing even for a minute'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0909",
+      "question": "An average adult exchanges how much air per day?",
+      "options": {
+        "A": "1.5 kg",
+        "B": "2.5 kg",
+        "C": "15 kg",
+        "D": "150 kg"
+      },
+      "answer": "C",
+      "explanation": "It is estimated that an average adult exchanges 15 kg of air a day.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0910",
+      "question": "Which gaseous element makes up 78 percent of dry air?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Argon",
+        "D": "Carbon dioxide"
+      },
+      "answer": "B",
+      "explanation": "Air comprises 78 percent nitrogen.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0911",
+      "question": "What is the percentage of oxygen in dry air?",
+      "options": {
+        "A": "78 percent",
+        "B": "21 percent",
+        "C": "0.03 percent",
+        "D": "Less than 1 percent"
+      },
+      "answer": "B",
+      "explanation": "Air comprises 21 percent oxygen.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0912",
+      "question": "What is the percentage of carbon dioxide in the air?",
+      "options": {
+        "A": "1 percent",
+        "B": "0.03 percent",
+        "C": "21 percent",
+        "D": "78 percent"
+      },
+      "answer": "B",
+      "explanation": "Air contains 0.03 percent carbon dioxide.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0913",
+      "question": "Together with argon, the main gases make up what percentage of dry air?",
+      "options": {
+        "A": "50 percent",
+        "B": "90 percent",
+        "C": "99.9 percent",
+        "D": "100 percent"
+      },
+      "answer": "C",
+      "explanation": "These elements make up 99.9 percent of dry air.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0914",
+      "question": "Inhalation of polluted air can lead to what kind of disorders?",
+      "options": {
+        "A": "Skin disorders",
+        "B": "Bone disorders",
+        "C": "Respiratory disorders",
+        "D": "Hearing disorders"
+      },
+      "answer": "C",
+      "explanation": "Inhalation of this polluted air can lead to respiratory disorders.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0915",
+      "question": "Our air is being poisoned with by-products from what kind of society?",
+      "options": {
+        "A": "Agricultural",
+        "B": "Expanding technological",
+        "C": "Ancient",
+        "D": "Fairy folk"
+      },
+      "answer": "B",
+      "explanation": "Our air is being poisoned with the by-products of an expanding technological society.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0916",
+      "question": "What do most industries spew from their chimneys?",
+      "options": {
+        "A": "Clean steam",
+        "B": "Dense smoke",
+        "C": "Oxygen",
+        "D": "Rain drops"
+      },
+      "answer": "B",
+      "explanation": "Most of these industries spew dense smoke from their chimneys.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0917",
+      "question": "Which of these fuels is NOT mentioned as being burnt by industries to produce steam?",
+      "options": {
+        "A": "Coal",
+        "B": "Coke",
+        "C": "Natural Gas",
+        "D": "Furnace oil"
+      },
+      "answer": "C",
+      "explanation": "The text mentions coal, coke, and furnace oil.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0918",
+      "question": "Industrial smoke contains which of the following?",
+      "options": {
+        "A": "Fragrance of flowers",
+        "B": "Obnoxious gases, ash and dust particles",
+        "C": "Pure nitrogen",
+        "D": "Nutrients for soil"
+      },
+      "answer": "B",
+      "explanation": "We respire polluted air containing obnoxious gases, ash and dust particles.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0919",
+      "question": "Which industries are rated first among those discharging high amounts of smoke and ash?",
+      "options": {
+        "A": "Cement industries",
+        "B": "Steel industries",
+        "C": "Thermal power stations",
+        "D": "Chemical industries"
+      },
+      "answer": "C",
+      "explanation": "Thermal power stations are rated the first among the industries that discharge high amounts of smoke and ash.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0920",
+      "question": "What do chemical industries release into the air along with smoke?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Toxic fumes",
+        "C": "Sandal scent",
+        "D": "Butter lamps"
+      },
+      "answer": "B",
+      "explanation": "Some chemical industries also release toxic fumes into the air.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0921",
+      "question": "How many tonnes of pollutants do automobiles spew in Greater Kolkata every day?",
+      "options": {
+        "A": "500 tonnes",
+        "B": "1000 tonnes",
+        "C": "1500 tonnes",
+        "D": "5315 tonnes"
+      },
+      "answer": "C",
+      "explanation": "Automobiles in Greater Kolkata spew about 1500 tonnes of pollutants daily.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0922",
+      "question": "A person in Kolkata is forced to inhale toxic substances equivalent to smoking how many cigarette packets a day?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Five",
+        "D": "Ten"
+      },
+      "answer": "B",
+      "explanation": "A person in Kolkata is forced to inhale toxic substances equivalent to smoking two packets of cigarettes a day.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0923",
+      "question": "Automobiles are responsible for what percentage of air pollution in various parts of the world?",
+      "options": {
+        "A": "21 percent",
+        "B": "60 percent",
+        "C": "78 percent",
+        "D": "99.9 percent"
+      },
+      "answer": "B",
+      "explanation": "Automobiles are responsible for 60 percent of air pollution in various parts of the world.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0924",
+      "question": "Which gas do automobiles release maximum amount of into the atmosphere?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon monoxide",
+        "D": "Argon"
+      },
+      "answer": "C",
+      "explanation": "They release maximum carbon monoxide into the atmosphere.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0925",
+      "question": "What might we have to wear on our noses in the future if pollution continues to increase?",
+      "options": {
+        "A": "Jewels",
+        "B": "Masks of fairy folk",
+        "C": "Nasal filters",
+        "D": "Sunflowers"
+      },
+      "answer": "C",
+      "explanation": "If this trend continues, we may have to wear nasal filters on our nose in future.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0926",
+      "question": "What happens to rubber tyres on automobiles because of air pollution?",
+      "options": {
+        "A": "They melt",
+        "B": "They become stronger",
+        "C": "They crack and become porous",
+        "D": "They turn into silver coins"
+      },
+      "answer": "C",
+      "explanation": "Air pollution causes rubber tyres on automobiles to crack and become porous.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0927",
+      "question": "Fine buildings become shabby because their walls are blackened with ________.",
+      "options": {
+        "A": "Salt",
+        "B": "Paint",
+        "C": "Soot",
+        "D": "Incense"
+      },
+      "answer": "C",
+      "explanation": "Fine buildings become shabby, their walls blackened with soot that has settled on them.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0928",
+      "question": "Periods of high levels of air pollution were linked to an increased number of deaths in which regions?",
+      "options": {
+        "A": "India and China",
+        "B": "The United States and Europe",
+        "C": "Sweden and Norway",
+        "D": "Kolkata and Mumbai"
+      },
+      "answer": "B",
+      "explanation": "In both the United States and Europe, high levels of air pollution were linked to increased deaths.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0929",
+      "question": "Which of these gases is NOT mentioned as alarmingly increasing and causing the atmosphere to become warmer?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Methane",
+        "C": "Nitrous oxide",
+        "D": "Argon"
+      },
+      "answer": "D",
+      "explanation": "The text lists carbon dioxide, methane, and nitrous oxide.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0930",
+      "question": "The process where increasing gases trap radiation and make the atmosphere warmer is called ________.",
+      "options": {
+        "A": "The Sowing season",
+        "B": "Global warming",
+        "C": "Acid rain",
+        "D": "Industrial accident"
+      },
+      "answer": "B",
+      "explanation": "This process would eventually lead to global warming.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0931",
+      "question": "CFCs were once widely used in which of the following?",
+      "options": {
+        "A": "Bikes",
+        "B": "Spray cans",
+        "C": "Hearth cakes",
+        "D": "Cement"
+      },
+      "answer": "B",
+      "explanation": "Chlorofluorocarbons (CFCs) were once widely used in spray cans.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0932",
+      "question": "Acid rain contains precipitation with oxides of ________.",
+      "options": {
+        "A": "Carbon and Hydrogen",
+        "B": "Sulphur and nitrogen",
+        "C": "Argon and Neon",
+        "D": "Oxygen and Water"
+      },
+      "answer": "B",
+      "explanation": "Acid rain contains oxides of sulphur and nitrogen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0933",
+      "question": "In Sweden, how many lakes have been so affected by acid rain that no fish survived?",
+      "options": {
+        "A": "100",
+        "B": "1500",
+        "C": "4000",
+        "D": "152,000"
+      },
+      "answer": "C",
+      "explanation": "In Sweden, 4000 lakes have been so severely affected that no fish has survived.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0934",
+      "question": "Which of these is a nutrient that acid rain leaches away from the soil?",
+      "options": {
+        "A": "Iron",
+        "B": "Potassium",
+        "C": "Silver",
+        "D": "Gold"
+      },
+      "answer": "B",
+      "explanation": "It washes away nutrients like potassium, calcium and magnesium.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0935",
+      "question": "What is left behind after acid rain kills large stretches of forests?",
+      "options": {
+        "A": "Lush greenery",
+        "B": "Leafless skeletons of trees",
+        "C": "Paddy fields",
+        "D": "Golden grain"
+      },
+      "answer": "B",
+      "explanation": "Acid rain kills forests, leaving behind leafless skeletons of trees.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0936",
+      "question": "Which bird in Sweden is threatened by acid rain?",
+      "options": {
+        "A": "Nightingale",
+        "B": "Pied Flycatcher",
+        "C": "Koil",
+        "D": "Cuckoo-bird"
+      },
+      "answer": "B",
+      "explanation": "Among the species threatened is the Pied Flycatcher.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0937",
+      "question": "From where has the Dipper fish vanished due to acid rain?",
+      "options": {
+        "A": "Sweden lakes",
+        "B": "Norwegian lakes",
+        "C": "Rivers of Central Wales",
+        "D": "The Siligudi corridor"
+      },
+      "answer": "C",
+      "explanation": "The Dipper fish has vanished from the river of Central Wales.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0938",
+      "question": "In which city is acid rain eating into the marble of world-famous monuments?",
+      "options": {
+        "A": "Krakow",
+        "B": "Athens",
+        "C": "Delhi",
+        "D": "London"
+      },
+      "answer": "B",
+      "explanation": "In Athens, acid rain is eating into the marble of its world-famous monuments.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0939",
+      "question": "According to experts, how much damage has been done in the past 25 years compared to the previous 2000?",
+      "options": {
+        "A": "Less damage",
+        "B": "Equal damage",
+        "C": "More damage",
+        "D": "No damage"
+      },
+      "answer": "C",
+      "explanation": "Experts say that more damage has been done in the past 25 years than in the previous 2000.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0940",
+      "question": "Which approach to control air pollution involves raising the heights of smokestacks?",
+      "options": {
+        "A": "Preventive measures",
+        "B": "Dispersal measures",
+        "C": "Collection measures",
+        "D": "Legal measures"
+      },
+      "answer": "B",
+      "explanation": "Dispersal measures include raising the heights of smokestacks.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0941",
+      "question": "Designing equipment to trap pollutants before they escape is known as which approach?",
+      "options": {
+        "A": "Preventive measures",
+        "B": "Dispersal measures",
+        "C": "Collection measures",
+        "D": "Administrative measures"
+      },
+      "answer": "C",
+      "explanation": "Collection measures include designing equipment to trap pollutants.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0942",
+      "question": "Acid rain originating in the United States caused the death of lakes in which region?",
+      "options": {
+        "A": "Britain",
+        "B": "France",
+        "C": "Eastern Canada",
+        "D": "Sweden"
+      },
+      "answer": "C",
+      "explanation": "The death of lakes in eastern Canada has been caused by acid rain that originated in the United States.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0943",
+      "question": "Acids produced in which countries caused damage in Sweden?",
+      "options": {
+        "A": "India and China",
+        "B": "Britain and France",
+        "C": "USA and Canada",
+        "D": "Norway and Wales"
+      },
+      "answer": "B",
+      "explanation": "Acids produced in Britain and France have caused damage in Sweden.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0944",
+      "question": "What device is used in new cars to change pollutants into harmless substances?",
+      "options": {
+        "A": "Nasal filter",
+        "B": "Catalytic converter",
+        "C": "Smokestack",
+        "D": "Refrigerant"
+      },
+      "answer": "B",
+      "explanation": "New cars have been equipped with devices such as the catalytic converter.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0945",
+      "question": "Which of these professionals is NOT mentioned as being involved in research for air pollution control?",
+      "options": {
+        "A": "Physicians",
+        "B": "Meteorologists",
+        "C": "Botanists",
+        "D": "Journalists"
+      },
+      "answer": "D",
+      "explanation": "The text mentions physicians, engineers, meteorologists, and botanists.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0946",
+      "question": "Air pollution is referred to as a 'hidden _________'.",
+      "options": {
+        "A": "Boon",
+        "B": "Menace",
+        "C": "Treasure",
+        "D": "Grace"
+      },
+      "answer": "B",
+      "explanation": "Air pollution is a hidden menace and poses the greatest threat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0947",
+      "question": "What word in the glossary means 'unpleasant'?",
+      "options": {
+        "A": "Obnoxious",
+        "B": "Manifold",
+        "C": "Severity",
+        "D": "Sacred"
+      },
+      "answer": "A",
+      "explanation": "Glossary: obnoxious - unpleasant.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0948",
+      "question": "What is the meaning of 'spew' as used in the industrial context?",
+      "options": {
+        "A": "To suck in",
+        "B": "To throw out",
+        "C": "To keep safe",
+        "D": "To burn"
+      },
+      "answer": "B",
+      "explanation": "Glossary: spew - throw out.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0949",
+      "question": "What are 'smokestacks'?",
+      "options": {
+        "A": "Piles of coal",
+        "B": "Tall chimneys that carry smoke away from factories",
+        "C": "Small filters for cars",
+        "D": "Piles of cigarettes"
+      },
+      "answer": "B",
+      "explanation": "Glossary: smokestacks - tall chimneys that carry smoke away from factories.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0950",
+      "question": "Which term describes a mixture of smoke and fog?",
+      "options": {
+        "A": "Acid rain",
+        "B": "Smog",
+        "C": "Vigour",
+        "D": "Grain"
+      },
+      "answer": "B",
+      "explanation": "Glossary: smog - a mixture of smoke and fog.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0951",
+      "question": "What is the noun form of the verb 'respire'?",
+      "options": {
+        "A": "Respirator",
+        "B": "Respiration",
+        "C": "Respirable",
+        "D": "Respiring"
+      },
+      "answer": "B",
+      "explanation": "The vocabulary section identifies 'respiration' as the noun form of 'respire'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0952",
+      "question": "The word 'smog' is formed by the process of ________.",
+      "options": {
+        "A": "Addition",
+        "B": "Blending",
+        "C": "Prefixing",
+        "D": "Suffixing"
+      },
+      "answer": "B",
+      "explanation": "Two words have formed the word ‘smog’. Such process of word formation is known as blending.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0953",
+      "question": "Which of these is a blended word for 'Foreign + exchange'?",
+      "options": {
+        "A": "Forex",
+        "B": "Forexch",
+        "C": "Exfore",
+        "D": "Foreignex"
+      },
+      "answer": "A",
+      "explanation": "The exercise identifies Forex bank as Foreign + exchange bank.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0954",
+      "question": "Which of these is a blended word for 'Slim + tender'?",
+      "options": {
+        "A": "Slimder",
+        "B": "Slender",
+        "C": "Tenslim",
+        "D": "Tenderly"
+      },
+      "answer": "B",
+      "explanation": "The exercise identifies 'Slender' as the blend for 'Slim + tender'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0955",
+      "question": "What is the blended word for 'Tele + broadcast'?",
+      "options": {
+        "A": "Broadtele",
+        "B": "Telecast",
+        "C": "Televise",
+        "D": "Casttele"
+      },
+      "answer": "B",
+      "explanation": "The exercise identifies 'telecast' as Tele + broadcast.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0956",
+      "question": "In the phrase 'irritating gases', what is the grammatical role of 'irritating'?",
+      "options": {
+        "A": "Noun",
+        "B": "Present participle adjective",
+        "C": "Past participle adjective",
+        "D": "Verb"
+      },
+      "answer": "B",
+      "explanation": "The language section identifies 'irritating' as a present participle adjective.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0957",
+      "question": "In the phrase 'polluted air', what is 'polluted'?",
+      "options": {
+        "A": "Present participle adjective",
+        "B": "Past participle adjective",
+        "C": "Noun",
+        "D": "Adverb"
+      },
+      "answer": "B",
+      "explanation": "The language section identifies 'polluted' as a past participle adjective.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0958",
+      "question": "Fill in the blank: 'Air pollution causes ________ problem.'",
+      "options": {
+        "A": "Breath",
+        "B": "Breathing",
+        "C": "Breathed",
+        "D": "Breathe"
+      },
+      "answer": "B",
+      "explanation": "Using the present participle as an adjective: breathing problem.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0959",
+      "question": "Which country's Clean Air Act was amended in 1990?",
+      "options": {
+        "A": "India",
+        "B": "Sweden",
+        "C": "The United States",
+        "D": "Britain"
+      },
+      "answer": "C",
+      "explanation": "The Clean Air Act of 1970 was amended in 1990 in the United States.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0960",
+      "question": "The Federal Environment Protection Agency belongs to which country?",
+      "options": {
+        "A": "Britain",
+        "B": "The United States",
+        "C": "Poland",
+        "D": "Greece"
+      },
+      "answer": "B",
+      "explanation": "Under this law [US Clean Air Act], the federal environment protection agency sets standards.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0961",
+      "question": "Which city is mentioned as highly polluted and located in Greece?",
+      "options": {
+        "A": "Krakow",
+        "B": "Athens",
+        "C": "Kolkata",
+        "D": "London"
+      },
+      "answer": "B",
+      "explanation": "In Athens, a city which is highly polluted... [Athens is the capital of Greece].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0962",
+      "question": "What is the meaning of 'leaches away'?",
+      "options": {
+        "A": "To add nutrients",
+        "B": "To wash away",
+        "C": "To grow trees",
+        "D": "To stop rain"
+      },
+      "answer": "B",
+      "explanation": "Glossary: leaches away - washes away.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0963",
+      "question": "The term 'lesions' refers to ________.",
+      "options": {
+        "A": "School lessons",
+        "B": "Wounds or injuries",
+        "C": "Small insects",
+        "D": "Types of lakes"
+      },
+      "answer": "B",
+      "explanation": "Glossary: lesions - wounds or injuries.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0964",
+      "question": "A person who studies weather conditions is a ________.",
+      "options": {
+        "A": "Physician",
+        "B": "Meteorologist",
+        "C": "Botanist",
+        "D": "Neurovirologist"
+      },
+      "answer": "B",
+      "explanation": "Glossary: meteorologists - persons who study weather conditions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0965",
+      "question": "What is the meaning of 'menace' in the context of the poem?",
+      "options": {
+        "A": "Friend",
+        "B": "Threat",
+        "C": "Helper",
+        "D": "Secret"
+      },
+      "answer": "B",
+      "explanation": "Glossary: menace - threat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0966",
+      "question": "What is the noun form of 'consume'?",
+      "options": {
+        "A": "Consuming",
+        "B": "Consumption",
+        "C": "Consumable",
+        "D": "Consumed"
+      },
+      "answer": "B",
+      "explanation": "Based on the vocabulary exercise patterns.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0967",
+      "question": "What is the verb form of 'pollution'?",
+      "options": {
+        "A": "Pollute",
+        "B": "Polluting",
+        "C": "Polluter",
+        "D": "Polluted"
+      },
+      "answer": "A",
+      "explanation": "Based on the vocabulary table in the text.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0968",
+      "question": "The word 'industrial' is related to ________.",
+      "options": {
+        "A": "Nature",
+        "B": "Industry",
+        "C": "Schools",
+        "D": "Religion"
+      },
+      "answer": "B",
+      "explanation": "Glossary: industrial - relating to industry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0969",
+      "question": "What describes air that has the wrong composition or irritating gases?",
+      "options": {
+        "A": "Pure",
+        "B": "Polluted",
+        "C": "Lush",
+        "D": "Dry"
+      },
+      "answer": "B",
+      "explanation": "If the composition is altered... the air is said to be polluted.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0970",
+      "question": "Cattle have been poisoned by fumes from ________.",
+      "options": {
+        "A": "Power plants",
+        "B": "Smelters",
+        "C": "Automobiles",
+        "D": "Lakes"
+      },
+      "answer": "B",
+      "explanation": "Cattle have been poisoned by the fumes from smelters.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0971",
+      "question": "Building surfaces may ________ because of air pollution.",
+      "options": {
+        "A": "Improve",
+        "B": "Deteriorate",
+        "C": "Stay the same",
+        "D": "Glisten"
+      },
+      "answer": "B",
+      "explanation": "Building surfaces may actually deteriorate because of air pollution.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0972",
+      "question": "According to the text, what contains oxides of sulphur and nitrogen?",
+      "options": {
+        "A": "The ozone layer",
+        "B": "Acid rain",
+        "C": "Dry air",
+        "D": "Argon"
+      },
+      "answer": "B",
+      "explanation": "Acid rain... contains oxides of sulphur and nitrogen.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0973",
+      "question": "The Brown Trout has vanished from lakes in which country?",
+      "options": {
+        "A": "Sweden",
+        "B": "Norway",
+        "C": "Wales",
+        "D": "Poland"
+      },
+      "answer": "B",
+      "explanation": "The Dipper fish has vanished... and the Brown Trout from Norwegian lakes.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0974",
+      "question": "What is the noun form of 'alter'?",
+      "options": {
+        "A": "Alternative",
+        "B": "Alteration",
+        "C": "Alternating",
+        "D": "Altered"
+      },
+      "answer": "B",
+      "explanation": "Based on the table of word forms.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0975",
+      "question": "What is the verb form of 'emission'?",
+      "options": {
+        "A": "Emissive",
+        "B": "Emit",
+        "C": "Emitting",
+        "D": "Emissary"
+      },
+      "answer": "B",
+      "explanation": "Based on the table of word forms.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0976",
+      "question": "What happened to the Dipper fish?",
+      "options": {
+        "A": "It evolved.",
+        "B": "It vanished from rivers in Central Wales.",
+        "C": "It became blind.",
+        "D": "It started living on land."
+      },
+      "answer": "B",
+      "explanation": "The Dipper fish has vanished from the river of Central Wales.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0977",
+      "question": "Pollution control often leads to ________ for consumers.",
+      "options": {
+        "A": "Lower taxes",
+        "B": "Higher prices",
+        "C": "Free cars",
+        "D": "Better health for free"
+      },
+      "answer": "B",
+      "explanation": "Often pollution control means higher prices.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE0978",
+      "question": "Which of these is a collection measure?",
+      "options": {
+        "A": "Changing raw materials",
+        "B": "Raising smokestacks",
+        "C": "Trapping pollutants before escape",
+        "D": "Closing all factories"
+      },
+      "answer": "C",
+      "explanation": "Collection measures, such as designing equipment to trap pollutants.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE0979",
+      "question": "What is the noun form of 'illustrate'?",
+      "options": {
+        "A": "Illustrative",
+        "B": "Illustration",
+        "C": "Illustrated",
+        "D": "Illustrating"
+      },
+      "answer": "B",
+      "explanation": "Based on the word form table.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE0980",
+      "question": "According to the lead-in, air pollution is a threat to ________.",
+      "options": {
+        "A": "Industry",
+        "B": "Mankind in the future",
+        "C": "Only Bhopal",
+        "D": "The Siligudi corridor"
+      },
+      "answer": "B",
+      "explanation": "Air pollution... poses the greatest threat to mankind in the future.",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+﻿{
+  "chapter_id": "SLE26",
+  "chapter_name": "The Solitary Reaper",
+  "questions": [
+    {
+      "id": "SLE2601",
+      "question": "Who is the poet of 'The Solitary Reaper'?",
+      "options": {
+        "A": "C.F. Alexander",
+        "B": "Sarojini Naidu",
+        "C": "William Wordsworth",
+        "D": "Rabindranath Tagore"
+      },
+      "answer": "C",
+      "explanation": "The poem 'The Solitary Reaper' is written by William Wordsworth.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2602",
+      "question": "Where was William Wordsworth born?",
+      "options": {
+        "A": "Dublin, Ireland",
+        "B": "Cockermouth, Lake District, England",
+        "C": "Hyderabad, India",
+        "D": "Kolkata, India"
+      },
+      "answer": "B",
+      "explanation": "William Wordsworth was born in Cockermouth in the Lake District, England.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2603",
+      "question": "On what date was William Wordsworth born?",
+      "options": {
+        "A": "2 October 1869",
+        "B": "13 February 1879",
+        "C": "7 April 1770",
+        "D": "7 May 1861"
+      },
+      "answer": "C",
+      "explanation": "He was born on 7th April 1770.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2604",
+      "question": "William Wordsworth is regarded as a _________ of nature.",
+      "options": {
+        "A": "destroyer",
+        "B": "worshipper",
+        "C": "scientist",
+        "D": "painter"
+      },
+      "answer": "B",
+      "explanation": "He is regarded as a worshipper of nature.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2605",
+      "question": "According to Wordsworth, poetry is the spontaneous overflow of _________.",
+      "options": {
+        "A": "natural beauty",
+        "B": "powerful feelings",
+        "C": "ordinary words",
+        "D": "melodious songs"
+      },
+      "answer": "B",
+      "explanation": "For him poetry is the 'spontaneous overflow of powerful feelings'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2606",
+      "question": "Poetry arises from 'emotions recollected in _________'.",
+      "options": {
+        "A": "tranquility",
+        "B": "excitement",
+        "C": "sadness",
+        "D": "the field"
+      },
+      "answer": "A",
+      "explanation": "Poetry arises from 'emotions recollected in tranquility'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2607",
+      "question": "When did William Wordsworth die?",
+      "options": {
+        "A": "April 23, 1850",
+        "B": "January 30, 1948",
+        "C": "February 13, 1949",
+        "D": "May 7, 1941"
+      },
+      "answer": "A",
+      "explanation": "He died on April 23, 1850.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2608",
+      "question": "The setting of the poem is in which country?",
+      "options": {
+        "A": "England",
+        "B": "Ireland",
+        "C": "Scotland",
+        "D": "Arabia"
+      },
+      "answer": "C",
+      "explanation": "The setting of the poem is the mountain regions of Scotland.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2609",
+      "question": "What is the central idea of the poem?",
+      "options": {
+        "A": "Reapers can sing like birds.",
+        "B": "Sweet music appeals to all.",
+        "C": "Beautiful experiences have long-lasting effects.",
+        "D": "Rich harvest makes the reaper happy."
+      },
+      "answer": "C",
+      "explanation": "The central idea is that beautiful experiences have long-lasting effects.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2610",
+      "question": "What does the word 'behold' mean?",
+      "options": {
+        "A": "To keep",
+        "B": "To look at or see",
+        "C": "To sing loudly",
+        "D": "To cut grain"
+      },
+      "answer": "B",
+      "explanation": "Glossary: behold - to look at or see somebody or something.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2611",
+      "question": "What does the old word 'yon' mean?",
+      "options": {
+        "A": "You",
+        "B": "Young",
+        "C": "Over there",
+        "D": "Alone"
+      },
+      "answer": "C",
+      "explanation": "Glossary: yon - over there (old use).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2612",
+      "question": "Who does the expression 'Highland Lass' refer to?",
+      "options": {
+        "A": "A bird",
+        "B": "A girl from the mountains of Scotland",
+        "C": "The poet's sister",
+        "D": "A traveler"
+      },
+      "answer": "B",
+      "explanation": "Highland Lass is a girl who lives in the highlands (mountain regions) of Scotland.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2613",
+      "question": "What is the girl doing in the field?",
+      "options": {
+        "A": "Planting seeds",
+        "B": "Running and playing",
+        "C": "Reaping and singing by herself",
+        "D": "Talking to travelers"
+      },
+      "answer": "C",
+      "explanation": "The text says: 'Reaping and singing by herself'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2614",
+      "question": "What does 'solitary' mean?",
+      "options": {
+        "A": "Singing",
+        "B": "Single or alone",
+        "C": "Hard working",
+        "D": "Beautiful"
+      },
+      "answer": "B",
+      "explanation": "Glossary: solitary - single or alone.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2615",
+      "question": "The poet tells the travelers to either 'stop here' or ________.",
+      "options": {
+        "A": "Sing along",
+        "B": "Gently pass",
+        "C": "Help her",
+        "D": "Listen carefully"
+      },
+      "answer": "B",
+      "explanation": "The text says: 'Stop here, or gently pass!'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2616",
+      "question": "Besides cutting the grain, what else does the girl do with it?",
+      "options": {
+        "A": "Thrashes it",
+        "B": "Sells it",
+        "C": "Binds it",
+        "D": "Eats it"
+      },
+      "answer": "C",
+      "explanation": "The text says: 'Alone she cuts and binds the grain'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2617",
+      "question": "How is the tone of her song described in stanza 1?",
+      "options": {
+        "A": "Joyful melody",
+        "B": "Melancholy strain",
+        "C": "Thrilling voice",
+        "D": "Welcome note"
+      },
+      "answer": "B",
+      "explanation": "The text says: 'And sings a melancholy strain'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2618",
+      "question": "What does 'melancholy strain' mean?",
+      "options": {
+        "A": "Happy tune",
+        "B": "Fast rhythm",
+        "C": "Sad song",
+        "D": "Loud noise"
+      },
+      "answer": "C",
+      "explanation": "Glossary: melancholy strain - sad song.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2619",
+      "question": "What is 'overflowing with the sound' of the song?",
+      "options": {
+        "A": "The mountain",
+        "B": "The Vale profound",
+        "C": "The Arabian sands",
+        "D": "The Hebrides"
+      },
+      "answer": "B",
+      "explanation": "The text says: 'for the Vale profound Is overflowing with the sound'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2620",
+      "question": "What does 'Vale' mean?",
+      "options": {
+        "A": "Value",
+        "B": "Valley",
+        "C": "Voice",
+        "D": "Veil"
+      },
+      "answer": "B",
+      "explanation": "Glossary: vale - valley.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2621",
+      "question": "What does 'profound' mean in the phrase 'Vale profound'?",
+      "options": {
+        "A": "Quiet",
+        "B": "Beautiful",
+        "C": "Deep",
+        "D": "Wide"
+      },
+      "answer": "C",
+      "explanation": "Glossary: profound - deep.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2622",
+      "question": "In stanza 2, which bird does the poet first compare her song to?",
+      "options": {
+        "A": "Cuckoo",
+        "B": "Koil",
+        "C": "Nightingale",
+        "D": "Sparrow"
+      },
+      "answer": "C",
+      "explanation": "Stanza 2 starts with: 'No Nightingale did ever chaunt'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2623",
+      "question": "Where does the Nightingale sing 'more welcome notes'?",
+      "options": {
+        "A": "Scottish Highlands",
+        "B": "Among Arabian sands",
+        "C": "Farthest Hebrides",
+        "D": "The Lake District"
+      },
+      "answer": "B",
+      "explanation": "The Nightingale sings welcome notes 'Among Arabian sands'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2624",
+      "question": "Who does the Nightingale sing for?",
+      "options": {
+        "A": "Weary bands of travellers",
+        "B": "The Highland Lass",
+        "C": "The poet",
+        "D": "The fairy folk"
+      },
+      "answer": "A",
+      "explanation": "It sings to 'weary bands Of travellers'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2625",
+      "question": "What does 'chaunt' mean?",
+      "options": {
+        "A": "Dance",
+        "B": "Work",
+        "C": "Chant or sing",
+        "D": "Cry"
+      },
+      "answer": "C",
+      "explanation": "Glossary: chaunt - chant, sing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2626",
+      "question": "What does 'weary' mean?",
+      "options": {
+        "A": "Very tired",
+        "B": "Very happy",
+        "C": "Very hungry",
+        "D": "Very fast"
+      },
+      "answer": "A",
+      "explanation": "Glossary: weary - very tired after working hard for a long time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2627",
+      "question": "Where do the travellers rest when they hear the Nightingale?",
+      "options": {
+        "A": "In a valley",
+        "B": "In some shady haunt",
+        "C": "In a castle",
+        "D": "By the river"
+      },
+      "answer": "B",
+      "explanation": "The text mentions 'travellers in some shady haunt'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2628",
+      "question": "What is a 'shady haunt' as explained in the glossary?",
+      "options": {
+        "A": "A dark house",
+        "B": "An oasis in a desert",
+        "C": "A deep forest",
+        "D": "A mountain cave"
+      },
+      "answer": "B",
+      "explanation": "Glossary: shady haunt - oasis.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2629",
+      "question": "Which bird's voice is described as 'thrilling'?",
+      "options": {
+        "A": "Nightingale",
+        "B": "Cuckoo-bird",
+        "C": "Peacock",
+        "D": "Lark"
+      },
+      "answer": "B",
+      "explanation": "The text says: 'A voice so thrilling ne’er was heard... from the Cuckoo-bird'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2630",
+      "question": "When is the Cuckoo-bird's voice heard?",
+      "options": {
+        "A": "Autumn",
+        "B": "Winter",
+        "C": "Spring-time",
+        "D": "Monsoon"
+      },
+      "answer": "C",
+      "explanation": "The text says: 'In spring-time from the Cuckoo-bird'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2631",
+      "question": "The Cuckoo-bird's voice breaks the silence of the seas among which islands?",
+      "options": {
+        "A": "British Isles",
+        "B": "West Indies",
+        "C": "Farthest Hebrides",
+        "D": "River-isles"
+      },
+      "answer": "C",
+      "explanation": "The text says: 'Breaking the silence of the seas Among the farthest Hebrides'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2632",
+      "question": "Where are the Hebrides islands located?",
+      "options": {
+        "A": "South of England",
+        "B": "East of Ireland",
+        "C": "North-west of Scotland",
+        "D": "Middle of the Arabian Sea"
+      },
+      "answer": "C",
+      "explanation": "Hebrides is a group of islands to the north-west of Scotland.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2633",
+      "question": "Why does the poet ask 'Will no one tell me what she sings?'",
+      "options": {
+        "A": "He is deaf.",
+        "B": "He is too far away to hear.",
+        "C": "He does not understand the language/dialect of her song.",
+        "D": "She is not singing clearly."
+      },
+      "answer": "C",
+      "explanation": "The song is not intelligible to him because it is in a dialect he does not understand.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2634",
+      "question": "What does 'plaintive numbers' mean?",
+      "options": {
+        "A": "Math equations",
+        "B": "Sad music or mournful verse",
+        "C": "Plain clothes",
+        "D": "Many people"
+      },
+      "answer": "B",
+      "explanation": "Glossary: plaintive numbers - sad music, mournful verse.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2635",
+      "question": "Which of these is a possible theme guessed by the poet for the girl's song?",
+      "options": {
+        "A": "A wedding celebration",
+        "B": "Battles long ago",
+        "C": "Future success",
+        "D": "The beauty of nature"
+      },
+      "answer": "B",
+      "explanation": "The poet guesses themes like 'old, unhappy, far-off things, And battles long ago'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2636",
+      "question": "The poet guesses the song might be about a 'familiar matter of _________'.",
+      "options": {
+        "A": "the past",
+        "B": "to-day",
+        "C": "the forest",
+        "D": "yesterday"
+      },
+      "answer": "B",
+      "explanation": "The line is: 'Familiar matter of to-day?'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2637",
+      "question": "What does 'humble lay' mean?",
+      "options": {
+        "A": "A great epic",
+        "B": "An ordinary song",
+        "C": "A religious prayer",
+        "D": "A quiet sleep"
+      },
+      "answer": "B",
+      "explanation": "Glossary: humble lay - ordinary song.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2638",
+      "question": "The girl's song could be about some natural _________, loss, or pain.",
+      "options": {
+        "A": "beauty",
+        "B": "sorrow",
+        "C": "growth",
+        "D": "music"
+      },
+      "answer": "B",
+      "explanation": "The line is: 'Some natural sorrow, loss, or pain'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2639",
+      "question": "In stanza 4, the poet notes the girl is singing and _________.",
+      "options": {
+        "A": "dancing in glee",
+        "B": "bending o'er the sickle",
+        "C": "walking up the hill",
+        "D": "looking at the sky"
+      },
+      "answer": "B",
+      "explanation": "The poet saw her 'bending o'er the sickle' while singing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2640",
+      "question": "What is a 'sickle' used for?",
+      "options": {
+        "A": "Burying seeds",
+        "B": "Cutting grass or paddy",
+        "C": "Carrying water",
+        "D": "Building houses"
+      },
+      "answer": "B",
+      "explanation": "Glossary: sickle - a tool for cutting grass or paddy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2641",
+      "question": "How did the poet listen to the song?",
+      "options": {
+        "A": "Dancing and singing",
+        "B": "Motionless and still",
+        "C": "Talking to others",
+        "D": "Running up the hill"
+      },
+      "answer": "B",
+      "explanation": "The text says: 'I listen’d, motionless and still'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2642",
+      "question": "Where did the poet go after listening to the song?",
+      "options": {
+        "A": "Down the valley",
+        "B": "Mounted up the hill",
+        "C": "Into the shady haunt",
+        "D": "To the farthest Hebrides"
+      },
+      "answer": "B",
+      "explanation": "The poet says: 'And, as I mounted up the hill'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2643",
+      "question": "Where did the poet bear the music long after it was heard no more?",
+      "options": {
+        "A": "In his head",
+        "B": "In his book",
+        "C": "In his heart",
+        "D": "In his memory"
+      },
+      "answer": "C",
+      "explanation": "The poet says: 'The music in my heart I bore'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2644",
+      "question": "The poem is categorized as what type of poetry?",
+      "options": {
+        "A": "Epic",
+        "B": "Lyric",
+        "C": "Satire",
+        "D": "Sonnet"
+      },
+      "answer": "B",
+      "explanation": "The poem is 'one of Wordsworth’s finest lyrics'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2645",
+      "question": "What is the primary theme of William Wordsworth's poetry?",
+      "options": {
+        "A": "War",
+        "B": "Love of nature",
+        "C": "City life",
+        "D": "Scientific discovery"
+      },
+      "answer": "B",
+      "explanation": "Love of nature is a major theme of his poetry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2646",
+      "question": "What does the poet mean by 'As if her song could have no ending'?",
+      "options": {
+        "A": "The song is extremely long.",
+        "B": "The singer never stops for breath.",
+        "C": "The song contains an everlasting universal theme.",
+        "D": "He wants her to sing forever."
+      },
+      "answer": "C",
+      "explanation": "It suggests the song contains an everlasting universal theme.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2647",
+      "question": "Which of these is a synonym for 'young girl' used in the poem?",
+      "options": {
+        "A": "Reaper",
+        "B": "Maiden",
+        "C": "Traveller",
+        "D": "Lass"
+      },
+      "answer": "D",
+      "explanation": "The poem uses 'Highland Lass' to refer to the young girl.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2648",
+      "question": "How many words are used in the poem to mean 'song'?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "answer": "C",
+      "explanation": "Three words used are: strain, numbers, and lay.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2649",
+      "question": "Whose song is 'more welcome' according to the poem?",
+      "options": {
+        "A": "Nightingale",
+        "B": "The solitary reaper",
+        "C": "Cuckoo",
+        "D": "The poet"
+      },
+      "answer": "B",
+      "explanation": "The poet says no Nightingale did ever chaunt *more* welcome notes than her.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2650",
+      "question": "What does 'motionless' mean?",
+      "options": {
+        "A": "Moving slowly",
+        "B": "Running fast",
+        "C": "Without movement",
+        "D": "Feeling emotional"
+      },
+      "answer": "C",
+      "explanation": "Glossary: motionless - without movement.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2651",
+      "question": "In the lead-in, what is said to 'soothe our soul'?",
+      "options": {
+        "A": "A sight of beauty",
+        "B": "Haunting melody of a cuckoo",
+        "C": "A long walk",
+        "D": "Success in harvest"
+      },
+      "answer": "B",
+      "explanation": "Lead-in: 'The haunting melody of a cuckoo soothes our soul'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2652",
+      "question": "The poem shows how the music of a Scottish girl had an everlasting impact on whose mind?",
+      "options": {
+        "A": "The Nightingale",
+        "B": "William Wordsworth",
+        "C": "Lord Eustace Percy",
+        "D": "The other reapers"
+      },
+      "answer": "B",
+      "explanation": "Lead-in: 'how the music of a Scottish girl exercised an everlasting impact on the mind of the poet William Wordsworth'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2653",
+      "question": "Which of these is NOT one of the birds compared in the poem?",
+      "options": {
+        "A": "Nightingale",
+        "B": "Cuckoo-bird",
+        "C": "Koil",
+        "D": "Both A and B are compared"
+      },
+      "answer": "C",
+      "explanation": "The poem compares her song to the Nightingale and the Cuckoo-bird. Koil is mentioned in 'Village Song' but not here.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2654",
+      "question": "The 'melodious voice of the singer holds him _________'.",
+      "options": {
+        "A": "angry",
+        "B": "tired",
+        "C": "mesmerised and spellbound",
+        "D": "frightened"
+      },
+      "answer": "C",
+      "explanation": "The text states the voice holds him mesmerised and spellbound.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2655",
+      "question": "Which word in stanza 3 is synonymous with 'chant'?",
+      "options": {
+        "A": "Notes",
+        "B": "Chaunt",
+        "C": "Bands",
+        "D": "Welcome"
+      },
+      "answer": "B",
+      "explanation": "Glossary defines chaunt as chant.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2656",
+      "question": "According to the poet, 'A thing of beauty is _________'.",
+      "options": {
+        "A": "gone tomorrow",
+        "B": "joy forever",
+        "C": "hard to find",
+        "D": "only a dream"
+      },
+      "answer": "B",
+      "explanation": "The Lead-in starts with: 'A thing of beauty is joy forever'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2657",
+      "question": "The solitary reaper is 'single' and 'by _________'.",
+      "options": {
+        "A": "the river",
+        "B": "the mountain",
+        "C": "herself",
+        "D": "the poet"
+      },
+      "answer": "C",
+      "explanation": "Line 3: 'Reaping and singing by herself'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2658",
+      "question": "What 'overflows' the valley in the poem?",
+      "options": {
+        "A": "Rain water",
+        "B": "Sound of the song",
+        "C": "The crop",
+        "D": "Travellers"
+      },
+      "answer": "B",
+      "explanation": "Stanza 1: 'the Vale profound Is overflowing with the sound'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2659",
+      "question": "Wordsworth wrote about ordinary people in the _________.",
+      "options": {
+        "A": "language of kings",
+        "B": "language of the ordinary people",
+        "C": "Latin language",
+        "D": "language of nature"
+      },
+      "answer": "B",
+      "explanation": "Bio: 'He wrote about ordinary men and women in the language of the ordinary people'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2660",
+      "question": "Which phrase refers to 'sad music' in stanza 3?",
+      "options": {
+        "A": "Welcome notes",
+        "B": "Plaintive numbers",
+        "C": "Thrilling voice",
+        "D": "Humble lay"
+      },
+      "answer": "B",
+      "explanation": "Glossary: plaintive numbers - sad music.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2661",
+      "question": "The girl in the poem is also referred to as a 'young _________'.",
+      "options": {
+        "A": "traveller",
+        "B": "farm worker",
+        "C": "bird",
+        "D": "princess"
+      },
+      "answer": "B",
+      "explanation": "The text refers to the 'young farm worker' in exercises and summaries.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2662",
+      "question": "The poet asks if her song is about 'old, unhappy, _________ things'.",
+      "options": {
+        "A": "ancient",
+        "B": "far-off",
+        "C": "forgotten",
+        "D": "faded"
+      },
+      "answer": "B",
+      "explanation": "Line 19: 'For old, unhappy, far-off things'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2663",
+      "question": "Which tool is the maiden using in the field?",
+      "options": {
+        "A": "Plow",
+        "B": "Axe",
+        "C": "Sickle",
+        "D": "Hammer"
+      },
+      "answer": "C",
+      "explanation": "Line 28: 'And o’er the sickle bending'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2664",
+      "question": "The music was heard 'no more' but the poet still _________.",
+      "options": {
+        "A": "wrote it down",
+        "B": "bore it in his heart",
+        "C": "cried for her",
+        "D": "called her back"
+      },
+      "answer": "B",
+      "explanation": "Final lines: 'The music in my heart I bore, Long after it was heard no more'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2665",
+      "question": "In the diagram, 'death or illness of a loved one' corresponds to which phrase?",
+      "options": {
+        "A": "Battles long ago",
+        "B": "Natural sorrow, loss, or pain",
+        "C": "Familiar matter of to-day",
+        "D": "Humble lay"
+      },
+      "answer": "B",
+      "explanation": "Exercises link 'natural sorrow, loss, or pain' to personal disasters like death/illness.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2666",
+      "question": "In the diagram, 'everyday routine events' corresponds to which phrase?",
+      "options": {
+        "A": "Familiar matter of to-day",
+        "B": "Old, unhappy things",
+        "C": "Welcome notes",
+        "D": "Plaintive numbers"
+      },
+      "answer": "A",
+      "explanation": "Exercises link 'familiar matter of to-day' to everyday routine events.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2667",
+      "question": "How did the poet react to the song while walking?",
+      "options": {
+        "A": "He sang with her.",
+        "B": "He stopped and listened.",
+        "C": "He ignored her.",
+        "D": "He asked her for directions."
+      },
+      "answer": "B",
+      "explanation": "Summary help box: 'stopped and listened'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2668",
+      "question": "What kind of 'tone' did the song have?",
+      "options": {
+        "A": "Aggressive",
+        "B": "Plaintive",
+        "C": "Invisible",
+        "D": "Sharp"
+      },
+      "answer": "B",
+      "explanation": "Exercises describe the 'plaintive tone'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2669",
+      "question": "Which of these island groups is described as 'farthest'?",
+      "options": {
+        "A": "Hebrides",
+        "B": "Andaman",
+        "C": "Isles of Man",
+        "D": "River-isles"
+      },
+      "answer": "A",
+      "explanation": "Stanza 2: 'Among the farthest Hebrides'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2670",
+      "question": "The girl was 'singing at her _________'.",
+      "options": {
+        "A": "play",
+        "B": "home",
+        "C": "work",
+        "D": "meal"
+      },
+      "answer": "C",
+      "explanation": "Line 27: 'I saw her singing at her work'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2671",
+      "question": "Which adjective describes the bands of travellers?",
+      "options": {
+        "A": "Strong",
+        "B": "Weary",
+        "C": "Happy",
+        "D": "Scottish"
+      },
+      "answer": "B",
+      "explanation": "Stanza 2: 'welcome notes to weary bands Of travellers'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2672",
+      "question": "Where does the 'Cuckoo-bird' sing according to the poem?",
+      "options": {
+        "A": "Arabian sands",
+        "B": "Among the farthest Hebrides",
+        "C": "In the Lake District",
+        "D": "At Rydal Mount"
+      },
+      "answer": "B",
+      "explanation": "The Cuckoo-bird is associated with the farthest Hebrides.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2673",
+      "question": "Wordsworth compares the girl's song with the songs of the Nightingale and _________.",
+      "options": {
+        "A": "Peacock",
+        "C": "Cuckoo",
+        "B": "Koil",
+        "D": "Sparrow"
+      },
+      "answer": "C",
+      "explanation": "He compares her to the Nightingale and the Cuckoo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2674",
+      "question": "In stanza 1, 'Alone she _________ and binds the grain'.",
+      "options": {
+        "A": "sows",
+        "B": "cuts",
+        "C": "eats",
+        "D": "buys"
+      },
+      "answer": "B",
+      "explanation": "The line is: 'Alone she cuts and binds the grain'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2675",
+      "question": "What 'breaks the silence of the seas'?",
+      "options": {
+        "A": "The poet's footsteps",
+        "B": "The sickle clashing",
+        "C": "The Cuckoo-bird's voice",
+        "D": "The travellers' talk"
+      },
+      "answer": "C",
+      "explanation": "Line 15: 'Breaking the silence of the seas' by the Cuckoo-bird.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2676",
+      "question": "The phrase 'melancholy strain' means the song was _________.",
+      "options": {
+        "A": "Exciting",
+        "B": "Sad",
+        "C": "Short",
+        "D": "Meaningless"
+      },
+      "answer": "B",
+      "explanation": "Glossary defines it as a sad song.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2677",
+      "question": "Wordsworth depicts a 'Solitary Highland Lass' and the _________ effect of the song.",
+      "options": {
+        "A": "short-lived",
+        "B": "profound",
+        "C": "scary",
+        "D": "angry"
+      },
+      "answer": "B",
+      "explanation": "About the Poem: 'her sweet song and the profound effect of the song on him'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2678",
+      "question": "The poet carried the 'music in my _________' long after hearing it.",
+      "options": {
+        "A": "pocket",
+        "B": "heart",
+        "C": "ears",
+        "D": "mind"
+      },
+      "answer": "B",
+      "explanation": "Line 31: 'The music in my heart I bore'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2679",
+      "question": "Which season is mentioned in relation to the Cuckoo-bird?",
+      "options": {
+        "A": "Summer",
+        "B": "Spring-time",
+        "C": "Winter",
+        "D": "Autumn"
+      },
+      "answer": "B",
+      "explanation": "Line 14: 'In spring-time from the Cuckoo-bird'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2680",
+      "question": "How did the poet move up the hill?",
+      "options": {
+        "A": "Quickly",
+        "B": "He mounted up",
+        "C": "He ran",
+        "D": "On an elephant"
+      },
+      "answer": "B",
+      "explanation": "Line 30: 'And, as I mounted up the hill'.",
+      "difficulty": "medium"
+    }
+  ]
+}

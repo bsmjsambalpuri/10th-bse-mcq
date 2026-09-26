@@ -1,0 +1,981 @@
+﻿{
+  "chapter_id": "SLE29",
+  "chapter_name": "From the Formalin Jar",
+  "questions": [
+    {
+      "id": "SLE2901",
+      "question": "Who is the poet of 'From the Formalin Jar'?",
+      "options": {
+        "A": "Sarojini Naidu",
+        "B": "William Wordsworth",
+        "C": "Dr. Reeta S. Mani",
+        "D": "C.F. Alexander"
+      },
+      "answer": "C",
+      "explanation": "The poem 'From the Formalin Jar' is written by Dr. Reeta S. Mani.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2902",
+      "question": "According to the lead-in, how many people died in road accidents in India in 2018?",
+      "options": {
+        "A": "5,315",
+        "B": "152,000",
+        "C": "300,000",
+        "D": "50,000"
+      },
+      "answer": "B",
+      "explanation": "The text states that 152,000 people died in India as a result of road accidents in 2018.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2903",
+      "question": "How many road accident deaths were recorded in Odisha in 2018?",
+      "options": {
+        "A": "152,000",
+        "B": "4,000",
+        "C": "5,315",
+        "D": "1,000"
+      },
+      "answer": "C",
+      "explanation": "In 2018, there were 5,315 deaths in Odisha due to road accidents.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2904",
+      "question": "The WHO identified how many major risk factors for road injuries?",
+      "options": {
+        "A": "Three",
+        "B": "Five",
+        "C": "Seven",
+        "D": "Ten"
+      },
+      "answer": "B",
+      "explanation": "The WHO has identified five major risk factors: speed, alcohol, seat belt, helmet, and visibility.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2905",
+      "question": "Which of these is NOT one of the five major risk factors identified by the WHO?",
+      "options": {
+        "A": "Speed",
+        "B": "Alcohol",
+        "C": "Cell phone use",
+        "D": "Helmet"
+      },
+      "answer": "C",
+      "explanation": "While distracted driving (cell phones) is a major factor, the specific five listed by WHO are speed, alcohol, seat belt, helmet, and visibility.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2906",
+      "question": "What is the brilliant brain sitting in?",
+      "options": {
+        "A": "A glass box",
+        "B": "A formalin jar",
+        "C": "A medicine cabinet",
+        "D": "A test tube"
+      },
+      "answer": "B",
+      "explanation": "The brain says it is 'Sitting in a formalin jar'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2907",
+      "question": "With what feeling does the brain sit in the jar?",
+      "options": {
+        "A": "Pride",
+        "B": "Disdain",
+        "C": "Joy",
+        "D": "Interest"
+      },
+      "answer": "B",
+      "explanation": "The brain describes sitting in the jar 'with disdain'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2908",
+      "question": "What is the purpose of displaying the brain in the jar?",
+      "options": {
+        "A": "For decoration",
+        "B": "To promote knowledge gain",
+        "C": "To scare people",
+        "D": "To show beauty"
+      },
+      "answer": "B",
+      "explanation": "The brain is on display 'to promote knowledge gain'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2909",
+      "question": "The brain feels it is ________ to be called a 'specimen'.",
+      "options": {
+        "A": "Honourable",
+        "B": "Exciting",
+        "C": "Insulting",
+        "D": "Helpful"
+      },
+      "answer": "C",
+      "explanation": "The poem asks, 'How insulting to be called a ‘specimen’'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2910",
+      "question": "How long ago was the brain part of a living human?",
+      "options": {
+        "A": "One year",
+        "B": "Two years",
+        "C": "Five years",
+        "D": "Six months"
+      },
+      "answer": "B",
+      "explanation": "The brain notes that 'Two years ago I was part of a living human'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2911",
+      "question": "Which of these medical conditions did the brain NOT have?",
+      "options": {
+        "A": "Stroke",
+        "B": "Tumour",
+        "C": "Bugs",
+        "D": "Fever"
+      },
+      "answer": "D",
+      "explanation": "The brain says it had 'no stroke, tumour or bugs within'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2912",
+      "question": "Vicky was described as a boy who was smart and ________.",
+      "options": {
+        "A": "Tall",
+        "B": "Sane",
+        "C": "Funny",
+        "D": "Rich"
+      },
+      "answer": "B",
+      "explanation": "The text describes Vicky as 'smart and sane'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2913",
+      "question": "What subjects were Vicky's 'domain'?",
+      "options": {
+        "A": "Physics and Chemistry",
+        "B": "Computers and Maths",
+        "C": "History and Arts",
+        "D": "English and Odia"
+      },
+      "answer": "B",
+      "explanation": "The poem states, 'Computers and maths were his domain'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2914",
+      "question": "What was Vicky's motto in life?",
+      "options": {
+        "A": "Slow and steady wins the race",
+        "B": "No pain, No gain",
+        "C": "Knowledge is power",
+        "D": "Work is worship"
+      },
+      "answer": "B",
+      "explanation": "The poem explicitly says, 'His motto in life was ‘No pain, No gain’'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2915",
+      "question": "Vicky's love for his parents was truly ________.",
+      "options": {
+        "A": "Weak",
+        "B": "Insane",
+        "C": "Simple",
+        "D": "Distant"
+      },
+      "answer": "B",
+      "explanation": "The poem mentions his love for parents was 'truly insane'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2916",
+      "question": "What did Vicky adore about his grandmother?",
+      "options": {
+        "A": "Her stories",
+        "B": "Her wrinkles and cane",
+        "C": "Her cooking",
+        "D": "Her garden"
+      },
+      "answer": "B",
+      "explanation": "The text says he adored his 'gran’ma, wrinkles and cane'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2917",
+      "question": "Who did Vicky steal a glance at in college?",
+      "options": {
+        "A": "His teacher",
+        "B": "Lorraine",
+        "C": "His best friend",
+        "D": "Rita"
+      },
+      "answer": "B",
+      "explanation": "The poem mentions 'when he stole a glance at Lorraine'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2918",
+      "question": "What happened to Vicky's heart when he saw Lorraine?",
+      "options": {
+        "A": "It stopped",
+        "B": "It went thud-thud",
+        "C": "It felt cold",
+        "D": "It grew heavy"
+      },
+      "answer": "B",
+      "explanation": "The brain says 'his heart went thud-thud'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2919",
+      "question": "On what kind of day did the accident happen?",
+      "options": {
+        "A": "Hot summer day",
+        "B": "Wet monsoon day",
+        "C": "Cold winter night",
+        "D": "Windy autumn morning"
+      },
+      "answer": "B",
+      "explanation": "The accident occurred 'On a wet monsoon day'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2920",
+      "question": "For what kind of task was Vicky riding his bike?",
+      "options": {
+        "A": "Urgent",
+        "B": "Mundane",
+        "C": "Dangerous",
+        "D": "Secret"
+      },
+      "answer": "B",
+      "explanation": "Vicky rode his bike 'for a task mundane'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2921",
+      "question": "Where was Vicky's friend's house?",
+      "options": {
+        "A": "In the next town",
+        "B": "In the next lane",
+        "C": "Across the river",
+        "D": "Near the college"
+      },
+      "answer": "B",
+      "explanation": "Vicky was going to his 'friend in the next lane'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2922",
+      "question": "What did Vicky refrain from doing for once?",
+      "options": {
+        "A": "Speeding",
+        "B": "Wearing his helmet",
+        "C": "Listening to music",
+        "D": "Using his phone"
+      },
+      "answer": "B",
+      "explanation": "The poem states, 'For once, from wearing his helmet he did refrain'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2923",
+      "question": "How is the accident described in the poem?",
+      "options": {
+        "A": "Minor and forgettable",
+        "B": "Gory and inhumane",
+        "C": "Exciting and fast",
+        "D": "Quiet and peaceful"
+      },
+      "answer": "B",
+      "explanation": "The text says he met with an accident 'gory and inhumane'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2924",
+      "question": "What kind of 'moment' caused the tragedy?",
+      "options": {
+        "A": "A happy moment",
+        "B": "A stray moment inane",
+        "C": "A planned moment",
+        "D": "A long hour"
+      },
+      "answer": "B",
+      "explanation": "The poem says, 'All it took was a stray moment inane'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2925",
+      "question": "Risky driving can be a ________.",
+      "options": {
+        "A": "Boon",
+        "B": "Bane",
+        "C": "Game",
+        "D": "Thrill"
+      },
+      "answer": "B",
+      "explanation": "The poet warns that 'risky driving can be bane'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2926",
+      "question": "The poet urges the readers to let their precious life not be in ________.",
+      "options": {
+        "A": "Pain",
+        "B": "Vain",
+        "C": "Lanes",
+        "D": "Jars"
+      },
+      "answer": "B",
+      "explanation": "The final line is 'let your precious life not be in vain!'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2927",
+      "question": "What is the profession of Dr. Reeta S. Mani?",
+      "options": {
+        "A": "Teacher",
+        "B": "Doctor",
+        "C": "Lawyer",
+        "D": "Engineer"
+      },
+      "answer": "B",
+      "explanation": "The bio states she is 'a doctor by profession'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2928",
+      "question": "In which institute is the poet a Neurovirologist?",
+      "options": {
+        "A": "AIIMS, Delhi",
+        "B": "NIMHANS, Bengaluru",
+        "C": "SCB, Cuttack",
+        "D": "Apollo, Mumbai"
+      },
+      "answer": "B",
+      "explanation": "She is a Neurovirologist at NIMHANS, Bengaluru.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2929",
+      "question": "When was the poem 'From the Formalin Jar' written?",
+      "options": {
+        "A": "2018",
+        "B": "September 2013",
+        "C": "May 1941",
+        "D": "April 1850"
+      },
+      "answer": "B",
+      "explanation": "The poem was written in September 2013.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2930",
+      "question": "The poem was written to create awareness about what?",
+      "options": {
+        "A": "Air pollution",
+        "B": "Safe Driving",
+        "C": "Planting trees",
+        "D": "Sanskrit education"
+      },
+      "answer": "B",
+      "explanation": "It was written to create awareness about 'Safe Driving' and road safety rules.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2931",
+      "question": "Road traffic injuries are the leading causes of death especially among whom?",
+      "options": {
+        "A": "Elderly people",
+        "B": "Children and young adults",
+        "C": "Infants",
+        "D": "Doctors"
+      },
+      "answer": "B",
+      "explanation": "The text notes these injuries are leading causes of death among children and young adults.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2932",
+      "question": "Is the character 'Vicky' a real person?",
+      "options": {
+        "A": "Yes, a famous athlete",
+        "B": "No, he is a fictional character",
+        "C": "Yes, a doctor's son",
+        "D": "Yes, he wrote the poem"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Vicky' is a fictional character created by the poet.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2933",
+      "question": "What is 'formalin'?",
+      "options": {
+        "A": "A type of medicine",
+        "B": "A chemical compound used for preservation",
+        "C": "A kind of fuel",
+        "D": "A cooking ingredient"
+      },
+      "answer": "B",
+      "explanation": "Formalin is a chemical compound made of hydrogen, oxygen, and carbon, used to preserve specimens.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2934",
+      "question": "What does the word 'disdain' mean?",
+      "options": {
+        "A": "Great respect",
+        "B": "Feeling that something is unworthy of respect",
+        "C": "Deep love",
+        "D": "Careful attention"
+      },
+      "answer": "B",
+      "explanation": "Glossary: disdain - the feeling that someone or something is unworthy of respect.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2935",
+      "question": "What is a 'stroke'?",
+      "options": {
+        "A": "A hit with a bat",
+        "B": "When blood supply to the brain is cut off",
+        "C": "A type of tumor",
+        "D": "A heavy rain"
+      },
+      "answer": "B",
+      "explanation": "Glossary: stroke - occurs when blood supply to an area in the brain is cut off.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2936",
+      "question": "What does the word 'chagrin' mean?",
+      "options": {
+        "A": "Happiness",
+        "B": "Feeling of unhappiness, disappointment or annoyance",
+        "C": "A bright color",
+        "D": "A fast movement"
+      },
+      "answer": "B",
+      "explanation": "Glossary: chagrin - a feeling of unhappiness, disappointment or annoyance.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2937",
+      "question": "What does 'mundane' mean in the context of the poem?",
+      "options": {
+        "A": "Very exciting",
+        "B": "Ordinary or not intensive",
+        "C": "Highly spiritual",
+        "D": "Extremely difficult"
+      },
+      "answer": "B",
+      "explanation": "Glossary: mundane - ordinary, not intensive or exciting.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2938",
+      "question": "What is the meaning of 'bane'?",
+      "options": {
+        "A": "A blessing",
+        "B": "Cause of misery or a curse",
+        "C": "A fast road",
+        "D": "A safety rule"
+      },
+      "answer": "B",
+      "explanation": "Glossary: bane - cause of misery, opposite of boon, curse.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2939",
+      "question": "What does the phrase 'in vain' mean?",
+      "options": {
+        "A": "With pride",
+        "B": "Useless or unsuccessful",
+        "C": "Inside a jar",
+        "D": "Through a lane"
+      },
+      "answer": "B",
+      "explanation": "Glossary: in vain - useless, or unsuccessful.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2940",
+      "question": "How did the accident affect Vicky's family?",
+      "options": {
+        "A": "They were angry",
+        "B": "They were crushed with pain",
+        "C": "They were indifferent",
+        "D": "They celebrated"
+      },
+      "answer": "B",
+      "explanation": "The poem says 'a family crushed with pain'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2941",
+      "question": "Vicky rode to his friend's house on a ________.",
+      "options": {
+        "A": "Car",
+        "B": "Bike",
+        "C": "Bicycle",
+        "D": "Scooter"
+      },
+      "answer": "B",
+      "explanation": "The text says 'Vicky rode his bike'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2942",
+      "question": "What color glowing robes were in 'Village Song'? (Comparison question)",
+      "options": {
+        "A": "Silver and Saffron",
+        "B": "Gold and Red",
+        "C": "Pink and White",
+        "D": "Blue and Green"
+      },
+      "answer": "A",
+      "explanation": "In 'Village Song', the robes are 'silver and saffron glowing'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2943",
+      "question": "Which word from the poem rhymes with 'gain' in stanza 1?",
+      "options": {
+        "A": "Disdain",
+        "B": "Again",
+        "C": "Brain",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "explanation": "Stanza 1 rhymes brain, disdain, gain, and again.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2944",
+      "question": "What is the 'domain' of Vicky's brain now?",
+      "options": {
+        "A": "Maths",
+        "B": "A formalin jar",
+        "C": "A living human",
+        "D": "The college"
+      },
+      "answer": "B",
+      "explanation": "While his academic domain was computers/maths, he now ends up in a jar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2945",
+      "question": "How does the poet characterize Vicky's brain in the first line?",
+      "options": {
+        "A": "Empty",
+        "B": "Brilliant",
+        "C": "Damaged",
+        "D": "Sad"
+      },
+      "answer": "B",
+      "explanation": "The first line says, 'Hi! I am Vicky’s brilliant brain'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2946",
+      "question": "Vicky was 'full of life and ________'.",
+      "options": {
+        "A": "Knowledge",
+        "B": "Vigour",
+        "C": "Sorrow",
+        "D": "Grain"
+      },
+      "answer": "B",
+      "explanation": "The poem states he was 'Full of life and vigour'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2947",
+      "question": "The poem serves as a text on ________ in accordance with the Supreme Court directive.",
+      "options": {
+        "A": "Clean air",
+        "B": "Road Safety",
+        "C": "Forest conservation",
+        "D": "Childhood"
+      },
+      "answer": "B",
+      "explanation": "The preface says the poem is on Road Safety per the Supreme Court directive.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2948",
+      "question": "What does the brain see people doing 'again and again'?",
+      "options": {
+        "A": "Crying",
+        "B": "Staring at it",
+        "C": "Walking by",
+        "D": "Studying"
+      },
+      "answer": "B",
+      "explanation": "The poem says 'Watching people stare at me again and again'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2949",
+      "question": "Which stanza describes Vicky's academic life?",
+      "options": {
+        "A": "Stanza 1",
+        "B": "Stanza 2",
+        "C": "Stanza 3",
+        "D": "Stanza 6"
+      },
+      "answer": "C",
+      "explanation": "Stanza 3 mentions his smartness, maths, computers, and motto.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2950",
+      "question": "According to the poem, who could explain why Vicky's heart went 'thud-thud'?",
+      "options": {
+        "A": "Vicky's mother",
+        "B": "Vicky's friend",
+        "C": "The brilliant brain",
+        "D": "Lorraine"
+      },
+      "answer": "C",
+      "explanation": "The text says, 'Why his heart went thud-thud, only I [the brain] could explain!'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2951",
+      "question": "In stanza 4, what is the meaning of 'insane' regarding his love for parents?",
+      "options": {
+        "A": "Mentally ill",
+        "B": "Excessive",
+        "C": "Small",
+        "D": "Angry"
+      },
+      "answer": "B",
+      "explanation": "In this context, 'insane' means excessive love.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2952",
+      "question": "What 'stray moment' adjective is used in stanza 6?",
+      "options": {
+        "A": "Inane",
+        "B": "Mundane",
+        "C": "Insane",
+        "D": "Sane"
+      },
+      "answer": "A",
+      "explanation": "The phrase used is 'a stray moment inane'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2953",
+      "question": "What is the penalty for 'Drink and Drive' as per the Motor Vehicle Act table?",
+      "options": {
+        "A": "Rs 1,000",
+        "B": "Rs 5,000",
+        "C": "Rs 10,000",
+        "D": "Rs 25,000"
+      },
+      "answer": "C",
+      "explanation": "The penalty chart lists 'Drink and Drive' as Rs 10,000.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2954",
+      "question": "What is the penalty for driving 'Without helmet'?",
+      "options": {
+        "A": "Rs 500",
+        "B": "Rs 1,000",
+        "C": "Rs 2,000",
+        "D": "Rs 5,000"
+      },
+      "answer": "B",
+      "explanation": "The penalty chart lists 'Without helmet' as Rs 1,000.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2955",
+      "question": "What is the minimum penalty for 'Offences by juveniles'?",
+      "options": {
+        "A": "Rs 5,000",
+        "B": "Rs 10,000",
+        "C": "Rs 25,000",
+        "D": "Rs 50,000"
+      },
+      "answer": "C",
+      "explanation": "The penalty chart lists 'Offences by juveniles' as Rs 25,000.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2956",
+      "question": "The poem teaches that age and beauty are ________ unless one is careful about safety.",
+      "options": {
+        "A": "Essential",
+        "B": "Meaningless",
+        "C": "Everlasting",
+        "D": "Dangerous"
+      },
+      "answer": "B",
+      "explanation": "The poem notes that such qualities become 'meaningless' without safety.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2957",
+      "question": "Vicky's brain has no stroke or ________ within.",
+      "options": {
+        "A": "Pain",
+        "B": "Tumour",
+        "C": "Thoughts",
+        "D": "Water"
+      },
+      "answer": "B",
+      "explanation": "The line is 'I got no stroke, tumour or bugs within'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2958",
+      "question": "What word means 'stupid or silly' in the glossary?",
+      "options": {
+        "A": "Mundane",
+        "B": "Inane",
+        "C": "Inane",
+        "D": "Insane"
+      },
+      "answer": "C",
+      "explanation": "Glossary: inane - stupid or silly.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2959",
+      "question": "What was the weather during Vicky's ride?",
+      "options": {
+        "A": "Sunny",
+        "B": "Snowing",
+        "C": "Rainy (Monsoon)",
+        "D": "Dry"
+      },
+      "answer": "C",
+      "explanation": "It was a 'wet monsoon day'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2960",
+      "question": "The brain describes Vicky's smartness and ________ in stanza 3.",
+      "options": {
+        "A": "Beauty",
+        "B": "Sanity",
+        "C": "Skill",
+        "D": "Height"
+      },
+      "answer": "B",
+      "explanation": "Vicky was 'smart and sane'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2961",
+      "question": "How many brain specimens are affected by disease in the museum?",
+      "options": {
+        "A": "One",
+        "B": "Few",
+        "C": "Many",
+        "D": "None"
+      },
+      "answer": "C",
+      "explanation": "NIMHANS has 'many brain specimens affected by various disease'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2962",
+      "question": "The brain ended up in the jar to its ________.",
+      "options": {
+        "A": "Delight",
+        "B": "Chagrin",
+        "C": "Fame",
+        "D": "Future"
+      },
+      "answer": "B",
+      "explanation": "The poem states, 'Yet ended up in this jar, to my chagrin'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2963",
+      "question": "Which of these is NOT a WHO risk factor?",
+      "options": {
+        "A": "Seat belt",
+        "B": "Visibility",
+        "C": "Helmet",
+        "D": "Insurance"
+      },
+      "answer": "D",
+      "explanation": "WHO factors are speed, alcohol, seat belt, helmet and visibility.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2964",
+      "question": "Where does the 'mother' of the flower-children live in 'The Flower-School'? (Comparison question)",
+      "options": {
+        "A": "Underground",
+        "B": "In the sky",
+        "C": "In the forest",
+        "D": "In a house"
+      },
+      "answer": "B",
+      "explanation": "In 'The Flower-School', their home is 'in the sky'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2965",
+      "question": "What 'instrument' is buffalo horn used for in Assam? (Comparison question)",
+      "options": {
+        "A": "Dhol",
+        "B": "Pepa",
+        "C": "Cymbal",
+        "D": "Gong"
+      },
+      "answer": "B",
+      "explanation": "The pepa is made of buffalo horn.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2966",
+      "question": "What is the penalty for driving 'Without Seat belt'?",
+      "options": {
+        "A": "Rs 500",
+        "B": "Rs 1,000",
+        "C": "Rs 5,000",
+        "D": "Rs 2,000"
+      },
+      "answer": "B",
+      "explanation": "The penalty for driving 'Without Seat belt' is Rs 1,000.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2967",
+      "question": "What is the penalty for 'Dangerous driving penalty'?",
+      "options": {
+        "A": "Rs 1,000",
+        "B": "Rs 5,000",
+        "C": "Rs 10,000",
+        "D": "Rs 2,000"
+      },
+      "answer": "B",
+      "explanation": "The penalty chart lists Rs 5,000 for dangerous driving.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2968",
+      "question": "Vicky's life motto was 'No pain, No ________'.",
+      "options": {
+        "A": "Rain",
+        "B": "Gain",
+        "C": "Sorrow",
+        "D": "Bane"
+      },
+      "answer": "B",
+      "explanation": "The motto was 'No pain, No gain'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2969",
+      "question": "What rhyme matches 'lane' in stanza 5?",
+      "options": {
+        "A": "Mundane",
+        "B": "Refrain",
+        "C": "Inhumane",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "explanation": "Mundane, lane, refrain, and inhumane are the rhyming words in stanza 5.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2970",
+      "question": "The poem 'From the Formalin Jar' mentions Vicky was 'smart and sane'. What does 'sane' mean?",
+      "options": {
+        "A": "Rich",
+        "B": "Healthy mind",
+        "C": "Physically strong",
+        "D": "Quiet"
+      },
+      "answer": "B",
+      "explanation": "Glossary: sane - having a normal healthy mind.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2971",
+      "question": "What happened to Vicky's family after the accident?",
+      "options": {
+        "A": "Moved to another city",
+        "B": "Crushed with pain",
+        "C": "Became famous",
+        "D": "Found a new son"
+      },
+      "answer": "B",
+      "explanation": "The poem states 'a family crushed with pain'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "SLE2972",
+      "question": "What does the poet advise readers at the end?",
+      "options": {
+        "A": "DRIVE SAFE",
+        "B": "STUDY HARD",
+        "C": "BE RICH",
+        "D": "MARRY EARLY"
+      },
+      "answer": "A",
+      "explanation": "The poet concludes with 'DRIVE SAFE'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2973",
+      "question": "The brain says 'watching people ________ at me'.",
+      "options": {
+        "A": "Smile",
+        "B": "Wave",
+        "C": "Stare",
+        "D": "Shout"
+      },
+      "answer": "C",
+      "explanation": "The text says 'Watching people stare at me'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "SLE2974",
+      "question": "What color are the dresses of the flower children? (Comparison question)",
+      "options": {
+        "A": "Pink, yellow and white",
+        "B": "Blue and silver",
+        "C": "Red and gold",
+        "D": "Green and brown"
+      },
+      "answer": "A",
+      "explanation": "In 'The Flower-School', the dresses are 'pink and yellow and white'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "SLE2975",
+      "question": "The penalty for 'Overloading of two wheelers' is ________.",
+      "options": {
+        "A": "Rs 500",
+        "B": "Rs 1,000",
+        "C": "Rs 2,000",
+        "D": "Rs 5,000"
+      },
+      "answer": "C",
+      "explanation": "The penalty for overloading two-wheelers is Rs 2,000.",
+      "difficulty": "hard"
+    }
+  ]
+}
